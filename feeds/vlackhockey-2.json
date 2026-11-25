@@ -1,7 +1,7 @@
 {
  "tienda": "Vlackhockey",
  "url": "https://www.vlackhockey.com.ar",
- "generado": "2026-11-25T20:22:21+00:00",
+ "generado": "2026-11-25T21:05:16+00:00",
  "total": 771,
  "productos": [
   {
@@ -43432,7 +43432,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 17,
+     "stock": 16,
      "url": "https://www.vlackhockey.com.ar/productos/bucal-gel-max4/?variant=1002790173"
     },
     {

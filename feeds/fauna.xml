@@ -1036,6 +1036,7 @@ Cuenta con un packaging ideal para viajes y regalos.</g:description>
       <g:condition>new</g:condition>
       <g:google_product_category>Home &amp; Garden &gt; Decor &gt; Artwork &gt; Sculptures &amp; Statues</g:google_product_category>
       <g:product_type>Colibríes</g:product_type>
+      <g:color>Colibri Grande | Alas Rosado</g:color>
     </item>
     <item>
       <g:id>COLMEVE</g:id>
@@ -1409,6 +1410,7 @@ Cada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, 
       <g:condition>new</g:condition>
       <g:google_product_category>Home &amp; Garden &gt; Decor &gt; Artwork &gt; Sculptures &amp; Statues</g:google_product_category>
       <g:product_type>Teros &gt; Chicos</g:product_type>
+      <g:color>Tero Grande | Verde Y Plata</g:color>
     </item>
     <item>
       <g:id>TECHNP01</g:id>
@@ -1430,6 +1432,7 @@ Cada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, 
       <g:condition>new</g:condition>
       <g:google_product_category>Home &amp; Garden &gt; Decor &gt; Artwork &gt; Sculptures &amp; Statues</g:google_product_category>
       <g:product_type>Teros &gt; Chicos</g:product_type>
+      <g:color>Tero Chico | Celeste</g:color>
     </item>
     <item>
       <g:id>TERU04</g:id>

@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-25T19:40:18+00:00",
+ "generado": "2026-11-25T20:50:18+00:00",
  "total": 549,
  "productos": [
   {
@@ -5335,9 +5335,7 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -5347,9 +5345,7 @@
     },
     {
      "sku": "371",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -5359,9 +5355,7 @@
     },
     {
      "sku": "372",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -6423,7 +6417,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 3,
+     "stock": 1,
      "url": "https://sh-aka.com.ar/productos/bigger-cmmnty-knit-crudo-1v6y4/?variant=1520719520"
     },
     {
@@ -6727,7 +6721,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 63,
+     "stock": 62,
      "url": "https://sh-aka.com.ar/productos/smmr-tee-gris-topo-pxndm/?variant=1615052905"
     },
     {
@@ -7181,7 +7175,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 49,
+     "stock": 48,
      "url": "https://sh-aka.com.ar/productos/retro-tee-azul-1rjlp/?variant=1645757423"
     },
     {
@@ -8235,9 +8229,7 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -8247,9 +8239,7 @@
     },
     {
      "sku": "368",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -8259,9 +8249,7 @@
     },
     {
      "sku": "369",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -12452,7 +12440,7 @@
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 15,
+     "stock": 14,
      "url": "https://sh-aka.com.ar/productos/samot-longsleeve-tee-1swxu/?variant=1590100255"
     },
     {
@@ -14340,7 +14328,9 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -14350,7 +14340,9 @@
     },
     {
      "sku": "368",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -14360,7 +14352,9 @@
     },
     {
      "sku": "369",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -16248,7 +16242,9 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -16258,7 +16254,9 @@
     },
     {
      "sku": "371",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -16268,7 +16266,9 @@
     },
     {
      "sku": "372",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -17461,7 +17461,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 16,
+     "stock": 15,
      "url": "https://sh-aka.com.ar/productos/the-shk-denim/?variant=980322173"
     },
     {
@@ -18788,7 +18788,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 51,
+     "stock": 50,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-azul/?variant=1367950155"
     }
    ]
@@ -20596,7 +20596,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 5,
+     "stock": 4,
      "url": "https://sh-aka.com.ar/productos/basic-knit-crudo-1mxhn/?variant=1631289172"
     },
     {
@@ -21760,7 +21760,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 14,
+     "stock": 12,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-rojo-j5zk3/?variant=1367949985"
     },
     {
@@ -23417,7 +23417,7 @@
      "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 16,
+     "stock": 15,
      "url": "https://sh-aka.com.ar/productos/samot-pant-tear-resistant-9tdzn/?variant=1590127429"
     },
     {
@@ -25946,7 +25946,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 17,
+     "stock": 16,
      "url": "https://sh-aka.com.ar/productos/retro-tee-blanco-v3742/?variant=1645757536"
     },
     {
@@ -27439,7 +27439,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 98,
+     "stock": 97,
      "url": "https://sh-aka.com.ar/productos/90s-boardshort-blanco-1yclz/?variant=1645758038"
     },
     {
@@ -29558,7 +29558,9 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -29568,17 +29570,21 @@
     },
     {
      "sku": "371",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 2,
+     "stock": 1,
      "url": "https://sh-aka.com.ar/productos/shk-morley-top/?variant=1073285382"
     },
     {
      "sku": "372",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": true,
@@ -30072,9 +30078,7 @@
    "variantes": [
     {
      "sku": "747",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -30084,9 +30088,7 @@
     },
     {
      "sku": "748",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -30096,14 +30098,12 @@
     },
     {
      "sku": "749",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 8,
+     "stock": 7,
      "url": "https://sh-aka.com.ar/productos/shk-top/?variant=822744306"
     }
    ]
@@ -32120,7 +32120,7 @@
      "precio_anterior": 60000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 21,
+     "stock": 20,
      "url": "https://sh-aka.com.ar/productos/ueno-kepi-3gp47/"
     }
    ]

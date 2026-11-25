@@ -5,8 +5,10 @@
     "plataforma": "tiendanube",
     "productos": 549,
     "items": 1921,
-    "actualizado": "2026-11-25 19:40",
-    "error": null
+    "actualizado": "2026-11-25 20:50",
+    "error": null,
+    "graves": 0,
+    "avisos": 0
   },
   "kronotime": {
     "nombre": "Kronotime",
@@ -14,8 +16,10 @@
     "plataforma": "shopify",
     "productos": 10000,
     "items": 10001,
-    "actualizado": "2026-11-25 19:49",
-    "error": null
+    "actualizado": "2026-11-25 20:59",
+    "error": null,
+    "graves": 0,
+    "avisos": 0
   },
   "giani": {
     "nombre": "Giani Dafirenze",
@@ -23,8 +27,10 @@
     "plataforma": "shopify",
     "productos": 411,
     "items": 2083,
-    "actualizado": "2026-11-25 19:54",
-    "error": null
+    "actualizado": "2026-11-25 21:00",
+    "error": null,
+    "graves": 0,
+    "avisos": 0
   },
   "fauna": {
     "nombre": "Fauna Deco",
@@ -32,8 +38,10 @@
     "plataforma": "luna",
     "productos": 90,
     "items": 91,
-    "actualizado": "2026-11-25 19:55",
-    "error": null
+    "actualizado": "2026-11-25 21:01",
+    "error": null,
+    "graves": 0,
+    "avisos": 0
   },
   "vlackhockey-2": {
     "nombre": "Vlackhockey",
@@ -41,7 +49,20 @@
     "plataforma": "tiendanube",
     "productos": 776,
     "items": 2992,
-    "actualizado": "2026-11-25 20:22",
-    "error": null
+    "actualizado": "2026-11-25 21:05",
+    "error": null,
+    "graves": 0,
+    "avisos": 317
+  },
+  "vlackhockey": {
+    "nombre": "Vlack Hockey",
+    "url": "https://www.vlackhockey.com.uy",
+    "plataforma": "shopify",
+    "productos": 447,
+    "items": 1899,
+    "actualizado": "2026-11-25 21:01",
+    "error": null,
+    "graves": 0,
+    "avisos": 9
   }
 }

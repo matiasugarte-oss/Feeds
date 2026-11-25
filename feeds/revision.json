@@ -1,0 +1,80 @@
+{
+  "shaka": {
+    "graves": {},
+    "avisos": {}
+  },
+  "kronotime": {
+    "graves": {},
+    "avisos": {}
+  },
+  "giani": {
+    "graves": {},
+    "avisos": {}
+  },
+  "fauna": {
+    "graves": {},
+    "avisos": {}
+  },
+  "vlackhockey": {
+    "graves": {},
+    "avisos": {
+      "Sin descripción": {
+        "cantidad": 9,
+        "ejemplos": [
+          "51282903236847 · Medias Soquetes - Salmon Claro",
+          "51282904219887 · Medias Soquetes - Salmon Oscuro",
+          "51282904285423 · Medias Soquetes - Celeste",
+          "51282904350959 · Medias Soquetes - Negro",
+          "51282904416495 · Medias Soquetes - Blanco",
+          "49124653334767 · Guantes Corner Corto - XS / Negro",
+          "49124653367535 · Guantes Corner Corto - S / Negro",
+          "49124653400303 · Guantes Corner Corto - M / Negro",
+          "49124653433071 · Guantes Corner Corto - L / Negro"
+        ]
+      }
+    }
+  },
+  "vlackhockey-2": {
+    "graves": {},
+    "avisos": {
+      "Sin descripción": {
+        "cantidad": 265,
+        "ejemplos": [
+          "26F1900   012 · Medias Pro Socks - Blanco / 2",
+          "26F1900   013 · Medias Pro Socks - Blanco / 3",
+          "26F1900   014 · Medias Pro Socks - Blanco / 4",
+          "26F1900   015 · Medias Pro Socks - Blanco / 5",
+          "1615636871 · Top Kiah Damas - Arena / XS",
+          "1615636872 · Top Kiah Damas - Arena / S",
+          "1615636873 · Top Kiah Damas - Arena / M",
+          "1615636874 · Top Kiah Damas - Arena / L",
+          "63D0703   AQ8 · Remera Marimba Niños - 8 / Aqua",
+          "63D0703   AQ10 · Remera Marimba Niños - 10 / Aqua"
+        ]
+      },
+      "El talle parece un color": {
+        "cantidad": 3,
+        "ejemplos": [
+          "26F0907   2034 · Single Bag Nacional Junior - Azul / 34\": talle=Azul",
+          "26F0907   2037 · Single Bag Nacional - Azul / 37.5\": talle=Azul",
+          "26F0907   6937 · Single Bag Nacional - Bordó / 37.5\": talle=Bordó"
+        ]
+      },
+      "El color parece un talle": {
+        "cantidad": 49,
+        "ejemplos": [
+          "26B0900   7535 · Botines RH01 2026 - 35 / Malva: color=35",
+          "26B0900   7536 · Botines RH01 2026 - 36 / Malva: color=36",
+          "26B0900   7537 · Botines RH01 2026 - 37 / Malva: color=37",
+          "26B0900   7538 · Botines RH01 2026 - 38 / Malva: color=38",
+          "26B0900   7539 · Botines RH01 2026 - 39 / Malva: color=39",
+          "26B0900   7540 · Botines RH01 2026 - 40 / Malva: color=40",
+          "26B0900   7541 · Botines RH01 2026 - 41 / Malva: color=41",
+          "64B0600   HI8 · Bermuda Unisex Saurino Niños - Hielo / T8: color=T8",
+          "64B0600   HI10 · Bermuda Unisex Saurino Niños - Hielo / T10: color=T10",
+          "64B0600   HI12 · Bermuda Unisex Saurino Niños - Hielo / T12: color=T12"
+        ]
+      }
+    }
+  }
+}
