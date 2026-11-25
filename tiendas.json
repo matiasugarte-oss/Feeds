@@ -46,5 +46,12 @@
     "nombre": "Vlack Hockey",
     "moneda": "UYU",
     "activa": true
+  },
+  {
+    "slug": "vlackhockey-2",
+    "url": "https://www.vlackhockey.com.ar",
+    "moneda": "ARS",
+    "nombre": "Vlackhockey",
+    "activa": true
   }
 ]

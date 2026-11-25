@@ -34,5 +34,14 @@
     "items": 91,
     "actualizado": "2026-11-25 19:55",
     "error": null
+  },
+  "vlackhockey-2": {
+    "nombre": "Vlackhockey",
+    "url": "https://www.vlackhockey.com.ar",
+    "plataforma": "tiendanube",
+    "productos": 776,
+    "items": 2992,
+    "actualizado": "2026-11-25 20:22",
+    "error": null
   }
 }
