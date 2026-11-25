@@ -10,9 +10,17 @@ Tiendanube, Luna, VTEX, Magento, o cualquier otra con datos estructurados (JSON-
 - Feed para Google: `https://<usuario>.github.io/<repo>/feeds/<slug>.xml`
 - Versión para IA: `https://<usuario>.github.io/<repo>/feeds/<slug>.json`
 
-## Agregar una tienda
+## Agregar una tienda (la forma fácil)
 
-Sumá un bloque a `tiendas.json`. Solo `slug`, `nombre` y `url` son obligatorios:
+1. Pestaña **Actions** → **Agregar tienda** (columna izquierda) → botón **Run workflow**.
+2. Pegá el link de la tienda (cualquier página sirve). Moneda, nombre y marca son opcionales.
+3. Tocá **Run workflow**. En unos minutos, al entrar a la corrida, vas a ver el link del feed.
+
+Con el mismo formulario podés **pausar**, **reactivar** o **eliminar** una tienda (campo *Qué hacer*).
+
+## Ajustes avanzados
+
+Para ajustes finos, editá el bloque de la tienda en `tiendas.json`. Solo `slug`, `nombre` y `url` son obligatorios:
 
 | Campo | Para qué sirve |
 |---|---|
