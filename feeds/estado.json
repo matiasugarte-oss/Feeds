@@ -1,0 +1,38 @@
+{
+  "shaka": {
+    "nombre": "Shaka Cmmnty",
+    "url": "https://sh-aka.com.ar",
+    "plataforma": "tiendanube",
+    "productos": 549,
+    "items": 1921,
+    "actualizado": "2026-11-25 19:40",
+    "error": null
+  },
+  "kronotime": {
+    "nombre": "Kronotime",
+    "url": "https://kronotime.com",
+    "plataforma": "shopify",
+    "productos": 10000,
+    "items": 10001,
+    "actualizado": "2026-11-25 19:49",
+    "error": null
+  },
+  "giani": {
+    "nombre": "Giani Dafirenze",
+    "url": "https://gianidafirenze.cl",
+    "plataforma": "shopify",
+    "productos": 411,
+    "items": 2083,
+    "actualizado": "2026-11-25 19:54",
+    "error": null
+  },
+  "fauna": {
+    "nombre": "Fauna Deco",
+    "url": "https://fauna.com.uy",
+    "plataforma": "luna",
+    "productos": 90,
+    "items": 91,
+    "actualizado": "2026-11-25 19:55",
+    "error": null
+  }
+}

@@ -1,0 +1,2865 @@
+{
+ "tienda": "Fauna Deco",
+ "url": "https://fauna.com.uy",
+ "generado": "2026-11-25T19:55:41+00:00",
+ "total": 90,
+ "productos": [
+  {
+   "titulo": "Gallito Colores",
+   "url": "https://fauna.com.uy/p/gallito-colores/337/428",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Gallo"
+   ],
+   "descripcion": "Gallo – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl gallo anuncia el amanecer con su canto y simboliza coraje, renovación y la fuerza de cada nuevo día.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para regalar.",
+   "caracteristicas": {},
+   "precio_desde": 290.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/fc7nrsxb6ooyrzirfkn4.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/9dkcbz918pirtkdj87zi.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/nr6zr61zgmeuv538gyt1.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "GALLO01",
+     "opciones": {
+      "Tamaño": "30 x 45 cm - Peso 2,1kg"
+     },
+     "precio": 290.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/gallito-colores/337/428"
+    }
+   ]
+  },
+  {
+   "titulo": "Garza Oxido",
+   "url": "https://fauna.com.uy/p/garza-oxido/185/436",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Garza"
+   ],
+   "descripcion": "Garza – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nLas garzas, elegantes y serenas, simbolizan la paciencia y el equilibrio, habitantes habituales de ríos y lagunas.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje.",
+   "caracteristicas": {},
+   "precio_desde": 390.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/m5umjlp158fgtodm6rm5.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "GAVE01",
+     "opciones": {
+      "Tamaño": "1,65 x 0,80 x 0,30 cm - Peso 14kg"
+     },
+     "precio": 390.0,
+     "precio_anterior": 0.0,
+     "disponible": false,
+     "preorden": true,
+     "stock": 0,
+     "url": "https://fauna.com.uy/p/garza-oxido/185/252"
+    },
+    {
+     "sku": "GARZ02",
+     "opciones": {
+      "Tamaño": "1,65 x 0,80 x 0,30 cm - Peso 14kg"
+     },
+     "precio": 390.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/garza-oxido/185/436"
+    }
+   ]
+  },
+  {
+   "titulo": "Ave Pieza Única",
+   "url": "https://fauna.com.uy/p/pieza-unica/191/258",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Pájaros"
+   ],
+   "descripcion": "Ave – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 190.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/n46jjo37ib6131w8fgav.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/d7ycy2f9ce9gb4c41sdx.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/u7gfjmpkdqxbub8mslgi.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "PAAV01",
+     "opciones": {
+      "Tamaño": "30 x 40 cm - Peso 3kg"
+     },
+     "precio": 190.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/pieza-unica/191/258"
+    }
+   ]
+  },
+  {
+   "titulo": "Gallina Peltre",
+   "url": "https://fauna.com.uy/p/gallina-peltre/184/251",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Gallina"
+   ],
+   "descripcion": "Gallina – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nLa gallina representa protección, nutrición y vida cotidiana, siendo parte esencial de la tradición rural.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 230.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/pqm3ktw2a9dbjvz59oxz.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/rwerrt3o3j7fyq29k6ne.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "GALO01",
+     "opciones": {
+      "Tamaño": "40 x 30 cm - Peso 1,5kg"
+     },
+     "precio": 230.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/gallina-peltre/184/251"
+    }
+   ]
+  },
+  {
+   "titulo": "Faisán Rojo",
+   "url": "https://fauna.com.uy/p/faisan-rojo/180/247",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Faisán"
+   ],
+   "descripcion": "El faisán, de plumaje colorido y exótico, es símbolo de belleza, prosperidad y elegancia en distintas culturas.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 260.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/f0h5hdlxcgl6c5uim73i.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/sj856kpcpatyz0rseavn.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/1p6msgy6842mdd5stxxu.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "FARO01",
+     "opciones": {
+      "Tamaño": "25 x 50 x 17 cm - Peso 1,2kg"
+     },
+     "precio": 260.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/faisan-rojo/180/247"
+    }
+   ]
+  },
+  {
+   "titulo": "Ave Pieza Única",
+   "url": "https://fauna.com.uy/p/pieza-unica/231/306",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Pájaros"
+   ],
+   "descripcion": "Ave – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 190.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/2r6o4mrrep62b84r01co.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/tzpkb6dlzsap8dpm2lep.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/cu2bn3je3kc3geyw48zg.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "PAPL01",
+     "opciones": {
+      "Tamaño": "30 x 30 cm - Peso 2,2kg"
+     },
+     "precio": 190.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/pieza-unica/231/306"
+    }
+   ]
+  },
+  {
+   "titulo": "Chajá",
+   "url": "https://fauna.com.uy/p/chaja/271/346",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Chajá"
+   ],
+   "descripcion": "El chajá es un ave emblemática de Uruguay, reconocida por su potente canto y símbolo de fortaleza en los humedales.\n\n58 x 40 x 30cm | 4kg\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje.",
+   "caracteristicas": {},
+   "precio_desde": 370.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/kjosy7wniw3wa1nh15jm.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/d8xs2gaags7cuh8nie4i.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/y9trpi6x79slpp0mu6za.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "CHAJ01",
+     "opciones": {},
+     "precio": 370.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/chaja/271/346"
+    }
+   ]
+  },
+  {
+   "titulo": "Set Garzas Verde",
+   "url": "https://fauna.com.uy/p/set-garzas-verde/346/437",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Garza"
+   ],
+   "descripcion": "Garza – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nLas garzas, elegantes y serenas, simbolizan la paciencia y el equilibrio, habitantes habituales de ríos y lagunas.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje.",
+   "caracteristicas": {},
+   "precio_desde": 740.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/f0374q6ceyo99go13w2j.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/2er8zg7k3delyuou43t4.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/9esdhcyrr8x6ztey4e41.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "GARZ03",
+     "opciones": {
+      "Tamaño": "1,65 x 0,80 x 0,30 cm - Peso 14kg"
+     },
+     "precio": 740.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/set-garzas-verde/346/437"
+    }
+   ]
+  },
+  {
+   "titulo": "Ibis Oxido",
+   "url": "https://fauna.com.uy/p/ibis-oxido/334/425",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Ibis"
+   ],
+   "descripcion": "El ibis, con su largo pico curvado, es símbolo de renovación y sabiduría, ligado al agua y a lo espiritual.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 260.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/ux3qmgq7n0c21wgl2z01.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/maz2whn3vewnnkt3j4zv.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "IBIS02",
+     "opciones": {
+      "Tamaño": "55 x 50 x 15 cm - Peso 1,5kg"
+     },
+     "precio": 260.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/ibis-oxido/334/425"
+    }
+   ]
+  },
+  {
+   "titulo": "Ñandú",
+   "url": "https://fauna.com.uy/p/nandu/190/257",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Ñandú"
+   ],
+   "descripcion": "Ñandú – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl ñandú, el ave más grande de Uruguay, habita nuestros campos y simboliza la fuerza de la naturaleza local.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 230.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/bqcqwwu84ekgq4ns8cyx.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/nhldc8gdmcx2bt2orf29.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "NIA01",
+     "opciones": {
+      "Tamaño": "40 x 25 x 20 - Peso 1,3kg"
+     },
+     "precio": 230.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 2,
+     "url": "https://fauna.com.uy/p/nandu/190/257"
+    }
+   ]
+  },
+  {
+   "titulo": "Aguila Oxido",
+   "url": "https://fauna.com.uy/p/aguila-oxido/267/342",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Águila"
+   ],
+   "descripcion": "Águila – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl águila es símbolo universal de poder, libertad y visión clara, admirada por su majestuosidad en el cielo.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje.",
+   "caracteristicas": {},
+   "precio_desde": 1600.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/kbxpia0oo2e4xsq5zyu1.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "AGUI01",
+     "opciones": {},
+     "precio": 1600.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/aguila-oxido/267/342"
+    }
+   ]
+  },
+  {
+   "titulo": "Gallito Colores",
+   "url": "https://fauna.com.uy/p/gallito-colores/358/449",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Gallo"
+   ],
+   "descripcion": "Gallo – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl gallo anuncia el amanecer con su canto y simboliza coraje, renovación y la fuerza de cada nuevo día.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para regalar.",
+   "caracteristicas": {},
+   "precio_desde": 290.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/xodd9xa19rk00f37q56r.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/y8vexxdkmr1ksdnfcp2n.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/v7fbezposbs9lgd8aubz.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "GALL",
+     "opciones": {
+      "Tamaño": "30 x 45 cm - Peso 2,1kg"
+     },
+     "precio": 290.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/gallito-colores/358/449"
+    }
+   ]
+  },
+  {
+   "titulo": "Gallito Colores",
+   "url": "https://fauna.com.uy/p/gallito-colores/338/429",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Gallo"
+   ],
+   "descripcion": "Gallo – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl gallo anuncia el amanecer con su canto y simboliza coraje, renovación y la fuerza de cada nuevo día.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para regalar.",
+   "caracteristicas": {},
+   "precio_desde": 290.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/kcztq5hkhb876avraa5q.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/4gqsxkigatfue4bmzui6.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/kzcv668jwps3y9f83z5k.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "GALLO02",
+     "opciones": {
+      "Tamaño": "30 x 45 cm - Peso 2,1kg"
+     },
+     "precio": 290.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/gallito-colores/338/429"
+    }
+   ]
+  },
+  {
+   "titulo": "Gallo",
+   "url": "https://fauna.com.uy/p/gallo/333/424",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Gallo"
+   ],
+   "descripcion": "El gallo anuncia el amanecer con su canto y simboliza coraje, renovación y la fuerza de cada nuevo día.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para regalar.",
+   "caracteristicas": {},
+   "precio_desde": 350.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/9hzd6gmh9ppptkaw3b0a.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/0drho78mrtjnnz7sybr2.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/rruvvhv72u8rxozzqnih.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "GAMA03",
+     "opciones": {
+      "Tamaño": "75 x 50 x 30 cm - Peso 5,4kg"
+     },
+     "precio": 350.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/gallo/333/424"
+    }
+   ]
+  },
+  {
+   "titulo": "Gallo Mediano",
+   "url": "https://fauna.com.uy/p/gallo-mediano/273/348",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Gallo"
+   ],
+   "descripcion": "Fuerza, liderazgo y nuevos comienzos\n\nEsta escultura de gallo, realizada artesanalmente a partir de materiales reciclados, simboliza el coraje, la confianza y la capacidad de anunciar un nuevo amanecer. Desde tiempos ancestrales, el gallo representa la determinación para enfrentar cada día con energía y optimismo.\n\nCada pieza es única y transforma elementos en desuso en una obra con significado, recordándonos que la creatividad y la sustentabilidad pueden dar nueva vida a aquello que parecía haber cumplido su ciclo.\n\nHecho a mano en Uruguay.\n\nUna obra ideal para quienes valoran el arte, la naturaleza y los objetos con historia.",
+   "caracteristicas": {},
+   "precio_desde": 310.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/6u1jnnw9z3uvypfakp68.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/9ibb0uclmk7a9bcgx03q.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "GAMA01",
+     "opciones": {
+      "Tamaño": "58 x 40 x 30 cm - Peso 4kg"
+     },
+     "precio": 310.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/gallo-mediano/273/348"
+    }
+   ]
+  },
+  {
+   "titulo": "Gallo Oxido",
+   "url": "https://fauna.com.uy/p/gallo-oxido/274/349",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Gallo"
+   ],
+   "descripcion": "El gallo anuncia el amanecer con su canto y simboliza coraje, renovación y la fuerza de cada nuevo día.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para regalar.",
+   "caracteristicas": {},
+   "precio_desde": 350.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/rvcmy82p2xjlee9ookqa.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/egf41c14l1m5i27bzmde.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "GAMA02",
+     "opciones": {
+      "Tamaño": "75 x 50 x 30 cm - Peso 5,4kg"
+     },
+     "precio": 350.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 2,
+     "url": "https://fauna.com.uy/p/gallo-oxido/274/349"
+    }
+   ]
+  },
+  {
+   "titulo": "Pareja Ñandú",
+   "url": "https://fauna.com.uy/p/pareja-nandu/230/305",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Ñandú"
+   ],
+   "descripcion": "El ñandú, el ave más grande de Uruguay, habita nuestros campos y simboliza la fuerza de la naturaleza local.\n\n2 piezas\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 420.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/fdbs3ythjt03r0afn6wg.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/8fl6iq6z3pcmtvdxgutc.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/cqqvho2xiremcsh8xiq6.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "NIA02",
+     "opciones": {
+      "Tamaño": "40 x 25 x 20 - Peso 1,3kg"
+     },
+     "precio": 420.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/pareja-nandu/230/305"
+    }
+   ]
+  },
+  {
+   "titulo": "Perdiz",
+   "url": "https://fauna.com.uy/p/perdiz/193/260",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Perdiz"
+   ],
+   "descripcion": "Perdiz – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nLa perdiz, parte del paisaje de campo, es símbolo de sencillez y arraigo a la vida rural.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 190.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/y29zv7qxu1jjl8lsr47x.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/nyqbaohjgv91swprh50j.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/ka5afkzqu55xruwzneov.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "PEOX01",
+     "opciones": {
+      "Tamaño": "22 x 25 cm - Peso 1kg"
+     },
+     "precio": 190.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/perdiz/193/260"
+    }
+   ]
+  },
+  {
+   "titulo": "Calandria",
+   "url": "https://fauna.com.uy/p/calandria/173/240",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Calandria"
+   ],
+   "descripcion": "Calandria – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nLa calandria, conocida por su canto melodioso, es símbolo de alegría y forma parte de la identidad sonora del Uruguay.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 180.0,
+   "moneda": "USD",
+   "disponible": false,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/0cyb7gjmrxuopbjbf6bm.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/2zskylketf563fk2lww8.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "CALA01",
+     "opciones": {
+      "Tamaño": "19 x 12 x 12 cm - Peso 500g"
+     },
+     "precio": 180.0,
+     "precio_anterior": 0.0,
+     "disponible": false,
+     "preorden": true,
+     "stock": 0,
+     "url": "https://fauna.com.uy/p/calandria/173/240"
+    }
+   ]
+  },
+  {
+   "titulo": "Tucán",
+   "url": "https://fauna.com.uy/p/tucan/336/427",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Tucán"
+   ],
+   "descripcion": "Tucán – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl tucán, con su colorido pico, es emblema de alegría, comunicación y biodiversidad tropical.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 390.0,
+   "moneda": "USD",
+   "disponible": false,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/7jywyx6pjqwb8n7j7tkw.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/uncompressed/mbsnmcbk6ubnk1my541d.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TUCA01",
+     "opciones": {
+      "Tamaño": "50 x 20 x 25 cm - Peso 1,3kg"
+     },
+     "precio": 390.0,
+     "precio_anterior": 0.0,
+     "disponible": false,
+     "preorden": true,
+     "stock": 0,
+     "url": "https://fauna.com.uy/p/tucan/336/427"
+    }
+   ]
+  },
+  {
+   "titulo": "Ave Pieza Única",
+   "url": "https://fauna.com.uy/p/pieza-unica/192/259",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Pájaros"
+   ],
+   "descripcion": "Ave – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 150.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/khip227zqc6aut9lw6s3.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/yzl1bplu5l2fiq8xashs.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/vd8tzv5l0v4nakm6weak.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "PAJA01",
+     "opciones": {
+      "Tamaño": "20 x 20 cm - Peso 3,6kg"
+     },
+     "precio": 150.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/pieza-unica/192/259"
+    }
+   ]
+  },
+  {
+   "titulo": "Búho",
+   "url": "https://fauna.com.uy/p/buho/269/344",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Búho"
+   ],
+   "descripcion": "Búho – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl búho representa la sabiduría y la intuición, guardián nocturno de los bosques y símbolo de conocimiento profundo.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje.",
+   "caracteristicas": {},
+   "precio_desde": 330.0,
+   "moneda": "USD",
+   "disponible": false,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/x8ia7irxe99o7zgnwfm3.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/qkdyqst9826h1x20fdsj.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "BUHO01",
+     "opciones": {
+      "Tamaño": "60 x 25 cm - Peso 8kg"
+     },
+     "precio": 330.0,
+     "precio_anterior": 0.0,
+     "disponible": false,
+     "preorden": true,
+     "stock": 0,
+     "url": "https://fauna.com.uy/p/buho/269/344"
+    }
+   ]
+  },
+  {
+   "titulo": "Búho",
+   "url": "https://fauna.com.uy/p/buho/347/438",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Búho"
+   ],
+   "descripcion": "Búho – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl búho representa la sabiduría y la intuición, guardián nocturno de los bosques y símbolo de conocimiento profundo.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje.",
+   "caracteristicas": {},
+   "precio_desde": 330.0,
+   "moneda": "USD",
+   "disponible": false,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/2pf83r49s6cd9du6c0cc.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/4hrhi7w4h04ymt1dunao.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "BHUO02",
+     "opciones": {
+      "Tamaño": "60 x 25 cm - Peso 8kg"
+     },
+     "precio": 330.0,
+     "precio_anterior": 0.0,
+     "disponible": false,
+     "preorden": true,
+     "stock": 0,
+     "url": "https://fauna.com.uy/p/buho/347/438"
+    }
+   ]
+  },
+  {
+   "titulo": "Águila PIEZA ÚNICA",
+   "url": "https://fauna.com.uy/p/pieza-unica/168/235",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Águila"
+   ],
+   "descripcion": "Águila – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl águila es símbolo universal de poder, libertad y visión clara, admirada por su majestuosidad en el cielo.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje.",
+   "caracteristicas": {},
+   "precio_desde": 190.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/yelypertsxjpx2zw3k7z.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/zo4pdr8pjhd52dtzouu3.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/xlutennmmdi7buim8gkk.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "AGOX01",
+     "opciones": {
+      "Tamaño": "25 x 30 cm - Peso 4,2kg"
+     },
+     "precio": 190.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/pieza-unica/168/235"
+    }
+   ]
+  },
+  {
+   "titulo": "Ibis Plata",
+   "url": "https://fauna.com.uy/p/ibis-plata/275/350",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Ibis"
+   ],
+   "descripcion": "El ibis, con su largo pico curvado, es símbolo de renovación y sabiduría, ligado al agua y a lo espiritual.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 260.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/d6o9oe2cku0x7n6x1966.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/i9e0v4nnuye36lt7g3af.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/0q5lmvuhd4n64j4v8ynb.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "IBIS01",
+     "opciones": {
+      "Tamaño": "55 x 50 x 15 cm - Peso 1,5kg"
+     },
+     "precio": 260.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 2,
+     "url": "https://fauna.com.uy/p/ibis-plata/275/350"
+    }
+   ]
+  },
+  {
+   "titulo": "Gallina",
+   "url": "https://fauna.com.uy/p/gallina/183/250",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Aves",
+    "Gallina"
+   ],
+   "descripcion": "Gallina – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nLa gallina representa protección, nutrición y vida cotidiana, siendo parte esencial de la tradición rural.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 230.0,
+   "moneda": "USD",
+   "disponible": false,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/xmx2xtrlsm21njnrw6o1.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/kqmfi6cq7nvv9p38y386.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/m0hckxn4oi8kmqnapz9c.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "GALL01",
+     "opciones": {
+      "Tamaño": "26 x 20 x 15 cm - Peso 2kg"
+     },
+     "precio": 230.0,
+     "precio_anterior": 0.0,
+     "disponible": false,
+     "preorden": true,
+     "stock": 0,
+     "url": "https://fauna.com.uy/p/gallina/183/250"
+    }
+   ]
+  },
+  {
+   "titulo": "Libélula Plata",
+   "url": "https://fauna.com.uy/p/libelula-plata/276/351",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Libélula"
+   ],
+   "descripcion": "La libélula pasó gran parte de su vida preparándose para un momento que parecía imposible. Y cuando llegó ese momento, desplegó las alas y se transformó por completo.\n\nHecha a mano en metal reciclado. Cada pieza es única.\n\n10 x 25 x 20 cm · Metal · Incluye ficha informativa y packaging para regalo o viaje.",
+   "caracteristicas": {},
+   "precio_desde": 130.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/78uvrandgnsfmyhliyq4.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/pat0y0uahmgrs939c7eu.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/wrsi03ssf1p4qdoizxy9.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "LIPL01",
+     "opciones": {},
+     "precio": 130.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 2,
+     "url": "https://fauna.com.uy/p/libelula-plata/276/351"
+    }
+   ]
+  },
+  {
+   "titulo": "Puma",
+   "url": "https://fauna.com.uy/p/puma/280/355",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Puma"
+   ],
+   "descripcion": "Puma – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl puma, ágil y silencioso, simboliza el poder, la independencia y la conexión profunda con lo salvaje.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje.",
+   "caracteristicas": {},
+   "precio_desde": 2500.0,
+   "moneda": "USD",
+   "disponible": false,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/1a6lfu5t2auqpis3p560.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "PUMA01",
+     "opciones": {
+      "Tamaño": "0,90 x 1,60 x 0,5 cm - Peso 20kg"
+     },
+     "precio": 2500.0,
+     "precio_anterior": 0.0,
+     "disponible": false,
+     "preorden": true,
+     "stock": 0,
+     "url": "https://fauna.com.uy/p/puma/280/355"
+    }
+   ]
+  },
+  {
+   "titulo": "Mariposa Plata",
+   "url": "https://fauna.com.uy/p/mariposa-plata/341/432",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Mariposa"
+   ],
+   "descripcion": "La mariposa, con su vuelo delicado, es un emblema universal de libertad, belleza y procesos de transformación.",
+   "caracteristicas": {},
+   "precio_desde": 120.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/wayr2eseg4e6gmdeevle.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/9nrvnlmxoigbjzuvhx0t.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/rqottfcm03eaffui7eqx.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "MAPL01",
+     "opciones": {},
+     "precio": 120.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 2,
+     "url": "https://fauna.com.uy/p/mariposa-plata/341/432"
+    }
+   ]
+  },
+  {
+   "titulo": "Serpiente",
+   "url": "https://fauna.com.uy/p/serpiente/198/265",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Serpiente"
+   ],
+   "descripcion": "Serpiente - Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos\n\nRepresenta transformación, renovación y sabiduría ancestral. La serpiente es un símbolo de cambio y poder en la naturaleza.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 230.0,
+   "moneda": "USD",
+   "disponible": false,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/81vb9q6o7e297yxuxq6d.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/1rx7dlxre116rxerocij.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/aaalsw7s1847dizup4mp.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "SERP01",
+     "opciones": {
+      "Tamaño": "33 x 20 cm - Peso 200g"
+     },
+     "precio": 230.0,
+     "precio_anterior": 0.0,
+     "disponible": false,
+     "preorden": true,
+     "stock": 0,
+     "url": "https://fauna.com.uy/p/serpiente/198/265"
+    }
+   ]
+  },
+  {
+   "titulo": "Mulita Grande",
+   "url": "https://fauna.com.uy/p/mulita-grande/189/256",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Mulitas"
+   ],
+   "descripcion": "Las mulitas, animales típicos del Uruguay, representan protección, resiliencia y la riqueza de la fauna local.\n\n65 x 20 x 15 cm | 2kg\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje.\n\nCuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 260.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/16pmj83kla557mznzmfm.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/vqom0sfrsifytfb36xhv.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/uqgxkkhzqi1fp53jtca9.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "MUPL01",
+     "opciones": {},
+     "precio": 260.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 2,
+     "url": "https://fauna.com.uy/p/mulita-grande/189/256"
+    }
+   ]
+  },
+  {
+   "titulo": "Toro",
+   "url": "https://fauna.com.uy/p/toro/221/296",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Toro"
+   ],
+   "descripcion": "El toro, de gran importancia en la cultura y ganadería uruguaya, simboliza fuerza, vitalidad y tradición rural.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 320.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/edflho5tx76r756wfkil.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/yl8r9tosycg4xnnzxy13.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/hvg1n264ihv187spj4cm.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TORO01",
+     "opciones": {
+      "Tamaño": "40 x 25 x 30 cm - Peso 4,4kgs"
+     },
+     "precio": 320.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 2,
+     "url": "https://fauna.com.uy/p/toro/221/296"
+    }
+   ]
+  },
+  {
+   "titulo": "Busto de Caballo",
+   "url": "https://fauna.com.uy/p/busto-de-caballo/172/239",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Caballo"
+   ],
+   "descripcion": "Caballo – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl caballo es parte esencial de la identidad uruguaya, símbolo de libertad, nobleza y conexión con la vida de campo.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 2400.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/q7rh61wkdz3qcubebefy.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/zgrok9ejyrgjj8juo51i.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/9zx69bbos02ie6tnwa09.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "CACA01",
+     "opciones": {
+      "Tamaño": "60cm x 70cm x 55cm"
+     },
+     "precio": 2400.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/busto-de-caballo/172/239"
+    }
+   ]
+  },
+  {
+   "titulo": "Set Renos",
+   "url": "https://fauna.com.uy/p/set-renos/196/263",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Reno"
+   ],
+   "descripcion": "Reno – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl reno, ligado a tierras frías y a la tradición navideña, representa la resistencia, el viaje y la unión familiar.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 210.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/bdwb7ojvczqt19u9sby1.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/fwb44jywgj1ru540o8sq.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/45fnuan137f1iywo8i6h.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "RENOS",
+     "opciones": {
+      "Tamaño": "Grande 25 x 35 cm - Chico 14 x 14 cm - Peso 2,1kg"
+     },
+     "precio": 210.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/set-renos/196/263"
+    }
+   ]
+  },
+  {
+   "titulo": "Escarabajo",
+   "url": "https://fauna.com.uy/p/escarabajo/226/301",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Escarabajo"
+   ],
+   "descripcion": "Escarabajo – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl escarabajo, admirado desde tiempos antiguos, es símbolo de fuerza, renacimiento y transformación.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 250.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/7zdkwqldey3se8s4shyu.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/w6t73pisubli8v6eksfy.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "CASC02",
+     "opciones": {
+      "Tamaño": "18 x 16 cm - Peso 1kg"
+     },
+     "precio": 250.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/escarabajo/226/301"
+    }
+   ]
+  },
+  {
+   "titulo": "Escarabajo",
+   "url": "https://fauna.com.uy/p/escarabajo/176/243",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Escarabajo"
+   ],
+   "descripcion": "Escarabajo – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl escarabajo, admirado desde tiempos antiguos, es símbolo de fuerza, renacimiento y transformación.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 250.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/d9isytvj352o2iqw95w0.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/y7minbsmrxiimgz8vtke.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/atic98pdbt7nkvi3c7t5.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "CASC01",
+     "opciones": {
+      "Tamaño": "15 x 25 x 15 cm - Peso 600g"
+     },
+     "precio": 250.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/escarabajo/176/243"
+    }
+   ]
+  },
+  {
+   "titulo": "Caballo Alado",
+   "url": "https://fauna.com.uy/p/caballo-alado/170/237",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Caballo"
+   ],
+   "descripcion": "Caballo – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl caballo es parte esencial de la identidad uruguaya, símbolo de libertad, nobleza y conexión con la vida de campo.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 190.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/8kbie75ycy1ft6rgqcjh.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/dblhgc43p2ygsmgasxdo.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "CAAL01",
+     "opciones": {
+      "Tamaño": "28 x 30 cm - Peso 2kg"
+     },
+     "precio": 190.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/caballo-alado/170/237"
+    }
+   ]
+  },
+  {
+   "titulo": "Carpincho Grande",
+   "url": "https://fauna.com.uy/p/carpincho-grande/272/347",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Carpincho"
+   ],
+   "descripcion": "El carpincho, el roedor más grande del mundo, es símbolo de adaptabilidad y vida en comunidad en los humedales.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje.",
+   "caracteristicas": {},
+   "precio_desde": 790.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/ps8lez4gsx4r6mzuq7hz.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/c3y9jx3n7u3jd0xxd8a9.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/h2o2lspabju8o4r3289l.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "CRGR01",
+     "opciones": {
+      "Tamaño": "Grande - 90 x 65 x 30 cm - Peso 12kg"
+     },
+     "precio": 790.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 2,
+     "url": "https://fauna.com.uy/p/carpincho-grande/272/347"
+    }
+   ]
+  },
+  {
+   "titulo": "Caballo de Colores",
+   "url": "https://fauna.com.uy/p/caballo-de-colores/352/443",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Caballo"
+   ],
+   "descripcion": "El caballo es parte esencial de la identidad uruguaya, símbolo de libertad, nobleza y conexión con la vida de campo.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 420.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/jf2a0ad2kyezhyweapm6.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/kyfgtrp0wfe0qtruxcu2.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/2k5a55mqwsols02fhiyk.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "CACOL",
+     "opciones": {
+      "Tamaño": "48 x 50 x 18 cm - Peso 3,6kg"
+     },
+     "precio": 420.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/caballo-de-colores/352/443"
+    }
+   ]
+  },
+  {
+   "titulo": "Caballo Plata",
+   "url": "https://fauna.com.uy/p/caballo-plata/270/345",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Caballo"
+   ],
+   "descripcion": "Caballo – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl caballo es parte esencial de la identidad uruguaya, símbolo de libertad, nobleza y conexión con la vida de campo.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 420.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/uas5qtnavp3hekkt19hk.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "CAPL01",
+     "opciones": {
+      "Tamaño": "48 x 50 x 18 cm - Peso 3,6kg"
+     },
+     "precio": 420.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/caballo-plata/270/345"
+    }
+   ]
+  },
+  {
+   "titulo": "Venado de Campo",
+   "url": "https://fauna.com.uy/p/venado-de-campo/339/430",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Venado de campo"
+   ],
+   "descripcion": "Venado de Campo – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl venado de campo, especie nativa del Uruguay, es símbolo de libertad y representa la conexión con los paisajes naturales.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje.",
+   "caracteristicas": {},
+   "precio_desde": 420.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/ym38iu370i1puclu571q.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/nta82pmluyfsr0jh1ejx.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "VENA01",
+     "opciones": {},
+     "precio": 420.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/venado-de-campo/339/430"
+    }
+   ]
+  },
+  {
+   "titulo": "Abeja Plata",
+   "url": "https://fauna.com.uy/p/abeja-plata/266/341",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Abeja"
+   ],
+   "descripcion": "Medidas 10 x 25 x 15 cm - Peso 300g\n\nLa abeja, esencial para la polinización, es símbolo de trabajo en equipo, organización y abundancia en la naturaleza.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 120.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/lsj1ms3394m9jv6jv7v6.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/va6e4ngrcf28j24v9yox.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/ko1nfa15jhs33vzitmts.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "ABPL01",
+     "opciones": {},
+     "precio": 120.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 3,
+     "url": "https://fauna.com.uy/p/abeja-plata/266/341"
+    }
+   ]
+  },
+  {
+   "titulo": "Libélula Dorada",
+   "url": "https://fauna.com.uy/p/libelula-dorada/186/253",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Libélula"
+   ],
+   "descripcion": "La libélula pasó gran parte de su vida preparándose para un momento que parecía imposible. Y cuando llegó ese momento, desplegó las alas y se transformó por completo.\n\nHecha a mano en metal reciclado. Cada pieza es única.\n\n10 x 25 x 20 cm · Metal · Incluye ficha informativa y packaging para regalo o viaje.",
+   "caracteristicas": {},
+   "precio_desde": 130.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/u2l0mcvf1645mj238mzb.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/frjtn9j9ktsgc5yqbf21.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/qpisnk8olvibqxiamtrw.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "LIDO01",
+     "opciones": {},
+     "precio": 130.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 4,
+     "url": "https://fauna.com.uy/p/libelula-dorada/186/253"
+    }
+   ]
+  },
+  {
+   "titulo": "Abeja Dorada",
+   "url": "https://fauna.com.uy/p/abeja-dorada/167/234",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Abeja"
+   ],
+   "descripcion": "Abeja – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nMedidas 10 x 25 x 15 cm - Peso 300g\n\nLa abeja, esencial para la polinización, es símbolo de trabajo en equipo, organización y abundancia en la naturaleza.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 120.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/g4g950bq3k8kcmcgl1pl.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/89lmsknwypt3fvqitnkb.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/xgyykhd7zo7cq68ylf5g.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "ABDO01",
+     "opciones": {},
+     "precio": 120.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 2,
+     "url": "https://fauna.com.uy/p/abeja-dorada/167/234"
+    }
+   ]
+  },
+  {
+   "titulo": "Carnero",
+   "url": "https://fauna.com.uy/p/carnero/175/242",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Oveja"
+   ],
+   "descripcion": "Carnero – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl carnero representa la tradición ganadera, la calma y la abundancia ligada al trabajo del campo.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje.",
+   "caracteristicas": {},
+   "precio_desde": 250.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/vxrfmeip8clfpcfutexa.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/172cdl0j2reslhh5bac2.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/k2hbva4vsejxah1y8y07.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "CARN01",
+     "opciones": {
+      "Tamaño": "25 x 25 cm - Peso 1kg"
+     },
+     "precio": 250.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/carnero/175/242"
+    }
+   ]
+  },
+  {
+   "titulo": "Yacaré",
+   "url": "https://fauna.com.uy/p/yacare/281/356",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Yacaré"
+   ],
+   "descripcion": "Yacaré – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl yacaré, habitante de ríos y humedales, simboliza la fuerza ancestral y el vínculo con los ciclos de la naturaleza.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje.",
+   "caracteristicas": {},
+   "precio_desde": 2000.0,
+   "moneda": "USD",
+   "disponible": false,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/wud6qd4ba4dxv1slw24u.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/omc4k0abs4ozazlh8pi1.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/pdh7bw5ep088c7fi9ka2.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "YACA01",
+     "opciones": {},
+     "precio": 2000.0,
+     "precio_anterior": 0.0,
+     "disponible": false,
+     "preorden": true,
+     "stock": 0,
+     "url": "https://fauna.com.uy/p/yacare/281/356"
+    }
+   ]
+  },
+  {
+   "titulo": "Set Mulitas",
+   "url": "https://fauna.com.uy/p/set-mulitas-/340/431",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Mulitas"
+   ],
+   "descripcion": "Las mulitas, animales típicos del Uruguay, representan protección, resiliencia y la riqueza de la fauna local.\n\nSet mulita grande y mulita chica\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 420.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/sqj3audb34kt3hwbq8hb.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/23umuwvuborqj0qphneq.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/uncompressed/vtt33mppq7mpvsjqpf9c.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "MUCO01",
+     "opciones": {
+      "Modelo": "SET MULITAS"
+     },
+     "precio": 420.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/set-mulitas-/340/431"
+    }
+   ]
+  },
+  {
+   "titulo": "Oveja",
+   "url": "https://fauna.com.uy/p/oveja/277/352",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Oveja"
+   ],
+   "descripcion": "La oveja, ícono del Uruguay, representa la tradición ganadera, la calma y la abundancia ligada al trabajo del campo.",
+   "caracteristicas": {},
+   "precio_desde": 860.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/3to765rtzcxw8co3rsec.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/bw99b2w513s7uvx0w6cy.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "OVEJ01",
+     "opciones": {
+      "Tamaño": "1,10 x 0,55 x 40 cm - Peso 18kg"
+     },
+     "precio": 860.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/oveja/277/352"
+    }
+   ]
+  },
+  {
+   "titulo": "Mulita Chica",
+   "url": "https://fauna.com.uy/p/mulita-chica/187/254",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "CAMPOShop now",
+    "Mulitas"
+   ],
+   "descripcion": "Las mulitas, animales típicos del Uruguay, representan protección, resiliencia y la riqueza de la fauna local.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 190.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/td3w3kmryzlyaee37q79.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/x4nwqdjjcv3q61id07xb.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/wyq533zghv0acvsoyq0d.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "MUCH01",
+     "opciones": {
+      "Tamaño": "Chica - 7 x 30 x 7 cm - Peso 700g"
+     },
+     "precio": 190.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 2,
+     "url": "https://fauna.com.uy/p/mulita-chica/187/254"
+    }
+   ]
+  },
+  {
+   "titulo": "Colibrí Mediano | Plata",
+   "url": "https://fauna.com.uy/p/colibri-mediano-plata/320/414",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Colibríes"
+   ],
+   "descripcion": "El colibrí, pequeño y vibrante, es símbolo de energía vital, alegría y la belleza de lo efímero.\n\nMedidas 40 x 25 x 20 - Peso 1,3kg\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 230.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/o2ur4seowhlf67icrj17.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/7sg8gmg6jiitwwdavqi9.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/p8rn7rvhcf755vh9zpf3.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "COGRP01",
+     "opciones": {},
+     "precio": 230.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/colibri-mediano-plata/320/414"
+    }
+   ]
+  },
+  {
+   "titulo": "Colibrí Mediano | Anaranjado",
+   "url": "https://fauna.com.uy/p/colibri-mediano-anaranjado/332/423",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Colibríes"
+   ],
+   "descripcion": "El colibrí, pequeño y vibrante, es símbolo de energía vital, alegría y la belleza de lo efímero.\n\nMedidas 40 x 25 x 20 - Peso 1 kg\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 230.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/vuzasz2debv1239zri7u.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/77ezena3yi9jnm3dnajw.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/ahann9d0ebz39z0e93gf.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "COGRV02",
+     "opciones": {},
+     "precio": 230.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/colibri-mediano-anaranjado/332/423"
+    }
+   ]
+  },
+  {
+   "titulo": "Colibri Grande | Alas Rosado",
+   "url": "https://fauna.com.uy/p/colibri-grande-alas-rosado-/369/460",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Colibríes"
+   ],
+   "descripcion": "El colibrí, pequeño y vibrante, es símbolo de energía vital, alegría y la belleza de lo efímero.\n\nMedidas 50 x 20 x 25 cm - Peso 1,3kg\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje.\n\nCuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 245.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/mpvgpcv76i6dcpsq9nnf.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/kp3pjstzjzudpuqriacj.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/gb0rzacnq5037n6qq3a1.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "COLPL",
+     "opciones": {
+      "Modelo": "COLIBRI GRANDE | ALAS ROSADO"
+     },
+     "precio": 245.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/colibri-grande-alas-rosado-/369/460"
+    }
+   ]
+  },
+  {
+   "titulo": "Colibrí Mediano | Verde",
+   "url": "https://fauna.com.uy/p/colibri-mediano-verde/365/456",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Colibríes"
+   ],
+   "descripcion": "El colibrí, pequeño y vibrante, es símbolo de energía vital, alegría y la belleza de lo efímero.\n\nMedidas 40 x 25 x 20 - Peso 1,3kg\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 230.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/e3u1478ux27nntez63ps.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/hweb42hx7nqjqjemwwxr.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "COLMEVE",
+     "opciones": {},
+     "precio": 230.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/colibri-mediano-verde/365/456"
+    }
+   ]
+  },
+  {
+   "titulo": "Colibrí Grande | Blanco Y Color",
+   "url": "https://fauna.com.uy/p/colibri-grande-blanco-y-color/359/450",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Colibríes"
+   ],
+   "descripcion": "El colibrí, pequeño y vibrante, es símbolo de energía vital, alegría y la belleza de lo efímero.\n\nMedidas 50 x 20 x 25 cm - Peso 1,3kg\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 245.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/vubidebicofraodestqz.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/1n18yyrb6hdbeg50xflw.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/qfw8ntzpsgcrldl2xoef.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "COLMED",
+     "opciones": {},
+     "precio": 245.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/colibri-grande-blanco-y-color/359/450"
+    }
+   ]
+  },
+  {
+   "titulo": "Colibri Mediano | Color",
+   "url": "https://fauna.com.uy/p/colibri-mediano-color/370/461",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Colibríes"
+   ],
+   "descripcion": "El colibrí, pequeño y vibrante, es símbolo de energía vital, alegría y la belleza de lo efímero.\n\nMedidas 40x 20 x 25 cm - Peso 1,3kg\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje.\n\nCuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 230.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/r2tkxkl3t6lqa63knkmd.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "COAZ",
+     "opciones": {},
+     "precio": 230.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/colibri-mediano-color/370/461"
+    }
+   ]
+  },
+  {
+   "titulo": "Colibri Grande | Plata",
+   "url": "https://fauna.com.uy/p/colibri-grande-plata/368/459",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Colibríes"
+   ],
+   "descripcion": "El colibrí, pequeño y vibrante, es símbolo de energía vital, alegría y la belleza de lo efímero.\n\nMedidas 50 x 20 x 25 cm - Peso 1,3kg\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje.\n\nCuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 245.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/gc96ww9yvxd55xh3woo2.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/48g0z4h8u08g4erjy3ly.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/e51l3ql4vwsz3kjtlgvi.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "COLPLA",
+     "opciones": {},
+     "precio": 245.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/colibri-grande-plata/368/459"
+    }
+   ]
+  },
+  {
+   "titulo": "Cangrejo Plata",
+   "url": "https://fauna.com.uy/p/cangrejo-plata/350/441",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Marinos",
+    "Cangrejo"
+   ],
+   "descripcion": "El cangrejo siri, presente en las costas uruguayas, representa adaptabilidad, protección y el ritmo de las mareas.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 350.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/sbyl1zba81n1zvbzg30e.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/t1k6ohhlehxo40ntmus2.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "CAME02",
+     "opciones": {
+      "Tamaño": "Grande - 55 x 60cm - Peso 1.8kgs"
+     },
+     "precio": 350.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/cangrejo-plata/350/441"
+    }
+   ]
+  },
+  {
+   "titulo": "Ballena Grande",
+   "url": "https://fauna.com.uy/p/ballena-grande-/354/445",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Marinos",
+    "Ballena"
+   ],
+   "descripcion": "La ballena franca austral visita las costas uruguayas cada invierno y simboliza protección, grandeza y armonía con el mar.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 370.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/1ejybe7ajeuoq619yfi0.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/e2ru729lpnzrwkdpc5de.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/sggo2tg6n82n4wt6sgvw.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "BALLE",
+     "opciones": {
+      "Tamaño": "Grande - 55 x 60cm - Peso 1.8kgs",
+      "Modelo": "BALLENA GRANDE"
+     },
+     "precio": 370.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/ballena-grande-/354/445"
+    }
+   ]
+  },
+  {
+   "titulo": "Cangrejo",
+   "url": "https://fauna.com.uy/p/cangrejo/174/241",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Marinos",
+    "Cangrejo"
+   ],
+   "descripcion": "Cangrejo – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl cangrejo siri, presente en las costas uruguayas, representa adaptabilidad, protección y el ritmo de las mareas.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 350.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/g24svhr57gia6brvoxfm.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/lzg3allsuhm87vljxan8.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/jox24h7o2k1wgb8710ih.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "CAME01",
+     "opciones": {
+      "Tamaño": "Mediano - 60 x 60 cm - Peso 1.5kg"
+     },
+     "precio": 350.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/cangrejo/174/241"
+    }
+   ]
+  },
+  {
+   "titulo": "Ballena Chica | Escritorio",
+   "url": "https://fauna.com.uy/p/ballena-chica-escritorio/357/448",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Marinos",
+    "Ballena"
+   ],
+   "descripcion": "La ballena franca austral visita las costas uruguayas cada invierno y simboliza protección, grandeza y armonía con el mar.\n\nMedidas 20 x 16 cm",
+   "caracteristicas": {},
+   "precio_desde": 190.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/02364jwcrlj4660uhe0b.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/zazwmv1ef96if2bxbgad.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/pauq9b3y69jqb7r58oib.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "BALLENI",
+     "opciones": {},
+     "precio": 190.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 3,
+     "url": "https://fauna.com.uy/p/ballena-chica-escritorio/357/448"
+    }
+   ]
+  },
+  {
+   "titulo": "Pez Globo",
+   "url": "https://fauna.com.uy/p/pez-globo/278/353",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Marinos",
+    "Pez globo"
+   ],
+   "descripcion": "Pez Globo – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl pez globo, curioso y llamativo, es símbolo de defensa y adaptación en la vida marina.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 290.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/dkno5cr7loc8gyt3z0y0.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/smw0fng9kn19s7k8g3h1.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "PEZG01",
+     "opciones": {
+      "Tamaño": "30 x 50 x 40 cm - Peso 3kgs"
+     },
+     "precio": 290.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/pez-globo/278/353"
+    }
+   ]
+  },
+  {
+   "titulo": "Tiburon",
+   "url": "https://fauna.com.uy/p/tiburon/220/295",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Marinos",
+    "Tiburón"
+   ],
+   "descripcion": "Tiburón – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl tiburón, poderoso depredador del océano, representa fuerza, instinto y el equilibrio natural en el mar.",
+   "caracteristicas": {},
+   "precio_desde": 340.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/kus0fzuz215dxl4wz6nu.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/5f974vzoyliciw1mu5vg.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/lugzpoq5fjwgbkr6rh6s.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TIBU01",
+     "opciones": {
+      "Tamaño": "30 x 65 x 18 cm - Peso 4kg"
+     },
+     "precio": 340.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/tiburon/220/295"
+    }
+   ]
+  },
+  {
+   "titulo": "Delfin",
+   "url": "https://fauna.com.uy/p/delfin/227/302",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Marinos",
+    "Delfín"
+   ],
+   "descripcion": "El delfín, inteligente y alegre, es símbolo de libertad, armonía y la fuerza de los lazos comunitarios.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 190.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/91g53vstzvp1biu306fh.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/8h2p1giwkses18psn87w.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "DELF02",
+     "opciones": {
+      "Tamaño": "Chico - 25 x 14 x 14 cm - Peso 500g"
+     },
+     "precio": 190.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/delfin/227/302"
+    }
+   ]
+  },
+  {
+   "titulo": "Tortuga",
+   "url": "https://fauna.com.uy/p/tortuga/279/354",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Marinos",
+    "Tortuga"
+   ],
+   "descripcion": "La tortuga marina, viajera incansable de los océanos, simboliza sabiduría, paciencia y conexión con los ciclos de la vida.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje.",
+   "caracteristicas": {},
+   "precio_desde": 2100.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/uncompressed/dneq3sjuyklghp82ojns.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/p8dinz797imxm1i8mtrv.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TOGR01",
+     "opciones": {
+      "Tamaño": "Grande - 1,15 x 0,70 x 0,25 mts - Peso 20kg"
+     },
+     "precio": 2100.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/tortuga/279/354"
+    }
+   ]
+  },
+  {
+   "titulo": "Tortuga",
+   "url": "https://fauna.com.uy/p/tortuga/222/297",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Marinos",
+    "Tortuga"
+   ],
+   "descripcion": "Tortuga Marina – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nLa tortuga marina, viajera incansable de los océanos, simboliza sabiduría, paciencia y conexión con los ciclos de la vida.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje.",
+   "caracteristicas": {},
+   "precio_desde": 350.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/uncompressed/ujw6hj6rzem80rdm7lhb.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/as4fly8hzfxlhj9eak8e.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TORT01",
+     "opciones": {
+      "Tamaño": "Mediana - 55 x 30 cm - Peso 2,8kg"
+     },
+     "precio": 350.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/tortuga/222/297"
+    }
+   ]
+  },
+  {
+   "titulo": "Delfin",
+   "url": "https://fauna.com.uy/p/delfin/178/245",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Marinos",
+    "Delfín"
+   ],
+   "descripcion": "Delfín – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl delfín, inteligente y alegre, es símbolo de libertad, armonía y la fuerza de los lazos comunitarios.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 190.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/nehn65sz8y3nzqb73w8x.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/c0r109i5hu0i1k87sl4j.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "DELF01",
+     "opciones": {
+      "Tamaño": "Chico - 25 x 14 x 14 cm - Peso 500g"
+     },
+     "precio": 190.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/delfin/178/245"
+    }
+   ]
+  },
+  {
+   "titulo": "Caballito de Mar",
+   "url": "https://fauna.com.uy/p/caballito-de-mar/342/433",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Marinos",
+    "Caballito de mar"
+   ],
+   "descripcion": "Caballito de Mar – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl caballito de mar, pequeño y singular, simboliza paciencia, amor y equilibrio en el mundo marino.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje.",
+   "caracteristicas": {},
+   "precio_desde": 2100.0,
+   "moneda": "USD",
+   "disponible": false,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/paftosmixrax06di8d3f.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/p6jwdd33e7qlhu78oc0d.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "CAMA01",
+     "opciones": {
+      "Tamaño": "1.50mts x 0.50mts - Peso 18kgs"
+     },
+     "precio": 2100.0,
+     "precio_anterior": 0.0,
+     "disponible": false,
+     "preorden": true,
+     "stock": 0,
+     "url": "https://fauna.com.uy/p/caballito-de-mar/342/433"
+    }
+   ]
+  },
+  {
+   "titulo": "Ballena Mediana",
+   "url": "https://fauna.com.uy/p/ballena-mediana/268/343",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Marinos",
+    "Ballena"
+   ],
+   "descripcion": "Ballena Franca – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nLa ballena franca austral visita las costas uruguayas cada invierno y simboliza protección, grandeza y armonía con el mar.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 340.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/4vowmmoxliv6f78gzdg4.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/w65m4sk0bstu3kzf4wqe.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/ozne71u7wiqgnilmz0nw.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "BAME01",
+     "opciones": {
+      "Tamaño": "Mediana - 40 x 40 x 20 cm"
+     },
+     "precio": 340.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/ballena-mediana/268/343"
+    }
+   ]
+  },
+  {
+   "titulo": "Tero Golfista",
+   "url": "https://fauna.com.uy/p/tero-golfista/237/312",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Temáticos"
+   ],
+   "descripcion": "Tero – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nMedidas 50 x 20 x 25 cm - Peso 1,3kg\n\nEl tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 320.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/rlwp60vrof9ttt4ccut4.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/3rlg9jzzqkd2zq93z13j.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/uncompressed/5wfv2wqsycquuvqs354h.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TEGO02",
+     "opciones": {},
+     "precio": 320.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/tero-golfista/237/312"
+    }
+   ]
+  },
+  {
+   "titulo": "Tero Golfista",
+   "url": "https://fauna.com.uy/p/tero-golfista/217/284",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Temáticos"
+   ],
+   "descripcion": "Tero – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nMedidas 40 x 40 x 25 cm - Peso 1,7kg\n\nEl tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 320.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/2tq22fdfsvbp0rplhc5w.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/gng9wn68qy71euuxdqyr.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/sujbv2byktoc46uad1pn.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TEGO01",
+     "opciones": {},
+     "precio": 320.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/tero-golfista/217/284"
+    }
+   ]
+  },
+  {
+   "titulo": "Tero Grande | Verde Y Plata",
+   "url": "https://fauna.com.uy/p/tero-grande-verde-y-plata-/326/417",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Chicos"
+   ],
+   "descripcion": "Tero – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nMedidas 30 x 22 cm - Peso 900g\n\nEl tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 230.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/8z4diiml2xstmyt21mfk.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TEGRP02",
+     "opciones": {
+      "Modelo": "TERO GRANDE | VERDE y PLATA"
+     },
+     "precio": 230.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/tero-grande-verde-y-plata-/326/417"
+    }
+   ]
+  },
+  {
+   "titulo": "Tero Chico | Celeste",
+   "url": "https://fauna.com.uy/p/tero-chico-celeste-/316/403",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Chicos"
+   ],
+   "descripcion": "El tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad.\n\nMedidas 25 x 22 cm - Peso 500g\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 180.0,
+   "moneda": "USD",
+   "disponible": false,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/npp9gv0bj5v8kfr9pqci.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/275qydhj39or4g2or8cr.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/z61x7tr9s6j5ygplvrwj.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TECHNP01",
+     "opciones": {
+      "Modelo": "TERO CHICO | CELESTE"
+     },
+     "precio": 180.0,
+     "precio_anterior": 0.0,
+     "disponible": false,
+     "preorden": true,
+     "stock": 0,
+     "url": "https://fauna.com.uy/p/tero-chico-celeste-/316/403"
+    }
+   ]
+  },
+  {
+   "titulo": "Tero Rugbista",
+   "url": "https://fauna.com.uy/p/tero-rugbista/255/330",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Temáticos"
+   ],
+   "descripcion": "Tero – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nMedidas 30 x 25 cm - Peso 900g\n\nEl tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 250.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/ikfik02nzbpblfrcny0u.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TERU04",
+     "opciones": {},
+     "precio": 250.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/tero-rugbista/255/330"
+    }
+   ]
+  },
+  {
+   "titulo": "Tero Chico | Verde Y Plata",
+   "url": "https://fauna.com.uy/p/tero-chico-verde-y-plata/318/405",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Chicos"
+   ],
+   "descripcion": "Tero – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nMedidas 25 x 22 cm - Peso 500g\n\nEl tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad. Cada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 180.0,
+   "moneda": "USD",
+   "disponible": false,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/yu0787jq8mo2ei66fc3n.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/d2261l3casweac5nnel7.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TECHVP01",
+     "opciones": {},
+     "precio": 180.0,
+     "precio_anterior": 0.0,
+     "disponible": false,
+     "preorden": true,
+     "stock": 0,
+     "url": "https://fauna.com.uy/p/tero-chico-verde-y-plata/318/405"
+    }
+   ]
+  },
+  {
+   "titulo": "Tero Grande | Azul",
+   "url": "https://fauna.com.uy/p/tero-grande-azul/327/418",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Grandes"
+   ],
+   "descripcion": "El tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad.\n\nMedidas 30 x 25 cm - Peso 900g\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 230.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/6lygdbh0afounqyvgsv0.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TEGRP03",
+     "opciones": {},
+     "precio": 230.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/tero-grande-azul/327/418"
+    }
+   ]
+  },
+  {
+   "titulo": "Tero Chico | Plata",
+   "url": "https://fauna.com.uy/p/tero-chico-plata/360/451",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Chicos"
+   ],
+   "descripcion": "Tero – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nMedidas 25 x 22 cm - Peso 500g\n\nEl tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad. Cada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 180.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/yp6dpki578f3i5a5ohlg.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/adjvcbolfht15lzb8bij.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TEMEPL",
+     "opciones": {},
+     "precio": 180.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 2,
+     "url": "https://fauna.com.uy/p/tero-chico-plata/360/451"
+    }
+   ]
+  },
+  {
+   "titulo": "Tero Payador | Chico",
+   "url": "https://fauna.com.uy/p/tero-payador-chico/361/452",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Temáticos"
+   ],
+   "descripcion": "Tero – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nMedidas 25 x 22 cm - Peso 700g\n\nEl tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 250.0,
+   "moneda": "USD",
+   "disponible": false,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/ysjw4qgjnhy2g47emyof.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/vjjgtsx2c5jtwkiagft3.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/8tqg8cdanahmos7k2s2c.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TEPAYA",
+     "opciones": {},
+     "precio": 250.0,
+     "precio_anterior": 0.0,
+     "disponible": false,
+     "preorden": true,
+     "stock": 0,
+     "url": "https://fauna.com.uy/p/tero-payador-chico/361/452"
+    }
+   ]
+  },
+  {
+   "titulo": "Set Teros Rojos",
+   "url": "https://fauna.com.uy/p/set-teros-rojos/356/447",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Combinados"
+   ],
+   "descripcion": "El tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad.\n\n2 piezas, grande y chico combinados.\n\nGrande 30 x 25 cm - Chico 25 x 22 cm - Peso 1.4kg\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 390.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/bw7ls9pj6o52i1b9z6y4.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/hfbi377746bh3pko41xv.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/hw8kjxjll9br91ge4da5.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TEROAZ",
+     "opciones": {},
+     "precio": 390.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/set-teros-rojos/356/447"
+    }
+   ]
+  },
+  {
+   "titulo": "Tero Chico | Rojo",
+   "url": "https://fauna.com.uy/p/tero-chico-rojo/315/402",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Chicos"
+   ],
+   "descripcion": "Tero – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nMedidas 25 x 22 cm - Peso 500g\n\nEl tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 180.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/u9zmzq3rtttidhfvfq5c.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TECHCP01",
+     "opciones": {},
+     "precio": 180.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/tero-chico-rojo/315/402"
+    }
+   ]
+  },
+  {
+   "titulo": "Tero Polista",
+   "url": "https://fauna.com.uy/p/tero-polista/364/455",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Temáticos"
+   ],
+   "descripcion": "Tero – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nMedidas 25 x 22 cm - Peso 700g\n\nEl tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad. Cada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 220.0,
+   "moneda": "USD",
+   "disponible": false,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/j7fborufg9b1mzils765.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/wkxhg1hwwbn0eflkh86i.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/d4jwe8zj7364e0rmbelg.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TEPOL",
+     "opciones": {},
+     "precio": 220.0,
+     "precio_anterior": 0.0,
+     "disponible": false,
+     "preorden": true,
+     "stock": 0,
+     "url": "https://fauna.com.uy/p/tero-polista/364/455"
+    }
+   ]
+  },
+  {
+   "titulo": "Tero Matero",
+   "url": "https://fauna.com.uy/p/tero-matero/363/454",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Temáticos"
+   ],
+   "descripcion": "Tero Mateando | 40 x 30 x 25 cm | 1.3kg\n\nEsta escultura representa a un tero, ave nacional y emblemática del paisaje rural uruguayo, sosteniendo un mate, ícono cultural que simboliza la reunión, la pausa y la identidad compartida. El tero, atento y territorial, es también una figura de cuidado, vigilancia y pertenencia. Aquí se lo muestra en una actitud cálida y cotidiana, con la naturalidad de quien se siente en casa.\n\nLa pieza fue realizada a mano por Fauna Esculturas Sustentables, en Uruguay, utilizando material reciclado, principalmente una garrafa de helio en desuso. Esta transformación de un residuo en arte es parte del propósito del colectivo: dar nueva vida a lo descartado a través de la artesanía, el diseño y la conciencia ambiental.\n\nCada obra de Fauna busca celebrar la fauna, la identidad local y el arte con propósito, combinando lo simbólico con lo estético, lo artesanal con lo sustentable.",
+   "caracteristicas": {},
+   "precio_desde": 370.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/hzg6pduhkjqeo454vd1o.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/mupx2kj6d586jh8yy1gp.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/qa0yhe1vyk3glmttrtzi.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TEMATE",
+     "opciones": {},
+     "precio": 370.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/tero-matero/363/454"
+    }
+   ]
+  },
+  {
+   "titulo": "Set Teros Naranja",
+   "url": "https://fauna.com.uy/p/set-teros-naranja/355/446",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Combinados"
+   ],
+   "descripcion": "El tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad.\n\nGrande 30 x 25 cm - Chico 25 x 22 cm - Peso 1.4kg\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 390.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/g685y6nxskmr8xgggc01.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/hf41ep2qoqf0t23xqwqa.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/1xwyxsah6hnu4nz9xfed.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TERAZ",
+     "opciones": {},
+     "precio": 390.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/set-teros-naranja/355/446"
+    }
+   ]
+  },
+  {
+   "titulo": "Tero Chico | Rosado",
+   "url": "https://fauna.com.uy/p/tero-chico-rosado/325/416",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Chicos"
+   ],
+   "descripcion": "El tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad.\n\nMedidas 25 x 22 cm - Peso 500g\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 180.0,
+   "moneda": "USD",
+   "disponible": false,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/5fjbgawtb15ydsu25rbr.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/ip33u4msxxa6pqwyasx8.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/tlojf0ebophl5hq9xmz7.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TECHRJP02",
+     "opciones": {},
+     "precio": 180.0,
+     "precio_anterior": 0.0,
+     "disponible": false,
+     "preorden": false,
+     "stock": 0,
+     "url": "https://fauna.com.uy/p/tero-chico-rosado/325/416"
+    }
+   ]
+  },
+  {
+   "titulo": "Set Teros Plata",
+   "url": "https://fauna.com.uy/p/set-teros-plata/215/282",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Combinados"
+   ],
+   "descripcion": "El tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad.\n\nMedidas Grande 30 x 25 cm - Chico 25 x 22 cm - Peso 1.4kg\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 390.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/47ji4mnsspo1r90xlh6n.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/uncompressed/7rle2ceu45u11tqpf5xg.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/f6owsqvp2rw7x576qarz.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TECOP01",
+     "opciones": {},
+     "precio": 390.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/set-teros-plata/215/282"
+    }
+   ]
+  },
+  {
+   "titulo": "Tero Grande | Naranja",
+   "url": "https://fauna.com.uy/p/tero-grande-naranja/241/316",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Grandes"
+   ],
+   "descripcion": "Tero – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nMedidas 30 x 25 cm - Peso 900g\n\nEl tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 230.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/r4jth989yt2lzcifbvsv.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/ll54hrznm13uwupfnrpm.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TEGRN05",
+     "opciones": {},
+     "precio": 230.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/tero-grande-naranja/241/316"
+    }
+   ]
+  },
+  {
+   "titulo": "Tero Grande | Plata",
+   "url": "https://fauna.com.uy/p/tero-grande-plata/328/419",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Grandes"
+   ],
+   "descripcion": "Tero – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad.\n\nMedidas 30 x 25 cm - Peso 900g\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 230.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/5bbj1gysknmpzh65nzm9.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/sfbnpmwzb9wcfqfo2nki.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TEGRP04",
+     "opciones": {},
+     "precio": 230.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/tero-grande-plata/328/419"
+    }
+   ]
+  },
+  {
+   "titulo": "Tero Presidencial",
+   "url": "https://fauna.com.uy/p/tero-presidencial/362/453",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Temáticos"
+   ],
+   "descripcion": "Tero – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nEl tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 350.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/dbdmjam4llv6crumdes7.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/rxnm94fdgwcf7x5ux742.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/1dwb98w09ciq1b8v9tgq.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TEPRESI",
+     "opciones": {},
+     "precio": 350.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/tero-presidencial/362/453"
+    }
+   ]
+  },
+  {
+   "titulo": "Tero Grande | Rojo",
+   "url": "https://fauna.com.uy/p/tero-grande-rojo/247/322",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Grandes"
+   ],
+   "descripcion": "Tero – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nMedidas 30 x 25 cm - Peso 900g\n\nEl tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 230.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/jk7fdxql78sqwqwiymeh.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/q57h5kss68uzadtyx61v.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/srgvhhyuyohtcjqchk7t.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TEGRRJ02",
+     "opciones": {},
+     "precio": 230.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/tero-grande-rojo/247/322"
+    }
+   ]
+  },
+  {
+   "titulo": "Tero Chico | Naranja",
+   "url": "https://fauna.com.uy/p/tero-chico-naranja/367/458",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Chicos"
+   ],
+   "descripcion": "Tero –\n\nEscultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nMedidas 25 x 22 cm - Peso 500g\n\nEl tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad. Cada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 180.0,
+   "moneda": "USD",
+   "disponible": true,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/h77cjkx65ujuuhuh7xbn.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TENA1",
+     "opciones": {},
+     "precio": 180.0,
+     "precio_anterior": 0.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://fauna.com.uy/p/tero-chico-naranja/367/458"
+    }
+   ]
+  },
+  {
+   "titulo": "Tero Payador",
+   "url": "https://fauna.com.uy/p/tero-payador/265/340",
+   "marca": "Fauna Deco",
+   "categorias": [
+    "Teros",
+    "Temáticos"
+   ],
+   "descripcion": "Tero – Escultura Artesanal en Metal Reciclado. Hecha a mano por artesanos uruguayos.\n\nMedidas 30 x 25 cm - Peso 1,5g\n\nEl tero es el ave nacional de Uruguay, parte inseparable del paisaje en cada rincón del país y símbolo de vigilancia y libertad.\n\nCada pieza incluye una ficha informativa que cuenta brevemente sobre el animal, la misión de Fauna y nuestro compromiso con el reciclaje. Cuenta con un packaging ideal para viajes y regalos.",
+   "caracteristicas": {},
+   "precio_desde": 350.0,
+   "moneda": "USD",
+   "disponible": false,
+   "imagenes": [
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/yzuh1egitkx8zmuchyi5.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/xqibizes55wsbts2nb5r.jpg",
+    "https://cfluna.com/fauna.com.uy/cdn/files/tmp/compressed/normal/ojwdtknmemuduvuo20fv.jpg"
+   ],
+   "variantes": [
+    {
+     "sku": "TEPA01",
+     "opciones": {},
+     "precio": 350.0,
+     "precio_anterior": 0.0,
+     "disponible": false,
+     "preorden": true,
+     "stock": 0,
+     "url": "https://fauna.com.uy/p/tero-payador/265/340"
+    }
+   ]
+  }
+ ]
+}
