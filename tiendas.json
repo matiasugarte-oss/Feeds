@@ -6,7 +6,9 @@
     "marca": "Shaka Cmmnty",
     "moneda": "ARS",
     "genero": "male",
-    "ignorar_opciones": ["puntos"],
+    "ignorar_opciones": [
+      "puntos"
+    ],
     "tiempo_max_min": 10
   },
   {
@@ -14,7 +16,11 @@
     "nombre": "Kronotime",
     "url": "https://kronotime.com",
     "moneda": "COP",
-    "quitar_parrafos": ["Devoluciones fáciles", "Necesitas ayuda", "desc_corta"],
+    "quitar_parrafos": [
+      "Devoluciones fáciles",
+      "Necesitas ayuda",
+      "desc_corta"
+    ],
     "tiempo_max_min": 10
   },
   {
@@ -33,5 +39,12 @@
     "categoria_google": "Home & Garden > Decor > Artwork > Sculptures & Statues",
     "preorden_como": "preorder",
     "tiempo_max_min": 6
+  },
+  {
+    "slug": "vlackhockey",
+    "url": "https://www.vlackhockey.com.uy",
+    "nombre": "Vlack Hockey",
+    "moneda": "UYU",
+    "activa": true
   }
 ]
