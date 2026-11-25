@@ -12,16 +12,16 @@
       "Cambio brusco de precio respecto de la corrida anterior": {
         "cantidad": 30,
         "ejemplos": [
-          "DF-PV25-PRAT-C1-39 · Zapatilla Hombre / Prat Beige - 39: 439945 -> 79990",
-          "DF-PV25-PRAT-C1-40 · Zapatilla Hombre / Prat Beige - 40: 439945 -> 79990",
-          "DF-PV25-PRAT-C1-41 · Zapatilla Hombre / Prat Beige - 41: 439945 -> 79990",
-          "DF-PV25-PRAT-C1-42 · Zapatilla Hombre / Prat Beige - 42: 439945 -> 79990",
-          "DF-PV25-PRAT-C1-43 · Zapatilla Hombre / Prat Beige - 43: 439945 -> 79990",
-          "DF-PV25-PRAT-C1-44 · Zapatilla Hombre / Prat Beige - 44: 439945 -> 79990",
-          "DF-PV25-JULIO-C2-39 · Zapatilla Hombre / Julio Gris - 39: 439945 -> 79990",
-          "DF-PV25-JULIO-C2-40 · Zapatilla Hombre / Julio Gris - 40: 439945 -> 79990",
-          "DF-PV25-JULIO-C2-41 · Zapatilla Hombre / Julio Gris - 41: 439945 -> 79990",
-          "DF-PV25-JULIO-C2-42 · Zapatilla Hombre / Julio Gris - 42: 439945 -> 79990"
+          "DF-PV25-PRAT-C1-39 · Zapatilla Hombre / Prat Beige - 39: 439945 -> 43945",
+          "DF-PV25-PRAT-C1-40 · Zapatilla Hombre / Prat Beige - 40: 439945 -> 43945",
+          "DF-PV25-PRAT-C1-41 · Zapatilla Hombre / Prat Beige - 41: 439945 -> 43945",
+          "DF-PV25-PRAT-C1-42 · Zapatilla Hombre / Prat Beige - 42: 439945 -> 43945",
+          "DF-PV25-PRAT-C1-43 · Zapatilla Hombre / Prat Beige - 43: 439945 -> 43945",
+          "DF-PV25-PRAT-C1-44 · Zapatilla Hombre / Prat Beige - 44: 439945 -> 43945",
+          "DF-PV25-JULIO-C2-39 · Zapatilla Hombre / Julio Gris - 39: 439945 -> 43945",
+          "DF-PV25-JULIO-C2-40 · Zapatilla Hombre / Julio Gris - 40: 439945 -> 43945",
+          "DF-PV25-JULIO-C2-41 · Zapatilla Hombre / Julio Gris - 41: 439945 -> 43945",
+          "DF-PV25-JULIO-C2-42 · Zapatilla Hombre / Julio Gris - 42: 439945 -> 43945"
         ]
       }
     },
@@ -77,7 +77,7 @@
         ]
       },
       "El color parece un talle": {
-        "cantidad": 49,
+        "cantidad": 53,
         "ejemplos": [
           "26B0900   7535 · Botines RH01 2026 - 35 / Malva: color=35",
           "26B0900   7536 · Botines RH01 2026 - 36 / Malva: color=36",

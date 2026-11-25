@@ -1,7 +1,7 @@
 {
  "tienda": "Kronotime",
  "url": "https://kronotime.com",
- "generado": "2026-11-25T21:21:17+00:00",
+ "generado": "2026-11-25T22:20:12+00:00",
  "total": 10000,
  "productos": [
   {
@@ -26960,7 +26960,7 @@
    "caracteristicas": {},
    "precio_desde": 1084950.0,
    "moneda": "COP",
-   "disponible": false,
+   "disponible": true,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/886678660636_3d4510bc-779f-411d-97e7-767f7bbf10e8.jpg?v=1787334610"
    ],
@@ -26970,7 +26970,7 @@
      "opciones": {},
      "precio": 1084950.0,
      "precio_anterior": 1839900.0,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://kronotime.com/products/reloj-para-hombre-invicta-aviator-49081-oro?variant=54230640296300"

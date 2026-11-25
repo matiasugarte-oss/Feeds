@@ -5631,7 +5631,7 @@ Características:
     </item>
     <item>
       <g:id>66H5611   10</g:id>
-      <g:title>Máscara Full Protection Junior - JR / Negro</g:title>
+      <g:title>Máscara Full Protection Junior - Negro</g:title>
       <g:description>Diseñada para brindar una cobertura completa del rostro sin limitar la visión, combina seguridad, comodidad y ajuste para que puedas concentrarte únicamente en defender. Su estructura de alta resistencia ayuda a absorber y distribuir mejor los impactos, mientras que sus espumas de diferentes densidades ofrecen un calce cómodo y recuperan su forma original después de cada uso. Además, sus tiras elásticas ajustables permiten una colocación rápida y segura durante entrenamientos y partidos. Características principales
 
 ✔ Diseño que favorece una amplia visión frontal y lateral
@@ -5654,7 +5654,6 @@ Características:
       <g:product_type>Accesorios &gt; Máscaras</g:product_type>
       <g:age_group>kids</g:age_group>
       <g:color>Negro</g:color>
-      <g:size>JR</g:size>
     </item>
     <item>
       <g:id>64A0400   21XXS</g:id>
@@ -22982,8 +22981,8 @@ Multistripe, un textil súper liviano que presenta una sutil textura de rayas ho
       <g:product_type>Adultos &gt; Calzas</g:product_type>
       <g:gender>female</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:color>Bordeaux</g:color>
-      <g:size>XS</g:size>
+      <g:color>XS</g:color>
+      <g:size>Bordeaux</g:size>
     </item>
     <item>
       <g:id>54A1701   BDS</g:id>
@@ -23008,8 +23007,8 @@ Multistripe, un textil súper liviano que presenta una sutil textura de rayas ho
       <g:product_type>Adultos &gt; Calzas</g:product_type>
       <g:gender>female</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:color>Bordeaux</g:color>
-      <g:size>S</g:size>
+      <g:color>S</g:color>
+      <g:size>Bordeaux</g:size>
     </item>
     <item>
       <g:id>54A1701   BDM</g:id>
@@ -23034,8 +23033,8 @@ Multistripe, un textil súper liviano que presenta una sutil textura de rayas ho
       <g:product_type>Adultos &gt; Calzas</g:product_type>
       <g:gender>female</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:color>Bordeaux</g:color>
-      <g:size>M</g:size>
+      <g:color>M</g:color>
+      <g:size>Bordeaux</g:size>
     </item>
     <item>
       <g:id>54A1701   BDL</g:id>
@@ -23060,8 +23059,8 @@ Multistripe, un textil súper liviano que presenta una sutil textura de rayas ho
       <g:product_type>Adultos &gt; Calzas</g:product_type>
       <g:gender>female</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:color>Bordeaux</g:color>
-      <g:size>L</g:size>
+      <g:color>L</g:color>
+      <g:size>Bordeaux</g:size>
     </item>
     <item>
       <g:id>91A0900   5512</g:id>
@@ -67772,8 +67771,8 @@ Características:
     <item>
       <g:id>26F1900   SA2</g:id>
       <g:item_group_id>260898404</g:item_group_id>
-      <g:title>Pro Socks ST Catherine's - Blanco</g:title>
-      <g:description>Pro Socks ST Catherine's - Blanco</g:description>
+      <g:title>Pro Socks ST Catherine's - 2 / Blanco</g:title>
+      <g:description>Pro Socks ST Catherine's - 2 / Blanco</g:description>
       <g:link>https://www.vlackhockey.com.ar/productos/pro-socks-st-catherines/?variant=1157494568</g:link>
       <g:image_link>https://acdn-us.mitiendanube.com/stores/001/979/534/products/pro-socks-st-catherine-blanco-8c38c3b6e80a0cca7317424872144960-1024-1024.webp</g:image_link>
       <g:availability>out_of_stock</g:availability>
@@ -67783,12 +67782,13 @@ Características:
       <g:condition>new</g:condition>
       <g:product_type>Clubes &gt; ST. Catherine's</g:product_type>
       <g:color>Blanco</g:color>
+      <g:size>2</g:size>
     </item>
     <item>
       <g:id>26F1900   SA3</g:id>
       <g:item_group_id>260898404</g:item_group_id>
-      <g:title>Pro Socks ST Catherine's - Blanco</g:title>
-      <g:description>Pro Socks ST Catherine's - Blanco</g:description>
+      <g:title>Pro Socks ST Catherine's - 3 / Blanco</g:title>
+      <g:description>Pro Socks ST Catherine's - 3 / Blanco</g:description>
       <g:link>https://www.vlackhockey.com.ar/productos/pro-socks-st-catherines/?variant=1157494592</g:link>
       <g:image_link>https://acdn-us.mitiendanube.com/stores/001/979/534/products/pro-socks-st-catherine-blanco-8c38c3b6e80a0cca7317424872144960-1024-1024.webp</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -67798,12 +67798,13 @@ Características:
       <g:condition>new</g:condition>
       <g:product_type>Clubes &gt; ST. Catherine's</g:product_type>
       <g:color>Blanco</g:color>
+      <g:size>3</g:size>
     </item>
     <item>
       <g:id>26F1900   SA4</g:id>
       <g:item_group_id>260898404</g:item_group_id>
-      <g:title>Pro Socks ST Catherine's - Blanco</g:title>
-      <g:description>Pro Socks ST Catherine's - Blanco</g:description>
+      <g:title>Pro Socks ST Catherine's - 4 / Blanco</g:title>
+      <g:description>Pro Socks ST Catherine's - 4 / Blanco</g:description>
       <g:link>https://www.vlackhockey.com.ar/productos/pro-socks-st-catherines/?variant=1157494616</g:link>
       <g:image_link>https://acdn-us.mitiendanube.com/stores/001/979/534/products/pro-socks-st-catherine-blanco-8c38c3b6e80a0cca7317424872144960-1024-1024.webp</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -67813,12 +67814,13 @@ Características:
       <g:condition>new</g:condition>
       <g:product_type>Clubes &gt; ST. Catherine's</g:product_type>
       <g:color>Blanco</g:color>
+      <g:size>4</g:size>
     </item>
     <item>
       <g:id>26F1900   SA5</g:id>
       <g:item_group_id>260898404</g:item_group_id>
-      <g:title>Pro Socks ST Catherine's - Blanco</g:title>
-      <g:description>Pro Socks ST Catherine's - Blanco</g:description>
+      <g:title>Pro Socks ST Catherine's - 5 / Blanco</g:title>
+      <g:description>Pro Socks ST Catherine's - 5 / Blanco</g:description>
       <g:link>https://www.vlackhockey.com.ar/productos/pro-socks-st-catherines/?variant=1157494643</g:link>
       <g:image_link>https://acdn-us.mitiendanube.com/stores/001/979/534/products/pro-socks-st-catherine-blanco-8c38c3b6e80a0cca7317424872144960-1024-1024.webp</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -67828,6 +67830,7 @@ Características:
       <g:condition>new</g:condition>
       <g:product_type>Clubes &gt; ST. Catherine's</g:product_type>
       <g:color>Blanco</g:color>
+      <g:size>5</g:size>
     </item>
     <item>
       <g:id>62D0702   01XS</g:id>
@@ -75809,8 +75812,8 @@ Una opción perfecta para cualquier ocasión, combinando estilo y confort en cad
     <item>
       <g:id>26F1900   ST2</g:id>
       <g:item_group_id>260905238</g:item_group_id>
-      <g:title>Pro Socks ST Catherine's - Rojo</g:title>
-      <g:description>Pro Socks ST Catherine's - Rojo</g:description>
+      <g:title>Pro Socks ST Catherine's - 2 / Rojo</g:title>
+      <g:description>Pro Socks ST Catherine's - 2 / Rojo</g:description>
       <g:link>https://www.vlackhockey.com.ar/productos/pro-socks-st-catherines1/?variant=1157547984</g:link>
       <g:image_link>https://acdn-us.mitiendanube.com/stores/001/979/534/products/pro-socks-st-catherine-rojo-af0c01fda30ec5deb917424873009731-1024-1024.webp</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -75820,12 +75823,13 @@ Una opción perfecta para cualquier ocasión, combinando estilo y confort en cad
       <g:condition>new</g:condition>
       <g:product_type>Clubes &gt; ST. Catherine's</g:product_type>
       <g:color>Rojo</g:color>
+      <g:size>2</g:size>
     </item>
     <item>
       <g:id>26F1900   ST3</g:id>
       <g:item_group_id>260905238</g:item_group_id>
-      <g:title>Pro Socks ST Catherine's - Rojo</g:title>
-      <g:description>Pro Socks ST Catherine's - Rojo</g:description>
+      <g:title>Pro Socks ST Catherine's - 3 / Rojo</g:title>
+      <g:description>Pro Socks ST Catherine's - 3 / Rojo</g:description>
       <g:link>https://www.vlackhockey.com.ar/productos/pro-socks-st-catherines1/?variant=1157548000</g:link>
       <g:image_link>https://acdn-us.mitiendanube.com/stores/001/979/534/products/pro-socks-st-catherine-rojo-af0c01fda30ec5deb917424873009731-1024-1024.webp</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -75835,12 +75839,13 @@ Una opción perfecta para cualquier ocasión, combinando estilo y confort en cad
       <g:condition>new</g:condition>
       <g:product_type>Clubes &gt; ST. Catherine's</g:product_type>
       <g:color>Rojo</g:color>
+      <g:size>3</g:size>
     </item>
     <item>
       <g:id>26F1900   ST4</g:id>
       <g:item_group_id>260905238</g:item_group_id>
-      <g:title>Pro Socks ST Catherine's - Rojo</g:title>
-      <g:description>Pro Socks ST Catherine's - Rojo</g:description>
+      <g:title>Pro Socks ST Catherine's - 4 / Rojo</g:title>
+      <g:description>Pro Socks ST Catherine's - 4 / Rojo</g:description>
       <g:link>https://www.vlackhockey.com.ar/productos/pro-socks-st-catherines1/?variant=1157548014</g:link>
       <g:image_link>https://acdn-us.mitiendanube.com/stores/001/979/534/products/pro-socks-st-catherine-rojo-af0c01fda30ec5deb917424873009731-1024-1024.webp</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -75850,12 +75855,13 @@ Una opción perfecta para cualquier ocasión, combinando estilo y confort en cad
       <g:condition>new</g:condition>
       <g:product_type>Clubes &gt; ST. Catherine's</g:product_type>
       <g:color>Rojo</g:color>
+      <g:size>4</g:size>
     </item>
     <item>
       <g:id>26F1900   ST5</g:id>
       <g:item_group_id>260905238</g:item_group_id>
-      <g:title>Pro Socks ST Catherine's - Rojo</g:title>
-      <g:description>Pro Socks ST Catherine's - Rojo</g:description>
+      <g:title>Pro Socks ST Catherine's - 5 / Rojo</g:title>
+      <g:description>Pro Socks ST Catherine's - 5 / Rojo</g:description>
       <g:link>https://www.vlackhockey.com.ar/productos/pro-socks-st-catherines1/?variant=1157548025</g:link>
       <g:image_link>https://acdn-us.mitiendanube.com/stores/001/979/534/products/pro-socks-st-catherine-rojo-af0c01fda30ec5deb917424873009731-1024-1024.webp</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -75865,6 +75871,7 @@ Una opción perfecta para cualquier ocasión, combinando estilo y confort en cad
       <g:condition>new</g:condition>
       <g:product_type>Clubes &gt; ST. Catherine's</g:product_type>
       <g:color>Rojo</g:color>
+      <g:size>5</g:size>
     </item>
     <item>
       <g:id>1044318975</g:id>
