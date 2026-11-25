@@ -1,7 +1,7 @@
 {
  "tienda": "Kronotime",
  "url": "https://kronotime.com",
- "generado": "2026-11-25T20:59:34+00:00",
+ "generado": "2026-11-25T21:21:17+00:00",
  "total": 10000,
  "productos": [
   {
@@ -33118,7 +33118,7 @@
    "caracteristicas": {},
    "precio_desde": 299900.0,
    "moneda": "COP",
-   "disponible": false,
+   "disponible": true,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/products/886678437481.jpg?v=1660235152",
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/products/cajaINVICTAK_3111519b-f8de-449a-91fd-1fb2fdef3d54.jpg?v=1660235152",
@@ -33130,7 +33130,7 @@
      "opciones": {},
      "precio": 299900.0,
      "precio_anterior": 899900.0,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://kronotime.com/products/reloj-invicta-pro-diver-35741?variant=42044746989763"
@@ -109961,7 +109961,7 @@
    "caracteristicas": {},
    "precio_desde": 1249900.0,
    "moneda": "COP",
-   "disponible": false,
+   "disponible": true,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/886678941223_919081eb-d06e-4ddc-a6e9-720b567cda5d.jpg?v=1779224418",
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/cajaTechnomarine_6de2d40b-90f7-4206-896e-3db088ba4671.jpg?v=1779224418",
@@ -109973,7 +109973,7 @@
      "opciones": {},
      "precio": 1249900.0,
      "precio_anterior": 2759900.0,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://kronotime.com/products/reloj-deportivo-para-mujer-technomarine-cruise-tm-120002-blanco-2?variant=53784791843180"
@@ -115481,7 +115481,7 @@
    "caracteristicas": {},
    "precio_desde": 1239900.0,
    "moneda": "COP",
-   "disponible": false,
+   "disponible": true,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/886678536047_d8389cdf-fe36-4156-aed3-efcd1430495e.jpg?v=1779223368",
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/cajaCartonInvicta_f0cbec3a-9421-4413-a1bb-33ae4eba5ff7.jpg?v=1779223368"
@@ -115492,7 +115492,7 @@
      "opciones": {},
      "precio": 1239900.0,
      "precio_anterior": null,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://kronotime.com/products/reloj-r2-d2-para-hombre-invicta-star-wars-39710-transparente-azul-1?variant=53784757174636"
@@ -127245,7 +127245,7 @@
    "caracteristicas": {},
    "precio_desde": 664975.0,
    "moneda": "COP",
-   "disponible": false,
+   "disponible": true,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/886678469529_3c4634e1-a621-493a-ab6b-d90274954cc7.jpg?v=1779221981",
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/cajaTechnomarine_1a269c9b-ab86-4d4f-ba1e-812f7a4cea51.jpg?v=1779221981",
@@ -127257,7 +127257,7 @@
      "opciones": {},
      "precio": 664975.0,
      "precio_anterior": 1499900.0,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://kronotime.com/products/reloj-deportivo-para-mujer-technomarine-cruise-tm-121259-negro-1?variant=53784713199980"
