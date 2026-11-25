@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "shaka",
+    "nombre": "Shaka Cmmnty",
+    "url": "https://sh-aka.com.ar",
+    "marca": "Shaka Cmmnty",
+    "moneda": "ARS",
+    "genero": "male",
+    "ignorar_opciones": ["puntos"],
+    "tiempo_max_min": 10
+  },
+  {
+    "slug": "kronotime",
+    "nombre": "Kronotime",
+    "url": "https://kronotime.com",
+    "moneda": "COP",
+    "quitar_parrafos": ["Devoluciones fáciles", "Necesitas ayuda", "desc_corta"],
+    "tiempo_max_min": 10
+  },
+  {
+    "slug": "giani",
+    "nombre": "Giani Dafirenze",
+    "url": "https://gianidafirenze.cl",
+    "marca": "Giani Dafirenze",
+    "moneda": "CLP",
+    "tiempo_max_min": 6
+  },
+  {
+    "slug": "fauna",
+    "nombre": "Fauna Deco",
+    "url": "https://fauna.com.uy",
+    "marca": "Fauna Deco",
+    "categoria_google": "Home & Garden > Decor > Artwork > Sculptures & Statues",
+    "preorden_como": "preorder",
+    "tiempo_max_min": 6
+  }
+]
