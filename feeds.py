@@ -290,8 +290,38 @@ def es_infantil(texto):
     return bool(re.search(r"\b(ninos?|ninas?|infantil|bebes?|kids|junior|nene|nena)\b", sin_acentos((texto or "").lower())))
 
 
+TRIVIALES = {"talle unico", "talla unica", "unico", "unica", "u", "tu", "default", "default title", "one size"}
 RE_TALLE = re.compile(r"talle|talla|size|n[uú]mero|calce", re.I)
 RE_COLOR = re.compile(r"color|colour", re.I)
+
+COLORES = ("negro|blanco|azul|rojo|verde|amarillo|rosa|rosado|fucsia|violeta|lila|gris|celeste|naranja|marron|"
+           "beige|crudo|bordo|coral|aqua|agua|menta|turquesa|dorado|plateado|plata|oro|salmon|natural|camel|nude|"
+           "multicolor|khaki|caqui|mostaza|terracota|petroleo|vino|lima|fluo|oliva|chocolate|arena|hueso|jean|"
+           "taupe|cafe|marino|indigo|grafito|perla|cobre|bronce|lavanda|uva|cereza|arcilla|tostado|habano|"
+           "black|white|blue|green|yellow|pink|purple|grey|gray|orange|brown|navy|silver|gold")
+RE_ES_COLOR = re.compile(r"\b(" + COLORES + r")s?\b", re.I)
+RE_ES_TALLE = re.compile(r"^(t\.?\s?\d{1,3}|talles?\s.*|tallas?\s.*|\d{1,3}([.,]\d)?|\d{1,3}\s?(-|/)\s?\d{1,3}|"
+                         r"x{0,3}s|m|x{0,3}l|\d?x[sl]|jr|sr|junior|senior|u|tu|unico|unica|small|medium|large|"
+                         r"chico|mediano|grande|\d{2,3}\s?(cm|mm))$", re.I)
+
+
+def talle_y_color(opciones):
+    """Decide talle y color por el nombre de la opción y lo corrige mirando el valor:
+    'Color: T8 / Talle: Azul' -> talle T8, color Azul."""
+    talle = next((x for k, x in opciones.items() if RE_TALLE.search(k)), None)
+    color = next((x for k, x in opciones.items() if RE_COLOR.search(k)), None)
+    parece_talle = lambda x: bool(x) and bool(RE_ES_TALLE.match(sin_acentos(x.strip().lower())))
+    parece_color = lambda x: bool(x) and bool(RE_ES_COLOR.search(sin_acentos(x.lower()))) and not parece_talle(x)
+    if parece_talle(color) and not parece_color(color) and (talle is None or parece_color(talle)):
+        talle, color = color, talle            # vinieron invertidos
+    elif parece_color(talle) and not parece_talle(talle) and (color is None or parece_talle(color)):
+        talle, color = color, talle
+    for x in opciones.values():               # opciones sin nombre reconocible: se clasifican por el valor
+        if talle is None and x != color and parece_talle(x):
+            talle = x
+        elif color is None and x != talle and parece_color(x):
+            color = x
+    return talle, color
 
 
 # ===================================================== MODELO COMÚN ===
@@ -951,13 +981,14 @@ def armar_items(t, productos):
         titulo_base = titulo_lindo(p["titulo"])
         if titulo_base.lower().startswith(("tarjeta de regalo", "gift card", "giftcard")):
             continue
-        cats = [c for c in p.get("categorias") or [] if c]
+        cats = [titulo_lindo(c) for c in p.get("categorias") or [] if c]
         contexto = " ".join([p["titulo"]] + cats + list(p.get("tags") or []))
-        gcat = t.get("categoria_google") or categoria_google(p["titulo"], " ".join(cats))
+        gcat = t.get("categoria_google") or categoria_google(p["titulo"], " ".join(cats)) or t.get("categoria_google_defecto")
         ropa = bool(gcat) and (gcat.startswith("Apparel & Accessories > Clothing") or gcat.endswith("Shoes"))
         genero = detectar_genero(contexto) or t.get("genero")
         edad = "kids" if es_infantil(contexto) else ("adult" if genero or ropa else None)
-        specs = p.get("specs") or {}
+        specs = {k: re.sub(r"[.;,]+$", "", str(v).strip()) for k, v in (p.get("specs") or {}).items()
+                 if v and not re.match(r"^https?://\S+$", str(v).strip())}
         material = next((v for k, v in specs.items() if re.search(r"material|capellada", k, re.I)), None)
         color_spec = next((v for k, v in specs.items() if RE_COLOR.search(k)), None)
         marca = titulo_lindo(p.get("marca") or marca_tienda)
@@ -974,11 +1005,11 @@ def armar_items(t, productos):
             if not ident or ident in ids:
                 ident = f"{ident}-{v.get('id')}"
             ids.add(ident)
-            opciones = {k: str(x) for k, x in (v.get("opciones") or {}).items() if x}
-            talle = next((x for k, x in opciones.items() if RE_TALLE.search(k)), None)
-            color = next((x for k, x in opciones.items() if RE_COLOR.search(k)), None) or color_spec
-            extra = [x for x in opciones.values()
-                     if not re.search(r"(?<!\w)" + re.escape(x.lower()) + r"(?!\w)", titulo_base.lower())]
+            opciones = {k: titulo_lindo(str(x)) for k, x in (v.get("opciones") or {}).items() if x}
+            talle, color = talle_y_color(opciones)
+            color = color or color_spec
+            extra = [x for x in opciones.values() if sin_acentos(x.lower()) not in TRIVIALES
+                     and not re.search(r"(?<!\w)" + re.escape(x.lower()) + r"(?!\w)", titulo_base.lower())]
             titulo = titulo_base + (" - " + " / ".join(extra) if extra else "")
             moneda = v.get("moneda") or t.get("moneda")
             if not moneda:
@@ -1072,6 +1103,7 @@ def escribir_index(estado):
         f"<tr><td><a href='{e(s['url'])}'>{e(s['nombre'])}</a></td><td>{e(s.get('plataforma', ''))}</td>"
         f"<td>{s.get('productos', 0)}</td><td>{s.get('items', 0)}</td><td>{e(s.get('actualizado', ''))}</td>"
         f"<td>{'⚠️ ' + e(s['error']) if s.get('error') else '✅'}</td>"
+        f"<td>{('❌ ' + str(s['graves']) + ' graves' if s.get('graves') else '✅') + (' · ' + str(s['avisos']) + ' avisos' if s.get('avisos') else '')}</td>"
         f"<td><a href='feeds/{e(slug)}.xml'>XML</a> · <a href='feeds/{e(slug)}.json'>JSON</a></td></tr>"
         for slug, s in sorted(estado.items()))
     pagina = f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
@@ -1081,10 +1113,116 @@ def escribir_index(estado):
 body{{font-family:system-ui,sans-serif;background:var(--bg);color:var(--fg);max-width:1000px;margin:2rem auto;padding:0 1rem}}
 table{{border-collapse:collapse;width:100%}}td,th{{border-bottom:1px solid var(--line);padding:.5rem;text-align:left}}
 a{{color:var(--link)}}.w{{overflow-x:auto}}</style></head><body><h1>Feeds de productos</h1><div class="w"><table>
-<tr><th>Tienda</th><th>Plataforma</th><th>Productos</th><th>Ítems</th><th>Actualizado (UTC)</th><th>Estado</th><th>Feeds</th></tr>
-{filas}</table></div></body></html>"""
+<tr><th>Tienda</th><th>Plataforma</th><th>Productos</th><th>Ítems</th><th>Actualizado (UTC)</th><th>Estado</th><th>Revisión</th><th>Feeds</th></tr>
+{filas}</table></div><p>Detalle de la revisión: <a href="feeds/revision.json">revision.json</a></p></body></html>"""
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(pagina)
+
+
+# ======================================================= VALIDACIÓN ===
+
+def item_a_dict(campos):
+    d = {}
+    for k, v in campos:
+        if v not in (None, "", []):
+            d.setdefault(k, v)
+    return d
+
+
+def valor_precio(texto):
+    try:
+        return float(str(texto).split()[0])
+    except (ValueError, IndexError):
+        return None
+
+
+def ruta_link(u):
+    return urlparse(u or "").path.rstrip("/").lower()
+
+
+def comparar_con_referencia(t, nuestros):
+    """Compara contra el feed nativo de la tienda (campo feed_referencia en tiendas.json), producto por producto."""
+    try:
+        r = requests.get(t["feed_referencia"], timeout=90, headers={"User-Agent": UA})
+        import xml.etree.ElementTree as ET
+        raiz = ET.fromstring(r.content)
+    except Exception as ex:
+        return {"error": f"no se pudo leer el feed de referencia: {type(ex).__name__}"}
+    g = "{http://base.google.com/ns/1.0}"
+    ref = {}
+    for it in raiz.iter("item"):
+        val = lambda tag: (it.findtext(g + tag) or it.findtext(tag) or "").strip()
+        clave = ruta_link(val("link"))
+        p = ref.setdefault(clave, {"titulo": val("title"), "precios": [], "stock": False})
+        precio = valor_precio(val("sale_price") or val("price"))
+        if precio:
+            p["precios"].append(precio)
+        p["stock"] |= val("availability").replace(" ", "_") == "in_stock"
+    mios = {}
+    for d in nuestros:
+        clave = ruta_link(d.get("g:link"))
+        p = mios.setdefault(clave, {"titulo": d.get("g:title"), "precios": [], "stock": False})
+        precio = valor_precio(d.get("g:sale_price") or d.get("g:price"))
+        if precio:
+            p["precios"].append(precio)
+        p["stock"] |= d.get("g:availability") == "in_stock"
+    faltan = [ref[k]["titulo"] for k in ref if k not in mios]
+    sobran = [mios[k]["titulo"] for k in mios if k not in ref]
+    precio_distinto, stock_distinto = [], []
+    for k in set(ref) & set(mios):
+        a, b = ref[k], mios[k]
+        if a["precios"] and b["precios"] and abs(min(a["precios"]) - min(b["precios"])) > 0.01 * min(a["precios"]):
+            precio_distinto.append(f"{b['titulo']}: nativo {min(a['precios']):g} / nuestro {min(b['precios']):g}")
+        if a["stock"] != b["stock"]:
+            stock_distinto.append(f"{b['titulo']}: nativo {'con' if a['stock'] else 'sin'} stock / nuestro {'con' if b['stock'] else 'sin'} stock")
+    return {"productos_nativo": len(ref), "productos_nuestro": len(mios), "faltan": faltan[:30], "sobran": sobran[:30],
+            "precio_distinto": precio_distinto[:30], "stock_distinto": stock_distinto[:30],
+            "totales": {"faltan": len(faltan), "sobran": len(sobran), "precio_distinto": len(precio_distinto),
+                        "stock_distinto": len(stock_distinto)}}
+
+
+def validar(t, items, precios_previos):
+    graves, avisos, sospechosos = {}, {}, set()
+    agregar = lambda dic, regla, ejemplo: dic.setdefault(regla, []).append(ejemplo)
+    datos = [item_a_dict(c) for c in items]
+    for iid, n in Counter(d.get("g:id") for d in datos).items():
+        if n > 1:
+            agregar(graves, "ID repetido", f"{iid} ({n} veces)")
+    for d in datos:
+        nombre = f"{d.get('g:id')} · {d.get('g:title', '')[:60]}"
+        precio = valor_precio(d.get("g:price"))
+        oferta = valor_precio(d.get("g:sale_price"))
+        if not precio or precio <= 0 or len(str(d.get("g:price", "")).split()) < 2:
+            agregar(graves, "Precio en cero o sin moneda", nombre)
+        if oferta and precio and oferta >= precio:
+            agregar(graves, "Precio de oferta mayor o igual al precio normal", nombre)
+        if not d.get("g:image_link"):
+            agregar(graves, "Producto sin foto", nombre)
+        anterior = precios_previos.get(d.get("g:id"))
+        actual = oferta or precio
+        if anterior and actual and not (anterior / 3 <= actual <= anterior * 3):
+            agregar(graves, "Cambio brusco de precio respecto de la corrida anterior", f"{nombre}: {anterior:g} -> {actual:g}")
+            sospechosos.add(d.get("g:id"))
+        color, talle = d.get("g:color"), d.get("g:size")
+        if color and RE_ES_TALLE.match(sin_acentos(color.lower())):
+            agregar(avisos, "El color parece un talle", f"{nombre}: color={color}")
+        if talle and RE_ES_COLOR.search(sin_acentos(talle.lower())) and not RE_ES_TALLE.match(sin_acentos(talle.lower())):
+            agregar(avisos, "El talle parece un color", f"{nombre}: talle={talle}")
+        titulo = d.get("g:title", "")
+        letras = [c for c in titulo if c.isalpha()]
+        if letras and sum(c.isupper() for c in letras) / len(letras) > 0.8 and len(letras) > 8:
+            agregar(avisos, "Título en mayúsculas", nombre)
+        if not d.get("g:description") or d.get("g:description") == titulo:
+            agregar(avisos, "Sin descripción", nombre)
+    resumen = {"graves": {k: {"cantidad": len(v), "ejemplos": v[:10]} for k, v in graves.items()},
+               "avisos": {k: {"cantidad": len(v), "ejemplos": v[:10]} for k, v in avisos.items()}}
+    if t.get("feed_referencia"):
+        resumen["comparacion"] = comparar_con_referencia(t, datos)
+    # Un precio sospechoso no reemplaza al último precio confiable: así el error se sigue marcando
+    # en cada corrida hasta que se corrija (o hasta que alguien lo confirme borrando datos/<tienda>.json).
+    precios = {d.get("g:id"): (precios_previos.get(d.get("g:id")) if d.get("g:id") in sospechosos
+                               else valor_precio(d.get("g:sale_price")) or valor_precio(d.get("g:price"))) for d in datos}
+    return resumen, precios
 
 
 # =============================================================== MAIN ===
@@ -1112,13 +1250,18 @@ def procesar(t):
     if not productos or (antes and len(productos) < MIN_RATIO * antes):
         raise RuntimeError(f"solo {len(productos)} productos (antes {antes}); se mantiene el feed anterior")
     items = armar_items(t, productos)
+    revision, precios = validar(t, items, prev.get("precios", {}))
     escribir_xml(t, items, f"{DIR_FEEDS}/{slug}.xml")
     escribir_json_ia(t, productos, f"{DIR_FEEDS}/{slug}.json")
     with open(f"{DIR_DATOS}/{slug}.json", "w", encoding="utf-8") as f:
         json.dump({"plataforma": plataforma, "generado": ahora().isoformat(timespec="seconds"),
-                   "productos": productos, "cache": cache}, f, ensure_ascii=False)
+                   "productos": productos, "cache": cache, "precios": precios}, f, ensure_ascii=False)
     log(slug, f"{len(productos)} productos, {len(items)} ítems | HTTP {dict(c.estados)} | {time.time() - c.inicio:.0f}s")
-    return {"plataforma": plataforma, "productos": len(productos), "items": len(items)}
+    for regla, info in revision["graves"].items():
+        log(slug, f"  GRAVE: {regla} ({info['cantidad']}), ej.: {info['ejemplos'][0]}")
+    for regla, info in revision["avisos"].items():
+        log(slug, f"  aviso: {regla} ({info['cantidad']})")
+    return {"plataforma": plataforma, "productos": len(productos), "items": len(items), "revision": revision}
 
 
 def main():
@@ -1128,22 +1271,66 @@ def main():
     if len(sys.argv) > 1:
         tiendas = [t for t in tiendas if t["slug"] in sys.argv[1:]]
     estado = cargar_json(f"{DIR_FEEDS}/estado.json", {})
-    errores = 0
+    revision = cargar_json(f"{DIR_FEEDS}/revision.json", {})
+    errores, nuevos_graves = 0, []
     for t in tiendas:
         info = {"nombre": t.get("nombre") or t["slug"], "url": t["url"]}
         try:
-            info.update(procesar(t), actualizado=ahora().strftime("%Y-%m-%d %H:%M"), error=None)
+            r = procesar(t)
+            antes = set(revision.get(t["slug"], {}).get("graves", {}))
+            rev = r.pop("revision")
+            nuevos_graves += [f"{info['nombre']}: {regla}" for regla in rev["graves"] if regla not in antes]
+            revision[t["slug"]] = rev
+            info.update(r, actualizado=ahora().strftime("%Y-%m-%d %H:%M"), error=None,
+                        graves=sum(v["cantidad"] for v in rev["graves"].values()),
+                        avisos=sum(v["cantidad"] for v in rev["avisos"].values()))
         except Exception as ex:
             errores += 1
             log(t["slug"], f"ERROR: {ex}")
             traceback.print_exc()
-            info.update({k: v for k, v in estado.get(t["slug"], {}).items() if k in ("plataforma", "productos", "items", "actualizado")})
+            info.update({k: v for k, v in estado.get(t["slug"], {}).items()
+                         if k in ("plataforma", "productos", "items", "actualizado", "graves", "avisos")})
             info["error"] = str(ex)[:200]
         estado[t["slug"]] = info
     with open(f"{DIR_FEEDS}/estado.json", "w", encoding="utf-8") as f:
         json.dump(estado, f, ensure_ascii=False, indent=2)
+    with open(f"{DIR_FEEDS}/revision.json", "w", encoding="utf-8") as f:
+        json.dump(revision, f, ensure_ascii=False, indent=2)
+    with open(f"{DIR_FEEDS}/alertas.txt", "w", encoding="utf-8") as f:
+        f.write("\n".join(nuevos_graves))
     escribir_index(estado)
-    print(f"Listo: {len(tiendas) - errores} tiendas OK, {errores} con error", flush=True)
+    escribir_resumen_actions(estado, revision, [t["slug"] for t in tiendas], nuevos_graves)
+    print(f"Listo: {len(tiendas) - errores} tiendas OK, {errores} con error, {len(nuevos_graves)} errores graves nuevos", flush=True)
+
+
+def escribir_resumen_actions(estado, revision, slugs, nuevos_graves):
+    """Tabla con el resultado de la revisión en la página de la corrida de GitHub Actions."""
+    lineas = ["## Revisión de los feeds", "", "| Tienda | Productos | Errores graves | Avisos |", "|---|---|---|---|"]
+    for slug in slugs:
+        s = estado.get(slug, {})
+        lineas.append(f"| {s.get('nombre', slug)} | {s.get('productos', 0)} | "
+                      f"{'❌ ' + str(s['graves']) if s.get('graves') else '✅ 0'} | {s.get('avisos', 0)} |")
+    for slug in slugs:
+        rev = revision.get(slug, {})
+        if rev.get("graves") or rev.get("avisos") or rev.get("comparacion"):
+            lineas += ["", f"### {estado.get(slug, {}).get('nombre', slug)}"]
+            for tipo, icono in (("graves", "❌"), ("avisos", "⚠️")):
+                for regla, info in rev.get(tipo, {}).items():
+                    lineas.append(f"- {icono} **{regla}** ({info['cantidad']}): " + "; ".join(info["ejemplos"][:3]))
+            comp = rev.get("comparacion")
+            if comp and comp.get("totales"):
+                tot = comp["totales"]
+                lineas.append(f"- 🔍 **Contra el feed nativo**: {comp['productos_nuestro']} productos nuestros vs "
+                              f"{comp['productos_nativo']} nativos · faltan {tot['faltan']} · sobran {tot['sobran']} · "
+                              f"precio distinto {tot['precio_distinto']} · stock distinto {tot['stock_distinto']}")
+            elif comp and comp.get("error"):
+                lineas.append(f"- 🔍 {comp['error']}")
+    if nuevos_graves:
+        lineas += ["", "**Errores graves nuevos en esta corrida:** " + "; ".join(nuevos_graves)]
+    texto = "\n".join(lineas) + "\n"
+    if os.getenv("GITHUB_STEP_SUMMARY"):
+        with open(os.getenv("GITHUB_STEP_SUMMARY"), "a", encoding="utf-8") as f:
+            f.write(texto)
 
 
 if __name__ == "__main__":

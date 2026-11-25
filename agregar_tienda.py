@@ -53,6 +53,23 @@ def resumen(slug):
                  f"**Versión para el asistente de IA:**\n`{base}/feeds/{slug}.json`\n\n"
                  f"El link funciona en uno o dos minutos, cuando termine de publicar GitHub Pages. "
                  f"Desde ahora se actualiza solo cada hora. Resumen de todas las tiendas: {base}/\n")
+    try:
+        rev = json.load(open("feeds/revision.json", encoding="utf-8")).get(slug, {})
+    except (OSError, ValueError):
+        rev = {}
+    if rev:
+        texto += "\n### Revisión automática\n\n"
+        if not rev.get("graves") and not rev.get("avisos"):
+            texto += "✅ Sin problemas detectados.\n"
+        for tipo, icono in (("graves", "❌"), ("avisos", "⚠️")):
+            for regla, info in rev.get(tipo, {}).items():
+                texto += f"- {icono} **{regla}** ({info['cantidad']}): " + "; ".join(info["ejemplos"][:3]) + "\n"
+        comp = rev.get("comparacion") or {}
+        if comp.get("totales"):
+            tot = comp["totales"]
+            texto += (f"- 🔍 **Contra el feed nativo**: {comp['productos_nuestro']} productos nuestros vs "
+                      f"{comp['productos_nativo']} nativos · faltan {tot['faltan']} · sobran {tot['sobran']} · "
+                      f"precio distinto {tot['precio_distinto']} · stock distinto {tot['stock_distinto']}\n")
     print(texto)
     if os.getenv("GITHUB_STEP_SUMMARY"):
         with open(os.getenv("GITHUB_STEP_SUMMARY"), "a", encoding="utf-8") as f:
@@ -102,7 +119,7 @@ def main():
                 slug, n = f"{slug.rstrip('0123456789-')}-{n}", n + 1
             tienda = {"slug": slug, "url": base}
             tiendas.append(tienda)
-        for campo, var in (("nombre", "NOMBRE"), ("moneda", "MONEDA"), ("marca", "MARCA")):
+        for campo, var in (("nombre", "NOMBRE"), ("moneda", "MONEDA"), ("marca", "MARCA"), ("feed_referencia", "FEED_NATIVO")):
             valor = (os.getenv(var) or "").strip()
             if valor:
                 tienda[campo] = valor.upper() if campo == "moneda" else valor
