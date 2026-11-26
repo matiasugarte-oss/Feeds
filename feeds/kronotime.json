@@ -1,7 +1,7 @@
 {
  "tienda": "Kronotime",
  "url": "https://kronotime.com",
- "generado": "2026-11-26T22:07:51+00:00",
+ "generado": "2026-11-26T23:13:30+00:00",
  "total": 10000,
  "productos": [
   {
@@ -124890,7 +124890,7 @@
    "caracteristicas": {},
    "precio_desde": 1159950.0,
    "moneda": "COP",
-   "disponible": false,
+   "disponible": true,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/886678470716.jpg?v=1779222236",
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/cajaTechnomarine_62bd3e30-3100-4771-92db-94f7bf24a766.jpg?v=1779222236",
@@ -124902,7 +124902,7 @@
      "opciones": {},
      "precio": 1159950.0,
      "precio_anterior": 1839900.0,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://kronotime.com/products/reloj-deportivo-para-hombre-technomarine-coral-tm-416092-gris?variant=53784720015724"
@@ -125069,7 +125069,7 @@
    "caracteristicas": {},
    "precio_desde": 1159950.0,
    "moneda": "COP",
-   "disponible": false,
+   "disponible": true,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/886678470433_20ead72c-68dd-4d71-9f07-a4c7cf2e7eb3.jpg?v=1779222218",
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/cajaTechnomarine_145828d6-735a-4b48-9fa8-35c301d933b8.jpg?v=1779222218",
@@ -125081,7 +125081,7 @@
      "opciones": {},
      "precio": 1159950.0,
      "precio_anterior": 1839900.0,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://kronotime.com/products/reloj-deportivo-para-mujer-technomarine-coral-tm-416081-gris-2?variant=53784719753580"
@@ -125189,7 +125189,7 @@
    "caracteristicas": {},
    "precio_desde": 1259950.0,
    "moneda": "COP",
-   "disponible": false,
+   "disponible": true,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/886678470419_412283d9-dbe5-442e-bff8-4d5ba4869b6e.jpg?v=1779222208",
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/cajaCartonInvicta_798d853f-4605-46ce-b384-8cbfc6c9cf59.jpg?v=1779222208"
@@ -125200,7 +125200,7 @@
      "opciones": {},
      "precio": 1259950.0,
      "precio_anterior": 2019900.0,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://kronotime.com/products/reloj-deportivo-para-mujer-invicta-sea-numero-de-serie-725017-blanco-1?variant=53784719524204"
@@ -247674,7 +247674,7 @@
    "caracteristicas": {},
    "precio_desde": 1159950.0,
    "moneda": "COP",
-   "disponible": false,
+   "disponible": true,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/886678470457.jpg?v=1756494022",
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/cajaTechnomarine_6600b3c8-3f67-4e77-bea8-82c958f57d16.jpg?v=1756494022"
@@ -247685,7 +247685,7 @@
      "opciones": {},
      "precio": 1159950.0,
      "precio_anterior": 1839900.0,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://kronotime.com/products/reloj-deportivo-para-mujer-technomarine-coral-tm-416083-verde-oliva?variant=52620222988652"

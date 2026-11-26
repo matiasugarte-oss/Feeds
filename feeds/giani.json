@@ -1,117 +1,9 @@
 {
  "tienda": "Giani Dafirenze",
  "url": "https://gianidafirenze.cl",
- "generado": "2026-11-26T22:07:55+00:00",
- "total": 405,
+ "generado": "2026-11-26T23:13:35+00:00",
+ "total": 404,
  "productos": [
-  {
-   "titulo": "Zapato Mujer / Pixon Celeste",
-   "url": "https://gianidafirenze.cl/products/zapato-mujer-pixon-celeste",
-   "marca": "Giani Dafirenze",
-   "categorias": [
-    "ZAPATOS"
-   ],
-   "descripcion": "Pixon Celeste es un zapato que transmite ligereza y frescura. Su tono celeste, trabajado en cuero natural por artesanos chilenos, evoca cielos despejados y la energía vibrante del verano. Con una silueta moderna y cómoda, se convierte en la pieza ideal para quienes buscan destacar con un detalle de color sutil pero lleno de personalidad. Versátil y duradero, acompaña tanto en el día a día como en ocasiones especiales.\n\nSlip On\n\nHecho en Chile",
-   "caracteristicas": {
-    "Capellada (material exterior)": "Cuero",
-    "Forro (material interior)": "Cuero",
-    "Plantilla": "Cuero",
-    "Planta (suela)": "Goma Amo Mis Giani",
-    "Taco": "Madera pintada a mano",
-    "Altura del Taco": "2 cm",
-    "Punta": "Puntiaguda",
-    "Altura de la caña": "Bajo el tobillo",
-    "Estilo": "Zapato"
-   },
-   "precio_desde": 59940.0,
-   "moneda": "CLP",
-   "disponible": true,
-   "imagenes": [
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-pixon-celeste-zapatos-giani-dafirenze-469411.jpg?v=1756151289",
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-pixon-celeste-zapatos-giani-dafirenze-909590.jpg?v=1759151766",
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-pixon-celeste-zapatos-giani-dafirenze-300562.jpg?v=1759151766"
-   ],
-   "variantes": [
-    {
-     "sku": "GDF-PV26-PIXON-C11-35",
-     "opciones": {
-      "Talla": "35",
-      "Color": "Celeste"
-     },
-     "precio": 59940.0,
-     "precio_anterior": 99900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapato-mujer-pixon-celeste?variant=43268124672043"
-    },
-    {
-     "sku": "GDF-PV26-PIXON-C11-36",
-     "opciones": {
-      "Talla": "36",
-      "Color": "Celeste"
-     },
-     "precio": 59940.0,
-     "precio_anterior": 99900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapato-mujer-pixon-celeste?variant=43268124704811"
-    },
-    {
-     "sku": "GDF-PV26-PIXON-C11-37",
-     "opciones": {
-      "Talla": "37",
-      "Color": "Celeste"
-     },
-     "precio": 59940.0,
-     "precio_anterior": 99900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapato-mujer-pixon-celeste?variant=43268124737579"
-    },
-    {
-     "sku": "GDF-PV26-PIXON-C11-38",
-     "opciones": {
-      "Talla": "38",
-      "Color": "Celeste"
-     },
-     "precio": 59940.0,
-     "precio_anterior": 99900.0,
-     "disponible": true,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapato-mujer-pixon-celeste?variant=43268124770347"
-    },
-    {
-     "sku": "GDF-PV26-PIXON-C11-39",
-     "opciones": {
-      "Talla": "39",
-      "Color": "Celeste"
-     },
-     "precio": 59940.0,
-     "precio_anterior": 99900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapato-mujer-pixon-celeste?variant=43268124803115"
-    },
-    {
-     "sku": "GDF-PV26-PIXON-C11-40",
-     "opciones": {
-      "Talla": "40",
-      "Color": "Celeste"
-     },
-     "precio": 59940.0,
-     "precio_anterior": 99900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapato-mujer-pixon-celeste?variant=43268124835883"
-    }
-   ]
-  },
   {
    "titulo": "Mochila Mujer / Sauce Print",
    "url": "https://gianidafirenze.cl/products/mochila-mujer-sauce-print",
@@ -6206,7 +6098,7 @@
      },
      "precio": 67425.0,
      "precio_anterior": 89900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-beige?variant=44657466572843"
@@ -20151,7 +20043,7 @@
      },
      "precio": 67425.0,
      "precio_anterior": 89900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-cafe?variant=44654451949611"

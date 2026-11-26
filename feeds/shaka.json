@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-26T20:20:40+00:00",
+ "generado": "2026-11-26T23:12:53+00:00",
  "total": 549,
  "productos": [
   {
@@ -1011,7 +1011,7 @@
    "caracteristicas": {
     "Corte": "intermedio entre oversize y boxy fit."
    },
-   "precio_desde": 95000.0,
+   "precio_desde": 85500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -1025,8 +1025,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 20,
@@ -1037,8 +1037,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 40,
@@ -1049,8 +1049,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 34,
@@ -1061,8 +1061,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 15,
@@ -1079,7 +1079,7 @@
    ],
    "descripcion": "Cinturon de cinta sublimada.\n\nHebilla metalica y puntera con grabado de shaka.\n\nInterior de la hebilla con funcion de destapador.\n\nLargo total 120cm y 4cm de ancho. (puede achicarse ver abajo de la descripcion video demostrativo)",
    "caracteristicas": {},
-   "precio_desde": 60000.0,
+   "precio_desde": 54000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -1093,8 +1093,8 @@
      "opciones": {
       "Talle": "1"
      },
-     "precio": 60000.0,
-     "precio_anterior": null,
+     "precio": 54000.0,
+     "precio_anterior": 60000.0,
      "disponible": true,
      "preorden": false,
      "stock": 51,
@@ -1216,7 +1216,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 70000.0,
+   "precio_desde": 63000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -1230,8 +1230,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 9,
@@ -1242,8 +1242,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 20,
@@ -1254,8 +1254,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 20,
@@ -1266,8 +1266,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 9,
@@ -2020,7 +2020,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 63000.0,
+   "precio_desde": 45000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -2034,7 +2034,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 63000.0,
+     "precio": 45000.0,
      "precio_anterior": 90000.0,
      "disponible": false,
      "preorden": false,
@@ -2046,7 +2046,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 63000.0,
+     "precio": 45000.0,
      "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
@@ -2058,7 +2058,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 63000.0,
+     "precio": 45000.0,
      "precio_anterior": 90000.0,
      "disponible": false,
      "preorden": false,
@@ -2070,7 +2070,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 63000.0,
+     "precio": 45000.0,
      "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
@@ -2428,7 +2428,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 95000.0,
+   "precio_desde": 85500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -2442,8 +2442,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -2454,8 +2454,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 3,
@@ -2466,8 +2466,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 1,
@@ -2478,8 +2478,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 1,
@@ -2811,7 +2811,7 @@
    "caracteristicas": {
     "Corte": "3/4 surfer fit."
    },
-   "precio_desde": 100000.0,
+   "precio_desde": 90000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -2825,8 +2825,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 100000.0,
-     "precio_anterior": null,
+     "precio": 90000.0,
+     "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
      "stock": 40,
@@ -2837,8 +2837,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 100000.0,
-     "precio_anterior": null,
+     "precio": 90000.0,
+     "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
      "stock": 83,
@@ -2849,8 +2849,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 100000.0,
-     "precio_anterior": null,
+     "precio": 90000.0,
+     "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
      "stock": 83,
@@ -2861,8 +2861,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 100000.0,
-     "precio_anterior": null,
+     "precio": 90000.0,
+     "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
      "stock": 41,
@@ -3697,7 +3697,7 @@
    "caracteristicas": {
     "Corte": "regular fit ."
    },
-   "precio_desde": 78000.0,
+   "precio_desde": 65000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -3711,7 +3711,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 78000.0,
+     "precio": 65000.0,
      "precio_anterior": 130000.0,
      "disponible": true,
      "preorden": false,
@@ -3723,7 +3723,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 78000.0,
+     "precio": 65000.0,
      "precio_anterior": 130000.0,
      "disponible": true,
      "preorden": false,
@@ -3735,7 +3735,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 78000.0,
+     "precio": 65000.0,
      "precio_anterior": 130000.0,
      "disponible": true,
      "preorden": false,
@@ -3747,7 +3747,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 78000.0,
+     "precio": 65000.0,
      "precio_anterior": 130000.0,
      "disponible": true,
      "preorden": false,
@@ -3965,7 +3965,7 @@
    "caracteristicas": {
     "Corte": "regular fit."
    },
-   "precio_desde": 130000.0,
+   "precio_desde": 117000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -3979,8 +3979,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 130000.0,
-     "precio_anterior": null,
+     "precio": 117000.0,
+     "precio_anterior": 130000.0,
      "disponible": true,
      "preorden": false,
      "stock": 6,
@@ -3991,8 +3991,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 130000.0,
-     "precio_anterior": null,
+     "precio": 117000.0,
+     "precio_anterior": 130000.0,
      "disponible": true,
      "preorden": false,
      "stock": 14,
@@ -4003,8 +4003,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 130000.0,
-     "precio_anterior": null,
+     "precio": 117000.0,
+     "precio_anterior": 130000.0,
      "disponible": true,
      "preorden": false,
      "stock": 15,
@@ -4015,8 +4015,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 130000.0,
-     "precio_anterior": null,
+     "precio": 117000.0,
+     "precio_anterior": 130000.0,
      "disponible": true,
      "preorden": false,
      "stock": 6,
@@ -4911,7 +4911,7 @@
    "caracteristicas": {
     "Corte": "baggy."
    },
-   "precio_desde": 105000.0,
+   "precio_desde": 94500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -4925,8 +4925,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 105000.0,
-     "precio_anterior": null,
+     "precio": 94500.0,
+     "precio_anterior": 105000.0,
      "disponible": true,
      "preorden": false,
      "stock": 2,
@@ -4937,8 +4937,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 105000.0,
-     "precio_anterior": null,
+     "precio": 94500.0,
+     "precio_anterior": 105000.0,
      "disponible": true,
      "preorden": false,
      "stock": 9,
@@ -4949,8 +4949,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 105000.0,
-     "precio_anterior": null,
+     "precio": 94500.0,
+     "precio_anterior": 105000.0,
      "disponible": true,
      "preorden": false,
      "stock": 2,
@@ -4961,8 +4961,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 105000.0,
-     "precio_anterior": null,
+     "precio": 94500.0,
+     "precio_anterior": 105000.0,
      "disponible": true,
      "preorden": false,
      "stock": 3,
@@ -4979,7 +4979,7 @@
    ],
    "descripcion": "Gorra de gabardina con lavado.\n\nParches de corazones rotos.\n\nCorte y desgaste en visera.\n\nHecho en Argentina x argentinos.",
    "caracteristicas": {},
-   "precio_desde": 65000.0,
+   "precio_desde": 58500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -4993,8 +4993,8 @@
      "opciones": {
       "Talle": "TALLE UNICO"
      },
-     "precio": 65000.0,
-     "precio_anterior": null,
+     "precio": 58500.0,
+     "precio_anterior": 65000.0,
      "disponible": true,
      "preorden": false,
      "stock": 4,
@@ -5335,9 +5335,7 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -5347,9 +5345,7 @@
     },
     {
      "sku": "371",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -5359,9 +5355,7 @@
     },
     {
      "sku": "372",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -5788,7 +5782,7 @@
    "caracteristicas": {
     "Corte": "boxy fit."
    },
-   "precio_desde": 67500.0,
+   "precio_desde": 52500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -5802,7 +5796,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 67500.0,
+     "precio": 52500.0,
      "precio_anterior": 75000.0,
      "disponible": true,
      "preorden": false,
@@ -5814,7 +5808,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 67500.0,
+     "precio": 52500.0,
      "precio_anterior": 75000.0,
      "disponible": true,
      "preorden": false,
@@ -5826,7 +5820,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 67500.0,
+     "precio": 52500.0,
      "precio_anterior": 75000.0,
      "disponible": true,
      "preorden": false,
@@ -5838,7 +5832,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 67500.0,
+     "precio": 52500.0,
      "precio_anterior": 75000.0,
      "disponible": true,
      "preorden": false,
@@ -5993,7 +5987,7 @@
    "caracteristicas": {
     "Corte": "oversize fit ."
    },
-   "precio_desde": 135000.0,
+   "precio_desde": 121500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -6007,8 +6001,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 8,
@@ -6019,8 +6013,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 16,
@@ -6031,8 +6025,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 10,
@@ -6043,8 +6037,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 6,
@@ -6685,7 +6679,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 70000.0,
+   "precio_desde": 63000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -6699,8 +6693,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 37,
@@ -6711,8 +6705,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 74,
@@ -6723,8 +6717,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 62,
@@ -6735,8 +6729,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 27,
@@ -7139,7 +7133,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 70000.0,
+   "precio_desde": 63000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -7153,8 +7147,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 25,
@@ -7165,8 +7159,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 50,
@@ -7177,8 +7171,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 48,
@@ -7189,8 +7183,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 25,
@@ -7307,7 +7301,7 @@
    "caracteristicas": {
     "Corte": "oversize fit ."
    },
-   "precio_desde": 162000.0,
+   "precio_desde": 90000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -7321,7 +7315,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 162000.0,
+     "precio": 90000.0,
      "precio_anterior": 180000.0,
      "disponible": true,
      "preorden": false,
@@ -7333,7 +7327,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 162000.0,
+     "precio": 90000.0,
      "precio_anterior": 180000.0,
      "disponible": true,
      "preorden": false,
@@ -7345,7 +7339,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 162000.0,
+     "precio": 90000.0,
      "precio_anterior": 180000.0,
      "disponible": true,
      "preorden": false,
@@ -7357,7 +7351,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 162000.0,
+     "precio": 90000.0,
      "precio_anterior": 180000.0,
      "disponible": false,
      "preorden": false,
@@ -8235,9 +8229,7 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -8247,9 +8239,7 @@
     },
     {
      "sku": "368",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -8259,9 +8249,7 @@
     },
     {
      "sku": "369",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -8760,7 +8748,7 @@
    "caracteristicas": {
     "Corte": "regular fit."
    },
-   "precio_desde": 76000.0,
+   "precio_desde": 47500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -8774,7 +8762,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 76000.0,
+     "precio": 47500.0,
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
@@ -8786,7 +8774,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 76000.0,
+     "precio": 47500.0,
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
@@ -8798,7 +8786,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 76000.0,
+     "precio": 47500.0,
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
@@ -8810,7 +8798,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 76000.0,
+     "precio": 47500.0,
      "precio_anterior": 95000.0,
      "disponible": false,
      "preorden": false,
@@ -9282,7 +9270,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 70000.0,
+   "precio_desde": 63000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -9296,8 +9284,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 12,
@@ -9308,8 +9296,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 31,
@@ -9320,8 +9308,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 29,
@@ -9332,8 +9320,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 15,
@@ -9422,7 +9410,7 @@
    "caracteristicas": {
     "Corte": "oversize fit ."
    },
-   "precio_desde": 145000.0,
+   "precio_desde": 130500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -9436,8 +9424,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 145000.0,
-     "precio_anterior": null,
+     "precio": 130500.0,
+     "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
      "stock": 2,
@@ -9448,8 +9436,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 145000.0,
-     "precio_anterior": null,
+     "precio": 130500.0,
+     "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
      "stock": 14,
@@ -9460,8 +9448,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 145000.0,
-     "precio_anterior": null,
+     "precio": 130500.0,
+     "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
      "stock": 14,
@@ -9472,8 +9460,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 145000.0,
-     "precio_anterior": null,
+     "precio": 130500.0,
+     "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
      "stock": 6,
@@ -9912,7 +9900,7 @@
    "caracteristicas": {
     "Corte": "baggy."
    },
-   "precio_desde": 120000.0,
+   "precio_desde": 108000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -9925,8 +9913,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 120000.0,
-     "precio_anterior": null,
+     "precio": 108000.0,
+     "precio_anterior": 120000.0,
      "disponible": true,
      "preorden": false,
      "stock": 13,
@@ -9937,11 +9925,11 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 120000.0,
-     "precio_anterior": null,
+     "precio": 108000.0,
+     "precio_anterior": 120000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 25,
+     "stock": 24,
      "url": "https://sh-aka.com.ar/productos/tailored-smmr-jort-crudo-8r6p6/?variant=1615128385"
     },
     {
@@ -9949,8 +9937,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 120000.0,
-     "precio_anterior": null,
+     "precio": 108000.0,
+     "precio_anterior": 120000.0,
      "disponible": true,
      "preorden": false,
      "stock": 26,
@@ -9961,8 +9949,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 120000.0,
-     "precio_anterior": null,
+     "precio": 108000.0,
+     "precio_anterior": 120000.0,
      "disponible": true,
      "preorden": false,
      "stock": 14,
@@ -10560,7 +10548,7 @@
    ],
    "descripcion": "Cinturon de cinta sublimada.\n\nHebilla metalica y puntera con grabado de shaka.\n\nInterior de la hebilla con funcion de destapador.\n\nLargo total 120cm y 4cm de ancho. (puede achicarse ver abajo de la descripcion video demostrativo)",
    "caracteristicas": {},
-   "precio_desde": 60000.0,
+   "precio_desde": 54000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -10574,8 +10562,8 @@
      "opciones": {
       "Talle": "1"
      },
-     "precio": 60000.0,
-     "precio_anterior": null,
+     "precio": 54000.0,
+     "precio_anterior": 60000.0,
      "disponible": true,
      "preorden": false,
      "stock": 42,
@@ -10792,7 +10780,7 @@
    "caracteristicas": {
     "Corte": "3/4 surfer fit."
    },
-   "precio_desde": 95000.0,
+   "precio_desde": 85500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -10806,8 +10794,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -10818,11 +10806,11 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
-     "disponible": true,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
+     "disponible": false,
      "preorden": false,
-     "stock": 1,
+     "stock": 0,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-gris-1fxvk/?variant=1615118356"
     },
     {
@@ -10830,8 +10818,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -10842,8 +10830,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 3,
@@ -10862,9 +10850,9 @@
    "caracteristicas": {
     "Corte": "3/4 surf fit."
    },
-   "precio_desde": 75000.0,
+   "precio_desde": 37500.0,
    "moneda": "ARS",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://acdn-us.mitiendanube.com/stores/001/708/518/products/bvjfds-56d4d8766a4c88113517337847961665-1024-1024.webp",
     "https://acdn-us.mitiendanube.com/stores/001/708/518/products/bgrfvd-0817bced02da2a95e317337847962184-1024-1024.webp",
@@ -10876,8 +10864,8 @@
      "opciones": {
       "Talle": "XS"
      },
-     "precio": 75000.0,
-     "precio_anterior": null,
+     "precio": 37500.0,
+     "precio_anterior": 75000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -10888,8 +10876,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 75000.0,
-     "precio_anterior": null,
+     "precio": 37500.0,
+     "precio_anterior": 75000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -10900,11 +10888,11 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 75000.0,
-     "precio_anterior": null,
-     "disponible": true,
+     "precio": 37500.0,
+     "precio_anterior": 75000.0,
+     "disponible": false,
      "preorden": false,
-     "stock": 1,
+     "stock": 0,
      "url": "https://sh-aka.com.ar/productos/the-ocean-short-beige/?variant=1082662750"
     },
     {
@@ -10912,8 +10900,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 75000.0,
-     "precio_anterior": null,
+     "precio": 37500.0,
+     "precio_anterior": 75000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -10924,8 +10912,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 75000.0,
-     "precio_anterior": null,
+     "precio": 37500.0,
+     "precio_anterior": 75000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -11014,7 +11002,7 @@
    "caracteristicas": {
     "Corte": "boxy fit."
    },
-   "precio_desde": 95000.0,
+   "precio_desde": 85500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -11028,8 +11016,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 4,
@@ -11040,8 +11028,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -11052,8 +11040,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -11064,8 +11052,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -11780,7 +11768,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 56000.0,
+   "precio_desde": 49000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -11794,7 +11782,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 56000.0,
+     "precio": 49000.0,
      "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
@@ -11806,7 +11794,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 56000.0,
+     "precio": 49000.0,
      "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
@@ -11818,7 +11806,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 56000.0,
+     "precio": 49000.0,
      "precio_anterior": 70000.0,
      "disponible": false,
      "preorden": false,
@@ -11830,7 +11818,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 56000.0,
+     "precio": 49000.0,
      "precio_anterior": 70000.0,
      "disponible": false,
      "preorden": false,
@@ -11920,7 +11908,7 @@
    "caracteristicas": {
     "Corte": "intermedio entre oversize y boxy fit."
    },
-   "precio_desde": 90000.0,
+   "precio_desde": 81000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -11934,8 +11922,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 81000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 13,
@@ -11946,8 +11934,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 81000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 26,
@@ -11958,8 +11946,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 81000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 25,
@@ -11970,8 +11958,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 81000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 12,
@@ -12130,7 +12118,7 @@
    "caracteristicas": {
     "Corte": "regular fit."
    },
-   "precio_desde": 90000.0,
+   "precio_desde": 81000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -12144,8 +12132,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 81000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 8,
@@ -12156,8 +12144,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 81000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 15,
@@ -12168,8 +12156,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 81000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 15,
@@ -12180,8 +12168,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 81000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 8,
@@ -12410,7 +12398,7 @@
    "caracteristicas": {
     "Corte": "regular fit."
    },
-   "precio_desde": 85500.0,
+   "precio_desde": 76000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -12424,7 +12412,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 85500.0,
+     "precio": 76000.0,
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
@@ -12436,7 +12424,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 85500.0,
+     "precio": 76000.0,
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
@@ -12448,7 +12436,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 85500.0,
+     "precio": 76000.0,
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
@@ -12460,7 +12448,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 85500.0,
+     "precio": 76000.0,
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
@@ -13073,7 +13061,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 95000.0,
+   "precio_desde": 76000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -13087,8 +13075,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 76000.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 7,
@@ -13099,8 +13087,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 76000.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 14,
@@ -13111,8 +13099,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 76000.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 17,
@@ -13123,8 +13111,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 76000.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 7,
@@ -13597,7 +13585,7 @@
    "caracteristicas": {
     "Corte": "baggy."
    },
-   "precio_desde": 125000.0,
+   "precio_desde": 112500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -13611,8 +13599,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 125000.0,
-     "precio_anterior": null,
+     "precio": 112500.0,
+     "precio_anterior": 125000.0,
      "disponible": true,
      "preorden": false,
      "stock": 12,
@@ -13623,8 +13611,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 125000.0,
-     "precio_anterior": null,
+     "precio": 112500.0,
+     "precio_anterior": 125000.0,
      "disponible": true,
      "preorden": false,
      "stock": 22,
@@ -13635,8 +13623,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 125000.0,
-     "precio_anterior": null,
+     "precio": 112500.0,
+     "precio_anterior": 125000.0,
      "disponible": true,
      "preorden": false,
      "stock": 25,
@@ -13647,8 +13635,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 125000.0,
-     "precio_anterior": null,
+     "precio": 112500.0,
+     "precio_anterior": 125000.0,
      "disponible": true,
      "preorden": false,
      "stock": 6,
@@ -14191,7 +14179,7 @@
    "caracteristicas": {
     "Corte": "boxy fit."
    },
-   "precio_desde": 95000.0,
+   "precio_desde": 85500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -14205,8 +14193,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 5,
@@ -14217,8 +14205,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 2,
@@ -14229,8 +14217,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 1,
@@ -14241,8 +14229,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -14340,7 +14328,9 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -14350,7 +14340,9 @@
     },
     {
      "sku": "368",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -14360,7 +14352,9 @@
     },
     {
      "sku": "369",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -14451,7 +14445,7 @@
    "caracteristicas": {
     "Corte": "oversize fit ."
    },
-   "precio_desde": 135000.0,
+   "precio_desde": 121500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -14465,8 +14459,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 11,
@@ -14477,8 +14471,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 18,
@@ -14489,8 +14483,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 15,
@@ -14501,8 +14495,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 9,
@@ -14521,7 +14515,7 @@
    "caracteristicas": {
     "Corte": "regular fit ."
    },
-   "precio_desde": 180000.0,
+   "precio_desde": 160000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -14535,7 +14529,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 180000.0,
+     "precio": 160000.0,
      "precio_anterior": 200000.0,
      "disponible": true,
      "preorden": false,
@@ -14547,7 +14541,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 180000.0,
+     "precio": 160000.0,
      "precio_anterior": 200000.0,
      "disponible": true,
      "preorden": false,
@@ -14559,7 +14553,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 180000.0,
+     "precio": 160000.0,
      "precio_anterior": 200000.0,
      "disponible": true,
      "preorden": false,
@@ -14571,7 +14565,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 180000.0,
+     "precio": 160000.0,
      "precio_anterior": 200000.0,
      "disponible": true,
      "preorden": false,
@@ -14775,7 +14769,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 135000.0,
+   "precio_desde": 121500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -14789,8 +14783,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 12,
@@ -14801,8 +14795,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 25,
@@ -14813,8 +14807,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 24,
@@ -14825,8 +14819,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 10,
@@ -14845,7 +14839,7 @@
    "caracteristicas": {
     "Corte": "regular fit."
    },
-   "precio_desde": 90000.0,
+   "precio_desde": 81000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -14859,8 +14853,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 81000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 8,
@@ -14871,8 +14865,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 81000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 15,
@@ -14883,8 +14877,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 81000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 15,
@@ -14895,8 +14889,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 81000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 8,
@@ -15053,7 +15047,7 @@
    ],
    "descripcion": "Gorra de gabardina.\n\n6 parches de la marca.\n\nCorte y desgaste en visera.\n\nHecho en Argentina x argentinos.",
    "caracteristicas": {},
-   "precio_desde": 65000.0,
+   "precio_desde": 52000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -15067,8 +15061,8 @@
      "opciones": {
       "Talle": "TALLE UNICO"
      },
-     "precio": 65000.0,
-     "precio_anterior": null,
+     "precio": 52000.0,
+     "precio_anterior": 65000.0,
      "disponible": true,
      "preorden": false,
      "stock": 10,
@@ -15297,7 +15291,7 @@
    "caracteristicas": {
     "Corte": "boxy fit ."
    },
-   "precio_desde": 116000.0,
+   "precio_desde": 101500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -15311,7 +15305,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 116000.0,
+     "precio": 101500.0,
      "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
@@ -15323,7 +15317,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 116000.0,
+     "precio": 101500.0,
      "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
@@ -15335,7 +15329,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 116000.0,
+     "precio": 101500.0,
      "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
@@ -15347,7 +15341,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 116000.0,
+     "precio": 101500.0,
      "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
@@ -15811,7 +15805,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 35000.0,
+   "precio_desde": 42000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -15825,7 +15819,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 35000.0,
+     "precio": 42000.0,
      "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
@@ -15837,7 +15831,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 35000.0,
+     "precio": 42000.0,
      "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
@@ -15849,7 +15843,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 35000.0,
+     "precio": 42000.0,
      "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
@@ -15861,7 +15855,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 35000.0,
+     "precio": 42000.0,
      "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
@@ -16009,7 +16003,7 @@
    "caracteristicas": {
     "Corte": "regular fit ."
    },
-   "precio_desde": 104000.0,
+   "precio_desde": 91000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -16023,7 +16017,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 104000.0,
+     "precio": 91000.0,
      "precio_anterior": 130000.0,
      "disponible": true,
      "preorden": false,
@@ -16035,7 +16029,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 104000.0,
+     "precio": 91000.0,
      "precio_anterior": 130000.0,
      "disponible": true,
      "preorden": false,
@@ -16047,7 +16041,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 104000.0,
+     "precio": 91000.0,
      "precio_anterior": 130000.0,
      "disponible": true,
      "preorden": false,
@@ -16059,7 +16053,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 104000.0,
+     "precio": 91000.0,
      "precio_anterior": 130000.0,
      "disponible": true,
      "preorden": false,
@@ -17181,7 +17175,7 @@
    "caracteristicas": {
     "Corte": "intermedio entre oversize y boxy fit."
    },
-   "precio_desde": 95000.0,
+   "precio_desde": 85500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -17195,8 +17189,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 13,
@@ -17207,8 +17201,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 26,
@@ -17219,8 +17213,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 20,
@@ -17231,8 +17225,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 10,
@@ -17903,7 +17897,7 @@
    "caracteristicas": {
     "Corte": "boxy fit ."
    },
-   "precio_desde": 130500.0,
+   "precio_desde": 72500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -17917,7 +17911,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 130500.0,
+     "precio": 72500.0,
      "precio_anterior": 145000.0,
      "disponible": false,
      "preorden": false,
@@ -17929,7 +17923,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 130500.0,
+     "precio": 72500.0,
      "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
@@ -17941,7 +17935,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 130500.0,
+     "precio": 72500.0,
      "precio_anterior": 145000.0,
      "disponible": false,
      "preorden": false,
@@ -17953,7 +17947,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 130500.0,
+     "precio": 72500.0,
      "precio_anterior": 145000.0,
      "disponible": false,
      "preorden": false,
@@ -18215,7 +18209,7 @@
    "caracteristicas": {
     "MEDIDAS": "15X8 cm"
    },
-   "precio_desde": 60000.0,
+   "precio_desde": 54000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -18225,8 +18219,8 @@
     {
      "sku": "695",
      "opciones": {},
-     "precio": 60000.0,
-     "precio_anterior": null,
+     "precio": 54000.0,
+     "precio_anterior": 60000.0,
      "disponible": true,
      "preorden": false,
      "stock": 6,
@@ -18245,7 +18239,7 @@
    "caracteristicas": {
     "Corte": "3/4 surfer fit."
    },
-   "precio_desde": 95000.0,
+   "precio_desde": 85500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -18259,11 +18253,11 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 33,
+     "stock": 30,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-negro/?variant=1367947992"
     },
     {
@@ -18271,8 +18265,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 65,
@@ -18283,8 +18277,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 112,
@@ -18295,8 +18289,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 53,
@@ -18583,7 +18577,7 @@
    "caracteristicas": {
     "Corte": "slim fit."
    },
-   "precio_desde": 25000.0,
+   "precio_desde": 30000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -18597,7 +18591,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 25000.0,
+     "precio": 30000.0,
      "precio_anterior": 50000.0,
      "disponible": true,
      "preorden": false,
@@ -18609,7 +18603,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 25000.0,
+     "precio": 30000.0,
      "precio_anterior": 50000.0,
      "disponible": true,
      "preorden": false,
@@ -18621,7 +18615,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 25000.0,
+     "precio": 30000.0,
      "precio_anterior": 50000.0,
      "disponible": true,
      "preorden": false,
@@ -18633,7 +18627,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 25000.0,
+     "precio": 30000.0,
      "precio_anterior": 50000.0,
      "disponible": true,
      "preorden": false,
@@ -18740,7 +18734,7 @@
    "caracteristicas": {
     "Corte": "3/4 surfer fit."
    },
-   "precio_desde": 95000.0,
+   "precio_desde": 85500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -18754,11 +18748,11 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 18,
+     "stock": 16,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-azul/?variant=1367950141"
     },
     {
@@ -18766,8 +18760,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 73,
@@ -18778,11 +18772,11 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 74,
+     "stock": 73,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-azul/?variant=1367950151"
     },
     {
@@ -18790,8 +18784,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 50,
@@ -19432,7 +19426,7 @@
    "caracteristicas": {
     "Corte": "boxy fit."
    },
-   "precio_desde": 67500.0,
+   "precio_desde": 45000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -19446,7 +19440,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 67500.0,
+     "precio": 45000.0,
      "precio_anterior": 75000.0,
      "disponible": true,
      "preorden": false,
@@ -19458,7 +19452,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 67500.0,
+     "precio": 45000.0,
      "precio_anterior": 75000.0,
      "disponible": true,
      "preorden": false,
@@ -19470,7 +19464,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 67500.0,
+     "precio": 45000.0,
      "precio_anterior": 75000.0,
      "disponible": true,
      "preorden": false,
@@ -19482,7 +19476,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 67500.0,
+     "precio": 45000.0,
      "precio_anterior": 75000.0,
      "disponible": true,
      "preorden": false,
@@ -19848,7 +19842,7 @@
    "caracteristicas": {
     "Corte": "oversize fit ."
    },
-   "precio_desde": 145000.0,
+   "precio_desde": 130500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -19862,8 +19856,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 145000.0,
-     "precio_anterior": null,
+     "precio": 130500.0,
+     "precio_anterior": 145000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -19874,8 +19868,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 145000.0,
-     "precio_anterior": null,
+     "precio": 130500.0,
+     "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
      "stock": 6,
@@ -19886,8 +19880,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 145000.0,
-     "precio_anterior": null,
+     "precio": 130500.0,
+     "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
      "stock": 2,
@@ -19898,8 +19892,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 145000.0,
-     "precio_anterior": null,
+     "precio": 130500.0,
+     "precio_anterior": 145000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -20584,7 +20578,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 135000.0,
+   "precio_desde": 121500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -20598,8 +20592,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 4,
@@ -20610,8 +20604,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 11,
@@ -20622,8 +20616,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 10,
@@ -20634,8 +20628,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 3,
@@ -21196,7 +21190,7 @@
    "caracteristicas": {
     "Corte": "regular fit."
    },
-   "precio_desde": 85000.0,
+   "precio_desde": 76500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -21210,8 +21204,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 85000.0,
-     "precio_anterior": null,
+     "precio": 76500.0,
+     "precio_anterior": 85000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -21222,8 +21216,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 85000.0,
-     "precio_anterior": null,
+     "precio": 76500.0,
+     "precio_anterior": 85000.0,
      "disponible": true,
      "preorden": false,
      "stock": 2,
@@ -21234,8 +21228,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 85000.0,
-     "precio_anterior": null,
+     "precio": 76500.0,
+     "precio_anterior": 85000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -21246,8 +21240,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 85000.0,
-     "precio_anterior": null,
+     "precio": 76500.0,
+     "precio_anterior": 85000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -21648,7 +21642,7 @@
    "caracteristicas": {
     "MEDIDAS": "15X8 cm"
    },
-   "precio_desde": 60000.0,
+   "precio_desde": 54000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -21658,8 +21652,8 @@
     {
      "sku": "695",
      "opciones": {},
-     "precio": 60000.0,
-     "precio_anterior": null,
+     "precio": 54000.0,
+     "precio_anterior": 60000.0,
      "disponible": true,
      "preorden": false,
      "stock": 3,
@@ -21736,7 +21730,7 @@
    "caracteristicas": {
     "Corte": "3/4 surfer fit."
    },
-   "precio_desde": 95000.0,
+   "precio_desde": 85500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -21750,8 +21744,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -21762,11 +21756,11 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 12,
+     "stock": 10,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-rojo-j5zk3/?variant=1367949985"
     },
     {
@@ -21774,8 +21768,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 18,
@@ -21786,8 +21780,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 8,
@@ -21946,7 +21940,7 @@
    "caracteristicas": {
     "Corte": "intermedio entre oversize y boxy fit."
    },
-   "precio_desde": 95000.0,
+   "precio_desde": 85500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -21960,8 +21954,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 14,
@@ -21972,8 +21966,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 29,
@@ -21984,8 +21978,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 19,
@@ -21996,8 +21990,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 95000.0,
-     "precio_anterior": null,
+     "precio": 85500.0,
+     "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
      "stock": 6,
@@ -22763,7 +22757,7 @@
    "caracteristicas": {
     "Corte": "baggy."
    },
-   "precio_desde": 105000.0,
+   "precio_desde": 94500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -22777,8 +22771,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 105000.0,
-     "precio_anterior": null,
+     "precio": 94500.0,
+     "precio_anterior": 105000.0,
      "disponible": true,
      "preorden": false,
      "stock": 6,
@@ -22789,8 +22783,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 105000.0,
-     "precio_anterior": null,
+     "precio": 94500.0,
+     "precio_anterior": 105000.0,
      "disponible": true,
      "preorden": false,
      "stock": 12,
@@ -22801,8 +22795,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 105000.0,
-     "precio_anterior": null,
+     "precio": 94500.0,
+     "precio_anterior": 105000.0,
      "disponible": true,
      "preorden": false,
      "stock": 12,
@@ -22813,8 +22807,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 105000.0,
-     "precio_anterior": null,
+     "precio": 94500.0,
+     "precio_anterior": 105000.0,
      "disponible": true,
      "preorden": false,
      "stock": 6,
@@ -22903,7 +22897,7 @@
    "caracteristicas": {
     "Corte": "oversize fit ."
    },
-   "precio_desde": 135000.0,
+   "precio_desde": 121500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -22917,8 +22911,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 12,
@@ -22929,8 +22923,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 23,
@@ -22941,8 +22935,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 22,
@@ -22953,8 +22947,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 12,
@@ -23253,7 +23247,7 @@
    "caracteristicas": {
     "Corte": "3/4 surfer fit."
    },
-   "precio_desde": 100000.0,
+   "precio_desde": 90000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -23267,8 +23261,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 100000.0,
-     "precio_anterior": null,
+     "precio": 90000.0,
+     "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
      "stock": 49,
@@ -23279,8 +23273,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 100000.0,
-     "precio_anterior": null,
+     "precio": 90000.0,
+     "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
      "stock": 100,
@@ -23291,8 +23285,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 100000.0,
-     "precio_anterior": null,
+     "precio": 90000.0,
+     "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
      "stock": 100,
@@ -23303,8 +23297,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 100000.0,
-     "precio_anterior": null,
+     "precio": 90000.0,
+     "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
      "stock": 49,
@@ -23393,7 +23387,7 @@
    "caracteristicas": {
     "Corte": "regular fit."
    },
-   "precio_desde": 130500.0,
+   "precio_desde": 116000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -23407,7 +23401,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 130500.0,
+     "precio": 116000.0,
      "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
@@ -23419,7 +23413,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 130500.0,
+     "precio": 116000.0,
      "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
@@ -23431,7 +23425,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 130500.0,
+     "precio": 116000.0,
      "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
@@ -23443,7 +23437,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 130500.0,
+     "precio": 116000.0,
      "precio_anterior": 145000.0,
      "disponible": false,
      "preorden": false,
@@ -23533,7 +23527,7 @@
    "caracteristicas": {
     "Corte": "3/4"
    },
-   "precio_desde": 24000.0,
+   "precio_desde": 20000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -23547,7 +23541,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 24000.0,
+     "precio": 20000.0,
      "precio_anterior": 40000.0,
      "disponible": true,
      "preorden": false,
@@ -23559,7 +23553,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 24000.0,
+     "precio": 20000.0,
      "precio_anterior": 40000.0,
      "disponible": true,
      "preorden": false,
@@ -23571,7 +23565,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 24000.0,
+     "precio": 20000.0,
      "precio_anterior": 40000.0,
      "disponible": true,
      "preorden": false,
@@ -23583,7 +23577,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 24000.0,
+     "precio": 20000.0,
      "precio_anterior": 40000.0,
      "disponible": true,
      "preorden": false,
@@ -23735,7 +23729,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 135000.0,
+   "precio_desde": 121500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -23749,8 +23743,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 3,
@@ -23761,8 +23755,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 10,
@@ -23773,8 +23767,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 7,
@@ -23785,8 +23779,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 135000.0,
-     "precio_anterior": null,
+     "precio": 121500.0,
+     "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
      "stock": 3,
@@ -23955,7 +23949,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 70000.0,
+   "precio_desde": 63000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -23969,8 +23963,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 8,
@@ -23981,8 +23975,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 17,
@@ -23993,8 +23987,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 22,
@@ -24005,8 +23999,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 7,
@@ -24654,7 +24648,7 @@
    "caracteristicas": {
     "Corte": "regular fit."
    },
-   "precio_desde": 85000.0,
+   "precio_desde": 76500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -24668,8 +24662,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 85000.0,
-     "precio_anterior": null,
+     "precio": 76500.0,
+     "precio_anterior": 85000.0,
      "disponible": true,
      "preorden": false,
      "stock": 11,
@@ -24680,8 +24674,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 85000.0,
-     "precio_anterior": null,
+     "precio": 76500.0,
+     "precio_anterior": 85000.0,
      "disponible": true,
      "preorden": false,
      "stock": 19,
@@ -24692,11 +24686,11 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 85000.0,
-     "precio_anterior": null,
+     "precio": 76500.0,
+     "precio_anterior": 85000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 20,
+     "stock": 19,
      "url": "https://sh-aka.com.ar/productos/fire-3-shirt-marron-1962n/?variant=1645756646"
     },
     {
@@ -24704,8 +24698,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 85000.0,
-     "precio_anterior": null,
+     "precio": 76500.0,
+     "precio_anterior": 85000.0,
      "disponible": true,
      "preorden": false,
      "stock": 9,
@@ -24934,7 +24928,7 @@
    "caracteristicas": {
     "Corte": "intermedio entre oversize y boxy fit."
    },
-   "precio_desde": 84000.0,
+   "precio_desde": 60000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -24948,7 +24942,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 84000.0,
+     "precio": 60000.0,
      "precio_anterior": 120000.0,
      "disponible": false,
      "preorden": false,
@@ -24960,7 +24954,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 84000.0,
+     "precio": 60000.0,
      "precio_anterior": 120000.0,
      "disponible": true,
      "preorden": false,
@@ -24972,7 +24966,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 84000.0,
+     "precio": 60000.0,
      "precio_anterior": 120000.0,
      "disponible": true,
      "preorden": false,
@@ -24984,7 +24978,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 84000.0,
+     "precio": 60000.0,
      "precio_anterior": 120000.0,
      "disponible": false,
      "preorden": false,
@@ -25074,7 +25068,7 @@
    "caracteristicas": {
     "Corte": "boxy fit."
    },
-   "precio_desde": 66500.0,
+   "precio_desde": 76000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -25088,7 +25082,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 66500.0,
+     "precio": 76000.0,
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
@@ -25100,7 +25094,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 66500.0,
+     "precio": 76000.0,
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
@@ -25112,7 +25106,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 66500.0,
+     "precio": 76000.0,
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
@@ -25124,7 +25118,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 66500.0,
+     "precio": 76000.0,
      "precio_anterior": 95000.0,
      "disponible": false,
      "preorden": false,
@@ -25770,7 +25764,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 70000.0,
+   "precio_desde": 63000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -25784,8 +25778,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 18,
@@ -25796,8 +25790,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 44,
@@ -25808,8 +25802,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 40,
@@ -25820,8 +25814,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 16,
@@ -25910,7 +25904,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 70000.0,
+   "precio_desde": 63000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -25924,8 +25918,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 8,
@@ -25936,8 +25930,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 16,
@@ -25948,8 +25942,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 16,
@@ -25960,8 +25954,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 8,
@@ -26549,7 +26543,7 @@
    "caracteristicas": {
     "Corte": "boxy fit."
    },
-   "precio_desde": 80000.0,
+   "precio_desde": 72000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -26563,8 +26557,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 80000.0,
-     "precio_anterior": null,
+     "precio": 72000.0,
+     "precio_anterior": 80000.0,
      "disponible": true,
      "preorden": false,
      "stock": 9,
@@ -26575,8 +26569,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 80000.0,
-     "precio_anterior": null,
+     "precio": 72000.0,
+     "precio_anterior": 80000.0,
      "disponible": true,
      "preorden": false,
      "stock": 19,
@@ -26587,8 +26581,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 80000.0,
-     "precio_anterior": null,
+     "precio": 72000.0,
+     "precio_anterior": 80000.0,
      "disponible": true,
      "preorden": false,
      "stock": 18,
@@ -26599,8 +26593,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 80000.0,
-     "precio_anterior": null,
+     "precio": 72000.0,
+     "precio_anterior": 80000.0,
      "disponible": true,
      "preorden": false,
      "stock": 7,
@@ -26759,7 +26753,7 @@
    "caracteristicas": {
     "Corte": "3/4"
    },
-   "precio_desde": 28000.0,
+   "precio_desde": 20000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -26773,7 +26767,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 28000.0,
+     "precio": 20000.0,
      "precio_anterior": 40000.0,
      "disponible": true,
      "preorden": false,
@@ -26785,7 +26779,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 28000.0,
+     "precio": 20000.0,
      "precio_anterior": 40000.0,
      "disponible": true,
      "preorden": false,
@@ -26797,7 +26791,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 28000.0,
+     "precio": 20000.0,
      "precio_anterior": 40000.0,
      "disponible": true,
      "preorden": false,
@@ -26809,7 +26803,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 28000.0,
+     "precio": 20000.0,
      "precio_anterior": 40000.0,
      "disponible": true,
      "preorden": false,
@@ -26827,7 +26821,7 @@
    ],
    "descripcion": "Cinturon de cinta sublimada.\n\nHebilla metalica y puntera con grabado de shaka.\n\nInterior de la hebilla con funcion de destapador.\n\nLargo total 120cm y 4cm de ancho. (puede achicarse ver abajo de la descripcion video demostrativo)",
    "caracteristicas": {},
-   "precio_desde": 60000.0,
+   "precio_desde": 54000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -26841,8 +26835,8 @@
      "opciones": {
       "Talle": "1"
      },
-     "precio": 60000.0,
-     "precio_anterior": null,
+     "precio": 54000.0,
+     "precio_anterior": 60000.0,
      "disponible": true,
      "preorden": false,
      "stock": 50,
@@ -27133,7 +27127,7 @@
      "precio_anterior": 110000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 3,
+     "stock": 2,
      "url": "https://sh-aka.com.ar/productos/shk-crewneck-1xdv2/?variant=1475139156"
     },
     {
@@ -27403,7 +27397,7 @@
    "caracteristicas": {
     "Corte": "3/4 surfer fit."
    },
-   "precio_desde": 100000.0,
+   "precio_desde": 90000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -27417,8 +27411,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 100000.0,
-     "precio_anterior": null,
+     "precio": 90000.0,
+     "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
      "stock": 49,
@@ -27429,8 +27423,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 100000.0,
-     "precio_anterior": null,
+     "precio": 90000.0,
+     "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
      "stock": 97,
@@ -27441,11 +27435,11 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 100000.0,
-     "precio_anterior": null,
+     "precio": 90000.0,
+     "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 97,
+     "stock": 96,
      "url": "https://sh-aka.com.ar/productos/90s-boardshort-blanco-1yclz/?variant=1645758038"
     },
     {
@@ -27453,8 +27447,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 100000.0,
-     "precio_anterior": null,
+     "precio": 90000.0,
+     "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
      "stock": 50,
@@ -28721,7 +28715,7 @@
    ],
    "descripcion": "Cinturon con aplique metalico de la marca.\n\nGrabado de shaka.\n\nTextura peluda de vaca\n\n100% cuero vacuno argentino.",
    "caracteristicas": {},
-   "precio_desde": 90000.0,
+   "precio_desde": 72000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -28735,8 +28729,8 @@
      "opciones": {
       "Talle": "1"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 72000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 7,
@@ -28747,8 +28741,8 @@
      "opciones": {
       "Talle": "2"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 72000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 2,
@@ -28837,7 +28831,7 @@
    "caracteristicas": {
     "Corte": "regular fit ."
    },
-   "precio_desde": 145000.0,
+   "precio_desde": 130500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -28851,8 +28845,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 145000.0,
-     "precio_anterior": null,
+     "precio": 130500.0,
+     "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
      "stock": 4,
@@ -28863,8 +28857,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 145000.0,
-     "precio_anterior": null,
+     "precio": 130500.0,
+     "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
      "stock": 4,
@@ -28875,8 +28869,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 145000.0,
-     "precio_anterior": null,
+     "precio": 130500.0,
+     "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
      "stock": 5,
@@ -28887,8 +28881,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 145000.0,
-     "precio_anterior": null,
+     "precio": 130500.0,
+     "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
      "stock": 5,
@@ -28963,7 +28957,7 @@
    "caracteristicas": {
     "Corte": "baggy."
    },
-   "precio_desde": 105000.0,
+   "precio_desde": 94500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -28977,8 +28971,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 105000.0,
-     "precio_anterior": null,
+     "precio": 94500.0,
+     "precio_anterior": 105000.0,
      "disponible": true,
      "preorden": false,
      "stock": 13,
@@ -28989,8 +28983,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 105000.0,
-     "precio_anterior": null,
+     "precio": 94500.0,
+     "precio_anterior": 105000.0,
      "disponible": true,
      "preorden": false,
      "stock": 28,
@@ -29001,8 +28995,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 105000.0,
-     "precio_anterior": null,
+     "precio": 94500.0,
+     "precio_anterior": 105000.0,
      "disponible": true,
      "preorden": false,
      "stock": 26,
@@ -29013,8 +29007,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 105000.0,
-     "precio_anterior": null,
+     "precio": 94500.0,
+     "precio_anterior": 105000.0,
      "disponible": true,
      "preorden": false,
      "stock": 14,
@@ -29173,7 +29167,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 70000.0,
+   "precio_desde": 63000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -29187,8 +29181,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 12,
@@ -29199,8 +29193,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 24,
@@ -29211,8 +29205,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 24,
@@ -29223,8 +29217,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 12,
@@ -29553,7 +29547,7 @@
    ],
    "descripcion": "Top de 100% algodón.\n\nTela morley\n\nHecho en Argentina x argentinos.\n\nElla mide 1,62 y usa talle S",
    "caracteristicas": {},
-   "precio_desde": 15000.0,
+   "precio_desde": 21000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -29564,8 +29558,10 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {},
-     "precio": 15000.0,
+     "opciones": {
+      "Talle": "S"
+     },
+     "precio": 21000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
      "preorden": false,
@@ -29574,8 +29570,10 @@
     },
     {
      "sku": "371",
-     "opciones": {},
-     "precio": 15000.0,
+     "opciones": {
+      "Talle": "M"
+     },
+     "precio": 21000.0,
      "precio_anterior": 30000.0,
      "disponible": true,
      "preorden": false,
@@ -29584,8 +29582,10 @@
     },
     {
      "sku": "372",
-     "opciones": {},
-     "precio": 15000.0,
+     "opciones": {
+      "Talle": "L"
+     },
+     "precio": 21000.0,
      "precio_anterior": 30000.0,
      "disponible": true,
      "preorden": false,
@@ -29745,7 +29745,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 54000.0,
+   "precio_desde": 45000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -29759,7 +29759,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 54000.0,
+     "precio": 45000.0,
      "precio_anterior": 90000.0,
      "disponible": false,
      "preorden": false,
@@ -29771,7 +29771,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 54000.0,
+     "precio": 45000.0,
      "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
@@ -29783,7 +29783,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 54000.0,
+     "precio": 45000.0,
      "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
@@ -29795,7 +29795,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 54000.0,
+     "precio": 45000.0,
      "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
@@ -29955,7 +29955,7 @@
    "caracteristicas": {
     "Corte": "intermedio entre oversize y boxy fit."
    },
-   "precio_desde": 90000.0,
+   "precio_desde": 81000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -29969,8 +29969,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 81000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 5,
@@ -29981,8 +29981,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 81000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 10,
@@ -29993,8 +29993,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 81000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 9,
@@ -30005,8 +30005,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 81000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 5,
@@ -30023,7 +30023,7 @@
    ],
    "descripcion": "Cinturon con aplique metalico de la marca.\n\nGrabado de shaka.\n\nTextura croco.\n\n100% cuero vacuno argentino.",
    "caracteristicas": {},
-   "precio_desde": 90000.0,
+   "precio_desde": 72000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -30037,8 +30037,8 @@
      "opciones": {
       "Talle": "1"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 72000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 24,
@@ -30049,8 +30049,8 @@
      "opciones": {
       "Talle": "2"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 72000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 4,
@@ -30465,7 +30465,7 @@
    "caracteristicas": {
     "Corte": "baggy."
    },
-   "precio_desde": 105000.0,
+   "precio_desde": 94500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -30479,8 +30479,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 105000.0,
-     "precio_anterior": null,
+     "precio": 94500.0,
+     "precio_anterior": 105000.0,
      "disponible": true,
      "preorden": false,
      "stock": 3,
@@ -30491,8 +30491,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 105000.0,
-     "precio_anterior": null,
+     "precio": 94500.0,
+     "precio_anterior": 105000.0,
      "disponible": true,
      "preorden": false,
      "stock": 13,
@@ -30503,8 +30503,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 105000.0,
-     "precio_anterior": null,
+     "precio": 94500.0,
+     "precio_anterior": 105000.0,
      "disponible": true,
      "preorden": false,
      "stock": 6,
@@ -30515,8 +30515,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 105000.0,
-     "precio_anterior": null,
+     "precio": 94500.0,
+     "precio_anterior": 105000.0,
      "disponible": true,
      "preorden": false,
      "stock": 6,
@@ -30817,7 +30817,7 @@
    "caracteristicas": {
     "Corte": "baggy fit."
    },
-   "precio_desde": 112000.0,
+   "precio_desde": 70000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -30831,7 +30831,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 112000.0,
+     "precio": 70000.0,
      "precio_anterior": 140000.0,
      "disponible": true,
      "preorden": false,
@@ -30843,7 +30843,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 112000.0,
+     "precio": 70000.0,
      "precio_anterior": 140000.0,
      "disponible": true,
      "preorden": false,
@@ -30855,7 +30855,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 112000.0,
+     "precio": 70000.0,
      "precio_anterior": 140000.0,
      "disponible": false,
      "preorden": false,
@@ -30867,7 +30867,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 112000.0,
+     "precio": 70000.0,
      "precio_anterior": 140000.0,
      "disponible": false,
      "preorden": false,
@@ -30957,7 +30957,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 70000.0,
+   "precio_desde": 63000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -30971,8 +30971,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 6,
@@ -30983,8 +30983,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 12,
@@ -30995,8 +30995,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 9,
@@ -31007,8 +31007,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 70000.0,
-     "precio_anterior": null,
+     "precio": 63000.0,
+     "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
      "stock": 1,
@@ -31237,7 +31237,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 56000.0,
+   "precio_desde": 40000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -31251,7 +31251,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 56000.0,
+     "precio": 40000.0,
      "precio_anterior": 80000.0,
      "disponible": true,
      "preorden": false,
@@ -31263,7 +31263,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 56000.0,
+     "precio": 40000.0,
      "precio_anterior": 80000.0,
      "disponible": false,
      "preorden": false,
@@ -31275,7 +31275,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 56000.0,
+     "precio": 40000.0,
      "precio_anterior": 80000.0,
      "disponible": false,
      "preorden": false,
@@ -31287,7 +31287,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 56000.0,
+     "precio": 40000.0,
      "precio_anterior": 80000.0,
      "disponible": false,
      "preorden": false,
@@ -31377,7 +31377,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 27500.0,
+   "precio_desde": 33000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -31391,7 +31391,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 27500.0,
+     "precio": 33000.0,
      "precio_anterior": 55000.0,
      "disponible": true,
      "preorden": false,
@@ -31403,7 +31403,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 27500.0,
+     "precio": 33000.0,
      "precio_anterior": 55000.0,
      "disponible": true,
      "preorden": false,
@@ -31415,7 +31415,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 27500.0,
+     "precio": 33000.0,
      "precio_anterior": 55000.0,
      "disponible": true,
      "preorden": false,
@@ -31427,7 +31427,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 27500.0,
+     "precio": 33000.0,
      "precio_anterior": 55000.0,
      "disponible": false,
      "preorden": false,
@@ -31545,7 +31545,7 @@
    ],
    "descripcion": "Gorra de gabardina.\n\n6 parches de la marca.\n\nCorte y desgaste en visera.\n\nHecho en Argentina x argentinos.",
    "caracteristicas": {},
-   "precio_desde": 65000.0,
+   "precio_desde": 52000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -31559,8 +31559,8 @@
      "opciones": {
       "Talle": "TALLE UNICO"
      },
-     "precio": 65000.0,
-     "precio_anterior": null,
+     "precio": 52000.0,
+     "precio_anterior": 65000.0,
      "disponible": true,
      "preorden": false,
      "stock": 7,
@@ -31830,7 +31830,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 55000.0,
+   "precio_desde": 49500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -31844,8 +31844,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 55000.0,
-     "precio_anterior": null,
+     "precio": 49500.0,
+     "precio_anterior": 55000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -31856,8 +31856,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 55000.0,
-     "precio_anterior": null,
+     "precio": 49500.0,
+     "precio_anterior": 55000.0,
      "disponible": true,
      "preorden": false,
      "stock": 10,
@@ -31868,8 +31868,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 55000.0,
-     "precio_anterior": null,
+     "precio": 49500.0,
+     "precio_anterior": 55000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -31880,8 +31880,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 55000.0,
-     "precio_anterior": null,
+     "precio": 49500.0,
+     "precio_anterior": 55000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -31900,7 +31900,7 @@
    "caracteristicas": {
     "Corte": "regular fit ."
    },
-   "precio_desde": 78000.0,
+   "precio_desde": 65000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -31914,7 +31914,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 78000.0,
+     "precio": 65000.0,
      "precio_anterior": 130000.0,
      "disponible": true,
      "preorden": false,
@@ -31926,7 +31926,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 78000.0,
+     "precio": 65000.0,
      "precio_anterior": 130000.0,
      "disponible": true,
      "preorden": false,
@@ -31938,7 +31938,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 78000.0,
+     "precio": 65000.0,
      "precio_anterior": 130000.0,
      "disponible": true,
      "preorden": false,
@@ -31950,7 +31950,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 78000.0,
+     "precio": 65000.0,
      "precio_anterior": 130000.0,
      "disponible": true,
      "preorden": false,
@@ -32108,7 +32108,7 @@
    ],
    "descripcion": "Kepi de gabardina.\n\nAjuste con tira y metal.\n\nBordado 3d en frente, vicera y nuca.\n\nDesgastado en vicera.\n\nHecho en Argentina x argentinos.",
    "caracteristicas": {},
-   "precio_desde": 48000.0,
+   "precio_desde": 42000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -32122,7 +32122,7 @@
      "opciones": {
       "Talle": "TALLE UNICO"
      },
-     "precio": 48000.0,
+     "precio": 42000.0,
      "precio_anterior": 60000.0,
      "disponible": true,
      "preorden": false,
@@ -32140,7 +32140,7 @@
    ],
    "descripcion": "Boxer de poplin.\n\nEtiqueta de marca externa\n\nHecho en Argentina x argentinos.\n\nella mide 1,75 y usa talle L",
    "caracteristicas": {},
-   "precio_desde": 21000.0,
+   "precio_desde": 15000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -32154,7 +32154,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 21000.0,
+     "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": true,
      "preorden": false,
@@ -32166,7 +32166,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 21000.0,
+     "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
      "preorden": false,
@@ -32178,7 +32178,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 21000.0,
+     "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
      "preorden": false,
@@ -32268,7 +32268,7 @@
    "caracteristicas": {
     "Corte": "baggy."
    },
-   "precio_desde": 115000.0,
+   "precio_desde": 103500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -32282,8 +32282,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 115000.0,
-     "precio_anterior": null,
+     "precio": 103500.0,
+     "precio_anterior": 115000.0,
      "disponible": true,
      "preorden": false,
      "stock": 12,
@@ -32294,8 +32294,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 115000.0,
-     "precio_anterior": null,
+     "precio": 103500.0,
+     "precio_anterior": 115000.0,
      "disponible": true,
      "preorden": false,
      "stock": 26,
@@ -32306,8 +32306,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 115000.0,
-     "precio_anterior": null,
+     "precio": 103500.0,
+     "precio_anterior": 115000.0,
      "disponible": true,
      "preorden": false,
      "stock": 26,
@@ -32318,8 +32318,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 115000.0,
-     "precio_anterior": null,
+     "precio": 103500.0,
+     "precio_anterior": 115000.0,
      "disponible": true,
      "preorden": false,
      "stock": 12,
@@ -32368,7 +32368,7 @@
    "caracteristicas": {
     "Corte": "boxy fit."
    },
-   "precio_desde": 80000.0,
+   "precio_desde": 72000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -32382,8 +32382,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 80000.0,
-     "precio_anterior": null,
+     "precio": 72000.0,
+     "precio_anterior": 80000.0,
      "disponible": true,
      "preorden": false,
      "stock": 14,
@@ -32394,8 +32394,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 80000.0,
-     "precio_anterior": null,
+     "precio": 72000.0,
+     "precio_anterior": 80000.0,
      "disponible": true,
      "preorden": false,
      "stock": 29,
@@ -32406,8 +32406,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 80000.0,
-     "precio_anterior": null,
+     "precio": 72000.0,
+     "precio_anterior": 80000.0,
      "disponible": true,
      "preorden": false,
      "stock": 29,
@@ -32418,8 +32418,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 80000.0,
-     "precio_anterior": null,
+     "precio": 72000.0,
+     "precio_anterior": 80000.0,
      "disponible": true,
      "preorden": false,
      "stock": 12,
@@ -32904,7 +32904,7 @@
    "caracteristicas": {
     "Corte": "3/4 surfer fit."
    },
-   "precio_desde": 100000.0,
+   "precio_desde": 90000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -32918,8 +32918,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 100000.0,
-     "precio_anterior": null,
+     "precio": 90000.0,
+     "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
      "stock": 50,
@@ -32930,8 +32930,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 100000.0,
-     "precio_anterior": null,
+     "precio": 90000.0,
+     "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
      "stock": 99,
@@ -32942,11 +32942,11 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 100000.0,
-     "precio_anterior": null,
+     "precio": 90000.0,
+     "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 98,
+     "stock": 97,
      "url": "https://sh-aka.com.ar/productos/90s-boardshort-azul-2jqmw/?variant=1645758093"
     },
     {
@@ -32954,8 +32954,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 100000.0,
-     "precio_anterior": null,
+     "precio": 90000.0,
+     "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
      "stock": 50,
@@ -32974,7 +32974,7 @@
    "caracteristicas": {
     "Corte": "oversize fit."
    },
-   "precio_desde": 49000.0,
+   "precio_desde": 42000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -32988,7 +32988,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 49000.0,
+     "precio": 42000.0,
      "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
@@ -33000,7 +33000,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 49000.0,
+     "precio": 42000.0,
      "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
@@ -33012,7 +33012,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 49000.0,
+     "precio": 42000.0,
      "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
@@ -33024,7 +33024,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 49000.0,
+     "precio": 42000.0,
      "precio_anterior": 70000.0,
      "disponible": false,
      "preorden": false,
@@ -33377,7 +33377,7 @@
    "caracteristicas": {
     "Corte": "regular fit."
    },
-   "precio_desde": 85000.0,
+   "precio_desde": 76500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -33391,8 +33391,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 85000.0,
-     "precio_anterior": null,
+     "precio": 76500.0,
+     "precio_anterior": 85000.0,
      "disponible": true,
      "preorden": false,
      "stock": 3,
@@ -33403,8 +33403,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 85000.0,
-     "precio_anterior": null,
+     "precio": 76500.0,
+     "precio_anterior": 85000.0,
      "disponible": true,
      "preorden": false,
      "stock": 8,
@@ -33415,8 +33415,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 85000.0,
-     "precio_anterior": null,
+     "precio": 76500.0,
+     "precio_anterior": 85000.0,
      "disponible": true,
      "preorden": false,
      "stock": 8,
@@ -33427,8 +33427,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 85000.0,
-     "precio_anterior": null,
+     "precio": 76500.0,
+     "precio_anterior": 85000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -34001,7 +34001,7 @@
    "caracteristicas": {
     "Corte": "intermedio entre oversize y boxy fit."
    },
-   "precio_desde": 90000.0,
+   "precio_desde": 81000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -34015,8 +34015,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 81000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 3,
@@ -34027,8 +34027,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 81000.0,
+     "precio_anterior": 90000.0,
      "disponible": false,
      "preorden": false,
      "stock": 0,
@@ -34039,8 +34039,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 81000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 4,
@@ -34051,8 +34051,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 90000.0,
-     "precio_anterior": null,
+     "precio": 81000.0,
+     "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
      "stock": 1,
@@ -34141,7 +34141,7 @@
    "caracteristicas": {
     "Corte": "regular fit."
    },
-   "precio_desde": 85000.0,
+   "precio_desde": 76500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -34155,8 +34155,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 85000.0,
-     "precio_anterior": null,
+     "precio": 76500.0,
+     "precio_anterior": 85000.0,
      "disponible": true,
      "preorden": false,
      "stock": 10,
@@ -34167,8 +34167,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 85000.0,
-     "precio_anterior": null,
+     "precio": 76500.0,
+     "precio_anterior": 85000.0,
      "disponible": true,
      "preorden": false,
      "stock": 20,
@@ -34179,8 +34179,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 85000.0,
-     "precio_anterior": null,
+     "precio": 76500.0,
+     "precio_anterior": 85000.0,
      "disponible": true,
      "preorden": false,
      "stock": 20,
@@ -34191,8 +34191,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 85000.0,
-     "precio_anterior": null,
+     "precio": 76500.0,
+     "precio_anterior": 85000.0,
      "disponible": true,
      "preorden": false,
      "stock": 11,
@@ -34211,7 +34211,7 @@
    "caracteristicas": {
     "Corte": "baggy fit."
    },
-   "precio_desde": 112000.0,
+   "precio_desde": 70000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -34225,7 +34225,7 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 112000.0,
+     "precio": 70000.0,
      "precio_anterior": 140000.0,
      "disponible": false,
      "preorden": false,
@@ -34237,7 +34237,7 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 112000.0,
+     "precio": 70000.0,
      "precio_anterior": 140000.0,
      "disponible": false,
      "preorden": false,
@@ -34249,7 +34249,7 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 112000.0,
+     "precio": 70000.0,
      "precio_anterior": 140000.0,
      "disponible": true,
      "preorden": false,
@@ -34261,7 +34261,7 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 112000.0,
+     "precio": 70000.0,
      "precio_anterior": 140000.0,
      "disponible": true,
      "preorden": false,
@@ -34383,7 +34383,7 @@
    "caracteristicas": {
     "Corte": "baggy."
    },
-   "precio_desde": 125000.0,
+   "precio_desde": 112500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -34397,8 +34397,8 @@
      "opciones": {
       "Talle": "S"
      },
-     "precio": 125000.0,
-     "precio_anterior": null,
+     "precio": 112500.0,
+     "precio_anterior": 125000.0,
      "disponible": true,
      "preorden": false,
      "stock": 11,
@@ -34409,8 +34409,8 @@
      "opciones": {
       "Talle": "M"
      },
-     "precio": 125000.0,
-     "precio_anterior": null,
+     "precio": 112500.0,
+     "precio_anterior": 125000.0,
      "disponible": true,
      "preorden": false,
      "stock": 24,
@@ -34421,8 +34421,8 @@
      "opciones": {
       "Talle": "L"
      },
-     "precio": 125000.0,
-     "precio_anterior": null,
+     "precio": 112500.0,
+     "precio_anterior": 125000.0,
      "disponible": true,
      "preorden": false,
      "stock": 23,
@@ -34433,8 +34433,8 @@
      "opciones": {
       "Talle": "XL"
      },
-     "precio": 125000.0,
-     "precio_anterior": null,
+     "precio": 112500.0,
+     "precio_anterior": 125000.0,
      "disponible": true,
      "preorden": false,
      "stock": 10,
