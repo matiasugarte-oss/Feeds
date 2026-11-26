@@ -1,7 +1,7 @@
 {
  "tienda": "Vlack Hockey",
  "url": "https://www.vlackhockey.com.uy",
- "generado": "2026-11-26T12:27:04+00:00",
+ "generado": "2026-11-26T13:39:31+00:00",
  "total": 447,
  "productos": [
   {
@@ -4476,7 +4476,7 @@
      },
      "precio": 1100.0,
      "precio_anterior": null,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://www.vlackhockey.com.uy/products/guante-bufago-blanco-mano-izquierda-copia?variant=49159546208495"
@@ -30658,7 +30658,7 @@
      },
      "precio": 1100.0,
      "precio_anterior": null,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://www.vlackhockey.com.uy/products/guante-bufago-fucsia-rh?variant=32507579007053"

@@ -1,8 +1,8 @@
 {
  "tienda": "Giani Dafirenze",
  "url": "https://gianidafirenze.cl",
- "generado": "2026-11-26T12:25:50+00:00",
- "total": 410,
+ "generado": "2026-11-26T13:38:19+00:00",
+ "total": 408,
  "productos": [
   {
    "titulo": "Zapato Mujer / Pixon Celeste",
@@ -1979,119 +1979,6 @@
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/botin-mujer-berta-negro?variant=43268030955563"
-    }
-   ]
-  },
-  {
-   "titulo": "Babucha Mujer / Bosco Print",
-   "url": "https://gianidafirenze.cl/products/babucha-mujer-bosco-print",
-   "marca": "Giani Dafirenze",
-   "categorias": [
-    "BABUCHAS"
-   ],
-   "descripcion": "La babucha Bosco Print aporta un toque moderno y distintivo a tu clóset. Su estampado en tendencia convierte a esta babucha en la protagonista de cualquier outfit, sin perder comodidad ni versatilidad. Diseñada para mujeres que buscan una babucha con personalidad, es perfecta para sumar carácter y estilo a cada paso.",
-   "caracteristicas": {
-    "Nombre del modelo": "Bosco C2",
-    "Color": "Print",
-    "Capellada (material exterior)": "Cuero",
-    "Forro (material interior)": "Cuero",
-    "Plantilla": "Cuero",
-    "Planta (suela)": "Goma",
-    "Taco": "Goma",
-    "Altura del taco": "2 cm aprox",
-    "Punta": "Redonda",
-    "Altura de la caña": "Sin caña",
-    "Estilo del calzado": "Babucha",
-    "Tipo de cierre": "Slip On",
-    "Procedencia": "Importado",
-    "Temporada": "Primavera Verano 2026"
-   },
-   "precio_desde": 38445.0,
-   "moneda": "CLP",
-   "disponible": true,
-   "imagenes": [
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-bosco-print-babuchas-giani-dafirenze-205261.jpg?v=1765822244",
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-bosco-print-babuchas-giani-dafirenze-455236.jpg?v=1765819723",
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-bosco-print-babuchas-giani-dafirenze-566189.jpg?v=1765819723"
-   ],
-   "variantes": [
-    {
-     "sku": "GDF-PV26-BOSCO-C2-35",
-     "opciones": {
-      "Talla": "35",
-      "Color": "Marrón"
-     },
-     "precio": 38445.0,
-     "precio_anterior": 69900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/babucha-mujer-bosco-print?variant=43268122214443"
-    },
-    {
-     "sku": "GDF-PV26-BOSCO-C2-36",
-     "opciones": {
-      "Talla": "36",
-      "Color": "Marrón"
-     },
-     "precio": 38445.0,
-     "precio_anterior": 69900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/babucha-mujer-bosco-print?variant=43268122247211"
-    },
-    {
-     "sku": "GDF-PV26-BOSCO-C2-37",
-     "opciones": {
-      "Talla": "37",
-      "Color": "Marrón"
-     },
-     "precio": 38445.0,
-     "precio_anterior": 69900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/babucha-mujer-bosco-print?variant=43268122279979"
-    },
-    {
-     "sku": "GDF-PV26-BOSCO-C2-38",
-     "opciones": {
-      "Talla": "38",
-      "Color": "Marrón"
-     },
-     "precio": 38445.0,
-     "precio_anterior": 69900.0,
-     "disponible": true,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/babucha-mujer-bosco-print?variant=43268122312747"
-    },
-    {
-     "sku": "GDF-PV26-BOSCO-C2-39",
-     "opciones": {
-      "Talla": "39",
-      "Color": "Marrón"
-     },
-     "precio": 38445.0,
-     "precio_anterior": 69900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/babucha-mujer-bosco-print?variant=43268122345515"
-    },
-    {
-     "sku": "GDF-PV26-BOSCO-C2-40",
-     "opciones": {
-      "Talla": "40",
-      "Color": "Marrón"
-     },
-     "precio": 38445.0,
-     "precio_anterior": 69900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/babucha-mujer-bosco-print?variant=43268122378283"
     }
    ]
   },
@@ -9630,7 +9517,7 @@
      },
      "precio": 67425.0,
      "precio_anterior": 89900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/sandalia-mujer-adelia-beige?variant=45376848101419"
@@ -25194,7 +25081,7 @@
      },
      "precio": 74925.0,
      "precio_anterior": 99900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/mocasin-mujer-flora-celeste?variant=44213895692331"
@@ -38756,107 +38643,6 @@
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/zapato-leonel-c3?variant=40100361863211"
-    }
-   ]
-  },
-  {
-   "titulo": "Zapatilla Hombre / Puelo Burdeo",
-   "url": "https://gianidafirenze.cl/products/zapatilla-puelo-c4",
-   "marca": "Dafirenze",
-   "categorias": [
-    "ZAPATILLAS"
-   ],
-   "descripcion": "Hecho en Chile\n\nDESCRIPCIÓN\n\nNuestro proceso de manufactura artesanal garantiza la atención meticulosa a cada detalle. Desde la selección de los mejores materiales hasta el último acabado, cada paso se lleva a cabo con precisión y dedicación. El resultado es un zapato de cuero de calidad incomparable, que refleja la tradición y pasión de nuestros artesanos.",
-   "caracteristicas": {
-    "Nombre del modelo": "Puelo C4",
-    "Color": "Burdeo",
-    "Capellada (material exterior)": "Cuero Reno",
-    "Forro (material interior)": "Cuero",
-    "Plantilla": "Cuero",
-    "Planta (suela)": "Goma",
-    "Cierre": "Cordón",
-    "Estilo": "Zapatilla"
-   },
-   "precio_desde": 36795.0,
-   "moneda": "CLP",
-   "disponible": true,
-   "imagenes": [
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/zapatilla-hombre-puelo-burdeo-zapatillas-dafirenze-483520.jpg?v=1711688497",
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/zapatilla-hombre-puelo-burdeo-zapatillas-dafirenze-961807.jpg?v=1711688666",
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/zapatilla-hombre-puelo-burdeo-zapatillas-dafirenze-686433.jpg?v=1711688613"
-   ],
-   "variantes": [
-    {
-     "sku": "DF-OI20-PUELO-C4-40",
-     "opciones": {
-      "Talla": "40"
-     },
-     "precio": 36795.0,
-     "precio_anterior": 66900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapatilla-puelo-c4?variant=39286215213099"
-    },
-    {
-     "sku": "DF-OI20-PUELO-C4-41",
-     "opciones": {
-      "Talla": "41"
-     },
-     "precio": 36795.0,
-     "precio_anterior": 66900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapatilla-puelo-c4?variant=39286215245867"
-    },
-    {
-     "sku": "DF-OI20-PUELO-C4-42",
-     "opciones": {
-      "Talla": "42"
-     },
-     "precio": 36795.0,
-     "precio_anterior": 66900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapatilla-puelo-c4?variant=39286215278635"
-    },
-    {
-     "sku": "DF-OI20-PUELO-C4-43",
-     "opciones": {
-      "Talla": "43"
-     },
-     "precio": 36795.0,
-     "precio_anterior": 66900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapatilla-puelo-c4?variant=39286215311403"
-    },
-    {
-     "sku": "DF-OI20-PUELO-C4-44",
-     "opciones": {
-      "Talla": "44"
-     },
-     "precio": 36795.0,
-     "precio_anterior": 66900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapatilla-puelo-c4?variant=39286215344171"
-    },
-    {
-     "sku": "DF-OI20-PUELO-C4-45",
-     "opciones": {
-      "Talla": "45"
-     },
-     "precio": 36795.0,
-     "precio_anterior": 66900.0,
-     "disponible": true,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapatilla-puelo-c4?variant=39286215376939"
     }
    ]
   },

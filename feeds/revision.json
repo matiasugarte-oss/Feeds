@@ -12,16 +12,16 @@
       "Cambio brusco de precio respecto de la corrida anterior": {
         "cantidad": 30,
         "ejemplos": [
-          "DF-PV25-PRAT-C1-39 · Zapatilla Hombre / Prat Beige - 39: 439945 -> 43945",
-          "DF-PV25-PRAT-C1-40 · Zapatilla Hombre / Prat Beige - 40: 439945 -> 43945",
-          "DF-PV25-PRAT-C1-41 · Zapatilla Hombre / Prat Beige - 41: 439945 -> 43945",
-          "DF-PV25-PRAT-C1-42 · Zapatilla Hombre / Prat Beige - 42: 439945 -> 43945",
-          "DF-PV25-PRAT-C1-43 · Zapatilla Hombre / Prat Beige - 43: 439945 -> 43945",
-          "DF-PV25-PRAT-C1-44 · Zapatilla Hombre / Prat Beige - 44: 439945 -> 43945",
-          "DF-PV25-JULIO-C2-39 · Zapatilla Hombre / Julio Gris - 39: 439945 -> 43945",
-          "DF-PV25-JULIO-C2-40 · Zapatilla Hombre / Julio Gris - 40: 439945 -> 43945",
-          "DF-PV25-JULIO-C2-41 · Zapatilla Hombre / Julio Gris - 41: 439945 -> 43945",
-          "DF-PV25-JULIO-C2-42 · Zapatilla Hombre / Julio Gris - 42: 439945 -> 43945"
+          "DF-PV25-PRAT-C1-39 · Zapatilla Hombre / Prat Beige - 39: 439945 -> 43945 (se acepta si se mantiene 3 corridas)",
+          "DF-PV25-PRAT-C1-40 · Zapatilla Hombre / Prat Beige - 40: 439945 -> 43945 (se acepta si se mantiene 3 corridas)",
+          "DF-PV25-PRAT-C1-41 · Zapatilla Hombre / Prat Beige - 41: 439945 -> 43945 (se acepta si se mantiene 3 corridas)",
+          "DF-PV25-PRAT-C1-42 · Zapatilla Hombre / Prat Beige - 42: 439945 -> 43945 (se acepta si se mantiene 3 corridas)",
+          "DF-PV25-PRAT-C1-43 · Zapatilla Hombre / Prat Beige - 43: 439945 -> 43945 (se acepta si se mantiene 3 corridas)",
+          "DF-PV25-PRAT-C1-44 · Zapatilla Hombre / Prat Beige - 44: 439945 -> 43945 (se acepta si se mantiene 3 corridas)",
+          "DF-PV25-JULIO-C2-39 · Zapatilla Hombre / Julio Gris - 39: 439945 -> 43945 (se acepta si se mantiene 3 corridas)",
+          "DF-PV25-JULIO-C2-40 · Zapatilla Hombre / Julio Gris - 40: 439945 -> 43945 (se acepta si se mantiene 3 corridas)",
+          "DF-PV25-JULIO-C2-41 · Zapatilla Hombre / Julio Gris - 41: 439945 -> 43945 (se acepta si se mantiene 3 corridas)",
+          "DF-PV25-JULIO-C2-42 · Zapatilla Hombre / Julio Gris - 42: 439945 -> 43945 (se acepta si se mantiene 3 corridas)"
         ]
       }
     },
@@ -54,41 +54,18 @@
     "graves": {},
     "avisos": {
       "Sin descripción": {
-        "cantidad": 265,
+        "cantidad": 60,
         "ejemplos": [
-          "26F1900   012 · Medias Pro Socks - Blanco / 2",
-          "26F1900   013 · Medias Pro Socks - Blanco / 3",
-          "26F1900   014 · Medias Pro Socks - Blanco / 4",
-          "26F1900   015 · Medias Pro Socks - Blanco / 5",
-          "1615636871 · Top Kiah Damas - Arena / XS",
-          "1615636872 · Top Kiah Damas - Arena / S",
-          "1615636873 · Top Kiah Damas - Arena / M",
-          "1615636874 · Top Kiah Damas - Arena / L",
-          "63D0703   AQ8 · Remera Marimba Niños - 8 / Aqua",
-          "63D0703   AQ10 · Remera Marimba Niños - 10 / Aqua"
-        ]
-      },
-      "El talle parece un color": {
-        "cantidad": 3,
-        "ejemplos": [
-          "26F0907   2034 · Single Bag Nacional Junior - Azul / 34\": talle=Azul",
-          "26F0907   2037 · Single Bag Nacional - Azul / 37.5\": talle=Azul",
-          "26F0907   6937 · Single Bag Nacional - Bordó / 37.5\": talle=Bordó"
-        ]
-      },
-      "El color parece un talle": {
-        "cantidad": 46,
-        "ejemplos": [
-          "41A1702   BD0 · Calza Praia - T0 / Bordeaux: color=T0",
-          "41A1702   BD1 · Calza Praia - T1 / Bordeaux: color=T1",
-          "41A1702   BD2 · Calza Praia - T2 / Bordeaux: color=T2",
-          "41A1702   BD3 · Calza Praia - T3 / Bordeaux: color=T3",
-          "41A1702   BD4 · Calza Praia - T4 / Bordeaux: color=T4",
-          "26B0900   7535 · Botines RH01 2026 - 35 / Malva: color=35",
-          "26B0900   7536 · Botines RH01 2026 - 36 / Malva: color=36",
-          "26B0900   7537 · Botines RH01 2026 - 37 / Malva: color=37",
-          "26B0900   7538 · Botines RH01 2026 - 38 / Malva: color=38",
-          "26B0900   7539 · Botines RH01 2026 - 39 / Malva: color=39"
+          "71E0701   55XS · Sudadera Xola Damas - XS / Naranja",
+          "71E0701   55S · Sudadera Xola Damas - S / Naranja",
+          "71E0701   55M · Sudadera Xola Damas - M / Naranja",
+          "71E0701   55L · Sudadera Xola Damas - L / Naranja",
+          "64D0101   01S · Remera Amguel Unisex - S / Blanco",
+          "64D0101   01M · Remera Amguel Unisex - M / Blanco",
+          "64D0101   01L · Remera Amguel Unisex - L / Blanco",
+          "64D0101   01XL · Remera Amguel Unisex - XL / Blanco",
+          "71E0701   3AXS · Sudadera Xola Damas - XS / Verde esmeralda",
+          "71E0701   3AS · Sudadera Xola Damas - S / Verde esmeralda"
         ]
       }
     }

@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-26T12:16:36+00:00",
+ "generado": "2026-11-26T13:29:00+00:00",
  "total": 549,
  "productos": [
   {
@@ -4997,7 +4997,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 5,
+     "stock": 4,
      "url": "https://sh-aka.com.ar/productos/3-cap-rosa-190am/"
     }
    ]
@@ -10822,7 +10822,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 2,
+     "stock": 1,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-gris-1fxvk/?variant=1615118356"
     },
     {
