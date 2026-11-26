@@ -1,7 +1,7 @@
 {
  "tienda": "Giani Dafirenze",
  "url": "https://gianidafirenze.cl",
- "generado": "2026-11-26T03:19:52+00:00",
+ "generado": "2026-11-26T04:29:47+00:00",
  "total": 410,
  "productos": [
   {
@@ -34334,7 +34334,7 @@
      },
      "precio": 71445.0,
      "precio_anterior": 129900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/botin-mujer-poleo-taupe?variant=43105345437739"

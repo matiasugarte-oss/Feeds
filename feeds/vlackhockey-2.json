@@ -1,7 +1,7 @@
 {
  "tienda": "Vlackhockey",
  "url": "https://www.vlackhockey.com.ar",
- "generado": "2026-11-26T03:25:54+00:00",
+ "generado": "2026-11-26T04:35:13+00:00",
  "total": 771,
  "productos": [
   {
@@ -11685,8 +11685,8 @@
     {
      "sku": "11B1203   25XS",
      "opciones": {
-      "Color": "XS",
-      "Talle": "Azul francia y blanco"
+      "Talle": "XS",
+      "Color": "Azul francia y blanco"
      },
      "precio": 34500.0,
      "precio_anterior": null,
@@ -11698,8 +11698,8 @@
     {
      "sku": "11B1203   25S",
      "opciones": {
-      "Color": "S",
-      "Talle": "Azul francia y blanco"
+      "Talle": "S",
+      "Color": "Azul francia y blanco"
      },
      "precio": 34500.0,
      "precio_anterior": null,
@@ -11711,8 +11711,8 @@
     {
      "sku": "11B1203   25M",
      "opciones": {
-      "Color": "M",
-      "Talle": "Azul francia y blanco"
+      "Talle": "M",
+      "Color": "Azul francia y blanco"
      },
      "precio": 34500.0,
      "precio_anterior": null,
@@ -11724,8 +11724,8 @@
     {
      "sku": "11B1203   25L",
      "opciones": {
-      "Color": "L",
-      "Talle": "Azul francia y blanco"
+      "Talle": "L",
+      "Color": "Azul francia y blanco"
      },
      "precio": 34500.0,
      "precio_anterior": null,
@@ -11737,8 +11737,8 @@
     {
      "sku": "11B1203   25XL",
      "opciones": {
-      "Color": "XL",
-      "Talle": "Azul francia y blanco"
+      "Talle": "XL",
+      "Color": "Azul francia y blanco"
      },
      "precio": 34500.0,
      "precio_anterior": null,
