@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-26T09:25:31+00:00",
+ "generado": "2026-11-26T11:11:25+00:00",
  "total": 549,
  "productos": [
   {
@@ -16254,9 +16254,7 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -16266,9 +16264,7 @@
     },
     {
      "sku": "371",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -16278,9 +16274,7 @@
     },
     {
      "sku": "372",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,

@@ -1,7 +1,7 @@
 {
  "tienda": "Giani Dafirenze",
  "url": "https://gianidafirenze.cl",
- "generado": "2026-11-26T09:34:42+00:00",
+ "generado": "2026-11-26T11:20:37+00:00",
  "total": 410,
  "productos": [
   {
@@ -6655,7 +6655,7 @@
      },
      "precio": 67425.0,
      "precio_anterior": 89900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-beige?variant=44657466572843"
@@ -21676,7 +21676,7 @@
      },
      "precio": 74925.0,
      "precio_anterior": 99900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/zapato-mujer-alba-negro?variant=44585971449899"
