@@ -53,5 +53,11 @@
     "moneda": "ARS",
     "nombre": "Vlackhockey",
     "activa": true
+  },
+  {
+    "slug": "zenseiuy",
+    "url": "https://zenseiuy.com",
+    "nombre": "Zenseiuy",
+    "activa": true
   }
 ]

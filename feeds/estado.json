@@ -64,5 +64,16 @@
     "error": null,
     "graves": 0,
     "avisos": 9
+  },
+  "zenseiuy": {
+    "nombre": "Zenseiuy",
+    "url": "https://zenseiuy.com",
+    "plataforma": "shopify",
+    "productos": 19,
+    "items": 19,
+    "actualizado": "2026-11-26 13:05",
+    "error": null,
+    "graves": 0,
+    "avisos": 0
   }
 }
