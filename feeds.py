@@ -298,9 +298,11 @@ COLORES = ("negro|blanco|azul|rojo|verde|amarillo|rosa|rosado|fucsia|violeta|lil
            "beige|crudo|bordo|coral|aqua|agua|menta|turquesa|dorado|plateado|plata|oro|salmon|natural|camel|nude|"
            "multicolor|khaki|caqui|mostaza|terracota|petroleo|vino|lima|fluo|oliva|chocolate|arena|hueso|jean|"
            "taupe|cafe|marino|indigo|grafito|perla|cobre|bronce|lavanda|uva|cereza|arcilla|tostado|habano|"
+           "malva|magenta|ciruela|ocre|marfil|champagne|avellana|militar|denim|rubi|esmeralda|jade|frambuesa|"
+           "visón|vison|topo|tiza|nieve|carbon|plomo|acero|celeste|blush|rojizo|verdoso|azulado|transparente|"
            "black|white|blue|green|yellow|pink|purple|grey|gray|orange|brown|navy|silver|gold")
 RE_ES_COLOR = re.compile(r"\b(" + COLORES + r")s?\b", re.I)
-RE_ES_TALLE = re.compile(r"^(t\.?\s?\d{1,3}|talles?\s.*|tallas?\s.*|\d{1,3}([.,]\d)?|\d{1,3}\s?(-|/)\s?\d{1,3}|"
+RE_ES_TALLE = re.compile(r"^(t\.?\s?\d{1,3}|talles?\s.*|tallas?\s.*|\d{1,3}([.,]\d)?\s?(\"|”|''|pulgadas?|pulg)?|\d{1,3}\s?(-|/)\s?\d{1,3}|"
                          r"x{0,3}s|m|x{0,3}l|\d?x[sl]|jr|sr|junior|senior|u|tu|unico|unica|small|medium|large|"
                          r"chico|mediano|grande|\d{2,3}\s?(cm|mm))$", re.I)
 
@@ -312,9 +314,9 @@ def talle_y_color(opciones):
     color = next((x for k, x in opciones.items() if RE_COLOR.search(k)), None)
     parece_talle = lambda x: bool(x) and bool(RE_ES_TALLE.match(sin_acentos(x.strip().lower())))
     parece_color = lambda x: bool(x) and bool(RE_ES_COLOR.search(sin_acentos(x.lower()))) and not parece_talle(x)
-    if parece_talle(color) and not parece_color(color) and (talle is None or parece_color(talle)):
-        talle, color = color, talle            # vinieron invertidos
-    elif parece_color(talle) and not parece_talle(talle) and (color is None or parece_talle(color)):
+    if parece_talle(color) and not parece_color(color) and (talle is None or not parece_talle(talle)):
+        talle, color = color, talle            # vinieron invertidos ("Color: 35 / Talle: Malva")
+    elif parece_color(talle) and not parece_talle(talle) and (color is None or not parece_color(color)):
         talle, color = color, talle
     for x in opciones.values():               # opciones sin nombre reconocible: se clasifican por el valor
         if talle is None and x != color and parece_talle(x):
@@ -396,13 +398,40 @@ def rotar_paginas(c, tienda, urls, previos, parser):
 # ============================================================ SHOPIFY ===
 
 def shopify(c, t, prev):
-    crudos = []
+    """Lee /products.json. Algunas tiendas ignoran ?page= y devuelven siempre la primera página:
+    se pagina con since_id (orden por id) y se corta apenas una página no trae productos nuevos."""
+    crudos, vistos = [], set()
+
+    def agregar(lote):
+        nuevos = [p for p in lote if p.get("id") not in vistos]
+        for p in nuevos:
+            vistos.add(p.get("id"))
+        crudos.extend(nuevos)
+        return nuevos
+
+    since = 0
+    for _ in range(200):
+        d = c.get(f"/products.json?limit=250&since_id={since}", json_=True)
+        lote = (d or {}).get("products") or []
+        nuevos = agregar(lote)
+        if not nuevos:
+            break
+        since = max(p.get("id") or 0 for p in lote)
+        if len(lote) < 250:
+            break
+    # Además por página (algunas tiendas ignoran since_id). Se corta cuando una página llega vacía
+    # o repite exactamente la anterior (tiendas que ignoran ?page= y devuelven siempre la primera).
+    anterior = None
     for page in range(1, 41):
         d = c.get(f"/products.json?limit=250&page={page}", json_=True)
         lote = (d or {}).get("products") or []
-        if not lote:
+        ids = [p.get("id") for p in lote]
+        if not lote or ids == anterior:
             break
-        crudos += lote
+        agregar(lote)
+        anterior = ids
+    if len(crudos) == 250:
+        log(t["slug"], "  AVISO: la tienda devolvió exactamente 250 productos; puede que no permita leer más por /products.json")
     moneda = t.get("moneda") or (c.get("/cart.js", json_=True) or {}).get("currency", "")
 
     # Códigos de barras: /products.json no los trae; /products/<handle>.js sí. Se guardan en caché.
@@ -575,10 +604,15 @@ def tiendanube(c, t, prev):
                 nombres[int(idx)] = lab.get_text(strip=True).rstrip(":")
         h1 = sopa.select_one("h1.js-product-name") or sopa.find("h1")
         meta = lambda p: (sopa.find("meta", attrs={"property": p}) or sopa.find("meta", attrs={"name": p}) or {}).get("content", "")
-        nodo = sopa.select_one("#product-description") or sopa.select_one(".product-description") or \
-            sopa.select_one('[data-store="product-description"]')
-        desc, specs = separar_ficha(html_a_lineas(nodo.decode_contents() if nodo else meta("og:description")),
-                                    t.get("quitar_parrafos", []))
+        nodo = None
+        for sel in ("#product-description", '[data-store="product-description"]', ".product-description",
+                    ".js-product-description", ".product-description-container", "#description", ".description"):
+            nodo = sopa.select_one(sel)
+            if nodo and nodo.get_text(strip=True):
+                break
+        texto_desc = nodo.decode_contents() if nodo and nodo.get_text(strip=True) else \
+            (meta("og:description") or meta("description"))
+        desc, specs = separar_ficha(html_a_lineas(texto_desc), t.get("quitar_parrafos", []))
         imagenes = []
         for a in sopa.select("a.js-product-slide-link[href]"):
             u = url_abs(a["href"], c.base)
@@ -1181,13 +1215,21 @@ def comparar_con_referencia(t, nuestros):
                         "stock_distinto": len(stock_distinto)}}
 
 
-def validar(t, items, precios_previos):
+CORRIDAS_PARA_CONFIRMAR = 3   # un precio "sospechoso" que se repite 3 corridas seguidas se acepta como real
+
+
+def validar(t, items, precios_previos, pendientes_previos=None):
     graves, avisos, sospechosos = {}, {}, set()
+    pendientes_previos = pendientes_previos or {}
+    pendientes = {}
     agregar = lambda dic, regla, ejemplo: dic.setdefault(regla, []).append(ejemplo)
     datos = [item_a_dict(c) for c in items]
     for iid, n in Counter(d.get("g:id") for d in datos).items():
         if n > 1:
             agregar(graves, "ID repetido", f"{iid} ({n} veces)")
+    for (titulo, link), n in Counter((d.get("g:title"), d.get("g:link")) for d in datos).items():
+        if n > 1:
+            agregar(graves, "Producto duplicado (mismo título y link)", f"{titulo} ({n} veces)")
     for d in datos:
         nombre = f"{d.get('g:id')} · {d.get('g:title', '')[:60]}"
         precio = valor_precio(d.get("g:price"))
@@ -1201,8 +1243,15 @@ def validar(t, items, precios_previos):
         anterior = precios_previos.get(d.get("g:id"))
         actual = oferta or precio
         if anterior and actual and not (anterior / 3 <= actual <= anterior * 3):
-            agregar(graves, "Cambio brusco de precio respecto de la corrida anterior", f"{nombre}: {anterior:g} -> {actual:g}")
-            sospechosos.add(d.get("g:id"))
+            visto, veces = (pendientes_previos.get(d.get("g:id")) or [None, 0])
+            veces = veces + 1 if visto == actual else 1
+            if veces >= CORRIDAS_PARA_CONFIRMAR:
+                agregar(avisos, "Precio cambiado y confirmado (se mantuvo 3 corridas)", f"{nombre}: {anterior:g} -> {actual:g}")
+            else:
+                agregar(graves, "Cambio brusco de precio respecto de la corrida anterior",
+                        f"{nombre}: {anterior:g} -> {actual:g} (se acepta si se mantiene {CORRIDAS_PARA_CONFIRMAR} corridas)")
+                sospechosos.add(d.get("g:id"))
+                pendientes[d.get("g:id")] = [actual, veces]
         color, talle = d.get("g:color"), d.get("g:size")
         if color and RE_ES_TALLE.match(sin_acentos(color.lower())):
             agregar(avisos, "El color parece un talle", f"{nombre}: color={color}")
@@ -1222,7 +1271,7 @@ def validar(t, items, precios_previos):
     # en cada corrida hasta que se corrija (o hasta que alguien lo confirme borrando datos/<tienda>.json).
     precios = {d.get("g:id"): (precios_previos.get(d.get("g:id")) if d.get("g:id") in sospechosos
                                else valor_precio(d.get("g:sale_price")) or valor_precio(d.get("g:price"))) for d in datos}
-    return resumen, precios
+    return resumen, precios, pendientes
 
 
 # =============================================================== MAIN ===
@@ -1250,12 +1299,12 @@ def procesar(t):
     if not productos or (antes and len(productos) < MIN_RATIO * antes):
         raise RuntimeError(f"solo {len(productos)} productos (antes {antes}); se mantiene el feed anterior")
     items = armar_items(t, productos)
-    revision, precios = validar(t, items, prev.get("precios", {}))
+    revision, precios, pendientes = validar(t, items, prev.get("precios", {}), prev.get("precios_pendientes", {}))
     escribir_xml(t, items, f"{DIR_FEEDS}/{slug}.xml")
     escribir_json_ia(t, productos, f"{DIR_FEEDS}/{slug}.json")
     with open(f"{DIR_DATOS}/{slug}.json", "w", encoding="utf-8") as f:
         json.dump({"plataforma": plataforma, "generado": ahora().isoformat(timespec="seconds"),
-                   "productos": productos, "cache": cache, "precios": precios}, f, ensure_ascii=False)
+                   "productos": productos, "cache": cache, "precios": precios, "precios_pendientes": pendientes}, f, ensure_ascii=False)
     log(slug, f"{len(productos)} productos, {len(items)} ítems | HTTP {dict(c.estados)} | {time.time() - c.inicio:.0f}s")
     for regla, info in revision["graves"].items():
         log(slug, f"  GRAVE: {regla} ({info['cantidad']}), ej.: {info['ejemplos'][0]}")
