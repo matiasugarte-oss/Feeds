@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-26T13:29:00+00:00",
+ "generado": "2026-11-26T16:28:17+00:00",
  "total": 549,
  "productos": [
   {
@@ -2470,7 +2470,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 2,
+     "stock": 1,
      "url": "https://sh-aka.com.ar/productos/smmr-longsleeve-tee-153hr/?variant=1615120595"
     },
     {
@@ -5335,9 +5335,7 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -5347,9 +5345,7 @@
     },
     {
      "sku": "371",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -5359,9 +5355,7 @@
     },
     {
      "sku": "372",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -8235,9 +8229,7 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -8247,9 +8239,7 @@
     },
     {
      "sku": "368",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -8259,9 +8249,7 @@
     },
     {
      "sku": "369",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -16254,9 +16242,7 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -16266,9 +16252,7 @@
     },
     {
      "sku": "371",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -16278,9 +16262,7 @@
     },
     {
      "sku": "372",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -18764,7 +18746,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 22,
+     "stock": 19,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-azul/?variant=1367950141"
     },
     {
@@ -18788,7 +18770,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 75,
+     "stock": 74,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-azul/?variant=1367950151"
     },
     {
@@ -26591,7 +26573,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 19,
+     "stock": 18,
      "url": "https://sh-aka.com.ar/productos/sk8-waffle-tee-1p6am/?variant=1645757584"
     },
     {
@@ -29564,7 +29546,9 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -29574,7 +29558,9 @@
     },
     {
      "sku": "371",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": true,
@@ -29584,7 +29570,9 @@
     },
     {
      "sku": "372",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": true,

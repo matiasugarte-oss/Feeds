@@ -1,7 +1,7 @@
 {
  "tienda": "Giani Dafirenze",
  "url": "https://gianidafirenze.cl",
- "generado": "2026-11-26T13:38:19+00:00",
+ "generado": "2026-11-26T16:37:35+00:00",
  "total": 408,
  "productos": [
   {
@@ -6516,7 +6516,7 @@
      },
      "precio": 67425.0,
      "precio_anterior": 89900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-beige?variant=44657315905579"
@@ -6542,7 +6542,7 @@
      },
      "precio": 67425.0,
      "precio_anterior": 89900.0,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-beige?variant=44657466572843"
@@ -6581,7 +6581,7 @@
      },
      "precio": 67425.0,
      "precio_anterior": 89900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-beige?variant=44657466671147"
@@ -9067,7 +9067,7 @@
      },
      "precio": 74925.0,
      "precio_anterior": 99900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/sandalia-mujer-salteador-cafe-celeste?variant=67782590496811"
@@ -9392,7 +9392,7 @@
      },
      "precio": 74925.0,
      "precio_anterior": 99900.0,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/sandalia-mujer-nilo-cafe?variant=45252110024747"
@@ -10154,7 +10154,7 @@
      },
      "precio": 67425.0,
      "precio_anterior": 89900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/mocasin-mujer-coligue-negro-1?variant=44406605578283"
@@ -10984,7 +10984,7 @@
      },
      "precio": 74925.0,
      "precio_anterior": 99900.0,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/sandalia-mujer-nilo-negro?variant=45252085678123"
@@ -12481,7 +12481,7 @@
      },
      "precio": 67425.0,
      "precio_anterior": 89900.0,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/sandalia-mujer-fiofio-negro?variant=45351051853867"
@@ -13719,7 +13719,7 @@
      },
      "precio": 74925.0,
      "precio_anterior": 99900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/sandalia-mujer-solar-print?variant=45264976379947"
@@ -15701,7 +15701,7 @@
      },
      "precio": 67425.0,
      "precio_anterior": 89900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/sandalia-mujer-nube-cafe?variant=45252953473067"
@@ -15814,7 +15814,7 @@
      },
      "precio": 67425.0,
      "precio_anterior": 89900.0,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/sandalia-mujer-nube-negro?variant=45252912021547"
@@ -16427,7 +16427,7 @@
      },
      "precio": 74925.0,
      "precio_anterior": 99900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/mocasin-mujer-cumbres-print?variant=44213799419947"
@@ -20539,7 +20539,7 @@
      },
      "precio": 67425.0,
      "precio_anterior": 89900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-cafe?variant=44654452080683"
@@ -21221,7 +21221,7 @@
      },
      "precio": 74925.0,
      "precio_anterior": 99900.0,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/zapato-mujer-pixon-negro?variant=44586055139371"
@@ -23990,7 +23990,7 @@
      },
      "precio": 77935.0,
      "precio_anterior": 119900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/botin-mujer-chirigue-negro?variant=44339358040107"
@@ -29509,7 +29509,7 @@
      },
      "precio": 49445.0,
      "precio_anterior": 89900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/sandalia-mujer-salina-azul-celeste?variant=43268105207851"

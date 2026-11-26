@@ -1,7 +1,7 @@
 {
  "tienda": "Vlack Hockey",
  "url": "https://www.vlackhockey.com.uy",
- "generado": "2026-11-26T13:39:31+00:00",
+ "generado": "2026-11-26T16:38:42+00:00",
  "total": 447,
  "productos": [
   {
@@ -16473,7 +16473,7 @@
      },
      "precio": 3690.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://www.vlackhockey.com.uy/products/sabah-aqua-10-91?variant=44485077139695"
@@ -16595,7 +16595,7 @@
      },
      "precio": 3690.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://www.vlackhockey.com.uy/products/sabah-negro-10-91?variant=44485074256111"
@@ -31817,7 +31817,7 @@
      },
      "precio": 7900.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://www.vlackhockey.com.uy/products/bocha-lisa?variant=28813682671693"
@@ -31830,7 +31830,7 @@
      },
      "precio": 4100.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://www.vlackhockey.com.uy/products/bocha-lisa?variant=43027015172335"
@@ -32446,7 +32446,7 @@
      },
      "precio": 1100.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://www.vlackhockey.com.uy/products/guante-bufago-negro?variant=28812479955021"
