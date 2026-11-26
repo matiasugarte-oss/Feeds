@@ -1,8 +1,8 @@
 {
  "tienda": "Giani Dafirenze",
  "url": "https://gianidafirenze.cl",
- "generado": "2026-11-26T00:10:42+00:00",
- "total": 411,
+ "generado": "2026-11-26T01:42:50+00:00",
+ "total": 410,
  "productos": [
   {
    "titulo": "Zapato Mujer / Pixon Celeste",
@@ -221,119 +221,6 @@
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/botin-mujer-angu-taupe?variant=43268007788587"
-    }
-   ]
-  },
-  {
-   "titulo": "Zapato Mujer / Cavancha Menta",
-   "url": "https://gianidafirenze.cl/products/zapato-mujer-cavancha-menta",
-   "marca": "Giani Dafirenze",
-   "categorias": [
-    "ZAPATOS"
-   ],
-   "descripcion": "Cavancha Menta trae frescura y diseño en una silueta pulida y versátil. El tono verde claro suma un toque de originalidad sin perder sobriedad, mientras su confección en cuero natural chileno asegura comodidad y duración. Ideal para quienes apuestan por lo diferente, pero siempre con elegancia.\n\nHecho en Chile",
-   "caracteristicas": {
-    "Nombre del producto": "Cavancha C5",
-    "Color": "Menta",
-    "Capellada (material exterior)": "Cuero",
-    "Forro (material interior)": "Cuero",
-    "Plantilla": "Cuero",
-    "Planta (suela)": "Goma Amo Mis Giani",
-    "Taco": "Madera forrada y pintada a mano",
-    "Altura del taco": "2 cm aprox",
-    "Punta": "Redonda",
-    "Horma": "Normal",
-    "Altura de la caña": "Al tobillo",
-    "Tipo de cierre": "Correa",
-    "Estilo del calzado": "Zapato",
-    "Temporada": "Primavera Verano 2026"
-   },
-   "precio_desde": 59940.0,
-   "moneda": "CLP",
-   "disponible": true,
-   "imagenes": [
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-cavancha-menta-zapatos-giani-dafirenze-720600.jpg?v=1753483044",
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-cavancha-menta-zapatos-giani-dafirenze-501093.jpg?v=1754943333",
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-cavancha-menta-zapatos-giani-dafirenze-410953.jpg?v=1754943266"
-   ],
-   "variantes": [
-    {
-     "sku": "GDF-PV26-CAVANCHA-C5-35",
-     "opciones": {
-      "Talla": "35",
-      "Color": "Verde"
-     },
-     "precio": 59940.0,
-     "precio_anterior": 99900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapato-mujer-cavancha-menta?variant=43268127293483"
-    },
-    {
-     "sku": "GDF-PV26-CAVANCHA-C5-36",
-     "opciones": {
-      "Talla": "36",
-      "Color": "Verde"
-     },
-     "precio": 59940.0,
-     "precio_anterior": 99900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapato-mujer-cavancha-menta?variant=43268127326251"
-    },
-    {
-     "sku": "GDF-PV26-CAVANCHA-C5-37",
-     "opciones": {
-      "Talla": "37",
-      "Color": "Verde"
-     },
-     "precio": 59940.0,
-     "precio_anterior": 99900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapato-mujer-cavancha-menta?variant=43268127359019"
-    },
-    {
-     "sku": "GDF-PV26-CAVANCHA-C5-38",
-     "opciones": {
-      "Talla": "38",
-      "Color": "Verde"
-     },
-     "precio": 59940.0,
-     "precio_anterior": 99900.0,
-     "disponible": true,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapato-mujer-cavancha-menta?variant=43268127391787"
-    },
-    {
-     "sku": "GDF-PV26-CAVANCHA-C5-39",
-     "opciones": {
-      "Talla": "39",
-      "Color": "Verde"
-     },
-     "precio": 59940.0,
-     "precio_anterior": 99900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapato-mujer-cavancha-menta?variant=43268127424555"
-    },
-    {
-     "sku": "GDF-PV26-CAVANCHA-C5-40",
-     "opciones": {
-      "Talla": "40",
-      "Color": "Verde"
-     },
-     "precio": 59940.0,
-     "precio_anterior": 99900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapato-mujer-cavancha-menta?variant=43268127457323"
     }
    ]
   },
@@ -597,7 +484,7 @@
      },
      "precio": 67425.0,
      "precio_anterior": 89900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/zapato-mujer-nandu-negro?variant=45350821888043"
@@ -9618,7 +9505,7 @@
      },
      "precio": 74925.0,
      "precio_anterior": 99900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/sandalia-mujer-nilo-cafe?variant=45252110024747"
@@ -10279,7 +10166,7 @@
      },
      "precio": 67425.0,
      "precio_anterior": 89900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/mocasin-mujer-coligue-beige?variant=44406986801195"
