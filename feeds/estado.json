@@ -86,5 +86,16 @@
     "error": null,
     "graves": 0,
     "avisos": 0
+  },
+  "milgenialuruguay": {
+    "nombre": "Milgenialuruguay",
+    "url": "https://milgenialuruguay.com",
+    "plataforma": "shopify",
+    "productos": 1603,
+    "items": 2590,
+    "actualizado": "2026-11-26 20:42",
+    "error": null,
+    "graves": 0,
+    "avisos": 2
   }
 }

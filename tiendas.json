@@ -67,5 +67,11 @@
     "url": "https://viaaqua.com",
     "nombre": "Viaaqua",
     "activa": true
+  },
+  {
+    "slug": "milgenialuruguay",
+    "url": "https://milgenialuruguay.com",
+    "nombre": "Milgenialuruguay",
+    "activa": true
   }
 ]

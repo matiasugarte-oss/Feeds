@@ -61,5 +61,17 @@
   "viaaqua": {
     "graves": {},
     "avisos": {}
+  },
+  "milgenialuruguay": {
+    "graves": {},
+    "avisos": {
+      "Sin descripción": {
+        "cantidad": 2,
+        "ejemplos": [
+          "1844-1 · Cabezal de Ducha Vastar 5 Modos Slim - Plateado",
+          "1844-2 · Cabezal de Ducha Vastar 5 Modos Slim - Negro"
+        ]
+      }
+    }
   }
 }
