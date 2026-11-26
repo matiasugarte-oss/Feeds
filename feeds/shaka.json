@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-25T23:08:46+00:00",
+ "generado": "2026-11-26T00:01:29+00:00",
  "total": 549,
  "productos": [
   {
@@ -18752,7 +18752,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 23,
+     "stock": 22,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-azul/?variant=1367950141"
     },
     {
