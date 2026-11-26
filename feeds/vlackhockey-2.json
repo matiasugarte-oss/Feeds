@@ -1,9 +1,95 @@
 {
  "tienda": "Vlackhockey",
  "url": "https://www.vlackhockey.com.ar",
- "generado": "2026-11-26T04:35:13+00:00",
- "total": 771,
+ "generado": "2026-11-26T05:46:07+00:00",
+ "total": 772,
  "productos": [
+  {
+   "titulo": "Remera Meskiana Niñas",
+   "url": "https://www.vlackhockey.com.ar/productos/remera-meskiana-ninas4/",
+   "marca": "Vlackhockey",
+   "categorias": [
+    "NIÑOS",
+    "MUSCULOSAS & REMERAS"
+   ],
+   "descripcion": "Remera manga corta, confeccionada en multistripe, un textil con una sutil textura y una caída liviana que aporta frescura y movimiento. Contiene un cuello con cruce en la espalda y recortes laterales que estilizan la prenda. En la parte trasera, se destaca la aplicación de marca en un vinilo a contratono.\n\n100% Poliéster.",
+   "caracteristicas": {},
+   "precio_desde": 10600.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://acdn-us.mitiendanube.com/stores/001/979/534/products/remera-meskiana-turquesa-8-3d9ac81da05d77e3dc17648558856480-1024-1024.webp",
+    "https://acdn-us.mitiendanube.com/stores/001/979/534/products/remera-meskiana-turquesa-10-8221362d14f4e4fa9117648558853850-1024-1024.webp",
+    "https://acdn-us.mitiendanube.com/stores/001/979/534/products/remera-meskiana-turquesa-9-c36fc2663e5d498d6d17648558855830-1024-1024.webp"
+   ],
+   "variantes": [
+    {
+     "sku": "63D0702   276",
+     "opciones": {
+      "Talle": "6",
+      "Color": "Turquesa"
+     },
+     "precio": 10600.0,
+     "precio_anterior": 21200.0,
+     "disponible": false,
+     "preorden": false,
+     "stock": 0,
+     "url": "https://www.vlackhockey.com.ar/productos/remera-meskiana-ninas4/?variant=1322026572"
+    },
+    {
+     "sku": "63D0702   278",
+     "opciones": {
+      "Talle": "8",
+      "Color": "Turquesa"
+     },
+     "precio": 10600.0,
+     "precio_anterior": 21200.0,
+     "disponible": false,
+     "preorden": false,
+     "stock": 0,
+     "url": "https://www.vlackhockey.com.ar/productos/remera-meskiana-ninas4/?variant=1322026591"
+    },
+    {
+     "sku": "63D0702   2710",
+     "opciones": {
+      "Talle": "10",
+      "Color": "Turquesa"
+     },
+     "precio": 10600.0,
+     "precio_anterior": 21200.0,
+     "disponible": false,
+     "preorden": false,
+     "stock": 0,
+     "url": "https://www.vlackhockey.com.ar/productos/remera-meskiana-ninas4/?variant=1322026606"
+    },
+    {
+     "sku": "63D0702   2712",
+     "opciones": {
+      "Talle": "12",
+      "Color": "Turquesa"
+     },
+     "precio": 10600.0,
+     "precio_anterior": 21200.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 2,
+     "url": "https://www.vlackhockey.com.ar/productos/remera-meskiana-ninas4/?variant=1322026623"
+    },
+    {
+     "sku": "63D0702   2714",
+     "opciones": {
+      "Talle": "14",
+      "Color": "Turquesa"
+     },
+     "precio": 10600.0,
+     "precio_anterior": 21200.0,
+     "disponible": true,
+     "preorden": false,
+     "stock": 2,
+     "url": "https://www.vlackhockey.com.ar/productos/remera-meskiana-ninas4/?variant=1322026637"
+    }
+   ]
+  },
   {
    "titulo": "Bermuda Unisex Saurino Niños",
    "url": "https://www.vlackhockey.com.ar/productos/bermuda-unisex-saurino2/",
@@ -4483,8 +4569,8 @@
     {
      "sku": "51B1203   37XS",
      "opciones": {
-      "Color": "XS",
-      "Talle": "Verde Limon"
+      "Talle": "XS",
+      "Color": "Verde Limon"
      },
      "precio": 24150.0,
      "precio_anterior": 34500.0,
@@ -4496,8 +4582,8 @@
     {
      "sku": "51B1203   37S",
      "opciones": {
-      "Color": "S",
-      "Talle": "Verde Limon"
+      "Talle": "S",
+      "Color": "Verde Limon"
      },
      "precio": 24150.0,
      "precio_anterior": 34500.0,
@@ -4509,8 +4595,8 @@
     {
      "sku": "51B1203   37M",
      "opciones": {
-      "Color": "M",
-      "Talle": "Verde Limon"
+      "Talle": "M",
+      "Color": "Verde Limon"
      },
      "precio": 24150.0,
      "precio_anterior": 34500.0,
@@ -4522,8 +4608,8 @@
     {
      "sku": "51B1203   37L",
      "opciones": {
-      "Color": "L",
-      "Talle": "Verde Limon"
+      "Talle": "L",
+      "Color": "Verde Limon"
      },
      "precio": 24150.0,
      "precio_anterior": 34500.0,
@@ -4535,8 +4621,8 @@
     {
      "sku": "51B1203   37XL",
      "opciones": {
-      "Color": "XL",
-      "Talle": "Verde Limon"
+      "Talle": "XL",
+      "Color": "Verde Limon"
      },
      "precio": 24150.0,
      "precio_anterior": 34500.0,
@@ -11431,7 +11517,8 @@
     {
      "sku": "54A1702   21XXS",
      "opciones": {
-      "Talle": "Azul Marino"
+      "Talle": "XXS",
+      "Color": "Azul Marino"
      },
      "precio": 72990.0,
      "precio_anterior": null,
@@ -11443,7 +11530,8 @@
     {
      "sku": "54A1702   21XS",
      "opciones": {
-      "Talle": "Azul Marino"
+      "Talle": "XS",
+      "Color": "Azul Marino"
      },
      "precio": 72990.0,
      "precio_anterior": null,
@@ -11455,7 +11543,8 @@
     {
      "sku": "54A1702   21S",
      "opciones": {
-      "Talle": "Azul Marino"
+      "Talle": "S",
+      "Color": "Azul Marino"
      },
      "precio": 72990.0,
      "precio_anterior": null,
@@ -11467,7 +11556,8 @@
     {
      "sku": "54A1702   21M",
      "opciones": {
-      "Talle": "Azul Marino"
+      "Talle": "M",
+      "Color": "Azul Marino"
      },
      "precio": 72990.0,
      "precio_anterior": null,
@@ -11479,7 +11569,8 @@
     {
      "sku": "54A1702   21L",
      "opciones": {
-      "Talle": "Azul Marino"
+      "Talle": "L",
+      "Color": "Azul Marino"
      },
      "precio": 72990.0,
      "precio_anterior": null,
@@ -11491,7 +11582,8 @@
     {
      "sku": "54A1702   21XL",
      "opciones": {
-      "Talle": "Azul Marino"
+      "Talle": "XL",
+      "Color": "Azul Marino"
      },
      "precio": 72990.0,
      "precio_anterior": null,
@@ -11685,8 +11777,8 @@
     {
      "sku": "11B1203   25XS",
      "opciones": {
-      "Talle": "XS",
-      "Color": "Azul francia y blanco"
+      "Color": "XS",
+      "Talle": "Azul francia y blanco"
      },
      "precio": 34500.0,
      "precio_anterior": null,
@@ -11698,8 +11790,8 @@
     {
      "sku": "11B1203   25S",
      "opciones": {
-      "Talle": "S",
-      "Color": "Azul francia y blanco"
+      "Color": "S",
+      "Talle": "Azul francia y blanco"
      },
      "precio": 34500.0,
      "precio_anterior": null,
@@ -11711,8 +11803,8 @@
     {
      "sku": "11B1203   25M",
      "opciones": {
-      "Talle": "M",
-      "Color": "Azul francia y blanco"
+      "Color": "M",
+      "Talle": "Azul francia y blanco"
      },
      "precio": 34500.0,
      "precio_anterior": null,
@@ -11724,8 +11816,8 @@
     {
      "sku": "11B1203   25L",
      "opciones": {
-      "Talle": "L",
-      "Color": "Azul francia y blanco"
+      "Color": "L",
+      "Talle": "Azul francia y blanco"
      },
      "precio": 34500.0,
      "precio_anterior": null,
@@ -11737,8 +11829,8 @@
     {
      "sku": "11B1203   25XL",
      "opciones": {
-      "Talle": "XL",
-      "Color": "Azul francia y blanco"
+      "Color": "XL",
+      "Talle": "Azul francia y blanco"
      },
      "precio": 34500.0,
      "precio_anterior": null,
@@ -22526,8 +22618,8 @@
     {
      "sku": "63A1701   216",
      "opciones": {
-      "Color": "6",
-      "Talle": "Azul marino"
+      "Talle": "6",
+      "Color": "Azul marino"
      },
      "precio": 28500.0,
      "precio_anterior": null,
@@ -22539,8 +22631,8 @@
     {
      "sku": "63A1701   218",
      "opciones": {
-      "Color": "8",
-      "Talle": "Azul marino"
+      "Talle": "8",
+      "Color": "Azul marino"
      },
      "precio": 28500.0,
      "precio_anterior": null,
@@ -22552,8 +22644,8 @@
     {
      "sku": "63A1701   2110",
      "opciones": {
-      "Color": "10",
-      "Talle": "Azul marino"
+      "Talle": "10",
+      "Color": "Azul marino"
      },
      "precio": 28500.0,
      "precio_anterior": null,
@@ -22565,8 +22657,8 @@
     {
      "sku": "63A1701   2112",
      "opciones": {
-      "Color": "12",
-      "Talle": "Azul marino"
+      "Talle": "12",
+      "Color": "Azul marino"
      },
      "precio": 28500.0,
      "precio_anterior": null,
@@ -22578,8 +22670,8 @@
     {
      "sku": "63A1701   2114",
      "opciones": {
-      "Color": "14",
-      "Talle": "Azul marino"
+      "Talle": "14",
+      "Color": "Azul marino"
      },
      "precio": 28500.0,
      "precio_anterior": null,
@@ -30197,8 +30289,8 @@
     {
      "sku": "11B1203   58XS",
      "opciones": {
-      "Color": "XS",
-      "Talle": "Naranja Fluo"
+      "Talle": "XS",
+      "Color": "Naranja Fluo"
      },
      "precio": 34500.0,
      "precio_anterior": null,
@@ -30210,8 +30302,8 @@
     {
      "sku": "11B1203   58S",
      "opciones": {
-      "Color": "S",
-      "Talle": "Naranja Fluo"
+      "Talle": "S",
+      "Color": "Naranja Fluo"
      },
      "precio": 34500.0,
      "precio_anterior": null,
@@ -30223,8 +30315,8 @@
     {
      "sku": "11B1203   58M",
      "opciones": {
-      "Color": "M",
-      "Talle": "Naranja Fluo"
+      "Talle": "M",
+      "Color": "Naranja Fluo"
      },
      "precio": 34500.0,
      "precio_anterior": null,
@@ -30236,8 +30328,8 @@
     {
      "sku": "11B1203   58L",
      "opciones": {
-      "Color": "L",
-      "Talle": "Naranja Fluo"
+      "Talle": "L",
+      "Color": "Naranja Fluo"
      },
      "precio": 34500.0,
      "precio_anterior": null,
@@ -30249,8 +30341,8 @@
     {
      "sku": "11B1203   58XL",
      "opciones": {
-      "Color": "XL",
-      "Talle": "Naranja Fluo"
+      "Talle": "XL",
+      "Color": "Naranja Fluo"
      },
      "precio": 34500.0,
      "precio_anterior": null,
