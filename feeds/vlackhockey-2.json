@@ -1,7 +1,7 @@
 {
  "tienda": "Vlackhockey",
  "url": "https://www.vlackhockey.com.ar",
- "generado": "2026-11-26T20:28:36+00:00",
+ "generado": "2026-11-26T22:12:14+00:00",
  "total": 772,
  "productos": [
   {
@@ -112,8 +112,8 @@
     {
      "sku": "63B0600   208",
      "opciones": {
-      "Color": "Azul",
-      "Talle": "T8"
+      "Talle": "Azul",
+      "Color": "T8"
      },
      "precio": 19320.0,
      "precio_anterior": 27600.0,
@@ -125,8 +125,8 @@
     {
      "sku": "63B0600   2010",
      "opciones": {
-      "Color": "Azul",
-      "Talle": "T10"
+      "Talle": "Azul",
+      "Color": "T10"
      },
      "precio": 19320.0,
      "precio_anterior": 27600.0,
@@ -138,8 +138,8 @@
     {
      "sku": "63B0600   2012",
      "opciones": {
-      "Color": "Azul",
-      "Talle": "T12"
+      "Talle": "Azul",
+      "Color": "T12"
      },
      "precio": 19320.0,
      "precio_anterior": 27600.0,
@@ -151,8 +151,8 @@
     {
      "sku": "63B0600   2014",
      "opciones": {
-      "Color": "Azul",
-      "Talle": "T14"
+      "Talle": "Azul",
+      "Color": "T14"
      },
      "precio": 19320.0,
      "precio_anterior": 27600.0,
@@ -401,8 +401,8 @@
     {
      "sku": "11A0902   210",
      "opciones": {
-      "Color": "T0",
-      "Talle": "Azul marino"
+      "Talle": "T0",
+      "Color": "Azul marino"
      },
      "precio": 21550.0,
      "precio_anterior": null,
@@ -414,8 +414,8 @@
     {
      "sku": "11A0902   211",
      "opciones": {
-      "Color": "T1",
-      "Talle": "Azul marino"
+      "Talle": "T1",
+      "Color": "Azul marino"
      },
      "precio": 21550.0,
      "precio_anterior": null,
@@ -427,8 +427,8 @@
     {
      "sku": "11A0902   212",
      "opciones": {
-      "Color": "T2",
-      "Talle": "Azul marino"
+      "Talle": "T2",
+      "Color": "Azul marino"
      },
      "precio": 21550.0,
      "precio_anterior": null,
@@ -440,8 +440,8 @@
     {
      "sku": "11A0902   213",
      "opciones": {
-      "Color": "T3",
-      "Talle": "Azul marino"
+      "Talle": "T3",
+      "Color": "Azul marino"
      },
      "precio": 21550.0,
      "precio_anterior": null,
@@ -453,8 +453,8 @@
     {
      "sku": "11A0902   214",
      "opciones": {
-      "Color": "T4",
-      "Talle": "Azul marino"
+      "Talle": "T4",
+      "Color": "Azul marino"
      },
      "precio": 21550.0,
      "precio_anterior": null,
@@ -9183,7 +9183,7 @@
      "precio_anterior": 22400.0,
      "disponible": true,
      "preorden": false,
-     "stock": 3,
+     "stock": 2,
      "url": "https://www.vlackhockey.com.ar/productos/top-branis-damas/?variant=1321584311"
     },
     {
@@ -10628,7 +10628,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 2,
+     "stock": 1,
      "url": "https://www.vlackhockey.com.ar/productos/short-kiev-hombre2/?variant=531792065"
     }
    ]
@@ -12752,9 +12752,9 @@
      },
      "precio": 17450.0,
      "precio_anterior": 34900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
-     "stock": 1,
+     "stock": 0,
      "url": "https://www.vlackhockey.com.ar/productos/remera-masud-hombre/?variant=1323390373"
     }
    ]
@@ -13151,9 +13151,9 @@
      },
      "precio": 15525.0,
      "precio_anterior": 31050.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
-     "stock": 1,
+     "stock": 0,
      "url": "https://www.vlackhockey.com.ar/productos/remera-kampal-adulto1/?variant=1042093652"
     }
    ]
@@ -14748,7 +14748,7 @@
      "precio_anterior": 28500.0,
      "disponible": true,
      "preorden": false,
-     "stock": 3,
+     "stock": 2,
      "url": "https://www.vlackhockey.com.ar/productos/top-praia6/?variant=1318085623"
     },
     {
@@ -22133,7 +22133,7 @@
      "precio_anterior": 26100.0,
      "disponible": true,
      "preorden": false,
-     "stock": 5,
+     "stock": 4,
      "url": "https://www.vlackhockey.com.ar/productos/musculosa-quela-damas/?variant=1322756176"
     },
     {
@@ -28815,7 +28815,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 3,
+     "stock": 2,
      "url": "https://www.vlackhockey.com.ar/productos/badak-api-20263/?variant=1397200692"
     },
     {
@@ -43888,7 +43888,7 @@
      "precio_anterior": 31050.0,
      "disponible": true,
      "preorden": false,
-     "stock": 2,
+     "stock": 1,
      "url": "https://www.vlackhockey.com.ar/productos/remera-kampal-adulto/?variant=1042093580"
     }
    ]
@@ -47769,7 +47769,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 2,
+     "stock": 1,
      "url": "https://www.vlackhockey.com.ar/productos/top-addo-damas1/?variant=1044319824"
     },
     {

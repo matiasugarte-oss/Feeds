@@ -1,7 +1,7 @@
 {
  "tienda": "Giani Dafirenze",
  "url": "https://gianidafirenze.cl",
- "generado": "2026-11-26T20:22:49+00:00",
+ "generado": "2026-11-26T22:07:55+00:00",
  "total": 405,
  "productos": [
   {
@@ -5666,7 +5666,7 @@
      },
      "precio": 59925.0,
      "precio_anterior": 79900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/sandalia-mujer-nacar-taupe?variant=67981642694699"

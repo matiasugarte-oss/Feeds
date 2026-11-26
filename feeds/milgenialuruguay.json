@@ -1,7 +1,7 @@
 {
  "tienda": "Milgenialuruguay",
  "url": "https://milgenialuruguay.com",
- "generado": "2026-11-26T20:42:02+00:00",
+ "generado": "2026-11-26T22:19:20+00:00",
  "total": 1603,
  "productos": [
   {
@@ -4580,7 +4580,7 @@
      },
      "precio": 990.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/plantillas-deportivas-de-latex-con-soporte-de-arco?variant=49578477977914"
@@ -13907,7 +13907,7 @@
    "caracteristicas": {},
    "precio_desde": 1590.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/D_NQ_NP_2X_938549-CBT108601480505_032026-F.webp?v=1774890721",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/01_11zon.webp?v=1775004225",
@@ -13919,7 +13919,7 @@
      "opciones": {},
      "precio": 1590.0,
      "precio_anterior": 1990.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/cepillo-electrico-con-removedor-de-sarro?variant=53243075592506"
@@ -41195,7 +41195,7 @@
      },
      "precio": 390.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/perchero-para-puerta-doble?variant=50747293139258"
@@ -69318,7 +69318,7 @@
    },
    "precio_desde": 590.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/Se411376637f24edbbbccd530e0500831I.webp?v=1731105263",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/S4af5db46b4824177a09e174056e0075fU.webp?v=1731105266",
@@ -69330,7 +69330,7 @@
      "opciones": {},
      "precio": 590.0,
      "precio_anterior": 690.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/munequera-magnetica-premium-para-trabajo?variant=45049618727226"
