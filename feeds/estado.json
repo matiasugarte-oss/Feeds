@@ -75,5 +75,16 @@
     "error": null,
     "graves": 0,
     "avisos": 0
+  },
+  "viaaqua": {
+    "nombre": "Viaaqua",
+    "url": "https://viaaqua.com",
+    "plataforma": "woocommerce",
+    "productos": 57,
+    "items": 55,
+    "actualizado": "2026-11-26 14:43",
+    "error": null,
+    "graves": 0,
+    "avisos": 0
   }
 }
