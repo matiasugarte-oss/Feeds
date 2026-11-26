@@ -23251,7 +23251,7 @@ Características:
       <g:additional_image_link>https://acdn-us.mitiendanube.com/stores/001/708/518/products/axeldodds-tv-4936-fa20b3c003151bcc4017343907400216-1024-1024.webp</g:additional_image_link>
       <g:additional_image_link>https://acdn-us.mitiendanube.com/stores/001/708/518/products/axeldodds-tv-4937-d57647ea3b70e5f67217343907403535-1024-1024.webp</g:additional_image_link>
       <g:additional_image_link>https://acdn-us.mitiendanube.com/stores/001/708/518/products/axeldodds-tv-4938-ea3c44271ba49dc0c917343907400023-1024-1024.webp</g:additional_image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>75000.00 ARS</g:price>
       <g:brand>Shaka Cmmnty</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
@@ -43333,7 +43333,7 @@ Características:
     <item>
       <g:id>299</g:id>
       <g:item_group_id>247194898</g:item_group_id>
-      <g:title>SHK MORLEY TOP (blanco)</g:title>
+      <g:title>SHK MORLEY TOP (blanco) - S</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley
@@ -43356,11 +43356,12 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>S</g:size>
     </item>
     <item>
       <g:id>300</g:id>
       <g:item_group_id>247194898</g:item_group_id>
-      <g:title>SHK MORLEY TOP (blanco)</g:title>
+      <g:title>SHK MORLEY TOP (blanco) - M</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley
@@ -43383,11 +43384,12 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>M</g:size>
     </item>
     <item>
       <g:id>301</g:id>
       <g:item_group_id>247194898</g:item_group_id>
-      <g:title>SHK MORLEY TOP (blanco)</g:title>
+      <g:title>SHK MORLEY TOP (blanco) - L</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley
@@ -43410,6 +43412,7 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>L</g:size>
     </item>
     <item>
       <g:id>1590111866</g:id>

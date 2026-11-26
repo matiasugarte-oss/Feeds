@@ -1,7 +1,7 @@
 {
  "tienda": "Giani Dafirenze",
  "url": "https://gianidafirenze.cl",
- "generado": "2026-11-26T19:25:57+00:00",
+ "generado": "2026-11-26T20:22:49+00:00",
  "total": 405,
  "productos": [
   {
@@ -6193,7 +6193,7 @@
      },
      "precio": 67425.0,
      "precio_anterior": 89900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-beige?variant=44657466540075"

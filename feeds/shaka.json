@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-26T19:16:42+00:00",
+ "generado": "2026-11-26T20:20:40+00:00",
  "total": 549,
  "productos": [
   {
@@ -10864,7 +10864,7 @@
    },
    "precio_desde": 75000.0,
    "moneda": "ARS",
-   "disponible": false,
+   "disponible": true,
    "imagenes": [
     "https://acdn-us.mitiendanube.com/stores/001/708/518/products/bvjfds-56d4d8766a4c88113517337847961665-1024-1024.webp",
     "https://acdn-us.mitiendanube.com/stores/001/708/518/products/bgrfvd-0817bced02da2a95e317337847962184-1024-1024.webp",
@@ -10902,9 +10902,9 @@
      },
      "precio": 75000.0,
      "precio_anterior": null,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
-     "stock": 0,
+     "stock": 1,
      "url": "https://sh-aka.com.ar/productos/the-ocean-short-beige/?variant=1082662750"
     },
     {
@@ -20265,7 +20265,9 @@
    "variantes": [
     {
      "sku": "299",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -20275,7 +20277,9 @@
     },
     {
      "sku": "300",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -20285,7 +20289,9 @@
     },
     {
      "sku": "301",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -22168,7 +22174,7 @@
      "precio_anterior": 85000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 5,
+     "stock": 2,
      "url": "https://sh-aka.com.ar/productos/the-sunny-polo-0khh9/?variant=1367947091"
     },
     {
