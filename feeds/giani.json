@@ -1,8 +1,8 @@
 {
  "tienda": "Giani Dafirenze",
  "url": "https://gianidafirenze.cl",
- "generado": "2026-11-26T18:14:33+00:00",
- "total": 406,
+ "generado": "2026-11-26T19:25:57+00:00",
+ "total": 405,
  "productos": [
   {
    "titulo": "Zapato Mujer / Pixon Celeste",
@@ -109,118 +109,6 @@
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/zapato-mujer-pixon-celeste?variant=43268124835883"
-    }
-   ]
-  },
-  {
-   "titulo": "Botin Mujer / Angu Taupe Cafe",
-   "url": "https://gianidafirenze.cl/products/botin-mujer-angu-taupe",
-   "marca": "Giani Dafirenze",
-   "categorias": [
-    "BOTINES"
-   ],
-   "descripcion": "El botín de cuero para mujer Angu Taupe Café combina una paleta neutra con un diseño sobrio y funcional. La mezcla de tonos taupe y café aporta profundidad y versatilidad, ideal para integrar al calzado femenino de cuero en distintos looks cotidianos.\n\nConfeccionado en cuero natural y pensado para un calce cómodo, ofrece estabilidad y confort durante el día. Un botín femenino de cuero que prioriza materialidad, diseño atemporal y uso real en la rutina diaria.\n\nTemporada Otoño Invierno 2026. Hecho en Chile",
-   "caracteristicas": {
-    "Nombre": "Angu C15",
-    "Color": "Taupe Cafe",
-    "Capellada (material exterior)": "Cuero y reno",
-    "Forro (material interior)": "Cuero",
-    "Plantilla": "Cuero",
-    "Planta (suela)": "Goma Amo Mis Giani",
-    "Taco": "Madera pintado a mano",
-    "Altura del taco": "2 cm",
-    "Punta": "Puntiaguda",
-    "Horma": "Normal",
-    "Tipo de cierre": "Elástico",
-    "Altura de la caña": "Sobre el tobillo",
-    "Estilo": "Zapatos"
-   },
-   "precio_desde": 59950.0,
-   "moneda": "CLP",
-   "disponible": true,
-   "imagenes": [
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-angu-taupe-cafe-botines-giani-dafirenze-759933.jpg?v=1772490154",
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-angu-taupe-cafe-botines-giani-dafirenze-713846.jpg?v=1772490154",
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-angu-taupe-cafe-botines-giani-dafirenze-404869.jpg?v=1772490154"
-   ],
-   "variantes": [
-    {
-     "sku": "GDF-OI26-ANGU-C15-35",
-     "opciones": {
-      "Talla": "35",
-      "Color": "Marrón"
-     },
-     "precio": 59950.0,
-     "precio_anterior": 119900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/botin-mujer-angu-taupe?variant=43268007624747"
-    },
-    {
-     "sku": "GDF-OI26-ANGU-C15-36",
-     "opciones": {
-      "Talla": "36",
-      "Color": "Marrón"
-     },
-     "precio": 59950.0,
-     "precio_anterior": 119900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/botin-mujer-angu-taupe?variant=43268007657515"
-    },
-    {
-     "sku": "GDF-OI26-ANGU-C15-37",
-     "opciones": {
-      "Talla": "37",
-      "Color": "Marrón"
-     },
-     "precio": 59950.0,
-     "precio_anterior": 119900.0,
-     "disponible": true,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/botin-mujer-angu-taupe?variant=43268007690283"
-    },
-    {
-     "sku": "GDF-OI26-ANGU-C15-38",
-     "opciones": {
-      "Talla": "38",
-      "Color": "Marrón"
-     },
-     "precio": 59950.0,
-     "precio_anterior": 119900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/botin-mujer-angu-taupe?variant=43268007723051"
-    },
-    {
-     "sku": "GDF-OI26-ANGU-C15-39",
-     "opciones": {
-      "Talla": "39",
-      "Color": "Marrón"
-     },
-     "precio": 59950.0,
-     "precio_anterior": 119900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/botin-mujer-angu-taupe?variant=43268007755819"
-    },
-    {
-     "sku": "GDF-OI26-ANGU-C15-40",
-     "opciones": {
-      "Talla": "40",
-      "Color": "Marrón"
-     },
-     "precio": 59950.0,
-     "precio_anterior": 119900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/botin-mujer-angu-taupe?variant=43268007788587"
     }
    ]
   },
@@ -1877,7 +1765,7 @@
      },
      "precio": 74925.0,
      "precio_anterior": 99900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/mocasin-mujer-rocio-cafe?variant=44209960812587"
@@ -6344,7 +6232,7 @@
      },
      "precio": 67425.0,
      "precio_anterior": 89900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-beige?variant=44657466638379"
@@ -20997,7 +20885,7 @@
      },
      "precio": 74925.0,
      "precio_anterior": 99900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/zapato-mujer-pixon-negro?variant=44586055139371"

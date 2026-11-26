@@ -11343,7 +11343,7 @@ Características:
     <item>
       <g:id>1313703989</g:id>
       <g:item_group_id>293990912</g:item_group_id>
-      <g:title>Longsleeve Morley Top</g:title>
+      <g:title>Longsleeve Morley Top - S</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley.
@@ -11370,11 +11370,12 @@ Mia mide 1,65 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>S</g:size>
     </item>
     <item>
       <g:id>1313703990</g:id>
       <g:item_group_id>293990912</g:item_group_id>
-      <g:title>Longsleeve Morley Top</g:title>
+      <g:title>Longsleeve Morley Top - M</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley.
@@ -11401,11 +11402,12 @@ Mia mide 1,65 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>M</g:size>
     </item>
     <item>
       <g:id>1313703992</g:id>
       <g:item_group_id>293990912</g:item_group_id>
-      <g:title>Longsleeve Morley Top</g:title>
+      <g:title>Longsleeve Morley Top - L</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley.
@@ -11432,6 +11434,7 @@ Mia mide 1,65 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>L</g:size>
     </item>
     <item>
       <g:id>1520297221</g:id>
@@ -17426,7 +17429,7 @@ Características:
     <item>
       <g:id>1440889630</g:id>
       <g:item_group_id>324958311</g:item_group_id>
-      <g:title>Corset Top</g:title>
+      <g:title>Corset Top - S</g:title>
       <g:description>Top de poplin.
 
 Forma de corset con ajustes en mangas y volado en el torso.
@@ -17451,11 +17454,12 @@ Ella mide 1,75 y usa talle L</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>S</g:size>
     </item>
     <item>
       <g:id>1440889637</g:id>
       <g:item_group_id>324958311</g:item_group_id>
-      <g:title>Corset Top</g:title>
+      <g:title>Corset Top - M</g:title>
       <g:description>Top de poplin.
 
 Forma de corset con ajustes en mangas y volado en el torso.
@@ -17480,11 +17484,12 @@ Ella mide 1,75 y usa talle L</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>M</g:size>
     </item>
     <item>
       <g:id>1440889643</g:id>
       <g:item_group_id>324958311</g:item_group_id>
-      <g:title>Corset Top</g:title>
+      <g:title>Corset Top - L</g:title>
       <g:description>Top de poplin.
 
 Forma de corset con ajustes en mangas y volado en el torso.
@@ -17509,6 +17514,7 @@ Ella mide 1,75 y usa talle L</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>L</g:size>
     </item>
     <item>
       <g:id>1367940625</g:id>
@@ -30651,7 +30657,7 @@ Características:
     <item>
       <g:id>1073285773</g:id>
       <g:item_group_id>244269266</g:item_group_id>
-      <g:title>Top Polo - S</g:title>
+      <g:title>Top Polo</g:title>
       <g:description>Top de 100% algodón.
 
 Tela jersey 24/1 con lycra y cuello tejido a tono con estampa.
@@ -30675,12 +30681,11 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>S</g:size>
     </item>
     <item>
       <g:id>1073285775</g:id>
       <g:item_group_id>244269266</g:item_group_id>
-      <g:title>Top Polo - M</g:title>
+      <g:title>Top Polo</g:title>
       <g:description>Top de 100% algodón.
 
 Tela jersey 24/1 con lycra y cuello tejido a tono con estampa.
@@ -30704,12 +30709,11 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>M</g:size>
     </item>
     <item>
       <g:id>1073285776</g:id>
       <g:item_group_id>244269266</g:item_group_id>
-      <g:title>Top Polo - L</g:title>
+      <g:title>Top Polo</g:title>
       <g:description>Top de 100% algodón.
 
 Tela jersey 24/1 con lycra y cuello tejido a tono con estampa.
@@ -30733,7 +30737,6 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>L</g:size>
     </item>
     <item>
       <g:id>173</g:id>
@@ -62982,7 +62985,7 @@ Características:
     <item>
       <g:id>1073285381</g:id>
       <g:item_group_id>244269148</g:item_group_id>
-      <g:title>SHK Morley Top - S</g:title>
+      <g:title>SHK Morley Top</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley
@@ -63007,12 +63010,11 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>S</g:size>
     </item>
     <item>
       <g:id>1073285382</g:id>
       <g:item_group_id>244269148</g:item_group_id>
-      <g:title>SHK Morley Top - M</g:title>
+      <g:title>SHK Morley Top</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley
@@ -63037,12 +63039,11 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>M</g:size>
     </item>
     <item>
       <g:id>1073285384</g:id>
       <g:item_group_id>244269148</g:item_group_id>
-      <g:title>SHK Morley Top - L</g:title>
+      <g:title>SHK Morley Top</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley
@@ -63067,7 +63068,6 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>L</g:size>
     </item>
     <item>
       <g:id>475</g:id>

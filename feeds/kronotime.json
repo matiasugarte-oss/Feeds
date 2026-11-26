@@ -1,7 +1,7 @@
 {
  "tienda": "Kronotime",
  "url": "https://kronotime.com",
- "generado": "2026-11-26T18:14:28+00:00",
+ "generado": "2026-11-26T19:25:52+00:00",
  "total": 10000,
  "productos": [
   {
@@ -7179,7 +7179,7 @@
    "caracteristicas": {},
    "precio_desde": 199900.0,
    "moneda": "COP",
-   "disponible": false,
+   "disponible": true,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/883901192308_1_68b6251b-9339-452a-b78a-3e0b28bc5f96.jpg?v=1792796762",
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/883901192308_2_fbaf0c3d-5ed4-42f0-b732-8f7ed6992691.jpg?v=1792796762",
@@ -7191,7 +7191,7 @@
      "opciones": {},
      "precio": 199900.0,
      "precio_anterior": 399900.0,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://kronotime.com/products/lentes-de-sol-calvin-klein-ck20122sn-717?variant=67837981753708"
@@ -75413,7 +75413,7 @@
    "caracteristicas": {},
    "precio_desde": 649950.0,
    "moneda": "COP",
-   "disponible": false,
+   "disponible": true,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/886678687411_64715105-b4ae-4d53-a135-2cd62d417e60.jpg?v=1781977929",
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/886678687411_jpg_04c14a7e-3eb1-420e-b59f-8ba522a0d342.jpg?v=1781977929"
@@ -75424,7 +75424,7 @@
      "opciones": {},
      "precio": 649950.0,
      "precio_anterior": 1159900.0,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://kronotime.com/products/reloj-deportivo-para-hombre-invicta-speedway-50487-white?variant=53929452765548"

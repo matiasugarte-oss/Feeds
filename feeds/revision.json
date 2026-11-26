@@ -9,23 +9,7 @@
   },
   "giani": {
     "graves": {},
-    "avisos": {
-      "Precio cambiado y confirmado (se mantuvo 3 corridas)": {
-        "cantidad": 30,
-        "ejemplos": [
-          "DF-PV25-PRAT-C1-39 · Zapatilla Hombre / Prat Beige - 39: 439945 -> 43945",
-          "DF-PV25-PRAT-C1-40 · Zapatilla Hombre / Prat Beige - 40: 439945 -> 43945",
-          "DF-PV25-PRAT-C1-41 · Zapatilla Hombre / Prat Beige - 41: 439945 -> 43945",
-          "DF-PV25-PRAT-C1-42 · Zapatilla Hombre / Prat Beige - 42: 439945 -> 43945",
-          "DF-PV25-PRAT-C1-43 · Zapatilla Hombre / Prat Beige - 43: 439945 -> 43945",
-          "DF-PV25-PRAT-C1-44 · Zapatilla Hombre / Prat Beige - 44: 439945 -> 43945",
-          "DF-PV25-JULIO-C2-39 · Zapatilla Hombre / Julio Gris - 39: 439945 -> 43945",
-          "DF-PV25-JULIO-C2-40 · Zapatilla Hombre / Julio Gris - 40: 439945 -> 43945",
-          "DF-PV25-JULIO-C2-41 · Zapatilla Hombre / Julio Gris - 41: 439945 -> 43945",
-          "DF-PV25-JULIO-C2-42 · Zapatilla Hombre / Julio Gris - 42: 439945 -> 43945"
-        ]
-      }
-    }
+    "avisos": {}
   },
   "fauna": {
     "graves": {},
@@ -54,18 +38,18 @@
     "graves": {},
     "avisos": {
       "Sin descripción": {
-        "cantidad": 24,
+        "cantidad": 16,
         "ejemplos": [
-          "71E0701   55XS · Sudadera Xola Damas - XS / Naranja",
-          "71E0701   55S · Sudadera Xola Damas - S / Naranja",
-          "71E0701   55M · Sudadera Xola Damas - M / Naranja",
-          "71E0701   55L · Sudadera Xola Damas - L / Naranja",
           "64D0101   01S · Remera Amguel Unisex - S / Blanco",
           "64D0101   01M · Remera Amguel Unisex - M / Blanco",
           "64D0101   01L · Remera Amguel Unisex - L / Blanco",
           "64D0101   01XL · Remera Amguel Unisex - XL / Blanco",
-          "71E0701   3AXS · Sudadera Xola Damas - XS / Verde esmeralda",
-          "71E0701   3AS · Sudadera Xola Damas - S / Verde esmeralda"
+          "64D0101   10S · Remera Amguel Unisex - S / Negro",
+          "64D0101   10M · Remera Amguel Unisex - M / Negro",
+          "64D0101   10L · Remera Amguel Unisex - L / Negro",
+          "64D0101   10XL · Remera Amguel Unisex - XL / Negro",
+          "64D0101   LVS · Remera Amguel Unisex - S / Lavanda",
+          "64D0101   LVM · Remera Amguel Unisex - M / Lavanda"
         ]
       }
     }
