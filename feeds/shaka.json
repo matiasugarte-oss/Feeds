@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-26T01:33:40+00:00",
+ "generado": "2026-11-26T03:10:41+00:00",
  "total": 549,
  "productos": [
   {
@@ -3201,9 +3201,9 @@
      },
      "precio": 59500.0,
      "precio_anterior": 85000.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
-     "stock": 1,
+     "stock": 0,
      "url": "https://sh-aka.com.ar/productos/flower-shirt-marino-ob9ql/?variant=1496186392"
     }
    ]
@@ -6739,7 +6739,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 29,
+     "stock": 28,
      "url": "https://sh-aka.com.ar/productos/smmr-tee-gris-topo-pxndm/?variant=1615052907"
     }
    ]
@@ -24708,7 +24708,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 9,
      "url": "https://sh-aka.com.ar/productos/fire-3-shirt-marron-1962n/?variant=1645756657"
     }
    ]
@@ -28261,9 +28261,9 @@
      },
      "precio": 150000.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
-     "stock": 1,
+     "stock": 0,
      "url": "https://sh-aka.com.ar/productos/costa-rica-knit-1ym6e/?variant=1496270231"
     },
     {
@@ -33419,7 +33419,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 9,
+     "stock": 8,
      "url": "https://sh-aka.com.ar/productos/squared-smmr-shirt-verde-ipkt1/?variant=1615148523"
     },
     {
