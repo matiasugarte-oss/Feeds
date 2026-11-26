@@ -38,7 +38,9 @@
     "marca": "Fauna Deco",
     "categoria_google": "Home & Garden > Decor > Artwork > Sculptures & Statues",
     "preorden_como": "preorder",
-    "tiempo_max_min": 6
+    "tiempo_max_min": 6,
+    "moneda": "UYU",
+    "activa": true
   },
   {
     "slug": "vlackhockey",
