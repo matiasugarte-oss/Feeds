@@ -1,7 +1,7 @@
 {
  "tienda": "Vlackhockey",
  "url": "https://www.vlackhockey.com.ar",
- "generado": "2026-11-26T11:26:19+00:00",
+ "generado": "2026-11-26T12:30:50+00:00",
  "total": 772,
  "productos": [
   {
@@ -23926,7 +23926,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 6,
+     "stock": 5,
      "url": "https://www.vlackhockey.com.ar/productos/botines-rh01-20261/?variant=1449432344"
     },
     {
@@ -29443,8 +29443,8 @@
     {
      "sku": "62B1203   40XS",
      "opciones": {
-      "Talle": "Rojo",
-      "Color": "XS"
+      "Color": "Rojo",
+      "Talle": "XS"
      },
      "precio": 28560.0,
      "precio_anterior": 40800.0,
@@ -29456,8 +29456,8 @@
     {
      "sku": "62B1203   40S",
      "opciones": {
-      "Talle": "Rojo",
-      "Color": "S"
+      "Color": "Rojo",
+      "Talle": "S"
      },
      "precio": 28560.0,
      "precio_anterior": 40800.0,
@@ -29469,8 +29469,8 @@
     {
      "sku": "62B1203   40M",
      "opciones": {
-      "Talle": "Rojo",
-      "Color": "M"
+      "Color": "Rojo",
+      "Talle": "M"
      },
      "precio": 28560.0,
      "precio_anterior": 40800.0,
@@ -29482,8 +29482,8 @@
     {
      "sku": "62B1203   40L",
      "opciones": {
-      "Talle": "Rojo",
-      "Color": "L"
+      "Color": "Rojo",
+      "Talle": "L"
      },
      "precio": 28560.0,
      "precio_anterior": 40800.0,
@@ -29495,8 +29495,8 @@
     {
      "sku": "62B1203   40XL",
      "opciones": {
-      "Talle": "Rojo",
-      "Color": "XL"
+      "Color": "Rojo",
+      "Talle": "XL"
      },
      "precio": 28560.0,
      "precio_anterior": 40800.0,
@@ -29508,8 +29508,8 @@
     {
      "sku": "62B1203   40XXL",
      "opciones": {
-      "Talle": "Rojo",
-      "Color": "XXL"
+      "Color": "Rojo",
+      "Talle": "XXL"
      },
      "precio": 28560.0,
      "precio_anterior": 40800.0,

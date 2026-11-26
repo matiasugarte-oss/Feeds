@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-26T11:11:25+00:00",
+ "generado": "2026-11-26T12:16:36+00:00",
  "total": 549,
  "productos": [
   {
@@ -6739,7 +6739,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 28,
+     "stock": 27,
      "url": "https://sh-aka.com.ar/productos/smmr-tee-gris-topo-pxndm/?variant=1615052907"
     }
    ]
@@ -11196,7 +11196,7 @@
      "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 3,
+     "stock": 2,
      "url": "https://sh-aka.com.ar/productos/squared-windbreaker-69tca/?variant=1496263579"
     }
    ]
@@ -16254,7 +16254,9 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -16264,7 +16266,9 @@
     },
     {
      "sku": "371",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -16274,7 +16278,9 @@
     },
     {
      "sku": "372",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -20265,9 +20271,7 @@
    "variantes": [
     {
      "sku": "299",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -20277,9 +20281,7 @@
     },
     {
      "sku": "300",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -20289,9 +20291,7 @@
     },
     {
      "sku": "301",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -32422,7 +32422,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 13,
+     "stock": 12,
      "url": "https://sh-aka.com.ar/productos/red-logo-waffle-tee-74uys/?variant=1645757634"
     }
    ]
@@ -32946,7 +32946,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 99,
+     "stock": 98,
      "url": "https://sh-aka.com.ar/productos/90s-boardshort-azul-2jqmw/?variant=1645758093"
     },
     {

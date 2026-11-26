@@ -1,7 +1,7 @@
 {
  "tienda": "Giani Dafirenze",
  "url": "https://gianidafirenze.cl",
- "generado": "2026-11-26T11:20:37+00:00",
+ "generado": "2026-11-26T12:25:50+00:00",
  "total": 410,
  "productos": [
   {
@@ -29756,7 +29756,7 @@
      },
      "precio": 43945.0,
      "precio_anterior": 79900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/sandalia-mujer-candela-metalico?variant=43268111532075"
