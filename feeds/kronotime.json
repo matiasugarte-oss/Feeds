@@ -1,7 +1,7 @@
 {
  "tienda": "Kronotime",
  "url": "https://kronotime.com",
- "generado": "2026-11-26T07:48:31+00:00",
+ "generado": "2026-11-26T09:34:39+00:00",
  "total": 10000,
  "productos": [
   {
@@ -117787,7 +117787,7 @@
    "caracteristicas": {},
    "precio_desde": 642475.0,
    "moneda": "COP",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/886678487424_72cf5e7e-f7d9-4826-b063-b19b8b605f59.jpg?v=1779223126",
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/cajaTechnomarine_fbec8c33-2beb-4f22-ac27-d8e224a692c9.jpg?v=1779223126",
@@ -117799,7 +117799,7 @@
      "opciones": {},
      "precio": 642475.0,
      "precio_anterior": 1499900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://kronotime.com/products/reloj-deportivo-para-mujer-technomarine-cruise-tm-121248-blanco-1?variant=53784749769068"
@@ -182264,7 +182264,7 @@
    "caracteristicas": {},
    "precio_desde": 679920.0,
    "moneda": "COP",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/7613272660679_201_2839a173-a01c-4f97-8df5-1c0becab07fe.jpg?v=1773252055",
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/7613272660679_202_484c6905-be3a-4254-8e65-13bd3dcd0e9d.jpg?v=1773252055",
@@ -182276,7 +182276,7 @@
      "opciones": {},
      "precio": 679920.0,
      "precio_anterior": 849900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://kronotime.com/products/reloj-para-mujer-tommy-hilfiger-1782819-1782819-dorado?variant=53290896130412"

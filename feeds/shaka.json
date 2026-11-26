@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-26T07:39:21+00:00",
+ "generado": "2026-11-26T09:25:31+00:00",
  "total": 549,
  "productos": [
   {
@@ -6703,7 +6703,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 38,
+     "stock": 37,
      "url": "https://sh-aka.com.ar/productos/smmr-tee-gris-topo-pxndm/?variant=1615052903"
     },
     {
@@ -14340,7 +14340,9 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -14350,7 +14352,9 @@
     },
     {
      "sku": "368",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -14360,7 +14364,9 @@
     },
     {
      "sku": "369",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -16248,7 +16254,9 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -16258,7 +16266,9 @@
     },
     {
      "sku": "371",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -16268,7 +16278,9 @@
     },
     {
      "sku": "372",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -18269,7 +18281,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 66,
+     "stock": 65,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-negro/?variant=1367948001"
     },
     {
@@ -25794,7 +25806,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 45,
+     "stock": 44,
      "url": "https://sh-aka.com.ar/productos/smmr-tee-crudo-14jyv/?variant=1615055442"
     },
     {
@@ -25934,7 +25946,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 17,
+     "stock": 16,
      "url": "https://sh-aka.com.ar/productos/retro-tee-blanco-v3742/?variant=1645757531"
     },
     {
@@ -30072,7 +30084,9 @@
    "variantes": [
     {
      "sku": "747",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -30082,7 +30096,9 @@
     },
     {
      "sku": "748",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -30092,7 +30108,9 @@
     },
     {
      "sku": "749",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": true,
