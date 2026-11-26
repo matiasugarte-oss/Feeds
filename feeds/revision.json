@@ -8,24 +8,24 @@
     "avisos": {}
   },
   "giani": {
-    "graves": {
-      "Cambio brusco de precio respecto de la corrida anterior": {
+    "graves": {},
+    "avisos": {
+      "Precio cambiado y confirmado (se mantuvo 3 corridas)": {
         "cantidad": 30,
         "ejemplos": [
-          "DF-PV25-PRAT-C1-39 · Zapatilla Hombre / Prat Beige - 39: 439945 -> 43945 (se acepta si se mantiene 3 corridas)",
-          "DF-PV25-PRAT-C1-40 · Zapatilla Hombre / Prat Beige - 40: 439945 -> 43945 (se acepta si se mantiene 3 corridas)",
-          "DF-PV25-PRAT-C1-41 · Zapatilla Hombre / Prat Beige - 41: 439945 -> 43945 (se acepta si se mantiene 3 corridas)",
-          "DF-PV25-PRAT-C1-42 · Zapatilla Hombre / Prat Beige - 42: 439945 -> 43945 (se acepta si se mantiene 3 corridas)",
-          "DF-PV25-PRAT-C1-43 · Zapatilla Hombre / Prat Beige - 43: 439945 -> 43945 (se acepta si se mantiene 3 corridas)",
-          "DF-PV25-PRAT-C1-44 · Zapatilla Hombre / Prat Beige - 44: 439945 -> 43945 (se acepta si se mantiene 3 corridas)",
-          "DF-PV25-JULIO-C2-39 · Zapatilla Hombre / Julio Gris - 39: 439945 -> 43945 (se acepta si se mantiene 3 corridas)",
-          "DF-PV25-JULIO-C2-40 · Zapatilla Hombre / Julio Gris - 40: 439945 -> 43945 (se acepta si se mantiene 3 corridas)",
-          "DF-PV25-JULIO-C2-41 · Zapatilla Hombre / Julio Gris - 41: 439945 -> 43945 (se acepta si se mantiene 3 corridas)",
-          "DF-PV25-JULIO-C2-42 · Zapatilla Hombre / Julio Gris - 42: 439945 -> 43945 (se acepta si se mantiene 3 corridas)"
+          "DF-PV25-PRAT-C1-39 · Zapatilla Hombre / Prat Beige - 39: 439945 -> 43945",
+          "DF-PV25-PRAT-C1-40 · Zapatilla Hombre / Prat Beige - 40: 439945 -> 43945",
+          "DF-PV25-PRAT-C1-41 · Zapatilla Hombre / Prat Beige - 41: 439945 -> 43945",
+          "DF-PV25-PRAT-C1-42 · Zapatilla Hombre / Prat Beige - 42: 439945 -> 43945",
+          "DF-PV25-PRAT-C1-43 · Zapatilla Hombre / Prat Beige - 43: 439945 -> 43945",
+          "DF-PV25-PRAT-C1-44 · Zapatilla Hombre / Prat Beige - 44: 439945 -> 43945",
+          "DF-PV25-JULIO-C2-39 · Zapatilla Hombre / Julio Gris - 39: 439945 -> 43945",
+          "DF-PV25-JULIO-C2-40 · Zapatilla Hombre / Julio Gris - 40: 439945 -> 43945",
+          "DF-PV25-JULIO-C2-41 · Zapatilla Hombre / Julio Gris - 41: 439945 -> 43945",
+          "DF-PV25-JULIO-C2-42 · Zapatilla Hombre / Julio Gris - 42: 439945 -> 43945"
         ]
       }
-    },
-    "avisos": {}
+    }
   },
   "fauna": {
     "graves": {},
@@ -54,7 +54,7 @@
     "graves": {},
     "avisos": {
       "Sin descripción": {
-        "cantidad": 60,
+        "cantidad": 24,
         "ejemplos": [
           "71E0701   55XS · Sudadera Xola Damas - XS / Naranja",
           "71E0701   55S · Sudadera Xola Damas - S / Naranja",

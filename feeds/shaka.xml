@@ -23545,7 +23545,7 @@ Características:
       <g:additional_image_link>https://acdn-us.mitiendanube.com/stores/001/708/518/products/artboard-30-567f3653ea5deb12de17915008214493-1024-1024.webp</g:additional_image_link>
       <g:additional_image_link>https://acdn-us.mitiendanube.com/stores/001/708/518/products/artboard-37-24982187b45763271917915008212025-1024-1024.webp</g:additional_image_link>
       <g:additional_image_link>https://acdn-us.mitiendanube.com/stores/001/708/518/products/artboard-29-c644abb07cc4acce4217915008219132-1024-1024.webp</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>95000.00 ARS</g:price>
       <g:brand>Shaka Cmmnty</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
@@ -34857,7 +34857,7 @@ Características:
     <item>
       <g:id>1313709552</g:id>
       <g:item_group_id>293992182</g:item_group_id>
-      <g:title>Kool Top</g:title>
+      <g:title>Kool Top - S</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley.
@@ -34883,11 +34883,12 @@ Cami mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>S</g:size>
     </item>
     <item>
       <g:id>1313709557</g:id>
       <g:item_group_id>293992182</g:item_group_id>
-      <g:title>Kool Top</g:title>
+      <g:title>Kool Top - M</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley.
@@ -34913,11 +34914,12 @@ Cami mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>M</g:size>
     </item>
     <item>
       <g:id>1313709561</g:id>
       <g:item_group_id>293992182</g:item_group_id>
-      <g:title>Kool Top</g:title>
+      <g:title>Kool Top - L</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley.
@@ -34943,6 +34945,7 @@ Cami mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>L</g:size>
     </item>
     <item>
       <g:id>1367941645</g:id>

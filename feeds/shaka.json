@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-26T16:28:17+00:00",
+ "generado": "2026-11-26T18:05:16+00:00",
  "total": 549,
  "productos": [
   {
@@ -11030,9 +11030,9 @@
      },
      "precio": 95000.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
-     "stock": 1,
+     "stock": 0,
      "url": "https://sh-aka.com.ar/productos/3-longsleeve-shirt-crudo-156s2/?variant=1615144649"
     },
     {
@@ -15531,7 +15531,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 8,
+     "stock": 7,
      "url": "https://sh-aka.com.ar/productos/bigger-cmmnty-knit-gris-oscuro-1hrnr/?variant=1520299332"
     },
     {
@@ -16242,7 +16242,9 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -16252,7 +16254,9 @@
     },
     {
      "sku": "371",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -16262,7 +16266,9 @@
     },
     {
      "sku": "372",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -18746,7 +18752,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 19,
+     "stock": 18,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-azul/?variant=1367950141"
     },
     {
@@ -24366,7 +24372,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 17,
+     "stock": 16,
      "url": "https://sh-aka.com.ar/productos/3-cap/"
     }
    ]
@@ -25576,7 +25582,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 31,
+     "stock": 30,
      "url": "https://sh-aka.com.ar/productos/el-rancho-denim-1u5la/?variant=1602852018"
     },
     {
@@ -29577,7 +29583,7 @@
      "precio_anterior": 30000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 33,
+     "stock": 32,
      "url": "https://sh-aka.com.ar/productos/shk-morley-top/?variant=1073285384"
     }
    ]
@@ -30097,7 +30103,7 @@
      "precio_anterior": 30000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 7,
+     "stock": 6,
      "url": "https://sh-aka.com.ar/productos/shk-top/?variant=822744306"
     }
    ]
@@ -31790,7 +31796,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 180,
+     "stock": 179,
      "url": "https://sh-aka.com.ar/productos/shk-boxer/?variant=844275436"
     },
     {
@@ -34401,7 +34407,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 25,
+     "stock": 24,
      "url": "https://sh-aka.com.ar/productos/s-jort-1ejlm/?variant=1631289357"
     },
     {

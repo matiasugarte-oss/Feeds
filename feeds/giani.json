@@ -1,8 +1,8 @@
 {
  "tienda": "Giani Dafirenze",
  "url": "https://gianidafirenze.cl",
- "generado": "2026-11-26T16:37:35+00:00",
- "total": 408,
+ "generado": "2026-11-26T18:14:33+00:00",
+ "total": 406,
  "productos": [
   {
    "titulo": "Zapato Mujer / Pixon Celeste",
@@ -221,118 +221,6 @@
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/botin-mujer-angu-taupe?variant=43268007788587"
-    }
-   ]
-  },
-  {
-   "titulo": "Babucha Mujer / Pibi Negro",
-   "url": "https://gianidafirenze.cl/products/babucha-mujer-pibi-negro",
-   "marca": "Giani Dafirenze",
-   "categorias": [
-    "BABUCHAS"
-   ],
-   "descripcion": "La babucha de cuero para mujer Pibi en color negro combina diseño minimalista y funcionalidad para el uso diario. Confeccionada en cuero natural, con forro y plantilla del mismo material, ofrece un calce cómodo gracias a su horma normal y su formato slip on bajo el tobillo.\n\nSu punta puntiaguda aporta una silueta definida, mientras el taco bajo pintado a mano de 2 cm entrega estabilidad. La suela de goma Amo Mis Giani acompaña la pisada con firmeza. Un calzado femenino de cuero hecho en Chile, pensado para equilibrar materialidad, comodidad y estilo atemporal.\n\nTemporada Ot oño Invierno 2026. Hecho en Chile",
-   "caracteristicas": {
-    "Nombre del producto": "Pibi C45",
-    "Color": "Negro",
-    "Capellada (material exterior)": "Cuero",
-    "Forro (material interior)": "Cuero",
-    "Plantilla": "Cuero",
-    "Suela": "Goma Amo Mis Giani",
-    "Taco": "Madera pintado a mano",
-    "Altura taco": "3 cm",
-    "Punta": "En punta",
-    "Horma": "Normal",
-    "Cierre": "Slip On",
-    "Altura": "Bajo el tobillo",
-    "Procedencia": "Hecho en Chile"
-   },
-   "precio_desde": 49445.0,
-   "moneda": "CLP",
-   "disponible": true,
-   "imagenes": [
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-negro-babuchas-giani-dafirenze-845108.jpg?v=1770731770",
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-negro-babuchas-giani-dafirenze-944971.jpg?v=1770731770",
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-negro-babuchas-giani-dafirenze-401275.jpg?v=1770731770"
-   ],
-   "variantes": [
-    {
-     "sku": "GDF-OI26-PIBI-C45-35",
-     "opciones": {
-      "Talla": "35",
-      "Color": "Negro"
-     },
-     "precio": 49445.0,
-     "precio_anterior": 89900.0,
-     "disponible": true,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/babucha-mujer-pibi-negro?variant=43268147839019"
-    },
-    {
-     "sku": "GDF-OI26-PIBI-C45-36",
-     "opciones": {
-      "Talla": "36",
-      "Color": "Negro"
-     },
-     "precio": 49445.0,
-     "precio_anterior": 89900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/babucha-mujer-pibi-negro?variant=43268147871787"
-    },
-    {
-     "sku": "GDF-OI26-PIBI-C45-37",
-     "opciones": {
-      "Talla": "37",
-      "Color": "Negro"
-     },
-     "precio": 49445.0,
-     "precio_anterior": 89900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/babucha-mujer-pibi-negro?variant=43268147904555"
-    },
-    {
-     "sku": "GDF-OI26-PIBI-C45-38",
-     "opciones": {
-      "Talla": "38",
-      "Color": "Negro"
-     },
-     "precio": 49445.0,
-     "precio_anterior": 89900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/babucha-mujer-pibi-negro?variant=43268147937323"
-    },
-    {
-     "sku": "GDF-OI26-PIBI-C45-39",
-     "opciones": {
-      "Talla": "39",
-      "Color": "Negro"
-     },
-     "precio": 49445.0,
-     "precio_anterior": 89900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/babucha-mujer-pibi-negro?variant=43268147970091"
-    },
-    {
-     "sku": "GDF-OI26-PIBI-C45-40",
-     "opciones": {
-      "Talla": "40",
-      "Color": "Negro"
-     },
-     "precio": 49445.0,
-     "precio_anterior": 89900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/babucha-mujer-pibi-negro?variant=43268148002859"
     }
    ]
   },
@@ -1867,118 +1755,6 @@
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/zapatilla-hombre-prat-beige?variant=43268150624299"
-    }
-   ]
-  },
-  {
-   "titulo": "Botin Mujer / Berta Negro",
-   "url": "https://gianidafirenze.cl/products/botin-mujer-berta-negro",
-   "marca": "Giani Dafirenze",
-   "categorias": [
-    "BOTINES"
-   ],
-   "descripcion": "El botín de cuero para mujer Berta Negro combina diseño sobrio y funcionalidad para el uso diario. Su tonalidad negra, clásica y versátil, lo convierte en un básico dentro del calzado femenino de cuero, fácil de integrar a looks urbanos y más formales.\n\nConfeccionado en cuero natural y pensado para un calce cómodo, ofrece estabilidad y confort durante la jornada. Un botín femenino de cuero que prioriza materialidad, diseño atemporal y practicidad real en cada paso\n\nTemporada Otoño Invierno 2026. Hecho en Chile",
-   "caracteristicas": {
-    "Nombre": "Berta C7",
-    "Color": "Negro",
-    "Capellada (material exterior)": "Cuero",
-    "Forro (material interior)": "Cuero",
-    "Plantilla": "Cuero",
-    "Planta (suela)": "Goma Amo Mis Giani",
-    "Taco": "Madera pintado a mano",
-    "Altura del taco": "4,5 cm",
-    "Punta": "Redonda",
-    "Horma": "Normal",
-    "Tipo de cierre": "Broche",
-    "Altura de la caña": "Sobre el tobillo",
-    "Estilo": "Botin"
-   },
-   "precio_desde": 65945.0,
-   "moneda": "CLP",
-   "disponible": true,
-   "imagenes": [
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-berta-negro-botines-giani-dafirenze-583019.jpg?v=1772489692",
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-berta-negro-botines-giani-dafirenze-391568.jpg?v=1772489692",
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-berta-negro-botines-giani-dafirenze-514168.jpg?v=1772477179"
-   ],
-   "variantes": [
-    {
-     "sku": "GDF-OI26-BERTA-C7-35",
-     "opciones": {
-      "Talla": "35",
-      "Color": "Negro"
-     },
-     "precio": 65945.0,
-     "precio_anterior": 119900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/botin-mujer-berta-negro?variant=43268030791723"
-    },
-    {
-     "sku": "GDF-OI26-BERTA-C7-36",
-     "opciones": {
-      "Talla": "36",
-      "Color": "Negro"
-     },
-     "precio": 65945.0,
-     "precio_anterior": 119900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/botin-mujer-berta-negro?variant=43268030824491"
-    },
-    {
-     "sku": "GDF-OI26-BERTA-C7-37",
-     "opciones": {
-      "Talla": "37",
-      "Color": "Negro"
-     },
-     "precio": 65945.0,
-     "precio_anterior": 119900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/botin-mujer-berta-negro?variant=43268030857259"
-    },
-    {
-     "sku": "GDF-OI26-BERTA-C7-38",
-     "opciones": {
-      "Talla": "38",
-      "Color": "Negro"
-     },
-     "precio": 65945.0,
-     "precio_anterior": 119900.0,
-     "disponible": true,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/botin-mujer-berta-negro?variant=43268030890027"
-    },
-    {
-     "sku": "GDF-OI26-BERTA-C7-39",
-     "opciones": {
-      "Talla": "39",
-      "Color": "Negro"
-     },
-     "precio": 65945.0,
-     "precio_anterior": 119900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/botin-mujer-berta-negro?variant=43268030922795"
-    },
-    {
-     "sku": "GDF-OI26-BERTA-C7-40",
-     "opciones": {
-      "Talla": "40",
-      "Color": "Negro"
-     },
-     "precio": 65945.0,
-     "precio_anterior": 119900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/botin-mujer-berta-negro?variant=43268030955563"
     }
    ]
   },
@@ -9067,7 +8843,7 @@
      },
      "precio": 74925.0,
      "precio_anterior": 99900.0,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/sandalia-mujer-salteador-cafe-celeste?variant=67782590496811"
@@ -9741,7 +9517,7 @@
      },
      "precio": 74925.0,
      "precio_anterior": 99900.0,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/sandalia-mujer-guanay-beige?variant=45376802029611"
@@ -13062,7 +12838,7 @@
    ],
    "descripcion": "Pensada para añadir una nota de vitalidad y encanto a la rutina diaria, esta sandalia plana de cuero para mujer destaca por su atractiva combinación de tonos rojo fucsia y su equilibrada punta redonda. Su sistema de cierre con hebilla ofrece un calce seguro y personalizado, al tiempo que el forro interior y la plantilla de cuero natural garantizan total frescura y comodidad al contacto con la piel.\n\nLa suela de goma antiderrapante unida al taco de madera de 1 cm pintado a mano entrega una caminata liviana, estable y suave para acompañar tus actividades durante los días de calor. Un calzado femenino de cuero confeccionado a mano en Chile con el sello artesanal de Giani Dafirenze, perfecto para enriquecer tus atuendos de Primavera-Verano.\n\nTemp orada Primavera Verano 2027",
    "caracteristicas": {
-    "Nombre": "Octay C5",
+    "Nombre": "Octay C6",
     "Color": "Rojo Fucsia",
     "Capellada (material exterior)": "Cuero",
     "Forro (material interior)": "Cuero",
@@ -16427,7 +16203,7 @@
      },
      "precio": 74925.0,
      "precio_anterior": 99900.0,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/mocasin-mujer-cumbres-print?variant=44213799419947"
@@ -23762,7 +23538,7 @@
      },
      "precio": 84435.0,
      "precio_anterior": 129900.0,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/botin-mujer-gallito-negro?variant=44338567774251"
