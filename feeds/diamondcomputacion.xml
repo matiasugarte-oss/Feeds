@@ -10497,7 +10497,7 @@ Características:
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169749/480332550_1.png?v=639282020605000000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169751/480332550_1.png?v=639282023222530000</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>74800.00 ARS</g:price>
+      <g:price>72400.00 ARS</g:price>
       <g:brand>Genérico</g:brand>
       <g:mpn>256332520</g:mpn>
       <g:condition>new</g:condition>
@@ -17129,7 +17129,7 @@ Características:
       <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169161/6937120318460_1.png?v=639250829955700000</g:image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169800/6937120317456_1.png?v=639292437454370000</g:additional_image_link>
       <g:availability>out_of_stock</g:availability>
-      <g:price>26400.00 ARS</g:price>
+      <g:price>24800.00 ARS</g:price>
       <g:brand>Flashforge</g:brand>
       <g:gtin>6937120318460</g:gtin>
       <g:mpn>6937120318460</g:mpn>
@@ -22105,7 +22105,7 @@ Características:
       <g:description>El Cargador notebook HP 19.5V 3.33A pin blue 4.5x3.0mm es un cargador para notebook diseñado para alimentar equipos HP compatibles. Ofrece una opción práctica para reemplazo, respaldo o uso diario, manteniendo una conexión adecuada según el modelo.
 
 Características:
-- stockensucursal: 0
+- stockensucursal: 1
 - IVA: 21%</g:description>
       <g:link>https://www.diamondcomputacion.com.ar/cargador-notebook-hp-19-5v-3-33a-pin-blue-4-5x3-0mm/p?skuId=3098</g:link>
       <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/168440/1152892_1.png?v=639179104787100000</g:image_link>
@@ -22115,7 +22115,7 @@ Características:
       <g:mpn>1152892</g:mpn>
       <g:condition>new</g:condition>
       <g:product_type>Accesorios Notebooks &gt; Cargadores</g:product_type>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>stockensucursal</g:attribute_name><g:attribute_value>0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>stockensucursal</g:attribute_name><g:attribute_value>1</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21%</g:attribute_value></g:product_detail>
     </item>
     <item>
@@ -64737,6 +64737,52 @@ Características:
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tamaño del ventilador</g:attribute_name><g:attribute_value>120 mm</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Conectores</g:attribute_name><g:attribute_value>24 pines</g:attribute_value></g:product_detail>
+    </item>
+    <item>
+      <g:id>502222520</g:id>
+      <g:title>Monitor Hikvision DS-D5022QE-B 22" FHD - 0</g:title>
+      <g:description>El Monitor Hikvision DS-D5022QE-B 22" FHD ofrece una pantalla de 22 pulgadas con resolución Full HD, pensada para trabajo, estudio, entretenimiento o gaming según la configuración del modelo. La resolución Full HD entrega una imagen nítida para documentos, streaming, navegación y entretenimiento. Su diseño Hikvision se integra con facilidad a escritorios domésticos, oficinas y setups de entretenimiento. Su combinación de tamaño, definición y frecuencia permite adaptar la pantalla a distintas actividades sin ocupar más espacio del necesario.
+
+Características:
+- Tipo: Plano
+- Relación de aspecto: 16:9
+- Panel: LED
+- Tiempo de respuesta: 5 ms
+- Resolución: Full HD
+- Tasa de refresco: 60 Hz
+- Parlantes: No
+- Pulgadas: 22 pulgadas
+- IVA: 21%
+- HDMI: 1
+- VGA: 1
+- Jack 3.5mm: No
+- Ethernet: No
+- Montaje VESA: 100 x 100 mm (M4 x 10 mm)</g:description>
+      <g:link>https://www.diamondcomputacion.com.ar/monitor-hikvision-dsd5022qeb-22-led-full-hd-60hz-5ms/p?skuId=385</g:link>
+      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156953/502222520_1.jpg?v=638069061773230000</g:image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156954/502222520_4.jpg?v=639168753724600000</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>174900.00 ARS</g:price>
+      <g:brand>Hikvision</g:brand>
+      <g:gtin>842571116465</g:gtin>
+      <g:mpn>502222520</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Monitores &gt; Monitores de Oficina</g:product_type>
+      <g:size>0</g:size>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tipo</g:attribute_name><g:attribute_value>Plano</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Relación de aspecto</g:attribute_name><g:attribute_value>16:9</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Panel</g:attribute_name><g:attribute_value>LED</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tiempo de respuesta</g:attribute_name><g:attribute_value>5 ms</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Resolución</g:attribute_name><g:attribute_value>Full HD</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tasa de refresco</g:attribute_name><g:attribute_value>60 Hz</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Parlantes</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Pulgadas</g:attribute_name><g:attribute_value>22 pulgadas</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21%</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>HDMI</g:attribute_name><g:attribute_value>1</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>VGA</g:attribute_name><g:attribute_value>1</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Jack 3.5mm</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Ethernet</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Montaje VESA</g:attribute_name><g:attribute_value>100 x 100 mm (M4 x 10 mm)</g:attribute_value></g:product_detail>
     </item>
     <item>
       <g:id>2475159</g:id>

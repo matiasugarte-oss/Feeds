@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-27T21:12:32+00:00",
+ "generado": "2026-11-27T22:11:41+00:00",
  "total": 549,
  "productos": [
   {
@@ -2765,7 +2765,7 @@
      "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 79,
+     "stock": 78,
      "url": "https://sh-aka.com.ar/productos/squared-boardshort-1q5h0/?variant=1645758143"
     },
     {
@@ -4815,9 +4815,9 @@
      },
      "precio": 94500.0,
      "precio_anterior": 105000.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
-     "stock": 1,
+     "stock": 0,
      "url": "https://sh-aka.com.ar/productos/3-jort-negro-16n02/?variant=1631289653"
     },
     {
@@ -5783,7 +5783,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 2,
+     "stock": 1,
      "url": "https://sh-aka.com.ar/productos/bigger-cmmnty-knit-celeste/?variant=1251844567"
     }
    ]
@@ -6983,7 +6983,7 @@
      "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 46,
+     "stock": 45,
      "url": "https://sh-aka.com.ar/productos/retro-tee-azul-1rjlp/?variant=1645757423"
     },
     {
@@ -8011,9 +8011,7 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -8023,9 +8021,7 @@
     },
     {
      "sku": "368",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -8035,9 +8031,7 @@
     },
     {
      "sku": "369",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -11826,7 +11820,7 @@
      "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 14,
+     "stock": 13,
      "url": "https://sh-aka.com.ar/productos/3-longsleeve-shirt-1igpy/?variant=1645756465"
     },
     {
@@ -13944,7 +13938,9 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -13954,7 +13950,9 @@
     },
     {
      "sku": "368",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -13964,7 +13962,9 @@
     },
     {
      "sku": "369",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -14465,7 +14465,7 @@
      "precio_anterior": 90000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 13,
+     "stock": 12,
      "url": "https://sh-aka.com.ar/productos/3-squared-longsleeve-shirt-1vxry/?variant=1645756395"
     },
     {
@@ -15802,9 +15802,7 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -15814,9 +15812,7 @@
     },
     {
      "sku": "371",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -15826,9 +15822,7 @@
     },
     {
      "sku": "372",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -17771,7 +17765,7 @@
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 42,
+     "stock": 40,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-negro/?variant=1367948001"
     },
     {
@@ -17783,7 +17777,7 @@
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 97,
+     "stock": 95,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-negro/?variant=1367948008"
     },
     {
@@ -18276,7 +18270,7 @@
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 49,
+     "stock": 48,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-azul/?variant=1367950155"
     }
    ]
@@ -19707,9 +19701,7 @@
    "variantes": [
     {
      "sku": "299",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -19719,9 +19711,7 @@
     },
     {
      "sku": "300",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -19731,9 +19721,7 @@
     },
     {
      "sku": "301",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -21190,7 +21178,7 @@
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 6,
+     "stock": 5,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-rojo-j5zk3/?variant=1367949992"
     }
    ]
@@ -21382,7 +21370,7 @@
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 18,
+     "stock": 16,
      "url": "https://sh-aka.com.ar/productos/vntg-polo-azul-marino-10axs/?variant=1631288954"
     },
     {
@@ -23991,7 +23979,7 @@
      "precio_anterior": 85000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 11,
+     "stock": 10,
      "url": "https://sh-aka.com.ar/productos/fire-3-shirt-marron-1962n/?variant=1645756622"
     },
     {
@@ -25846,7 +25834,7 @@
      "precio_anterior": 80000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 18,
+     "stock": 17,
      "url": "https://sh-aka.com.ar/productos/sk8-waffle-tee-1p6am/?variant=1645757581"
     },
     {
@@ -26668,7 +26656,7 @@
      "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 42,
+     "stock": 41,
      "url": "https://sh-aka.com.ar/productos/90s-boardshort-blanco-1yclz/?variant=1645758030"
     },
     {
@@ -26680,7 +26668,7 @@
      "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 88,
+     "stock": 85,
      "url": "https://sh-aka.com.ar/productos/90s-boardshort-blanco-1yclz/?variant=1645758036"
     },
     {
@@ -26704,7 +26692,7 @@
      "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 50,
+     "stock": 49,
      "url": "https://sh-aka.com.ar/productos/90s-boardshort-blanco-1yclz/?variant=1645758043"
     }
    ]
@@ -28757,9 +28745,7 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 21000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -28769,9 +28755,7 @@
     },
     {
      "sku": "371",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 21000.0,
      "precio_anterior": 30000.0,
      "disponible": true,
@@ -28781,9 +28765,7 @@
     },
     {
      "sku": "372",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 21000.0,
      "precio_anterior": 30000.0,
      "disponible": true,
@@ -29684,7 +29666,7 @@
      "precio_anterior": 105000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 2,
+     "stock": 1,
      "url": "https://sh-aka.com.ar/productos/3-jort-gris-melange-18swx/?variant=1631289724"
     },
     {
@@ -30396,7 +30378,7 @@
    "caracteristicas": {},
    "precio_desde": 40000.0,
    "moneda": "ARS",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://acdn-us.mitiendanube.com/stores/001/708/518/products/artboard-61-2954afa6b458d56e1917784591720863-1024-1024.webp",
     "https://acdn-us.mitiendanube.com/stores/001/708/518/products/artboard-62-9f3a3a9d1ae4dbb4d517784591724531-1024-1024.webp",
@@ -30410,9 +30392,9 @@
      },
      "precio": 40000.0,
      "precio_anterior": 80000.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
-     "stock": 1,
+     "stock": 0,
      "url": "https://sh-aka.com.ar/productos/the-shk-polo-crudo-sbbc3/?variant=1520294293"
     },
     {
@@ -31525,7 +31507,7 @@
      "precio_anterior": 80000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 28,
+     "stock": 27,
      "url": "https://sh-aka.com.ar/productos/red-logo-waffle-tee-74uys/?variant=1645757627"
     },
     {
@@ -32045,7 +32027,7 @@
      "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 88,
+     "stock": 86,
      "url": "https://sh-aka.com.ar/productos/90s-boardshort-azul-2jqmw/?variant=1645758087"
     },
     {
@@ -32057,7 +32039,7 @@
      "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 83,
+     "stock": 82,
      "url": "https://sh-aka.com.ar/productos/90s-boardshort-azul-2jqmw/?variant=1645758093"
     },
     {
@@ -32069,7 +32051,7 @@
      "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 50,
+     "stock": 49,
      "url": "https://sh-aka.com.ar/productos/90s-boardshort-azul-2jqmw/?variant=1645758096"
     }
    ]
@@ -33482,7 +33464,7 @@
      "precio_anterior": 125000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 23,
+     "stock": 22,
      "url": "https://sh-aka.com.ar/productos/s-jort-1ejlm/?variant=1631289357"
     },
     {

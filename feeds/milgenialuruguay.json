@@ -1,7 +1,7 @@
 {
  "tienda": "Milgenialuruguay",
  "url": "https://milgenialuruguay.com",
- "generado": "2026-11-27T21:20:19+00:00",
+ "generado": "2026-11-27T22:16:59+00:00",
  "total": 1604,
  "productos": [
   {
@@ -7177,7 +7177,7 @@
    "caracteristicas": {},
    "precio_desde": 1490.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/2_17bd746c-7470-4599-8a69-ea6506dd471e.png?v=1783347873",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/6_bf7ae0a1-872a-4111-b22d-718ee65f87d1.webp?v=1783347872",
@@ -7189,7 +7189,7 @@
      "opciones": {},
      "precio": 1490.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/mopa-plana-con-balde-separador-de-agua-sucia?variant=53277432021306"

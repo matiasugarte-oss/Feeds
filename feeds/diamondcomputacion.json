@@ -1,8 +1,8 @@
 {
  "tienda": "Diamond Computacion",
  "url": "https://www.diamondcomputacion.com.ar",
- "generado": "2026-11-27T21:20:55+00:00",
- "total": 1383,
+ "generado": "2026-11-27T22:17:29+00:00",
+ "total": 1384,
  "productos": [
   {
    "titulo": "Carry Disk Netmak NM-CASEAL 2.5\" SATA",
@@ -9112,11 +9112,11 @@
       "Capacidad": "256GB",
       "stockensucursal": "0"
      },
-     "precio": 74800.0,
+     "precio": 72400.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/ssd-aimerican-immortality-sata/p?skuId=3511"
     },
     {
@@ -14679,7 +14679,7 @@
    "caracteristicas": {
     "IVA": "21%"
    },
-   "precio_desde": 26400.0,
+   "precio_desde": 24800.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -14693,7 +14693,7 @@
       "Color": "Oro Rosado",
       "stockensucursal": "0"
      },
-     "precio": 26400.0,
+     "precio": 24800.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -17536,7 +17536,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/procesador-amd-ryzen-7-8700f-am5-con-cooler-sin-video/p?skuId=3207"
     }
    ]
@@ -19470,7 +19470,7 @@
    ],
    "descripcion": "El Cargador notebook HP 19.5V 3.33A pin blue 4.5x3.0mm es un cargador para notebook diseñado para alimentar equipos HP compatibles. Ofrece una opción práctica para reemplazo, respaldo o uso diario, manteniendo una conexión adecuada según el modelo.",
    "caracteristicas": {
-    "stockensucursal": "0",
+    "stockensucursal": "1",
     "IVA": "21%"
    },
    "precio_desde": 24400.0,
@@ -34584,7 +34584,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 99999,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/aire-comprimido-gtc-adg-001/p?skuId=2341"
     }
    ]
@@ -38517,7 +38517,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 99999,
      "url": "https://www.diamondcomputacion.com.ar/fuente-formula-v-850w-apmm-850gm-80-gold-fm/p?skuId=2168"
     }
    ]
@@ -43630,7 +43630,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/ram-8gb-ddr5-5600mhz-kingston-sodimm-cl46/p?skuId=1888"
     }
    ]
@@ -46988,7 +46988,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 99999,
      "url": "https://www.diamondcomputacion.com.ar/impresora-hp-mf-580-smart-tank/p?skuId=1624"
     }
    ]
@@ -56201,7 +56201,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/cartucho-alternativo-epson-t062-t063/p?skuId=862"
     }
    ]
@@ -57318,7 +57318,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/tinta-alternativa-hp-gt51-gt52/p?skuId=783"
     },
     {
@@ -60877,6 +60877,53 @@
      "preorden": false,
      "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/fuente-ds-atx-550w-24-pines/p?skuId=394"
+    }
+   ]
+  },
+  {
+   "titulo": "Monitor Hikvision DS-D5022QE-B 22\" FHD",
+   "url": "https://www.diamondcomputacion.com.ar/monitor-hikvision-dsd5022qeb-22-led-full-hd-60hz-5ms/p",
+   "marca": "Hikvision",
+   "categorias": [
+    "Monitores",
+    "Monitores de Oficina"
+   ],
+   "descripcion": "El Monitor Hikvision DS-D5022QE-B 22\" FHD ofrece una pantalla de 22 pulgadas con resolución Full HD, pensada para trabajo, estudio, entretenimiento o gaming según la configuración del modelo. La resolución Full HD entrega una imagen nítida para documentos, streaming, navegación y entretenimiento. Su diseño Hikvision se integra con facilidad a escritorios domésticos, oficinas y setups de entretenimiento. Su combinación de tamaño, definición y frecuencia permite adaptar la pantalla a distintas actividades sin ocupar más espacio del necesario.",
+   "caracteristicas": {
+    "Tipo": "Plano",
+    "Relación de aspecto": "16:9",
+    "Panel": "LED",
+    "Tiempo de respuesta": "5 ms",
+    "Resolución": "Full HD",
+    "Tasa de refresco": "60 Hz",
+    "Parlantes": "No",
+    "Pulgadas": "22 pulgadas",
+    "IVA": "21%",
+    "HDMI": "1",
+    "VGA": "1",
+    "Jack 3.5mm": "No",
+    "Ethernet": "No",
+    "Montaje VESA": "100 x 100 mm (M4 x 10 mm)"
+   },
+   "precio_desde": 174900.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156953/502222520_1.jpg?v=638069061773230000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156954/502222520_4.jpg?v=639168753724600000"
+   ],
+   "variantes": [
+    {
+     "sku": "502222520",
+     "opciones": {
+      "stockensucursal": "0"
+     },
+     "precio": 174900.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 10,
+     "url": "https://www.diamondcomputacion.com.ar/monitor-hikvision-dsd5022qeb-22-led-full-hd-60hz-5ms/p?skuId=385"
     }
    ]
   },
