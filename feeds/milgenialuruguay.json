@@ -1,7 +1,7 @@
 {
  "tienda": "Milgenialuruguay",
  "url": "https://milgenialuruguay.com",
- "generado": "2026-11-27T18:12:35+00:00",
+ "generado": "2026-11-27T19:21:33+00:00",
  "total": 1605,
  "productos": [
   {
@@ -45990,7 +45990,7 @@
    "caracteristicas": {},
    "precio_desde": 116.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/1_dacabf58-e6e2-4ef6-8e5a-7211eefe81b8.jpg?v=1733858394",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/2_f83233c6-9563-4cb2-8aa7-35f597e7dc6f.jpg?v=1733858394",
@@ -46002,7 +46002,7 @@
      "opciones": {},
      "precio": 116.0,
      "precio_anterior": 337.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/luces-multifuncion-x140-con-control?variant=50242725380410"
@@ -52390,7 +52390,7 @@
      },
      "precio": 370.0,
      "precio_anterior": 390.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/boxer-de-algodon-organico?variant=48890403881274"
@@ -52718,7 +52718,7 @@
    "caracteristicas": {},
    "precio_desde": 790.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/S961f65dd80e34958a7a6b0cb9a027e4av.jpg?v=1731096576",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/Sfa52b2b251c84635995190e57e51ae2bN.jpg?v=1769616706",
@@ -52730,7 +52730,7 @@
      "opciones": {},
      "precio": 790.0,
      "precio_anterior": 990.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/cepillo-de-fregado-3-en-1-multiuso?variant=48355151577402"
@@ -57343,7 +57343,7 @@
    "caracteristicas": {},
    "precio_desde": 690.0,
    "moneda": "UYU",
-   "disponible": false,
+   "disponible": true,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/9J1NEscurridor-de-vajilla-plegable-estante-de-secado-de-bamb-organizador-de-cocina-almacenamiento.jpg?v=1731090567",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/1_11zon_6_6236bd1f-6653-44ac-b34b-f1b08be59e64.webp?v=1769610506",
@@ -57355,7 +57355,7 @@
      "opciones": {},
      "precio": 690.0,
      "precio_anterior": null,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/escurridor-de-vajilla-de-bambu-plegable?variant=47491804725562"
@@ -65682,7 +65682,7 @@
    },
    "precio_desde": 390.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/portada-leisel-2.jpg?v=1731083429",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/IMG_3306.jpg?v=1731083432",
@@ -65694,7 +65694,7 @@
      "opciones": {},
      "precio": 390.0,
      "precio_anterior": 990.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/cinta-pega-mucho-5m-marca-leisel?variant=45180048605498"

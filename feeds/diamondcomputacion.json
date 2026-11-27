@@ -1,7 +1,7 @@
 {
  "tienda": "Diamond Computacion",
  "url": "https://www.diamondcomputacion.com.ar",
- "generado": "2026-11-27T18:13:01+00:00",
+ "generado": "2026-11-27T19:22:01+00:00",
  "total": 1380,
  "productos": [
   {
@@ -4940,7 +4940,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 99999,
      "url": "https://www.diamondcomputacion.com.ar/memoria-ram-ddr4-3200mhz-kingston/p?skuId=560"
     },
     {
@@ -12743,7 +12743,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/fuente-msi-a550bn-550w-80-bronze/p?skuId=3395"
     }
    ]
@@ -14749,7 +14749,7 @@
       "Color": "Amarillo",
       "stockensucursal": "0"
      },
-     "precio": 25900.0,
+     "precio": 27600.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -14852,7 +14852,7 @@
     "Acabado": "Silk",
     "IVA": "21%"
    },
-   "precio_desde": 24200.0,
+   "precio_desde": 26300.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -14867,7 +14867,7 @@
       "Color": "Cobre Rojo",
       "stockensucursal": "0"
      },
-     "precio": 24200.0,
+     "precio": 26300.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -14971,7 +14971,7 @@
       "Color": "Púrpura Galáctico",
       "stockensucursal": "0"
      },
-     "precio": 39400.0,
+     "precio": 37000.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -16682,7 +16682,7 @@
    "caracteristicas": {
     "IVA": "21%"
    },
-   "precio_desde": 3300.0,
+   "precio_desde": 3500.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -16694,7 +16694,7 @@
      "opciones": {
       "stockensucursal": "0"
      },
-     "precio": 3300.0,
+     "precio": 3500.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
@@ -17527,7 +17527,7 @@
     "IVA": "21%",
     "stockensucursal": "0"
    },
-   "precio_desde": 6200.0,
+   "precio_desde": 6300.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -17537,7 +17537,7 @@
     {
      "sku": "2929000",
      "opciones": {},
-     "precio": 6200.0,
+     "precio": 6300.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
@@ -17868,7 +17868,7 @@
     "IVA": "21%",
     "stockensucursal": "0"
    },
-   "precio_desde": 3400.0,
+   "precio_desde": 3600.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -17878,7 +17878,7 @@
     {
      "sku": "310131100",
      "opciones": {},
-     "precio": 3400.0,
+     "precio": 3600.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
@@ -18800,7 +18800,7 @@
     "IVA": "21%",
     "stockensucursal": "0"
    },
-   "precio_desde": 5700.0,
+   "precio_desde": 5800.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -18810,7 +18810,7 @@
     {
      "sku": "7798137383488",
      "opciones": {},
-     "precio": 5700.0,
+     "precio": 5800.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
@@ -18921,7 +18921,7 @@
     "IVA": "21%",
     "stockensucursal": "0"
    },
-   "precio_desde": 3600.0,
+   "precio_desde": 3800.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -18931,7 +18931,7 @@
     {
      "sku": "7798137697264",
      "opciones": {},
-     "precio": 3600.0,
+     "precio": 3800.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
@@ -20225,7 +20225,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/hub-usb-c-netmak-nm-hubc-4-puertos-usb-2-0/p?skuId=3069"
     }
    ]
@@ -28248,7 +28248,7 @@
    "caracteristicas": {
     "IVA": "21%"
    },
-   "precio_desde": 3900.0,
+   "precio_desde": 3800.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -28260,7 +28260,7 @@
      "opciones": {
       "stockensucursal": "0"
      },
-     "precio": 3900.0,
+     "precio": 3800.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
@@ -28689,7 +28689,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/cable-usb-a-micro-usb/p?skuId=2618"
     }
    ]
@@ -33971,48 +33971,6 @@
    ]
   },
   {
-   "titulo": "Carry Disk Noga CD2 2.5\" USB 3.0",
-   "url": "https://www.diamondcomputacion.com.ar/carry-disk-ext-usb-25-noga-cd2-30/p",
-   "marca": "Noga",
-   "categorias": [
-    "Almacenamiento",
-    "Carry disk y Caddy"
-   ],
-   "descripcion": "Con el Carry disk Noga CD2 para disco 2.5\" USB 3.0, Noga ofrece una carcasa externa para integrar una unidad compatible y utilizarla como almacenamiento removible. Este accesorio facilita el aprovechamiento de discos o SSD disponibles, permitiendo organizar copias de seguridad, transportar archivos o acceder a información desde equipos compatibles. La elección debe realizarse considerando el formato y la conexión mencionados en el producto. El modelo CD2 para disco 2.5\" USB 3.0 está orientado tanto a uso personal como técnico, aportando una solución ordenada para proteger la unidad y conectarla desde el exterior.",
-   "caracteristicas": {
-    "Tipo de producto": "Carry disk externo",
-    "Uso": "Almacenamiento externo portátil",
-    "Compatibilidad de tamaño": "2.5 pulgadas",
-    "Compatibilidad de interfaz de disco": "SATA",
-    "Interfaz de salida": "USB 3.0",
-    "Velocidad de transferencia": "Hasta 5 Gbps",
-    "Material": "ABS",
-    "Dimensiones": "12 x 7.5 x 1.5 cm",
-    "Peso": "200 g",
-    "IVA": "10.5%",
-    "stockensucursal": "1"
-   },
-   "precio_desde": 9300.0,
-   "moneda": "ARS",
-   "disponible": true,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/165526/cd2-30-pack-41b8742c1e68c9396717297019137027-1024-1024.jpg?v=639033131703900000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/165527/cd2-30-angulo-dcac2071b18e5ed38517297019084573-1024-1024.jpg?v=639033131704370000"
-   ],
-   "variantes": [
-    {
-     "sku": "6876846848748",
-     "opciones": {},
-     "precio": 9300.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 1,
-     "url": "https://www.diamondcomputacion.com.ar/carry-disk-ext-usb-25-noga-cd2-30/p?skuId=2364"
-    }
-   ]
-  },
-  {
    "titulo": "Carry Disk Noga CD1 2.5\" USB 3.0",
    "url": "https://www.diamondcomputacion.com.ar/carry-disk-ext-usb-25-noga-cd1-30/p",
    "marca": "Noga",
@@ -34529,7 +34487,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 99999,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/aire-comprimido-gtc-adg-001/p?skuId=2341"
     }
    ]
@@ -35115,7 +35073,7 @@
     "IVA": "21%",
     "stockensucursal": "0"
    },
-   "precio_desde": 20200.0,
+   "precio_desde": 27400.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -35126,11 +35084,11 @@
     {
      "sku": "885423642145",
      "opciones": {},
-     "precio": 20200.0,
+     "precio": 27400.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/adaptador-de-usb-a-sataide/p?skuId=2308"
     }
    ]
@@ -36492,7 +36450,7 @@
     "Garantía": "5 años (limitada)",
     "IVA": "21"
    },
-   "precio_desde": 21900.0,
+   "precio_desde": 20600.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -36507,7 +36465,7 @@
       "Capacidad": "64GB",
       "stockensucursal": "0"
      },
-     "precio": 21900.0,
+     "precio": 20600.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -36639,11 +36597,11 @@
       "Capacidad": "64GB",
       "stockensucursal": "0"
      },
-     "precio": 21940.0,
+     "precio": 10700.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
-     "stock": 100,
+     "stock": 0,
      "url": "https://www.diamondcomputacion.com.ar/pendrive-kingston-dt70/p?skuId=2240"
     },
     {
@@ -48335,7 +48293,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/pendrive-hiksemi-m200s-rotary/p?skuId=1538"
     }
    ]
@@ -60332,6 +60290,46 @@
    ]
   },
   {
+   "titulo": "Mouse Pad Logitech Desk Mat Studio Series Extra Grande",
+   "url": "https://www.diamondcomputacion.com.ar/mouse-pad-logitech-desk-mat-studio-series-extra-grande-gris/p",
+   "marca": "Logitech",
+   "categorias": [
+    "Perifericos",
+    "Mouse pad"
+   ],
+   "descripcion": "El Mouse Pad Logitech Desk Mat Studio Series Extra Grande Gris ofrece una superficie dedicada para mejorar el desplazamiento y la estabilidad del mouse durante el uso diario o gaming. Su formato ayuda a mantener un área de movimiento definida sin ocupar más espacio del necesario. La base está pensada para mantenerse firme sobre la mesa y favorecer movimientos controlados. El diseño de Logitech mantiene una presentación coherente con la línea y facilita integrarlo a distintos tipos de setups.",
+   "caracteristicas": {
+    "Categoría de tamaño": "L",
+    "Marca": "Logitech",
+    "Material": "Tela / Goma",
+    "Tamaño": "L",
+    "Medidas": "70 x 30 x 0,2 cm",
+    "IVA": "21%"
+   },
+   "precio_desde": 49539.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/157305/97855171665_4.jpg?v=638069063659700000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/157306/97855171665_5.jpg?v=639045968592200000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/157307/97855171665_6.jpg?v=639045968592330000"
+   ],
+   "variantes": [
+    {
+     "sku": "97855171665",
+     "opciones": {
+      "stockensucursal": "0"
+     },
+     "precio": 49539.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 100,
+     "url": "https://www.diamondcomputacion.com.ar/mouse-pad-logitech-desk-mat-studio-series-extra-grande-gris/p?skuId=446"
+    }
+   ]
+  },
+  {
    "titulo": "Mouse Pad Logitech Estudio Mediano",
    "url": "https://www.diamondcomputacion.com.ar/mouse-pad-logitech-estudio-mediano-blue-grey/p",
    "marca": "Logitech",
@@ -62016,7 +62014,7 @@
     "IVA": "10.5%",
     "Graficos Integrados": "Si",
     "Frecuencia Base": "2000 MHz",
-    "stockensucursal": "1",
+    "stockensucursal": "0",
     "Caché": "16MB",
     "TDP": "45 - 65 W",
     "Zocalo": "AM4"
@@ -62035,7 +62033,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/procesador-amd-ryzen-7-5700g/p?skuId=188"
     }
    ]
