@@ -1,7 +1,7 @@
 {
  "tienda": "Milgenialuruguay",
  "url": "https://milgenialuruguay.com",
- "generado": "2026-11-27T16:27:52+00:00",
+ "generado": "2026-11-27T18:12:35+00:00",
  "total": 1605,
  "productos": [
   {
@@ -11792,7 +11792,7 @@
      },
      "precio": 1290.0,
      "precio_anterior": 1590.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/botas-glacia-impermeables-y-antideslizantes-para-mujer?variant=52582134448442"
@@ -17703,7 +17703,7 @@
    "caracteristicas": {},
    "precio_desde": 990.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/Portada_79f67dfe-9067-4289-85ad-1791624ef53a.png?v=1790960742",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/demostraciones.png?v=1790963668",
@@ -17715,7 +17715,7 @@
      "opciones": {},
      "precio": 990.0,
      "precio_anterior": 1090.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/rodillo-de-pintura-para-reparacion-de-paredes?variant=52509839622458"
@@ -24165,7 +24165,7 @@
      },
      "precio": 690.0,
      "precio_anterior": 1090.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/set-de-5-rollos-de-dibujo-coloreable-de-3mts-1?variant=51979216159034"
@@ -40904,7 +40904,7 @@
      },
      "precio": 1590.0,
      "precio_anterior": 1690.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/funsa-sofa-tejida-en-algodon-2-plazas?variant=50514837406010"
@@ -57343,7 +57343,7 @@
    "caracteristicas": {},
    "precio_desde": 690.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/9J1NEscurridor-de-vajilla-plegable-estante-de-secado-de-bamb-organizador-de-cocina-almacenamiento.jpg?v=1731090567",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/1_11zon_6_6236bd1f-6653-44ac-b34b-f1b08be59e64.webp?v=1769610506",
@@ -57355,7 +57355,7 @@
      "opciones": {},
      "precio": 690.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/escurridor-de-vajilla-de-bambu-plegable?variant=47491804725562"

@@ -1,8 +1,8 @@
 {
  "tienda": "Diamond Computacion",
  "url": "https://www.diamondcomputacion.com.ar",
- "generado": "2026-11-27T16:28:28+00:00",
- "total": 1378,
+ "generado": "2026-11-27T18:13:01+00:00",
+ "total": 1380,
  "productos": [
   {
    "titulo": "Carry Disk Netmak NM-CASEAL 2.5\" SATA",
@@ -2381,7 +2381,7 @@
       "Capacidad": "2TB",
       "stockensucursal": "0"
      },
-     "precio": 670500.0,
+     "precio": 629900.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -2987,7 +2987,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p?skuId=3314"
     },
     {
@@ -3237,7 +3237,7 @@
     "Peso neto (kg)": "1",
     "IVA": "21%"
    },
-   "precio_desde": 23900.0,
+   "precio_desde": 23100.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -3330,7 +3330,7 @@
       "Color": "Beige",
       "stockensucursal": "0"
      },
-     "precio": 24600.0,
+     "precio": 23100.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -4940,7 +4940,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 99999,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/memoria-ram-ddr4-3200mhz-kingston/p?skuId=560"
     },
     {
@@ -6680,7 +6680,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/camara-ip-tp-link-tapo-c425-con-bateria-y-panel-solar/p?skuId=3663"
     }
    ]
@@ -10478,7 +10478,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/simulador-raptor-overdrive/p?skuId=3468"
     }
    ]
@@ -12743,7 +12743,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/fuente-msi-a550bn-550w-80-bronze/p?skuId=3395"
     }
    ]
@@ -14971,7 +14971,7 @@
       "Color": "Púrpura Galáctico",
       "stockensucursal": "0"
      },
-     "precio": 37000.0,
+     "precio": 39400.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -28689,7 +28689,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/cable-usb-a-micro-usb/p?skuId=2618"
     }
    ]
@@ -31647,7 +31647,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/monitor-22-teros-te-2128s-ips-fhs-100hz-1ms/p?skuId=2477"
     }
    ]
@@ -32216,7 +32216,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/water-cooler-raptor-aqua-core/p?skuId=2449"
     },
     {
@@ -33349,7 +33349,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/soporte-netmak-celular-brazo-flexible-auto-nm-hc21/p?skuId=2397"
     }
    ]
@@ -34387,7 +34387,7 @@
     "stockensucursal": "0",
     "IVA": "21%"
    },
-   "precio_desde": 4200.0,
+   "precio_desde": 4100.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -34397,11 +34397,11 @@
     {
      "sku": "91009",
      "opciones": {},
-     "precio": 4200.0,
+     "precio": 4100.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/grasa-disipadora-metalizada-silver-d-5cc/p?skuId=2347"
     }
    ]
@@ -34419,7 +34419,7 @@
     "stockensucursal": "0",
     "IVA": "21%"
    },
-   "precio_desde": 10700.0,
+   "precio_desde": 10200.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -34429,11 +34429,11 @@
     {
      "sku": "9133999",
      "opciones": {},
-     "precio": 10700.0,
+     "precio": 10200.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/espuma-limpia-lcd/p?skuId=2346"
     }
    ]
@@ -34451,7 +34451,7 @@
     "stockensucursal": "0",
     "IVA": "21%"
    },
-   "precio_desde": 13600.0,
+   "precio_desde": 12900.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -34461,7 +34461,7 @@
     {
      "sku": "7798058460572",
      "opciones": {},
-     "precio": 13600.0,
+     "precio": 12900.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
@@ -34483,7 +34483,7 @@
     "stockensucursal": "0",
     "IVA": "21%"
    },
-   "precio_desde": 10900.0,
+   "precio_desde": 10700.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -34493,11 +34493,11 @@
     {
      "sku": "7798058460589",
      "opciones": {},
-     "precio": 10900.0,
+     "precio": 10700.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/espuma-limpia-gabinete/p?skuId=2343"
     }
    ]
@@ -34547,7 +34547,7 @@
     "stockensucursal": "0",
     "IVA": "21%"
    },
-   "precio_desde": 29400.0,
+   "precio_desde": 24100.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -34557,7 +34557,7 @@
     {
      "sku": "7798058460541",
      "opciones": {},
-     "precio": 29400.0,
+     "precio": 24100.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
@@ -36492,7 +36492,7 @@
     "Garantía": "5 años (limitada)",
     "IVA": "21"
    },
-   "precio_desde": 20600.0,
+   "precio_desde": 21900.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -36507,7 +36507,7 @@
       "Capacidad": "64GB",
       "stockensucursal": "0"
      },
-     "precio": 20600.0,
+     "precio": 21900.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -46148,7 +46148,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/teclado-y-mouse-gtc-cbg-026n-negro-office-duo/p?skuId=1678"
     }
    ]
@@ -46203,7 +46203,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/teclado-redragon-trundle-k668wbo-rgb-sp/p?skuId=1677"
     }
    ]
@@ -48200,9 +48200,9 @@
      },
      "precio": 24000.0,
      "precio_anterior": null,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
-     "stock": 0,
+     "stock": 99999,
      "url": "https://www.diamondcomputacion.com.ar/memoria-microsd-hiksemi-neo/p?skuId=2617"
     },
     {
@@ -49774,7 +49774,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/memoria-ram-ddr4-3200mhz-hiksemi-hiker/p?skuId=1377"
     },
     {
@@ -53127,7 +53127,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/auricular-redragon-ire-pro-inalambrico/p?skuId=1181"
     }
    ]
@@ -55529,6 +55529,51 @@
    ]
   },
   {
+   "titulo": "SSD 120GB Netac SA500",
+   "url": "https://www.diamondcomputacion.com.ar/disco-solido-ssd-netac-sa500-120gb/p",
+   "marca": "Netac",
+   "categorias": [
+    "Componentes de PC",
+    "Discos Rígidos",
+    "Sólidos"
+   ],
+   "descripcion": "El Disco Sólido SSD Netac SA500 120 GB es una unidad de estado sólido pensada para mejorar el almacenamiento y la respuesta de una computadora compatible. Con interfaz de alta velocidad SATA III 6 Gb/s, que puede reducir drásticamente el tiempo de arranque. Puede actualizar fácilmente la máquina con amplia compatibilidad para portátiles, ordenadores de sobremesa y ordenadores integrados. Solución SSD rentable y de alto rendimiento. Antes de instalarlo o utilizarlo, conviene verificar medidas, conexiones, alimentación y compatibilidad con el resto del equipo.",
+   "caracteristicas": {
+    "Marca": "Netac",
+    "Interfaz": "SATA III",
+    "Garantía": "3 años",
+    "IVA": "10.5",
+    "Dimensiones": "100 x 69.85 x 7 mm",
+    "Factor de forma": "2.5 pulgadas",
+    "Máxima velocidad de lectura": "500MB/s",
+    "Máxima velocidad de escritura": "400MB/s",
+    "MTTF": "1.500.000 horas"
+   },
+   "precio_desde": 56300.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/159587/50025120_1.jpg?v=638300437533130000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/159588/50025120_2.jpg?v=639294073957600000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/159589/50025120_3.jpg?v=639294073957670000"
+   ],
+   "variantes": [
+    {
+     "sku": "81101",
+     "opciones": {
+      "Capacidad": "120GB",
+      "stockensucursal": "0"
+     },
+     "precio": 56300.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 100,
+     "url": "https://www.diamondcomputacion.com.ar/disco-solido-ssd-netac-sa500-120gb/p?skuId=953"
+    }
+   ]
+  },
+  {
    "titulo": "Router TP-Link Archer C80 AC1900",
    "url": "https://www.diamondcomputacion.com.ar/router-wifi-tp-link-archer-c80/p",
    "marca": "TP Link",
@@ -56067,7 +56112,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/cartucho-alternativo-epson-t062-t063/p?skuId=862"
     }
    ]
@@ -60892,6 +60937,50 @@
      "preorden": false,
      "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/cooler-80mm-4pin-con-luz/p?skuId=357"
+    }
+   ]
+  },
+  {
+   "titulo": "Cooler Gabinete Corsair ICUE QL120 120mm RGB",
+   "url": "https://www.diamondcomputacion.com.ar/cooler-corsair-icue-ql120-rgb-120mm-pwm/p",
+   "marca": "Corsair",
+   "categorias": [
+    "Componentes de PC",
+    "Coolers",
+    "Gabinete"
+   ],
+   "descripcion": "El Cooler Corsair ICUE Ql120 RGB 12cm Pwm está pensado para acompañar la refrigeración de una computadora compatible y ayudar a controlar la temperatura de sus componentes. COLOR INTENSO Cuatro zonas de iluminación y 34 LED en cada ventilador que irradian colores y efectos fascinantes en los dos lados, ofreciendo una iluminación sorprendente tanto si se utilizan para entrada como para salida. CONTROL COMPACTO Y POTENTE Controle la iluminación RGB mediante el software CORSAIR iCUE con el increíblemente compacto Lighting Node CORE*, reduciendo el desorden de cables con sencillas conexiones USB 2.0 y SATA. Antes de instalarlo o utilizarlo, conviene verificar medidas, conexiones, alimentación y compatibilidad con el resto del equipo.",
+   "caracteristicas": {
+    "Flujo de aire máximo": "41.8 CFM",
+    "Voltaje de funcionamiento del ventilador": "12V DC",
+    "Dimensión del ventilador": "120 x 120 x 25mm",
+    "Nivel de ruido": "26 dBA",
+    "IVA": "21%",
+    "Conexión": "4 pines PWM + conector LED 3 pines",
+    "Disipación de potencia": "No especificado",
+    "Velocidad del ventilador": "525 - 1500 ±10% RPM",
+    "Iluminación": "RGB"
+   },
+   "precio_desde": 44600.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156782/413589_1.jpg?v=638024400192630000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156783/413589_2.jpg?v=639168621454200000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156784/413589_3.jpg?v=639168621454530000"
+   ],
+   "variantes": [
+    {
+     "sku": "413589",
+     "opciones": {
+      "stockensucursal": "0"
+     },
+     "precio": 44600.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://www.diamondcomputacion.com.ar/cooler-corsair-icue-ql120-rgb-120mm-pwm/p?skuId=349"
     }
    ]
   },
