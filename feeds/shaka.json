@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-27T00:10:57+00:00",
+ "generado": "2026-11-27T01:37:01+00:00",
  "total": 549,
  "productos": [
   {
@@ -1041,7 +1041,7 @@
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 40,
+     "stock": 39,
      "url": "https://sh-aka.com.ar/productos/vntg-polo-manteca-pixta/?variant=1631288911"
     },
     {
@@ -5335,9 +5335,7 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -5347,9 +5345,7 @@
     },
     {
      "sku": "371",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -5359,9 +5355,7 @@
     },
     {
      "sku": "372",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -7181,7 +7175,7 @@
      "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 48,
+     "stock": 47,
      "url": "https://sh-aka.com.ar/productos/retro-tee-azul-1rjlp/?variant=1645757423"
     },
     {
@@ -13627,7 +13621,7 @@
      "precio_anterior": 125000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 22,
+     "stock": 19,
      "url": "https://sh-aka.com.ar/productos/big-camo-jort-1wgym/?variant=1631289588"
     },
     {
@@ -17485,7 +17479,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 37,
+     "stock": 36,
      "url": "https://sh-aka.com.ar/productos/the-shk-denim/?variant=980322175"
     },
     {
@@ -18788,7 +18782,7 @@
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 72,
+     "stock": 71,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-azul/?variant=1367950151"
     },
     {
@@ -20271,9 +20265,7 @@
    "variantes": [
     {
      "sku": "299",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -20283,9 +20275,7 @@
     },
     {
      "sku": "300",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -20295,9 +20285,7 @@
     },
     {
      "sku": "301",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -23149,7 +23137,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 2,
+     "stock": 1,
      "url": "https://sh-aka.com.ar/productos/black-vntg-jort-1jl85/?variant=1602832005"
     },
     {
@@ -23371,7 +23359,7 @@
      "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 12,
+     "stock": 11,
      "url": "https://sh-aka.com.ar/productos/rootz-fun-denim-1kpqi/?variant=1555353201"
     },
     {
@@ -24690,7 +24678,7 @@
      "precio_anterior": 85000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 19,
+     "stock": 18,
      "url": "https://sh-aka.com.ar/productos/fire-3-shirt-marron-1962n/?variant=1645756640"
     },
     {
@@ -29570,9 +29558,7 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 21000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -29582,9 +29568,7 @@
     },
     {
      "sku": "371",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 21000.0,
      "precio_anterior": 30000.0,
      "disponible": true,
@@ -29594,9 +29578,7 @@
     },
     {
      "sku": "372",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 21000.0,
      "precio_anterior": 30000.0,
      "disponible": true,
@@ -30513,7 +30495,7 @@
      "precio_anterior": 105000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 6,
+     "stock": 5,
      "url": "https://sh-aka.com.ar/productos/3-jort-gris-melange-18swx/?variant=1631289724"
     },
     {
@@ -32952,7 +32934,7 @@
      "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 96,
+     "stock": 95,
      "url": "https://sh-aka.com.ar/productos/90s-boardshort-azul-2jqmw/?variant=1645758093"
     },
     {

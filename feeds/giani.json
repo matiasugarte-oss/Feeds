@@ -1,7 +1,7 @@
 {
  "tienda": "Giani Dafirenze",
  "url": "https://gianidafirenze.cl",
- "generado": "2026-11-27T00:11:41+00:00",
+ "generado": "2026-11-27T01:37:46+00:00",
  "total": 404,
  "productos": [
   {
@@ -19968,7 +19968,7 @@
      },
      "precio": 67425.0,
      "precio_anterior": 89900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-negro?variant=44657077059627"
@@ -21633,7 +21633,7 @@
      },
      "precio": 84435.0,
      "precio_anterior": 129900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/botin-mujer-baia-taupe?variant=44338374246443"
