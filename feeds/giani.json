@@ -1,8 +1,8 @@
 {
  "tienda": "Giani Dafirenze",
  "url": "https://gianidafirenze.cl",
- "generado": "2026-11-27T11:09:21+00:00",
- "total": 402,
+ "generado": "2026-11-27T12:12:33+00:00",
+ "total": 401,
  "productos": [
   {
    "titulo": "Mochila Mujer / Sauce Print",
@@ -19702,7 +19702,7 @@
      },
      "precio": 67425.0,
      "precio_anterior": 89900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-negro?variant=44657076961323"
@@ -35071,118 +35071,6 @@
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/botin-mujer-angu-gris-azul?variant=43268015783979"
-    }
-   ]
-  },
-  {
-   "titulo": "Botin Mujer / Berta Negro Metálico",
-   "url": "https://gianidafirenze.cl/products/botin-mujer-berta-negro-metalico",
-   "marca": "Giani Dafirenze",
-   "categorias": [
-    "BOTINES"
-   ],
-   "descripcion": "El botín de cuero para mujer Berta Negro Metálico combina un diseño sobrio con un acabado sutilmente brillante que aporta carácter sin perder versatilidad. Su tonalidad oscura con efecto metálico lo convierte en una propuesta actual dentro del calzado femenino de cuero, ideal para elevar looks cotidianos.\n\nConfeccionado en cuero natural y pensado para un calce cómodo, ofrece estabilidad y confort durante la jornada. Un botín femenino de cuero que equilibra materialidad, diseño atemporal y un detalle distintivo.\n\nTemporada Otoño Invierno 2026. Hecho en Chile",
-   "caracteristicas": {
-    "Nombre": "Berta C9",
-    "Color": "Negro Metalico",
-    "Capellada (material exterior)": "Cuero",
-    "Forro (material interior)": "Cuero",
-    "Plantilla": "Cuero",
-    "Planta (suela)": "Goma Amo Mis Giani",
-    "Taco": "Madera pintado a mano",
-    "Altura del taco": "4,5 cm",
-    "Punta": "Redonda",
-    "Horma": "Normal",
-    "Tipo de cierre": "Broche",
-    "Altura de la caña": "Sobre el tobillo",
-    "Estilo": "Botin"
-   },
-   "precio_desde": 65945.0,
-   "moneda": "CLP",
-   "disponible": true,
-   "imagenes": [
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-berta-negro-metalico-botines-giani-dafirenze-859868.jpg?v=1772490080",
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-berta-negro-metalico-botines-giani-dafirenze-161407.jpg?v=1772490080",
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-berta-negro-metalico-botines-giani-dafirenze-652729.jpg?v=1772490080"
-   ],
-   "variantes": [
-    {
-     "sku": "GDF-OI26-BERTA-C9-35",
-     "opciones": {
-      "Talla": "35",
-      "Color": "Negro"
-     },
-     "precio": 65945.0,
-     "precio_anterior": 119900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/botin-mujer-berta-negro-metalico?variant=43268026466347"
-    },
-    {
-     "sku": "GDF-OI26-BERTA-C9-36",
-     "opciones": {
-      "Talla": "36",
-      "Color": "Negro"
-     },
-     "precio": 65945.0,
-     "precio_anterior": 119900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/botin-mujer-berta-negro-metalico?variant=43268026499115"
-    },
-    {
-     "sku": "GDF-OI26-BERTA-C9-37",
-     "opciones": {
-      "Talla": "37",
-      "Color": "Negro"
-     },
-     "precio": 65945.0,
-     "precio_anterior": 119900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/botin-mujer-berta-negro-metalico?variant=43268026531883"
-    },
-    {
-     "sku": "GDF-OI26-BERTA-C9-38",
-     "opciones": {
-      "Talla": "38",
-      "Color": "Negro"
-     },
-     "precio": 65945.0,
-     "precio_anterior": 119900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/botin-mujer-berta-negro-metalico?variant=43268026564651"
-    },
-    {
-     "sku": "GDF-OI26-BERTA-C9-39",
-     "opciones": {
-      "Talla": "39",
-      "Color": "Negro"
-     },
-     "precio": 65945.0,
-     "precio_anterior": 119900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/botin-mujer-berta-negro-metalico?variant=43268026597419"
-    },
-    {
-     "sku": "GDF-OI26-BERTA-C9-40",
-     "opciones": {
-      "Talla": "40",
-      "Color": "Negro"
-     },
-     "precio": 65945.0,
-     "precio_anterior": 119900.0,
-     "disponible": true,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/botin-mujer-berta-negro-metalico?variant=43268026630187"
     }
    ]
   },

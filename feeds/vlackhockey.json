@@ -1,7 +1,7 @@
 {
  "tienda": "Vlack Hockey",
  "url": "https://www.vlackhockey.com.uy",
- "generado": "2026-11-27T11:10:37+00:00",
+ "generado": "2026-11-27T12:13:46+00:00",
  "total": 447,
  "productos": [
   {
@@ -18548,7 +18548,7 @@
      },
      "precio": 100.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://www.vlackhockey.com.uy/products/llaveros-vlack?variant=44494475854063"
