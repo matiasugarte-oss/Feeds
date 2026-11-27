@@ -1,7 +1,7 @@
 {
  "tienda": "Milgenialuruguay",
  "url": "https://milgenialuruguay.com",
- "generado": "2026-11-27T03:21:51+00:00",
+ "generado": "2026-11-27T04:31:10+00:00",
  "total": 1603,
  "productos": [
   {
@@ -69581,7 +69581,7 @@
    "caracteristicas": {},
    "precio_desde": 790.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-1_25c8840d-3e66-4b5c-a478-6eea1135623a.jpg?v=1759507477",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/en-caja.webp?v=1759507477",
@@ -69593,7 +69593,7 @@
      "opciones": {},
      "precio": 790.0,
      "precio_anterior": 1290.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/ducha-a-presion?variant=45050027475258"

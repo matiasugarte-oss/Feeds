@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-27T03:15:12+00:00",
+ "generado": "2026-11-27T04:24:40+00:00",
  "total": 549,
  "productos": [
   {
@@ -2480,9 +2480,9 @@
      },
      "precio": 85500.0,
      "precio_anterior": 95000.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
-     "stock": 1,
+     "stock": 0,
      "url": "https://sh-aka.com.ar/productos/smmr-longsleeve-tee-153hr/?variant=1615120597"
     }
    ]
@@ -4997,7 +4997,7 @@
      "precio_anterior": 65000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 4,
+     "stock": 3,
      "url": "https://sh-aka.com.ar/productos/3-cap-rosa-190am/"
     }
    ]
@@ -8229,9 +8229,7 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -8241,9 +8239,7 @@
     },
     {
      "sku": "368",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -8253,9 +8249,7 @@
     },
     {
      "sku": "369",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -11516,7 +11510,7 @@
      "precio_anterior": 125000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 3,
+     "stock": 2,
      "url": "https://sh-aka.com.ar/productos/washed-blue-stripe-jort-vix6d/?variant=1602834043"
     }
    ]
@@ -14225,9 +14219,9 @@
      },
      "precio": 85500.0,
      "precio_anterior": 95000.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
-     "stock": 1,
+     "stock": 0,
      "url": "https://sh-aka.com.ar/productos/3-longsleeve-shirt-celeste-f6dfr/?variant=1615146751"
     },
     {
@@ -18794,7 +18788,7 @@
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 50,
+     "stock": 49,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-azul/?variant=1367950155"
     }
    ]
@@ -19486,7 +19480,7 @@
      "precio_anterior": 75000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 6,
+     "stock": 5,
      "url": "https://sh-aka.com.ar/productos/3-waffle-tee-beige-1rmtq/?variant=1602867925"
     }
    ]
@@ -20265,7 +20259,9 @@
    "variantes": [
     {
      "sku": "299",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -20275,7 +20271,9 @@
     },
     {
      "sku": "300",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -20285,7 +20283,9 @@
     },
     {
      "sku": "301",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -26597,7 +26597,7 @@
      "precio_anterior": 80000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 7,
+     "stock": 6,
      "url": "https://sh-aka.com.ar/productos/sk8-waffle-tee-1p6am/?variant=1645757592"
     }
    ]
@@ -29558,7 +29558,9 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 21000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -29568,7 +29570,9 @@
     },
     {
      "sku": "371",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 21000.0,
      "precio_anterior": 30000.0,
      "disponible": true,
@@ -29578,7 +29582,9 @@
     },
     {
      "sku": "372",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 21000.0,
      "precio_anterior": 30000.0,
      "disponible": true,
@@ -30072,7 +30078,9 @@
    "variantes": [
     {
      "sku": "747",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -30082,7 +30090,9 @@
     },
     {
      "sku": "748",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -30092,7 +30102,9 @@
     },
     {
      "sku": "749",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": true,

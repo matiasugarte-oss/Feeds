@@ -1,8 +1,8 @@
 {
  "tienda": "Giani Dafirenze",
  "url": "https://gianidafirenze.cl",
- "generado": "2026-11-27T03:15:55+00:00",
- "total": 403,
+ "generado": "2026-11-27T04:25:22+00:00",
+ "total": 402,
  "productos": [
   {
    "titulo": "Mochila Mujer / Sauce Print",
@@ -82,119 +82,6 @@
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/mochila-mujer-sauce-negro?variant=68415813877803"
-    }
-   ]
-  },
-  {
-   "titulo": "Zapato Mujer / Nandu Negro",
-   "url": "https://gianidafirenze.cl/products/zapato-mujer-nandu-negro",
-   "marca": "Giani Dafirenze",
-   "categorias": [
-    "ZAPATOS"
-   ],
-   "descripcion": "Pensado para resolver la búsqueda de distinción y practicidad en la rutina diaria, este zapato destalonado de cuero para mujer destaca por su elegante silueta en punta y su confección artesanal en cuero natural negro. Su diseño de calce rápido estilo slip on junto a la plantilla e interior forrado en cuero aseguran una sensación suave, fresca y libre de roces en cada pisada.\n\nLa suela de goma antiderrapante se combina con un taco de madera de 3,5 cm pintado a mano, entregando una elevación sutil con soporte y estabilidad para todo el día. Un calzado femenino de cuero elaborado a mano en Chile, ideal para elevar tus atuendos cotidianos durante los días de calor con una propuesta refinada y cómoda.",
-   "caracteristicas": {
-    "Nombre": "Nandu C36",
-    "Color": "Negro",
-    "Capellada (material exterior)": "Cuero",
-    "Forro (material interior)": "Cuero",
-    "Plantilla": "Cuero",
-    "Suela": "Goma",
-    "Taco": "Madera pintado a mano",
-    "Altura taco": "3,5 cm",
-    "Punta": "En punta",
-    "Horma": "Normal",
-    "Cierre": "Slip on",
-    "Altura": "Bajo el tobillo Zapato",
-    "Procedencia": "Hecho en Chile",
-    "Temporada": "Primavera Verano 2027"
-   },
-   "precio_desde": 67425.0,
-   "moneda": "CLP",
-   "disponible": true,
-   "imagenes": [
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-nandu-negro-zapatos-giani-dafirenze-503021.jpg?v=1789431803",
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-nandu-negro-zapatos-giani-dafirenze-532250.jpg?v=1789575280",
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-nandu-negro-zapatos-giani-dafirenze-363644.jpg?v=1789431681"
-   ],
-   "variantes": [
-    {
-     "sku": "GDF-PV27-NANDU-C36-35",
-     "opciones": {
-      "Talla": "35",
-      "Color": "Negro"
-     },
-     "precio": 67425.0,
-     "precio_anterior": 89900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapato-mujer-nandu-negro?variant=45350821822507"
-    },
-    {
-     "sku": "GDF-PV27-NANDU-C36-36",
-     "opciones": {
-      "Talla": "36",
-      "Color": "Negro"
-     },
-     "precio": 67425.0,
-     "precio_anterior": 89900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapato-mujer-nandu-negro?variant=45350821855275"
-    },
-    {
-     "sku": "GDF-PV27-NANDU-C36-37",
-     "opciones": {
-      "Talla": "37",
-      "Color": "Negro"
-     },
-     "precio": 67425.0,
-     "precio_anterior": 89900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapato-mujer-nandu-negro?variant=45350821888043"
-    },
-    {
-     "sku": "GDF-PV27-NANDU-C36-38",
-     "opciones": {
-      "Talla": "38",
-      "Color": "Negro"
-     },
-     "precio": 67425.0,
-     "precio_anterior": 89900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapato-mujer-nandu-negro?variant=45350821920811"
-    },
-    {
-     "sku": "GDF-PV27-NANDU-C36-39",
-     "opciones": {
-      "Talla": "39",
-      "Color": "Negro"
-     },
-     "precio": 67425.0,
-     "precio_anterior": 89900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapato-mujer-nandu-negro?variant=45350821953579"
-    },
-    {
-     "sku": "GDF-PV27-NANDU-C36-40",
-     "opciones": {
-      "Talla": "40",
-      "Color": "Negro"
-     },
-     "precio": 67425.0,
-     "precio_anterior": 89900.0,
-     "disponible": true,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/zapato-mujer-nandu-negro?variant=45350821986347"
     }
    ]
   },
