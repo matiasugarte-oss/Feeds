@@ -91,7 +91,7 @@ class Cliente:
                 time.sleep(2 * (i + 1))
                 continue
             self.estados[r.status_code] += 1
-            if r.status_code == 200:
+            if 200 <= r.status_code < 300:
                 time.sleep(DELAY)
                 if not json_:
                     return r
@@ -99,6 +99,8 @@ class Cliente:
                     return r.json()
                 except ValueError:
                     return None
+            if r.status_code == 403 and i >= 1:
+                return None            # acceso cerrado (no es un límite de consultas): no insistir
             if r.status_code in (429, 503, 502, 500, 403):
                 ra = r.headers.get("Retry-After", "")
                 pausa = min(int(float(ra)) if re.fullmatch(r"\d+(\.\d+)?", ra) else 8 * (i + 1), 60)
@@ -129,6 +131,7 @@ def html_a_lineas(h):
     lineas = []
     for linea in t.split("\n"):
         linea = re.sub(r"[ \t\r]+", " ", linea).strip(" \t:•·*")
+        linea = re.sub(r"\s+([,.;:!?)])", r"\1", linea)
         if not linea:
             continue
         if lineas and linea[0].islower() and not re.search(r"[.!?:]$", lineas[-1]):
@@ -145,7 +148,7 @@ RE_SPEC = re.compile(r"^([^:]{2,40}):\s*(.{1,200})$")
 
 def separar_ficha(lineas, quitar=()):
     """Separa 'Clave: valor' (ficha técnica) del texto descriptivo. Elimina párrafos repetidos o no deseados."""
-    texto, specs, vistos = [], {}, set()
+    texto, specs, vistos, orden = [], {}, set(), []
     for linea in lineas:
         clave = sin_acentos(linea.lower())
         if clave in vistos or any(q.lower() in linea.lower() for q in quitar):
@@ -154,10 +157,18 @@ def separar_ficha(lineas, quitar=()):
         if clave.rstrip(": ") in TITULOS_FICHA:
             continue
         m = RE_SPEC.match(linea)
-        if m and len(m.group(1).split()) <= 5 and not m.group(1).lower().startswith("http"):
+        clave_ok = m and len(m.group(1).split()) <= 5 and not m.group(1).lower().startswith("http") \
+            and not re.match(r"^[-–•*]", m.group(1).strip())
+        # Una ficha técnica es "Suela: Goma", "Caja: 40 mm"; no una frase con dos puntos en el medio
+        valor_ok = m and len(m.group(2)) <= 80 and not re.search(r"[.!?]\s+\S", m.group(2))
+        if clave_ok and valor_ok:
             specs.setdefault(m.group(1).strip(), m.group(2).strip())
+            orden.append((linea, True))
         else:
             texto.append(linea)
+            orden.append((linea, False))
+    if len(specs) == 1:   # una sola línea "clave: valor" suele ser una frase, no una ficha técnica
+        return "\n\n".join(linea for linea, _ in orden), {}
     return "\n\n".join(texto), specs
 
 
@@ -503,6 +514,27 @@ def woo_precios(pr):
     return f(pr.get("price")), f(pr.get("regular_price")), pr.get("currency_code", "")
 
 
+def woo_rutas_categorias(crudos):
+    """Arma 'Gift Card - Física > Tratamientos' a partir del link de cada categoría
+    (.../categoria-producto/gift-card-fisica/tratamientos/) y los nombres reales vistos en la tienda."""
+    nombres = {}
+    for p in crudos:
+        for cat in p.get("categories") or []:
+            if cat.get("slug"):
+                nombres[cat["slug"]] = limpiar(cat.get("name"))
+
+    def rutas(p):
+        salida = []
+        for cat in p.get("categories") or []:
+            partes = [x for x in urlparse(cat.get("link") or "").path.split("/") if x]
+            slugs = partes[1:] if len(partes) > 1 else [cat.get("slug")]
+            ruta = [nombres.get(sl, sl.replace("-", " ").title()) for sl in slugs if sl]
+            if ruta and sin_acentos(ruta[-1].lower()) not in ("uncategorized", "sin categoria"):
+                salida.append(ruta)
+        return salida
+    return rutas
+
+
 def woocommerce(c, t, prev):
     base = woo_base(c)
     crudos = []
@@ -513,9 +545,11 @@ def woocommerce(c, t, prev):
         crudos += d
         if len(d) < 100:
             break
+    rutas_de = woo_rutas_categorias(crudos)
     productos = []
     for p in crudos:
         url = p.get("permalink") or ""
+        rutas = rutas_de(p)
         lineas = html_a_lineas(p.get("description") or p.get("short_description"))
         desc, specs = separar_ficha(lineas, t.get("quitar_parrafos", []))
         norm = lambda n: sin_acentos(re.sub(r"^pa_", "", n or "")).lower().replace("-", " ")
@@ -555,7 +589,10 @@ def woocommerce(c, t, prev):
                 stock=p.get("low_stock_remaining"), url=url))
         productos.append({
             "id": str(p.get("id")), "url": url, "titulo": limpiar(p.get("name")), "descripcion": desc,
-            "marca": marca, "categorias": [limpiar(x.get("name")) for x in (p.get("categories") or [])[:1]],
+            "marca": marca, "categorias": max(rutas, key=len) if rutas else [],
+            "descripcion_html": p.get("description") or p.get("short_description") or "",
+            "categorias_todas": sorted({n for r in rutas for n in r}),
+            "categorias_raiz": sorted({r[0] for r in rutas}),
             "tags": [x.get("name") for x in p.get("tags") or []], "imagenes": imagenes, "specs": specs,
             "variantes": variantes})
     return productos, {}
@@ -753,6 +790,23 @@ def luna(c, t, prev):
 
 # =============================================================== VTEX ===
 
+def vtex_intelligent_search(c):
+    """API pública de las tiendas VTEX IO (más nuevas). Devuelve productos con la misma estructura base."""
+    crudos = {}
+    for pagina in range(1, 51):
+        d = c.get(f"/api/io/_v/api/intelligent-search/product_search/?page={pagina}&count=50&hideUnavailableItems=false",
+                  json_=True)
+        lote = (d or {}).get("products") or []
+        nuevos = [p for p in lote if p.get("productId") not in crudos]
+        if not nuevos:
+            break
+        for p in nuevos:
+            crudos[p.get("productId")] = p
+        if len(lote) < 50:
+            break
+    return crudos
+
+
 def vtex(c, t, prev):
     crudos = {}
 
@@ -779,15 +833,33 @@ def vtex(c, t, prev):
 
         for nodo in arbol:
             explorar(nodo, [])
+    if not crudos:
+        log(t["slug"], "  la API de catálogo no respondió: uso Intelligent Search")
+        crudos = vtex_intelligent_search(c)
+    log(t["slug"], f"  {len(crudos)} productos en la API de VTEX")
+
+    def opciones_item(it):
+        variaciones = it.get("variations") or []
+        if variaciones and isinstance(variaciones[0], dict):          # Intelligent Search: [{name, values}]
+            return {v.get("name"): (v.get("values") or [""])[0] for v in variaciones}
+        return {n: (it.get(n) or [""])[0] for n in variaciones}        # catálogo: ["Talle"] + it["Talle"]
+
     productos = []
     for p in crudos.values():
         desc, specs = separar_ficha(html_a_lineas(p.get("description")), t.get("quitar_parrafos", []))
-        nombres_var = {n for it in p.get("items") or [] for n in it.get("variations") or []}
-        for nombre in p.get("allSpecifications") or []:
+        nombres_var = {n for it in p.get("items") or [] for n in opciones_item(it)}
+        for grupo in p.get("specificationGroups") or []:               # Intelligent Search
+            if (grupo.get("name") or "").lower() in ("allspecifications", "todas", "sku"):
+                continue
+            for sp in grupo.get("specifications") or []:
+                if sp.get("values") and sp.get("name") not in nombres_var:
+                    specs.setdefault(sp["name"], ", ".join(map(str, sp["values"])))
+        for nombre in p.get("allSpecifications") or []:                # catálogo
             vals = p.get(nombre)
             if vals and nombre not in nombres_var:
                 specs.setdefault(nombre, ", ".join(map(str, vals)))
         cats = sorted(p.get("categories") or [], key=len)
+        link = url_abs(p.get("link") or (f"/{p.get('linkText')}/p" if p.get("linkText") else ""), c.base)
         variantes, imagenes = [], []
         for it in p.get("items") or []:
             oferta = next((s.get("commertialOffer") for s in it.get("sellers") or [] if s.get("commertialOffer")), {})
@@ -797,12 +869,11 @@ def vtex(c, t, prev):
             cantidad = oferta.get("AvailableQuantity")
             variantes.append(variante(
                 id=it.get("itemId"), sku=ref or it.get("itemId"), gtin=it.get("ean") or "",
-                opciones={n: (it.get(n) or [""])[0] for n in it.get("variations") or []},
-                precio=num(oferta.get("Price")), precio_anterior=num(oferta.get("ListPrice")),
+                opciones=opciones_item(it), precio=num(oferta.get("Price")), precio_anterior=num(oferta.get("ListPrice")),
                 moneda=t.get("moneda", ""), disponible=bool(cantidad) and bool(oferta.get("IsAvailable", True)),
-                stock=cantidad, url=f"{p.get('link')}?skuId={it.get('itemId')}", imagen=fotos[0] if fotos else None))
+                stock=cantidad, url=f"{link}?skuId={it.get('itemId')}", imagen=fotos[0] if fotos else None))
         productos.append({
-            "id": str(p.get("productId")), "url": p.get("link"), "titulo": p.get("productName", ""), "descripcion": desc,
+            "id": str(p.get("productId")), "url": link, "titulo": p.get("productName", ""), "descripcion": desc,
             "marca": p.get("brand") or "", "categorias": [x for x in (cats[-1] if cats else "").split("/") if x],
             "tags": [], "imagenes": imagenes, "specs": specs, "variantes": variantes})
     return productos, {}
@@ -898,7 +969,7 @@ def tipo_ld(n):
 
 
 def generico(c, t, prev):
-    patron = re.compile(t.get("patron_productos") or r"/(product|producto|products|productos|p|item|articulo|prod)[/-]|-p-|/p\d", re.I)
+    patron = re.compile(t.get("patron_productos") or r"/(product|producto|products|productos|p|item|articulo|prod)[/-]|-p-|/p\d|/p/?$", re.I)
     host = urlparse(c.base).netloc.replace("www.", "")
     urls = sitemap_urls(c, lambda u: urlparse(u).netloc.replace("www.", "") == host and bool(patron.search(u)))
     urls = set(list(urls)[: int(t.get("max_productos", 3000))])
@@ -972,7 +1043,8 @@ def detectar(c):
         return "tiendanube"
     if "cdn.shopify.com" in hl or "shopify.shop" in hl:
         return "shopify"
-    if "vtex" in hl and isinstance(c.get("/api/catalog_system/pub/products/search?_from=0&_to=0", json_=True), list):
+    if "vtex" in hl and (isinstance(c.get("/api/catalog_system/pub/products/search?_from=0&_to=0", json_=True), list)
+                         or (c.get("/api/io/_v/api/intelligent-search/product_search/?page=1&count=1", json_=True) or {}).get("products")):
         return "vtex"
     if ("woocommerce" in hl or "/wp-content/" in hl) and woo_base(c):
         return "woocommerce"
@@ -985,6 +1057,122 @@ def detectar(c):
     if woo_base(c):
         return "woocommerce"
     return "generico"
+
+
+# ================================================= FORMATO ADTRIBES ===
+# Solo para WooCommerce. Replica la estructura de "Product Feed PRO for WooCommerce" (AdTribes).
+# Los datos salen siempre de la web; del feed de referencia (si es de AdTribes) solo se copia la plantilla.
+
+PLANTILLA_ADTRIBES = {
+    "titulo_canal": None,                      # None = nombre de la tienda
+    "query_link": "",                          # ej. utm_source=Google%20Shopping&utm_campaign=...
+    "checkout": "/?add-to-cart={id}",          # funciona en cualquier WooCommerce
+    "moneda_adelante": True,                   # "UYU 2800.00"
+    "categoria_google": None,
+    "prefijo_categoria": "Home",
+    "campos": ["g:id", "g:title", "g:description", "g:link", "g:image_link", "g:checkout_link_template",
+               "g:availability", "g:price", "g:sale_price", "g:google_product_category", "g:product_type",
+               "g:condition", "g:item_group_id", "g:identifier_exists"],
+}
+
+
+def es_feed_adtribes(contenido):
+    return b"adtribes" in contenido[:3000].lower() or b"product feed pro" in contenido[:3000].lower()
+
+
+def plantilla_desde_referencia(url_referencia):
+    """Copia la configuración del plugin de esa tienda: campaña, UTM, checkout, moneda, categoría y orden de campos."""
+    plantilla = dict(PLANTILLA_ADTRIBES)
+    try:
+        r = requests.get(url_referencia, timeout=90, headers={"User-Agent": UA})
+        if not es_feed_adtribes(r.content):
+            return None
+        import xml.etree.ElementTree as ET
+        raiz = ET.fromstring(r.content)
+    except Exception:
+        return None
+    g = "{http://base.google.com/ns/1.0}"
+    plantilla["titulo_canal"] = (raiz.findtext("channel/title") or "").strip() or None
+    items = list(raiz.iter("item"))
+    completos = sorted(items, key=lambda it: len(list(it)), reverse=True)
+    if completos:
+        plantilla["campos"] = ["g:" + h.tag.replace(g, "") for h in completos[0]]
+        if "g:sale_price" not in plantilla["campos"] and "g:price" in plantilla["campos"]:
+            plantilla["campos"].insert(plantilla["campos"].index("g:price") + 1, "g:sale_price")
+    for it in items:
+        link, iid = it.findtext(g + "link") or "", it.findtext(g + "id") or ""
+        if "?" in link and not plantilla["query_link"]:
+            plantilla["query_link"] = html.unescape(link.split("?", 1)[1])
+        chk = it.findtext(g + "checkout_link_template") or ""
+        if chk and iid and iid in chk:
+            plantilla["checkout"] = urlparse(chk)._replace(scheme="", netloc="").geturl().replace(iid, "{id}")
+        precio = (it.findtext(g + "price") or "").strip()
+        if precio:
+            plantilla["moneda_adelante"] = bool(re.match(r"^[A-Z]{3}\s", precio))
+    cats = Counter(it.findtext(g + "google_product_category") for it in items if it.findtext(g + "google_product_category"))
+    if cats:
+        plantilla["categoria_google"] = cats.most_common(1)[0][0]
+    tipos = [html.unescape(html.unescape(it.findtext(g + "product_type") or "")) for it in items]
+    prefijos = Counter(t.split(">")[0].strip() for t in tipos if ">" in t)
+    plantilla["prefijo_categoria"] = prefijos.most_common(1)[0][0] if prefijos and prefijos.most_common(1)[0][1] > len(tipos) / 2 else ""
+    return plantilla
+
+
+def html_estilo_adtribes(h):
+    """La API devuelve la descripción con los <p> que agrega WordPress; el plugin usa el texto original,
+    sin esos <p> y sin saltos de línea. Se quitan los <p> y <br> agregados y se conservan los demás."""
+    sopa = BeautifulSoup(h or "", "html.parser")
+    for p in sopa.find_all("p"):
+        if not p.attrs:
+            p.unwrap()
+    for br in sopa.find_all("br"):
+        br.decompose()
+    return re.sub(r"\s*\n\s*", "", str(sopa)).strip()
+
+
+def armar_items_adtribes(t, productos, plantilla):
+    pl = dict(plantilla)
+    for clave in ("titulo_canal", "query_link", "checkout", "categoria_google", "prefijo_categoria"):
+        if t.get(clave) is not None:                 # lo configurado en tiendas.json manda
+            pl[clave] = t[clave]
+    if t.get("categoria_google"):
+        pl["categoria_google"] = t["categoria_google"]
+    items = []
+    for p in productos:
+        variantes = [v for v in p["variantes"] if (v.get("precio") or 0) > 0 or t.get("incluir_precio_cero")]
+        simple = len(p["variantes"]) == 1 and str(p["variantes"][0].get("id")) == str(p["id"])
+        for v in variantes:
+            moneda = v.get("moneda") or t.get("moneda") or ""
+            fmt = (lambda n: f"{moneda} {n:.2f}") if pl["moneda_adelante"] else (lambda n: f"{n:.2f} {moneda}")
+            link = v.get("url") or p["url"]
+            if pl["query_link"]:
+                link += ("&" if "?" in link else "?") + pl["query_link"]
+            cats = [c for c in p.get("categorias") or [] if c]
+            tipo = " > ".join(([pl["prefijo_categoria"]] if pl["prefijo_categoria"] else []) + (cats or ["Uncategorized"]))
+            oferta = v.get("precio_anterior")
+            valores = {
+                "g:id": v.get("id"),
+                "g:title": limpiar(p["titulo"]),
+                "g:description": html_estilo_adtribes(p.get("descripcion_html")) or None,
+                "g:link": link,
+                "g:image_link": v.get("imagen") or (p.get("imagenes") or [None])[0],
+                "g:checkout_link_template": c_base(p["url"]) + pl["checkout"].replace("{id}", str(v.get("id"))),
+                "g:availability": "in_stock" if v.get("disponible") else ("backorder" if v.get("preorden") else "out_of_stock"),
+                "g:price": fmt(oferta if oferta else (v.get("precio") or 0)),
+                "g:sale_price": fmt(v["precio"]) if oferta else None,
+                "g:google_product_category": pl["categoria_google"],
+                "g:product_type": tipo,
+                "g:condition": "new",
+                "g:item_group_id": "0" if simple else str(p["id"]),
+                "g:identifier_exists": "no",
+            }
+            items.append([(k, valores.get(k)) for k in pl["campos"] if k in valores])
+    return items, pl
+
+
+def c_base(url):
+    u = urlparse(url)
+    return f"{u.scheme}://{u.netloc}"
 
 
 # ============================================================ SALIDAS ===
@@ -1003,9 +1191,40 @@ def e(v):
     return escape(CTRL.sub("", str(v)))
 
 
+def diferenciar_titulos(productos):
+    """'Facial relajante' (gift card física) y 'Facial relajante' (virtual) -> se agrega lo que los distingue:
+    la categoría que tiene cada uno y no el otro, o si no la parte distinta de su URL."""
+    grupos, extra = {}, {}
+    for p in productos:
+        grupos.setdefault(sin_acentos(titulo_lindo(p.get("titulo", "")).lower()), []).append(p)
+    uso = Counter(n for p in productos for n in p.get("categorias_todas") or p.get("categorias") or [])
+    for grupo in grupos.values():
+        if len(grupo) < 2:
+            continue
+        conjuntos = [set(p.get("categorias_todas") or p.get("categorias") or []) for p in grupo]
+        comunes = set.intersection(*conjuntos) if conjuntos else set()
+        for p, cats in zip(grupo, conjuntos):
+            propias = cats - comunes
+            if propias:
+                raices = set(p.get("categorias_raiz") or [])
+                extra[id(p)] = max(propias, key=lambda n: (n in raices, uso[n], -len(n)))
+                continue
+            slugs = [[x for x in urlparse(q["url"]).path.split("/") if x][-1:] for q in grupo]
+            mio = (slugs[grupo.index(p)] or [""])[0].split("-")
+            otros = [(s or [""])[0].split("-") for s in slugs]
+            prefijo = 0
+            while all(len(o) > prefijo and o[prefijo] == mio[prefijo] for o in otros if o) and prefijo < len(mio):
+                prefijo += 1
+            resto = " ".join(mio[prefijo:])
+            if resto:
+                extra[id(p)] = resto.title()
+    return extra
+
+
 def armar_items(t, productos):
     """Convierte los productos al formato de Google: un ítem por variante, con todos los campos posibles."""
     marca_tienda = t.get("marca") or t.get("nombre") or ""
+    diferencias = diferenciar_titulos(productos)
     conteo_sku = Counter(v["sku"] for p in productos for v in p["variantes"] if v.get("sku"))
     items, ids = [], set()
     for p in productos:
@@ -1015,6 +1234,8 @@ def armar_items(t, productos):
         titulo_base = titulo_lindo(p["titulo"])
         if titulo_base.lower().startswith(("tarjeta de regalo", "gift card", "giftcard")):
             continue
+        if id(p) in diferencias and diferencias[id(p)].lower() not in titulo_base.lower():
+            titulo_base = f"{titulo_base} - {diferencias[id(p)]}"
         cats = [titulo_lindo(c) for c in p.get("categorias") or [] if c]
         contexto = " ".join([p["titulo"]] + cats + list(p.get("tags") or []))
         gcat = t.get("categoria_google") or categoria_google(p["titulo"], " ".join(cats)) or t.get("categoria_google_defecto")
@@ -1090,10 +1311,10 @@ def armar_items(t, productos):
     return items
 
 
-def escribir_xml(t, items, ruta):
+def escribir_xml(t, items, ruta, titulo_canal=None, cdata=False):
     partes = ['<?xml version="1.0" encoding="UTF-8"?>',
               '<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">', "  <channel>",
-              f"    <title>{e(t.get('nombre') or t['slug'])}</title>", f"    <link>{e(t['url'])}</link>",
+              f"    <title>{e(titulo_canal or t.get('nombre') or t['slug'])}</title>", f"    <link>{e(t['url'])}</link>",
               "    <description>Catalogo completo de productos</description>"]
     for campos in items:
         partes.append("    <item>")
@@ -1105,6 +1326,8 @@ def escribir_xml(t, items, ruta):
                 partes.append(f"      <g:product_detail><g:section_name>{e(sec)}</g:section_name>"
                               f"<g:attribute_name>{e(nom)}</g:attribute_name>"
                               f"<g:attribute_value>{e(val)}</g:attribute_value></g:product_detail>")
+            elif k == "g:description" and cdata:
+                partes.append(f"      <{k}><![CDATA[{CTRL.sub('', str(v)).replace(']]>', ']]&gt;')}]]></{k}>")
             else:
                 partes.append(f"      <{k}>{e(v)}</{k}>")
         partes.append("    </item>")
@@ -1164,10 +1387,12 @@ def item_a_dict(campos):
 
 
 def valor_precio(texto):
-    try:
-        return float(str(texto).split()[0])
-    except (ValueError, IndexError):
-        return None
+    for parte in str(texto or "").split():
+        try:
+            return float(parte)
+        except ValueError:
+            continue
+    return None
 
 
 def ruta_link(u):
@@ -1234,7 +1459,7 @@ def validar(t, items, precios_previos, pendientes_previos=None):
         nombre = f"{d.get('g:id')} · {d.get('g:title', '')[:60]}"
         precio = valor_precio(d.get("g:price"))
         oferta = valor_precio(d.get("g:sale_price"))
-        if not precio or precio <= 0 or len(str(d.get("g:price", "")).split()) < 2:
+        if not precio or precio <= 0 or not re.search(r"\b[A-Z]{3}\b", str(d.get("g:price", ""))):
             agregar(graves, "Precio en cero o sin moneda", nombre)
         if oferta and precio and oferta >= precio:
             agregar(graves, "Precio de oferta mayor o igual al precio normal", nombre)
@@ -1289,7 +1514,8 @@ def procesar(t):
     t["url"] = t["url"].split("?")[0].rstrip("/")
     c = Cliente(t["url"], float(t.get("tiempo_max_min", TIEMPO_MAX_MIN)) * 60)
     prev = cargar_json(f"{DIR_DATOS}/{slug}.json", {})
-    plataforma = t.get("plataforma") or prev.get("plataforma") or detectar(c)
+    guardada = prev.get("plataforma") if prev.get("plataforma") != "generico" else None
+    plataforma = t.get("plataforma") or guardada or detectar(c)
     log(slug, f"plataforma: {plataforma}")
     productos, cache = ADAPTADORES[plataforma](c, t, prev)
     if plataforma != "generico" and not productos and not t.get("plataforma"):
@@ -1298,9 +1524,25 @@ def procesar(t):
     antes = len(prev.get("productos", []))
     if not productos or (antes and len(productos) < MIN_RATIO * antes):
         raise RuntimeError(f"solo {len(productos)} productos (antes {antes}); se mantiene el feed anterior")
-    items = armar_items(t, productos)
+    formato = (t.get("formato") or "").lower()
+    plantilla = None
+    if plataforma == "woocommerce" and formato != "completo":
+        if t.get("feed_referencia"):
+            plantilla = plantilla_desde_referencia(t["feed_referencia"])
+            if plantilla:
+                log(slug, "  formato AdTribes: plantilla copiada del feed de referencia")
+        if not plantilla and formato == "adtribes":
+            plantilla = dict(PLANTILLA_ADTRIBES)
+            log(slug, "  formato AdTribes: plantilla estándar (sin feed de referencia)")
+    elif formato == "adtribes":
+        log(slug, f"  el formato AdTribes es solo para WooCommerce; esta tienda es {plataforma}: se usa el formato completo")
+    if plantilla:
+        items, plantilla = armar_items_adtribes(t, productos, plantilla)
+    else:
+        items = armar_items(t, productos)
     revision, precios, pendientes = validar(t, items, prev.get("precios", {}), prev.get("precios_pendientes", {}))
-    escribir_xml(t, items, f"{DIR_FEEDS}/{slug}.xml")
+    escribir_xml(t, items, f"{DIR_FEEDS}/{slug}.xml", titulo_canal=(plantilla or {}).get("titulo_canal"),
+                 cdata=bool(plantilla))
     escribir_json_ia(t, productos, f"{DIR_FEEDS}/{slug}.json")
     with open(f"{DIR_DATOS}/{slug}.json", "w", encoding="utf-8") as f:
         json.dump({"plataforma": plataforma, "generado": ahora().isoformat(timespec="seconds"),
