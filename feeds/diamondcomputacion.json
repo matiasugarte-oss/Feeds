@@ -1,7 +1,7 @@
 {
  "tienda": "Diamond Computacion",
  "url": "https://www.diamondcomputacion.com.ar",
- "generado": "2026-11-27T19:22:01+00:00",
+ "generado": "2026-11-27T20:22:55+00:00",
  "total": 1380,
  "productos": [
   {
@@ -1764,7 +1764,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 99999,
      "url": "https://www.diamondcomputacion.com.ar/camara-ip-cloud-tp-link-tapo-c225-wifi-2k-qhd/p?skuId=3026"
     }
    ]
@@ -2914,7 +2914,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/mouse-vertical-netmak-nm-ergo-inalambrico/p?skuId=3425"
     }
    ]
@@ -9091,7 +9091,7 @@
      "sku": "850073872239",
      "opciones": {
       "Capacidad": "240GB",
-      "stockensucursal": "0"
+      "stockensucursal": "1"
      },
      "precio": 68400.0,
      "precio_anterior": null,
@@ -9294,7 +9294,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/impresora-epson-ecotank-l3352-wifi-multifuncion/p?skuId=3504"
     }
    ]
@@ -12491,7 +12491,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/switch-tp-link-tl-sg1016-16-puertos/p?skuId=3402"
     }
    ]
@@ -12743,7 +12743,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/fuente-msi-a550bn-550w-80-bronze/p?skuId=3395"
     }
    ]
@@ -14647,7 +14647,7 @@
    "caracteristicas": {
     "IVA": "21%"
    },
-   "precio_desde": 24800.0,
+   "precio_desde": 26400.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -14661,7 +14661,7 @@
       "Color": "Oro Rosado",
       "stockensucursal": "0"
      },
-     "precio": 24800.0,
+     "precio": 26400.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -14695,7 +14695,7 @@
    "caracteristicas": {
     "IVA": "21%"
    },
-   "precio_desde": 24000.0,
+   "precio_desde": 24700.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -14749,7 +14749,7 @@
       "Color": "Amarillo",
       "stockensucursal": "0"
      },
-     "precio": 27600.0,
+     "precio": 25900.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -14762,11 +14762,11 @@
       "Color": "Blanco",
       "stockensucursal": "0"
      },
-     "precio": 24000.0,
+     "precio": 24700.0,
      "precio_anterior": null,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
-     "stock": 0,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/filamento-flashforge-pla-lite-1-75mm/p?skuId=3595"
     },
     {
@@ -14852,7 +14852,7 @@
     "Acabado": "Silk",
     "IVA": "21%"
    },
-   "precio_desde": 26300.0,
+   "precio_desde": 24200.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -14867,7 +14867,7 @@
       "Color": "Cobre Rojo",
       "stockensucursal": "0"
      },
-     "precio": 26300.0,
+     "precio": 24200.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -16698,7 +16698,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/cable-usb-c-a-usb-c-3-metros/p?skuId=3247"
     }
    ]
@@ -17882,7 +17882,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/pila-recargable-aaa-1100mah-noga-x2/p?skuId=3194"
     }
    ]
@@ -18814,7 +18814,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/pila-recargable-aa-2700mah-noga-x2/p?skuId=3133"
     }
    ]
@@ -18935,7 +18935,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/pila-recargable-aaa-1300mah-noga-x2/p?skuId=3129"
     }
    ]
@@ -20225,7 +20225,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/hub-usb-c-netmak-nm-hubc-4-puertos-usb-2-0/p?skuId=3069"
     }
    ]
@@ -24001,6 +24001,38 @@
      "preorden": false,
      "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/mouse-intco-optico-usb-rdm-300-negro/p?skuId=2876"
+    }
+   ]
+  },
+  {
+   "titulo": "Adaptador Audio 3.5mm (H) a Micrófono (M) Auricular (M)",
+   "url": "https://www.diamondcomputacion.com.ar/adaptador-audio-35-h-a-mic-m-auri-m/p",
+   "marca": "Genérico",
+   "categorias": [
+    "Conectividad",
+    "Adaptadores"
+   ],
+   "descripcion": "El ADAPTADOR AUDIO 3.5 (H) A MIC (M) + AURI (M) permite convertir o extender una conexión entre 3.5 mm, facilitando el uso de monitores, televisores, proyectores, periféricos o equipos de red compatibles. Su formato ayuda a reutilizar dispositivos con interfaces diferentes en escritorios, oficinas, aulas o espacios de entretenimiento. Su diseño compacto facilita llevarlo junto con cables y accesorios, y permite resolver conexiones puntuales sin reemplazar el equipo principal.",
+   "caracteristicas": {
+    "IVA": "21%",
+    "stockensucursal": "0"
+   },
+   "precio_desde": 1100.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/167368/546431_1.png?v=639117956939570000"
+   ],
+   "variantes": [
+    {
+     "sku": "546431",
+     "opciones": {},
+     "precio": 1100.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 100,
+     "url": "https://www.diamondcomputacion.com.ar/adaptador-audio-35-h-a-mic-m-auri-m/p?skuId=2872"
     }
    ]
   },
@@ -28264,7 +28296,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/cable-tipo-c-a-iphone/p?skuId=2634"
     }
    ]
@@ -29019,7 +29051,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/procesador-amd-ryzen-9-9950x3d-am5-16n-y-32h-57ghz/p?skuId=2602"
     }
    ]
@@ -33990,7 +34022,7 @@
     "Dimensiones": "12.3 x 6.99 x 0.7 cm",
     "Peso": "90 g",
     "IVA": "10.5%",
-    "stockensucursal": "0"
+    "stockensucursal": "1"
    },
    "precio_desde": 12000.0,
    "moneda": "ARS",
@@ -34487,7 +34519,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 99999,
      "url": "https://www.diamondcomputacion.com.ar/aire-comprimido-gtc-adg-001/p?skuId=2341"
     }
    ]
@@ -34919,41 +34951,6 @@
    ]
   },
   {
-   "titulo": "Adaptador Mercusys MA530 Bluetooth 5.4 USB NANO",
-   "url": "https://www.diamondcomputacion.com.ar/adaptador-bluetooth-54-usb-nano-mercusys-ma530/p",
-   "marca": "Mercusys",
-   "categorias": [
-    "Conectividad",
-    "Adaptadores"
-   ],
-   "descripcion": "El ADAPTADOR BLUETOOTH 5.4 USB NANO MERCUSYS MA530 permite agregar conectividad Bluetooth versión 5.4 a equipos compatibles. Este adaptador de Mercusys resulta útil para vincular auriculares, parlantes, teclados, mouses, celulares y otros dispositivos inalámbricos desde una computadora o fuente de audio compatible. El Adaptador Bluetooth 5.4 USB Nano Mercusys MA530 permite añadir conectividad inalámbrica moderna y estable a cualquier PC o notebook. Su diseño compacto facilita llevarlo junto con cables y accesorios, y permite resolver conexiones puntuales sin reemplazar el equipo principal.",
-   "caracteristicas": {
-    "Tipo de adaptador": "Bluetooth",
-    "IVA": "21%",
-    "stockensucursal": "1"
-   },
-   "precio_desde": 6400.0,
-   "moneda": "ARS",
-   "disponible": true,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/165254/MA530_UN_1.0_06_large20240327072250.jpg?v=639005527898470000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/165255/MA530_UN_1.0_01_large20240327072400.jpg?v=639005527898600000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/165256/MA530_UN_1.0_02_large20240327072348.jpg?v=639005527898600000"
-   ],
-   "variantes": [
-    {
-     "sku": "6957939002176",
-     "opciones": {},
-     "precio": 6400.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 1,
-     "url": "https://www.diamondcomputacion.com.ar/adaptador-bluetooth-54-usb-nano-mercusys-ma530/p?skuId=2312"
-    }
-   ]
-  },
-  {
    "titulo": "Adaptador NM-BT8 Bluetooth USB Transmisor/receptor",
    "url": "https://www.diamondcomputacion.com.ar/adaptador-bluetooth-usb-transmisorreceptor-nm-bt8/p",
    "marca": "Genérico",
@@ -35088,7 +35085,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/adaptador-de-usb-a-sataide/p?skuId=2308"
     }
    ]
@@ -35374,6 +35371,41 @@
      "preorden": false,
      "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/cable-extension-usb/p?skuId=2295"
+    }
+   ]
+  },
+  {
+   "titulo": "Adaptador Mercusys MA530 Bluetooth 5.4 USB NANO",
+   "url": "https://www.diamondcomputacion.com.ar/adaptador-bluetooth-54-usb-nano-mercusys-ma530/p",
+   "marca": "Mercusys",
+   "categorias": [
+    "Conectividad",
+    "Adaptadores"
+   ],
+   "descripcion": "El ADAPTADOR BLUETOOTH 5.4 USB NANO MERCUSYS MA530 permite agregar conectividad Bluetooth versión 5.4 a equipos compatibles. Este adaptador de Mercusys resulta útil para vincular auriculares, parlantes, teclados, mouses, celulares y otros dispositivos inalámbricos desde una computadora o fuente de audio compatible. El Adaptador Bluetooth 5.4 USB Nano Mercusys MA530 permite añadir conectividad inalámbrica moderna y estable a cualquier PC o notebook. Su diseño compacto facilita llevarlo junto con cables y accesorios, y permite resolver conexiones puntuales sin reemplazar el equipo principal.",
+   "caracteristicas": {
+    "Tipo de adaptador": "Bluetooth",
+    "IVA": "21%",
+    "stockensucursal": "0"
+   },
+   "precio_desde": 6400.0,
+   "moneda": "ARS",
+   "disponible": false,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/165254/MA530_UN_1.0_06_large20240327072250.jpg?v=639005527898470000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/165255/MA530_UN_1.0_01_large20240327072400.jpg?v=639005527898600000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/165256/MA530_UN_1.0_02_large20240327072348.jpg?v=639005527898600000"
+   ],
+   "variantes": [
+    {
+     "sku": "6957939002176",
+     "opciones": {},
+     "precio": 6400.0,
+     "precio_anterior": null,
+     "disponible": false,
+     "preorden": false,
+     "stock": 0,
+     "url": "https://www.diamondcomputacion.com.ar/adaptador-bluetooth-54-usb-nano-mercusys-ma530/p?skuId=2312"
     }
    ]
   },
@@ -46167,6 +46199,75 @@
    ]
   },
   {
+   "titulo": "Teclado Redragon Dragonborn K630 Mecánico RGB",
+   "url": "https://www.diamondcomputacion.com.ar/teclado-redragon-dragonborn-k630-mecanico-rgb/p",
+   "marca": "Redragon",
+   "categorias": [
+    "Perifericos",
+    "Teclados"
+   ],
+   "descripcion": "El TECLADO REDRAGON K630 DRAGONBORN RGB BLACK RED está pensado para escritura, estudio, trabajo o gaming, según el formato y las funciones de esta versión. Su sistema de teclas acompaña el uso diario con una respuesta cómoda para documentos, navegación y tareas de oficina. La iluminación RGB o Rainbow aporta visibilidad y una estética gaming acorde al modelo. La propuesta combina funcionalidad, comodidad y una presentación adecuada para el uso cotidiano.",
+   "caracteristicas": {
+    "Garantía": "1 año con el fabricante",
+    "Compatibilidad": "Windows, macOS, Linux",
+    "Tipo de switch": "Redragon Red",
+    "Operación": "Lineal",
+    "Fuerza": "45 g",
+    "Punto de acción": "2 mm",
+    "Distancia total": "4 mm",
+    "IVA": "10.5%",
+    "Inalámbrico": "No",
+    "Color de la retroiluminación": "RGB",
+    "Tipo de conector": "USB-C",
+    "Peso": "430 g",
+    "Dimensiones": "291 x 101 x 36 mm",
+    "Largo del Cable": "1.5 m",
+    "Tipo de teclado": "Mecánico",
+    "Idioma": "Español Latinoamérica",
+    "Tamaño": "60%",
+    "Reposa muñecas": "No",
+    "Resistente a salpicaduras": "No",
+    "Antighosting": "Sí",
+    "Rollover": "N-key rollover"
+   },
+   "precio_desde": 52969.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/162777/DRAGONBORN-1.png?v=638839584018000000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/162778/1736793742_22.jpg?v=638839584018300000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/162779/K630RGB-PNGWEB-10.png?v=638839584018470000"
+   ],
+   "variantes": [
+    {
+     "sku": "6950376713117",
+     "opciones": {
+      "Color": "Negro",
+      "stockensucursal": "0"
+     },
+     "precio": 52969.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 100,
+     "url": "https://www.diamondcomputacion.com.ar/teclado-redragon-dragonborn-k630-mecanico-rgb/p?skuId=1675"
+    },
+    {
+     "sku": "6950376714909",
+     "opciones": {
+      "Color": "Blanco",
+      "stockensucursal": "0"
+     },
+     "precio": 69200.0,
+     "precio_anterior": null,
+     "disponible": false,
+     "preorden": false,
+     "stock": 0,
+     "url": "https://www.diamondcomputacion.com.ar/teclado-redragon-dragonborn-k630-mecanico-rgb/p?skuId=1676"
+    }
+   ]
+  },
+  {
    "titulo": "Teclado GTC KBG-207 USB",
    "url": "https://www.diamondcomputacion.com.ar/teclado-gtc-kbg-207-usb/p",
    "marca": "GTC",
@@ -54473,7 +54574,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/soporte-notebook-base-plegable/p?skuId=1072"
     }
    ]
@@ -56070,7 +56171,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/cartucho-alternativo-epson-t062-t063/p?skuId=862"
     }
    ]
@@ -58692,7 +58793,7 @@
       "Capacidad": "64GB Verde neón",
       "stockensucursal": "0"
      },
-     "precio": 10400.0,
+     "precio": 11300.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -60239,6 +60340,44 @@
    ]
   },
   {
+   "titulo": "Mouse Pad Redragon Flick P032 Extra Grande",
+   "url": "https://www.diamondcomputacion.com.ar/mouse-pad-redragon-flick-p032-xl/p",
+   "marca": "Redragon",
+   "categorias": [
+    "Perifericos",
+    "Mouse pad"
+   ],
+   "descripcion": "El Mouse pad Redragon Flick P032 XL ofrece una superficie dedicada para mejorar el desplazamiento y la estabilidad del mouse durante el uso diario o gaming. Su tamaño extendido permite ubicar también el teclado y cubrir una mayor parte del escritorio. La base está pensada para mantenerse firme sobre la mesa y favorecer movimientos controlados. El diseño de Redragon mantiene una presentación coherente con la línea y facilita integrarlo a distintos tipos de setups.",
+   "caracteristicas": {
+    "Categoría de tamaño": "XL",
+    "Marca": "Redragon",
+    "Material": "Tela / Goma",
+    "Medidas": "90 x 42 x 0,4 cm",
+    "IVA": "21%"
+   },
+   "precio_desde": 35551.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/157356/6950376779908_1.jpg?v=638069063889630000"
+   ],
+   "variantes": [
+    {
+     "sku": "6950376779908",
+     "opciones": {
+      "Tamaño": "XL (P032)",
+      "stockensucursal": "0"
+     },
+     "precio": 35551.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 100,
+     "url": "https://www.diamondcomputacion.com.ar/mouse-pad-redragon-flick-p032-xl/p?skuId=458"
+    }
+   ]
+  },
+  {
    "titulo": "Mouse Pad Redragon Flick",
    "url": "https://www.diamondcomputacion.com.ar/mouse-pad-redragon-flick/p",
    "marca": "Redragon",
@@ -60755,144 +60894,6 @@
      "preorden": false,
      "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/monitor-hikvision-dsd5022qeb-22-led-full-hd-60hz-5ms/p?skuId=385"
-    }
-   ]
-  },
-  {
-   "titulo": "Monitor Asus VA24EHE 24\" FHD 75Hz IPS",
-   "url": "https://www.diamondcomputacion.com.ar/monitor-asus-va24ehe-24-ips-full-hd-75hz-5ms/p",
-   "marca": "ASUS",
-   "categorias": [
-    "Monitores",
-    "Monitores Gamer"
-   ],
-   "descripcion": "El Monitor ASUS VA24EHE 24\" FHD 75Hz IPS ofrece una pantalla de 24 pulgadas con resolución Full HD y panel IPS, pensada para trabajo, estudio, entretenimiento o gaming según la configuración del modelo. La frecuencia de 75Hz resulta adecuada para oficina, estudio, navegación y reproducción multimedia. El panel IPS ofrece colores consistentes y buenos ángulos de visión, útil para productividad, contenido multimedia y tareas visuales. La resolución Full HD entrega una imagen nítida para documentos, streaming, navegación y entretenimiento. El monitor ASUS VA24EHE Eye Care presenta un panel IPS de 23.8 pulgadas con resolución Full HD (1920 x 1080), que proporciona un panel de ángulo de visión de 178 ° de ancho y una calidad de imagen vívida",
-   "caracteristicas": {
-    "Tipo": "Plano",
-    "Relación de aspecto": "16:9",
-    "Panel": "IPS",
-    "Tiempo de respuesta": "5 ms",
-    "Resolución": "Full HD",
-    "Tasa de refresco": "75 Hz",
-    "Parlantes": "No",
-    "IVA": "21%",
-    "Pulgadas": "24 pulgadas",
-    "HDMI": "1",
-    "VGA": "1",
-    "Jack 3.5mm": "No",
-    "Ethernet": "No",
-    "Montaje VESA": "100 x 100 mm (M4 x 10 mm)",
-    "DVI": "1"
-   },
-   "precio_desde": 200500.0,
-   "moneda": "ARS",
-   "disponible": true,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156913/2475159_2.jpg?v=638069061559870000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156914/2475159_3.jpg?v=638854206347070000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156915/2475159_4.jpg?v=638854206347070000"
-   ],
-   "variantes": [
-    {
-     "sku": "2475159",
-     "opciones": {
-      "stockensucursal": "0"
-     },
-     "precio": 200500.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 1,
-     "url": "https://www.diamondcomputacion.com.ar/monitor-asus-va24ehe-24-ips-full-hd-75hz-5ms/p?skuId=377"
-    }
-   ]
-  },
-  {
-   "titulo": "Monitor Philips 193V5LHSB2/55 19\" HD",
-   "url": "https://www.diamondcomputacion.com.ar/monitor-philips-193v5lhsb255-19-lcd-hd-60hz-5ms/p",
-   "marca": "Philips",
-   "categorias": [
-    "Monitores",
-    "Monitores de Oficina"
-   ],
-   "descripcion": "El Monitor Philips 193V5LHSB2/55 19\" HD ofrece una pantalla de 19 pulgadas con resolución HD, pensada para trabajo, estudio, entretenimiento o gaming según la configuración del modelo. La resolución HD cubre tareas básicas de oficina, estudio y reproducción de contenido. » HDMI Ready para el entretenimiento en Full HD Un dispositivo HDMI Ready tiene todo el hardware necesario para admitir una entrada de interfaz multimedia de alta definición (HDMI) » Pantalla ecológica sin mercurio Los monitores de Philips con retroiluminación LED no contienen mercurio, una de las sustancias naturales más tóxicas que afectan a los seres humanos y a los animales Su diseño Philips se integra con facilidad a escritorios domésticos, oficinas y setups de entretenimiento.",
-   "caracteristicas": {
-    "Tipo": "Plano",
-    "Relación de aspecto": "16:9",
-    "Panel": "LCD",
-    "Tiempo de respuesta": "1 ms",
-    "Resolución": "HD",
-    "Tasa de refresco": "60 Hz",
-    "Pulgadas": "19 pulgadas",
-    "IVA": "21%",
-    "HDMI": "1",
-    "VGA": "1",
-    "Jack 3.5mm": "No",
-    "Ethernet": "No",
-    "Montaje VESA": "100 x 100 mm (M4 x 10 mm)"
-   },
-   "precio_desde": 159900.0,
-   "moneda": "ARS",
-   "disponible": true,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156863/27341_2.jpg?v=638069061305000000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156864/27341_3.jpg?v=639168753878700000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156865/27341_4.jpg?v=639168753878870000"
-   ],
-   "variantes": [
-    {
-     "sku": "27341",
-     "opciones": {
-      "stockensucursal": "0"
-     },
-     "precio": 159900.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 1,
-     "url": "https://www.diamondcomputacion.com.ar/monitor-philips-193v5lhsb255-19-lcd-hd-60hz-5ms/p?skuId=368"
-    }
-   ]
-  },
-  {
-   "titulo": "Monitor Philips 221V8 22\" FHD 75Hz VA",
-   "url": "https://www.diamondcomputacion.com.ar/monitor-philips-221v8-22-va-full-hd-75hz-4ms/p",
-   "marca": "Philips",
-   "categorias": [
-    "Monitores",
-    "Monitores de Oficina"
-   ],
-   "descripcion": "El Monitor Philips 221V8 22\" FHD 75Hz VA ofrece una pantalla de 22 pulgadas con resolución Full HD y panel VA, pensada para trabajo, estudio, entretenimiento o gaming según la configuración del modelo. La frecuencia de 75Hz resulta adecuada para oficina, estudio, navegación y reproducción multimedia. El panel VA aporta buen contraste y una reproducción profunda de escenas oscuras, conveniente para películas y juegos. La resolución Full HD entrega una imagen nítida para documentos, streaming, navegación y entretenimiento. Su tecnología de gestión de píxeles optimizada te ofrece un ángulo de visión extrapanorámico de 178/178 grados, que proporciona imágenes nítidas » Pantalla de 16:9 con Full HD para unas imágenes nítidas La calidad de imagen importa",
-   "caracteristicas": {
-    "Tipo": "Plano",
-    "Relación de aspecto": "16:9",
-    "Panel": "VA",
-    "Tiempo de respuesta": "4 ms",
-    "Resolución": "1920 x 1080",
-    "Tasa de refresco": "75 Hz",
-    "Pulgadas": "22 pulgadas",
-    "IVA": "21%"
-   },
-   "precio_desde": 176600.0,
-   "moneda": "ARS",
-   "disponible": true,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156851/2222_1.jpg?v=638069061229870000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156852/2222_2.jpg?v=638852441288100000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156853/2222_3.jpg?v=638852441288570000"
-   ],
-   "variantes": [
-    {
-     "sku": "2222",
-     "opciones": {
-      "stockensucursal": "0"
-     },
-     "precio": 176600.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 1,
-     "url": "https://www.diamondcomputacion.com.ar/monitor-philips-221v8-22-va-full-hd-75hz-4ms/p?skuId=365"
     }
    ]
   },

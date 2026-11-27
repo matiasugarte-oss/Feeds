@@ -5,6 +5,186 @@
     <link>https://milgenialuruguay.com</link>
     <description>Catalogo completo de productos</description>
     <item>
+      <g:id>2558-0</g:id>
+      <g:title>SpikeBall Juego de Rebote 3 Pelota mas Red</g:title>
+      <g:description>/* General */
+
+.mg-spikeball {
+
+--mg-green: #18a558;
+
+--mg-green-dark: #117c40;
+
+--mg-text: #171b19;
+
+--mg-muted: #606963;
+
+--mg-light: #f4f6f4; font-family: inherit; color: var(--mg-text); width: 100%; margin: 0 auto;
+
+}
+
+.mg-spikeball,
+
+.mg-spikeball h2,
+
+.mg-spikeball h3,
+
+.mg-spikeball h2 { font-size: clamp(26px, 4.5vw, 38px); line-height: 1.15; letter-spacing: -0.035em; font-weight: 750;
+
+.mg-spikeball h3 { font-size: clamp(21px, 3.5vw, 28px); line-height: 1.2; letter-spacing: -0.025em; font-weight: 700;
+
+/* Hero */
+
+.mg-spikeball.mg-eyebrow { display: inline-block; color: var(--mg-green-dark); font-size: 11px; font-weight: 800; letter-spacing: 0.11em; text-transform: uppercase; margin-bottom: 12px;
+
+/* Animación */
+
+.mg-spikeball.mg-media { margin: 10px auto 32px; max-width: 760px; overflow: hidden; border-radius: 16px; background: #f2f2f2;
+
+/* Secciones */
+
+.mg-spikeball.mg-section-head { text-align: center; max-width: 610px; margin: 0 auto 22px;
+
+.mg-spikeball.mg-section-head h3 { margin-bottom: 10px;
+
+/* Beneficios */
+
+.mg-spikeball.mg-benefit svg { width: 27px; height: 27px; display: block; margin: 0 auto 12px; color: var(--mg-green); fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round;
+
+.mg-spikeball.mg-benefit strong { display: block; font-size: 14px; line-height: 1.4; margin-bottom: 6px;
+
+/* Revancha */
+
+.mg-spikeball.mg-emotion { padding: 34px 20px; margin: 18px 0 12px; background: var(--mg-light); border-radius: 16px; text-align: center;
+
+.mg-spikeball.mg-emotion h3 { margin-bottom: 12px;
+
+/* Contenido */
+
+.mg-spikeball.mg-kit-item { display: flex; align-items: center; gap: 12px; padding: 12px 15px; background: var(--mg-light); border-radius: 10px;
+
+.mg-spikeball.mg-kit-item span { font-size: 14px; line-height: 1.4;
+
+/* CTA */
+
+.mg-spikeball.mg-final h3 { margin-bottom: 18px; max-width: 550px; margin-left: auto; margin-right: auto;
+
+.mg-spikeball.mg-button { width: 100%; max-width: 400px; min-height: 54px; display: inline-flex; align-items: center; justify-content: center; gap: 12px; background: var(--mg-green); color: #fff!important; border: none; border-radius: 10px; padding: 14px 20px; font: inherit; font-size: 15px; font-weight: 750; text-decoration: none!important; cursor: pointer; transition: background 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+
+.mg-spikeball.mg-button:hover { background: var(--mg-green-dark); transform: translateY(-2px); box-shadow: 0 8px 18px rgba(24, 165, 88, 0.19);
+
+.mg-spikeball.mg-button svg { width: 20px; height: 20px; flex-shrink: 0; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round;
+
+/* Mobile */
+
+.mg-spikeball.mg-section-head { margin-bottom: 16px;
+
+.mg-spikeball.mg-benefits { grid-template-columns: 1fr; gap: 9px;
+
+.mg-spikeball.mg-benefit strong { font-size: 14px; margin-bottom: 3px;
+
+Spikeball · Juego de rebote
+
+¿Quién dijo que necesitás una cancha para competir?
+
+Una red, una pelota y tus amigos. Eso es todo lo que necesitás para transformar una tarde cualquiera en una competencia llena de risas, movimiento y revanchas.
+
+El juego donde nadie se queda quieto
+
+Golpeá la pelota contra la red y sorprendé al equipo contrario. Corré, reaccioná y buscá el ángulo perfecto para ganar el punto.
+
+Partidas de 2 contra 2
+
+Ideal para desafiar a tus amigos.
+
+Diversión al aire libre
+
+Llevátelo a la playa, al parque o al patio.
+
+Todo listo para jugar
+
+Incluye 3 pelotas y un inflador para prepararlas.
+
+Una partida nunca es suficiente
+
+Ese punto que parecía imposible, la atajada de último segundo y el clásico «¡una más y terminamos!».
+
+Porque lo mejor no es solamente ganar, sino todo lo que pasa mientras juegan.
+
+¿Qué incluye?
+
+1 juego de Spikeball completo, con red y estructura.
+
+3 pelotas.
+
+1 inflador.
+
+Llevá la competencia a tu próxima juntada.
+
+Agregar al carrito
+
+/* Carrito */
+
+(function () { const section = document.getElementById('mg-spikeball'); if (!section || section.dataset.initialized === 'true') return; section.dataset.initialized = 'true'; const button = section.querySelector('[data-mg-add-to-cart]'); const label = section.querySelector('[data-mg-button-label]'); const status = section.querySelector('[data-mg-cart-status]'); if (!button) return; button.addEventListener('click', async function () { if (button.disabled) return; const productForm = document.querySelector(
+
+); const variantInput = productForm
+
+? productForm.querySelector('[name="id"]') null; const variantId = variantInput &amp;&amp; variantInput.value
+
+? variantInput.value new URLSearchParams(window.location.search).get('variant'); if (!variantId) { status.hidden = false; status.textContent =
+
+'Seleccioná una variante en la ficha del producto.'; productForm?.scrollIntoView({ behavior: 'smooth', block: 'center'
+
+}); return;
+
+} button.disabled = true; label.textContent = 'Agregando...'; status.hidden = true; try { const root = window.Shopify?.routes?.root || '/'; const response = await fetch(root + 'car</g:description>
+      <g:link>https://milgenialuruguay.com/products/spikeball-juego-de-rebote-3-pelota-mas-red?variant=51975522419002</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/Portada_a17784a4-6ace-451a-957d-1f679f55b240.png?v=1795107935</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo1_173643ee-38ce-40db-a728-b17b8c41ae2e.png?v=1795107936</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/se-arma-en-minutos-7ad87dfc-af38-4c0e-aebb-6fe7bcd22c76.jpg?v=1795107900</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo2_6cd2003e-933b-4a63-ae3a-cb215009940f.png?v=1795109319</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/qu-incluye-e5a6faa9-1f49-4de3-91d6-5f4da49df3ad.jpg?v=1795107883</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>2290.00 UYU</g:price>
+      <g:sale_price>1890.00 UYU</g:sale_price>
+      <g:brand>MilGenial Uruguay</g:brand>
+      <g:gtin>2894567829031</g:gtin>
+      <g:mpn>2558-0</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Juguetes</g:product_type>
+      <g:color>var(--mg-muted); max-width: 620px; margin: 0 auto</g:color>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball * { box-sizing</g:attribute_name><g:attribute_value>border-box</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-wrap { max-width</g:attribute_name><g:attribute_value>820px; margin: 0 auto</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball p { margin</g:attribute_name><g:attribute_value>0; padding: 0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball p { font-size</g:attribute_name><g:attribute_value>15px; line-height: 1.65</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-hero { text-align</g:attribute_name><g:attribute_value>center; padding: 25px 10px 22px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-hero h2 { max-width</g:attribute_name><g:attribute_value>680px; margin: 0 auto 14px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-hero p { color</g:attribute_name><g:attribute_value>var(--mg-muted); max-width: 620px; margin: 0 auto</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-media img { display</g:attribute_name><g:attribute_value>block; width: 100%; height: auto; border: 0; object-fit: contain</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-section { padding</g:attribute_name><g:attribute_value>24px 10px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-section-head p { color</g:attribute_name><g:attribute_value>var(--mg-muted)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-benefits { display</g:attribute_name><g:attribute_value>grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-benefit { text-align</g:attribute_name><g:attribute_value>center; border-radius: 12px; background: var(--mg-light); padding: 20px 14px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-benefit p { font-size</g:attribute_name><g:attribute_value>13px; line-height: 1.5; color: var(--mg-muted)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-emotion p { max-width</g:attribute_name><g:attribute_value>590px; margin: 0 auto 12px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-emotion p</g:attribute_name><g:attribute_value>last-child { margin-bottom: 0; color: var(--mg-muted)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-kit { max-width</g:attribute_name><g:attribute_value>640px; margin: 0 auto</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-kit h3 { text-align</g:attribute_name><g:attribute_value>center; margin-bottom: 18px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-kit-list { display</g:attribute_name><g:attribute_value>grid; gap: 10px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-kit-item svg { width</g:attribute_name><g:attribute_value>21px; height: 21px; color: var(--mg-green); flex-shrink: 0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-final { padding</g:attribute_name><g:attribute_value>26px 10px 32px; text-align: center</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-button</g:attribute_name><g:attribute_value>focus-visible { outline: 3px solid var(--mg-green-dark); outline-offset: 3px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-arrow { margin-left</g:attribute_name><g:attribute_value>4px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>@media (max-width</g:attribute_name><g:attribute_value>640px) {</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-hero { padding</g:attribute_name><g:attribute_value>18px 6px 20px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball h2 { font-size</g:attribute_name><g:attribute_value>27px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball h3 { font-size</g:attribute_name><g:attribute_value>22px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-media { border-radius</g:attribute_name><g:attribute_value>12px; margin-bottom: 20px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-benefit { display</g:attribute_name><g:attribute_value>flex; align-items: center; text-align: left; gap: 14px; padding: 13px 15px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-benefit svg { width</g:attribute_name><g:attribute_value>25px; height: 25px; flex-shrink: 0; margin: 0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-emotion { padding</g:attribute_name><g:attribute_value>26px 17px; margin: 12px 0</g:attribute_value></g:product_detail>
+    </item>
+    <item>
       <g:id>2054-1</g:id>
       <g:item_group_id>9447888060730</g:item_group_id>
       <g:title>Rodillo Reutilizable 2 en 1 de Enseñanza - celeste</g:title>
@@ -57105,186 +57285,6 @@ Cada lanzamiento es una nueva oportunidad de g</g:description>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-bowling-v3__step svg { width</g:attribute_name><g:attribute_value>24px; height: 24px</g:attribute_value></g:product_detail>
     </item>
     <item>
-      <g:id>2558-0</g:id>
-      <g:title>SpikeBall Juego de Rebote 3 Pelota mas Red</g:title>
-      <g:description>/* General */
-
-.mg-spikeball {
-
---mg-green: #18a558;
-
---mg-green-dark: #117c40;
-
---mg-text: #171b19;
-
---mg-muted: #606963;
-
---mg-light: #f4f6f4; font-family: inherit; color: var(--mg-text); width: 100%; margin: 0 auto;
-
-}
-
-.mg-spikeball,
-
-.mg-spikeball h2,
-
-.mg-spikeball h3,
-
-.mg-spikeball h2 { font-size: clamp(26px, 4.5vw, 38px); line-height: 1.15; letter-spacing: -0.035em; font-weight: 750;
-
-.mg-spikeball h3 { font-size: clamp(21px, 3.5vw, 28px); line-height: 1.2; letter-spacing: -0.025em; font-weight: 700;
-
-/* Hero */
-
-.mg-spikeball.mg-eyebrow { display: inline-block; color: var(--mg-green-dark); font-size: 11px; font-weight: 800; letter-spacing: 0.11em; text-transform: uppercase; margin-bottom: 12px;
-
-/* Animación */
-
-.mg-spikeball.mg-media { margin: 10px auto 32px; max-width: 760px; overflow: hidden; border-radius: 16px; background: #f2f2f2;
-
-/* Secciones */
-
-.mg-spikeball.mg-section-head { text-align: center; max-width: 610px; margin: 0 auto 22px;
-
-.mg-spikeball.mg-section-head h3 { margin-bottom: 10px;
-
-/* Beneficios */
-
-.mg-spikeball.mg-benefit svg { width: 27px; height: 27px; display: block; margin: 0 auto 12px; color: var(--mg-green); fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round;
-
-.mg-spikeball.mg-benefit strong { display: block; font-size: 14px; line-height: 1.4; margin-bottom: 6px;
-
-/* Revancha */
-
-.mg-spikeball.mg-emotion { padding: 34px 20px; margin: 18px 0 12px; background: var(--mg-light); border-radius: 16px; text-align: center;
-
-.mg-spikeball.mg-emotion h3 { margin-bottom: 12px;
-
-/* Contenido */
-
-.mg-spikeball.mg-kit-item { display: flex; align-items: center; gap: 12px; padding: 12px 15px; background: var(--mg-light); border-radius: 10px;
-
-.mg-spikeball.mg-kit-item span { font-size: 14px; line-height: 1.4;
-
-/* CTA */
-
-.mg-spikeball.mg-final h3 { margin-bottom: 18px; max-width: 550px; margin-left: auto; margin-right: auto;
-
-.mg-spikeball.mg-button { width: 100%; max-width: 400px; min-height: 54px; display: inline-flex; align-items: center; justify-content: center; gap: 12px; background: var(--mg-green); color: #fff!important; border: none; border-radius: 10px; padding: 14px 20px; font: inherit; font-size: 15px; font-weight: 750; text-decoration: none!important; cursor: pointer; transition: background 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
-
-.mg-spikeball.mg-button:hover { background: var(--mg-green-dark); transform: translateY(-2px); box-shadow: 0 8px 18px rgba(24, 165, 88, 0.19);
-
-.mg-spikeball.mg-button svg { width: 20px; height: 20px; flex-shrink: 0; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round;
-
-/* Mobile */
-
-.mg-spikeball.mg-section-head { margin-bottom: 16px;
-
-.mg-spikeball.mg-benefits { grid-template-columns: 1fr; gap: 9px;
-
-.mg-spikeball.mg-benefit strong { font-size: 14px; margin-bottom: 3px;
-
-Spikeball · Juego de rebote
-
-¿Quién dijo que necesitás una cancha para competir?
-
-Una red, una pelota y tus amigos. Eso es todo lo que necesitás para transformar una tarde cualquiera en una competencia llena de risas, movimiento y revanchas.
-
-El juego donde nadie se queda quieto
-
-Golpeá la pelota contra la red y sorprendé al equipo contrario. Corré, reaccioná y buscá el ángulo perfecto para ganar el punto.
-
-Partidas de 2 contra 2
-
-Ideal para desafiar a tus amigos.
-
-Diversión al aire libre
-
-Llevátelo a la playa, al parque o al patio.
-
-Todo listo para jugar
-
-Incluye 3 pelotas y un inflador para prepararlas.
-
-Una partida nunca es suficiente
-
-Ese punto que parecía imposible, la atajada de último segundo y el clásico «¡una más y terminamos!».
-
-Porque lo mejor no es solamente ganar, sino todo lo que pasa mientras juegan.
-
-¿Qué incluye?
-
-1 juego de Spikeball completo, con red y estructura.
-
-3 pelotas.
-
-1 inflador.
-
-Llevá la competencia a tu próxima juntada.
-
-Agregar al carrito
-
-/* Carrito */
-
-(function () { const section = document.getElementById('mg-spikeball'); if (!section || section.dataset.initialized === 'true') return; section.dataset.initialized = 'true'; const button = section.querySelector('[data-mg-add-to-cart]'); const label = section.querySelector('[data-mg-button-label]'); const status = section.querySelector('[data-mg-cart-status]'); if (!button) return; button.addEventListener('click', async function () { if (button.disabled) return; const productForm = document.querySelector(
-
-); const variantInput = productForm
-
-? productForm.querySelector('[name="id"]') null; const variantId = variantInput &amp;&amp; variantInput.value
-
-? variantInput.value new URLSearchParams(window.location.search).get('variant'); if (!variantId) { status.hidden = false; status.textContent =
-
-'Seleccioná una variante en la ficha del producto.'; productForm?.scrollIntoView({ behavior: 'smooth', block: 'center'
-
-}); return;
-
-} button.disabled = true; label.textContent = 'Agregando...'; status.hidden = true; try { const root = window.Shopify?.routes?.root || '/'; const response = await fetch(root + 'car</g:description>
-      <g:link>https://milgenialuruguay.com/products/spikeball-juego-de-rebote-3-pelota-mas-red?variant=51975522419002</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/Portada_a17784a4-6ace-451a-957d-1f679f55b240.png?v=1795107935</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo1_173643ee-38ce-40db-a728-b17b8c41ae2e.png?v=1795107936</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/se-arma-en-minutos-7ad87dfc-af38-4c0e-aebb-6fe7bcd22c76.jpg?v=1795107900</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo2_6cd2003e-933b-4a63-ae3a-cb215009940f.png?v=1795109319</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/qu-incluye-e5a6faa9-1f49-4de3-91d6-5f4da49df3ad.jpg?v=1795107883</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>2290.00 UYU</g:price>
-      <g:sale_price>1890.00 UYU</g:sale_price>
-      <g:brand>MilGenial Uruguay</g:brand>
-      <g:gtin>2894567829031</g:gtin>
-      <g:mpn>2558-0</g:mpn>
-      <g:condition>new</g:condition>
-      <g:product_type>Juguetes</g:product_type>
-      <g:color>var(--mg-muted); max-width: 620px; margin: 0 auto</g:color>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball * { box-sizing</g:attribute_name><g:attribute_value>border-box</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-wrap { max-width</g:attribute_name><g:attribute_value>820px; margin: 0 auto</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball p { margin</g:attribute_name><g:attribute_value>0; padding: 0</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball p { font-size</g:attribute_name><g:attribute_value>15px; line-height: 1.65</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-hero { text-align</g:attribute_name><g:attribute_value>center; padding: 25px 10px 22px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-hero h2 { max-width</g:attribute_name><g:attribute_value>680px; margin: 0 auto 14px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-hero p { color</g:attribute_name><g:attribute_value>var(--mg-muted); max-width: 620px; margin: 0 auto</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-media img { display</g:attribute_name><g:attribute_value>block; width: 100%; height: auto; border: 0; object-fit: contain</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-section { padding</g:attribute_name><g:attribute_value>24px 10px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-section-head p { color</g:attribute_name><g:attribute_value>var(--mg-muted)</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-benefits { display</g:attribute_name><g:attribute_value>grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-benefit { text-align</g:attribute_name><g:attribute_value>center; border-radius: 12px; background: var(--mg-light); padding: 20px 14px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-benefit p { font-size</g:attribute_name><g:attribute_value>13px; line-height: 1.5; color: var(--mg-muted)</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-emotion p { max-width</g:attribute_name><g:attribute_value>590px; margin: 0 auto 12px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-emotion p</g:attribute_name><g:attribute_value>last-child { margin-bottom: 0; color: var(--mg-muted)</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-kit { max-width</g:attribute_name><g:attribute_value>640px; margin: 0 auto</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-kit h3 { text-align</g:attribute_name><g:attribute_value>center; margin-bottom: 18px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-kit-list { display</g:attribute_name><g:attribute_value>grid; gap: 10px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-kit-item svg { width</g:attribute_name><g:attribute_value>21px; height: 21px; color: var(--mg-green); flex-shrink: 0</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-final { padding</g:attribute_name><g:attribute_value>26px 10px 32px; text-align: center</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-button</g:attribute_name><g:attribute_value>focus-visible { outline: 3px solid var(--mg-green-dark); outline-offset: 3px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-arrow { margin-left</g:attribute_name><g:attribute_value>4px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>@media (max-width</g:attribute_name><g:attribute_value>640px) {</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-hero { padding</g:attribute_name><g:attribute_value>18px 6px 20px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball h2 { font-size</g:attribute_name><g:attribute_value>27px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball h3 { font-size</g:attribute_name><g:attribute_value>22px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-media { border-radius</g:attribute_name><g:attribute_value>12px; margin-bottom: 20px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-benefit { display</g:attribute_name><g:attribute_value>flex; align-items: center; text-align: left; gap: 14px; padding: 13px 15px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-benefit svg { width</g:attribute_name><g:attribute_value>25px; height: 25px; flex-shrink: 0; margin: 0</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-spikeball.mg-emotion { padding</g:attribute_name><g:attribute_value>26px 17px; margin: 12px 0</g:attribute_value></g:product_detail>
-    </item>
-    <item>
       <g:id>2566-0</g:id>
       <g:title>Juego De Mesa Catapulta Mete Gol Con Dedos</g:title>
       <g:description>🎪 ¡Hacé de su espacio de juego el lugar favorito de la casa!
@@ -57315,25 +57315,152 @@ Dejá que los más chicos exploren, imaginen y se diviertan sin límites. El Jue
     <item>
       <g:id>2567-0</g:id>
       <g:title>Mini Futbolito de Aluminio para Mesa Resistente</g:title>
-      <g:description>🎮 Elevá la diversión en casa con el Mini Futbolito de Aluminio para Mesa Resistente
+      <g:description>@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800;900&amp;display=swap');
 
-.
+.mg-futbolito {
 
-Convertí cualquier mesa en el escenario de tus torneos caseros: ríe, compite y disfrutá con amigos o familia.
+--mg-green: #0D8B48;
 
-➡️ ¿Qué lo hace una gran elección?
+--mg-dark: #222222;
 
-✅ Construcción en aluminio sólido que ofrece durabilidad y estabilidad en cada partido.
+--mg-gray: #555555;
 
-✅ Diseño compacto, ideal para mesas o espacios reducidos, sin renunciar a la emoción del juego.
+--mg-light: #f5f6f5; font-family: 'Nunito', sans-serif; color: var(--mg-dark); max-width: 800px; margin: 0 auto; padding: 44px 24px 48px; line-height: 1.6; box-sizing: border-box;
 
-✅ Incluye accesorios listos para jugar, perfecto para sacarlo de la caja e iniciar la diversión al instante.
+}
 
-✅ Fácil de montar y mover: ideal tanto para el living como para un rincón de juegos.
+.mg-futbolito *,
 
-Medidas: 20 x 11,5 cm
+.mg-futbolito h2,
 
-✨ Hacé que cada instante en casa cuente: risas, apuesta amistosa y momentos compartidos. Pedí hoy y sumá un nuevo campeón a tu sala de juegos.</g:description>
+.mg-futbolito h3 { font-family: 'Nunito', sans-serif; color: var(--mg-dark); letter-spacing: -0.5px; margin: 0 0 12px; font-weight: 900; line-height: 1.25;
+
+/* Encabezado */
+
+.mg-futbolito.mg-hero.mg-intro { font-size: 18px; font-weight: 800; color: var(--mg-dark); margin-bottom: 8px;
+
+/* Sección emocional */
+
+/* Demostración del producto */
+
+.mg-futbolito.mg-media { width: 100%; max-width: 580px; margin: 20px auto 0; border-radius: 12px; overflow: hidden; background: var(--mg-light);
+
+/* Beneficios */
+
+.mg-futbolito ul,
+
+.mg-futbolito li { list-style: none!important; list-style-type: none!important; list-style-image: none!important;
+
+.mg-futbolito.mg-benefit-list li { display: flex!important; align-items: flex-start; gap: 11px; font-size: 15.5px; line-height: 1.5; color: var(--mg-gray);
+
+.mg-futbolito.mg-benefit-list strong { font-weight: 800; color: var(--mg-dark);
+
+.mg-futbolito.mg-check { display: block; width: 20px; height: 20px; flex: 0 0 20px; margin-top: 2px; color: var(--mg-green);
+
+/* Características */
+
+.mg-futbolito.mg-spec-row { display: flex; align-items: center; justify-content: space-between; gap: 15px; padding: 12px 16px; border-bottom: 1px solid #e6e8e6; font-size: 15px; line-height: 1.4;
+
+/* Preguntas frecuentes */
+
+.mg-futbolito.mg-faq details { background: #ffffff; border-bottom: 1px solid #e5e7e5;
+
+.mg-futbolito.mg-faq summary { display: flex; justify-content: space-between; align-items: center; gap: 14px; padding: 15px 0; cursor: pointer; font-size: 16px; font-weight: 800; line-height: 1.4; list-style: none!important; color: var(--mg-dark);
+
+.mg-futbolito.mg-faq-icon { width: 19px; height: 19px; flex: 0 0 19px; color: var(--mg-green); transition: transform 0.2s ease;
+
+.mg-futbolito.mg-faq details[open].mg-faq-icon { transform: rotate(180deg);
+
+.mg-futbolito.mg-faq details p { font-size: 15px; padding: 0 25px 15px 0; margin: 0;
+
+/* Adaptación móvil */
+
+.mg-futbolito.mg-hero.mg-intro { font-size: 16px;
+
+.mg-futbolito.mg-benefit-list li { font-size: 14.5px; gap: 9px;
+
+.mg-futbolito.mg-faq details p { font-size: 14px;
+
+El clásico futbolito de siempre, ahora en tu propia mesa
+
+Un gol, una revancha y otro partido más.
+
+Convertí cualquier mesa en una pequeña cancha de fútbol y disfrutá de esos momentos en los que nadie está pendiente del celular.
+
+Que la sobremesa termine en un campeonato
+
+Desafiá a tus hijos, hermanos o amigos.
+
+No importa quién gane, porque hasta el que pierde termina pidiendo la revancha.
+
+Una forma sencilla de compartir tiempo juntos, sin necesidad de pantallas.
+
+Pequeño de tamaño, grande en diversión
+
+Estructura de aluminio diseñada para resistir el uso durante las partidas.
+
+Formato compacto no necesitás una habitación de juegos ni una mesa grande.
+
+Fácil de transportar llevalo a reuniones, cumpleaños o vacaciones.
+
+Competencia de a dos poné a prueba tus reflejos, precisión y coordinación.
+
+Accesorios incluidos todo lo necesario para comenzar a jugar.
+
+Material
+
+Aluminio
+
+Medidas
+
+20 × 11,5 cm
+
+Formato
+
+De sobremesa
+
+Jugadores
+
+2 jugadores
+
+Montaje
+
+Fácil montaje
+
+Preguntas frecuentes
+
+¿Necesito una mesa especial?
+
+No, podés utilizarlo sobre cualquier superficie plana y estable.
+
+¿Ocupa mucho espacio?
+
+No. Su tamaño compacto permite guardarlo fácilmente después de cada partida.
+
+¿Pueden jugar adultos también?
+
+Sí, es una alternativa de entretenimiento para compartir entre distintas generaciones.
+
+Características:
+- .mg-futbolito *: :before
+- .mg-futbolito h2 { font-size: 30px
+- .mg-futbolito h3 { font-size: 23px
+- .mg-futbolito p { font-size: 16px; line-height: 1.65; color: var(--mg-gray); margin: 0 0 12px
+- .mg-futbolito p: last-child { margin-bottom: 0
+- .mg-futbolito.mg-highlight { color: var(--mg-green)
+- .mg-futbolito.mg-section { margin-bottom: 30px
+- .mg-futbolito.mg-section: last-child { margin-bottom: 0
+- .mg-futbolito.mg-hero { text-align: center
+- .mg-futbolito.mg-hero h2 { max-width: 650px; margin: 0 auto 14px
+- .mg-futbolito.mg-hero p { max-width: 620px; margin-left: auto; margin-right: auto
+- .mg-futbolito.mg-story { text-align: center
+- .mg-futbolito.mg-story p { max-width: 620px; margin-left: auto; margin-right: auto
+- .mg-futbolito.mg-media img { display: block; width: 100%; height: auto; margin: 0; border: none
+- .mg-futbolito.mg-benefits { padding: 24px; border-radius: 12px; background: var(--mg-light)
+- .mg-futbolito ul { padding: 0!important; margin: 0!important
+- .mg-futbolito li { padding: 0!important; margin: 0!important
+- .mg-futbolito li: :before
+- .mg-futbolito.mg-benefit-list { display: flex; flex-direction: column; gap: 14px; margin-top: 1</g:description>
       <g:link>https://milgenialuruguay.com/products/mini-futbolito-de-aluminio-para-mesa-resistente?variant=51975540605242</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/H88a79074ced3428d9dd59aa7a675bd90X.jpg?v=1761067608</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/asd_d99a15a0-7450-41ce-9332-f5e922c05fb9.jpg?v=1763658423</g:additional_image_link>
@@ -57348,6 +57475,37 @@ Medidas: 20 x 11,5 cm
       <g:mpn>2567-0</g:mpn>
       <g:condition>new</g:condition>
       <g:product_type>De mesa</g:product_type>
+      <g:color>var(--mg-green)</g:color>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito *</g:attribute_name><g:attribute_value>:before</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito h2 { font-size</g:attribute_name><g:attribute_value>30px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito h3 { font-size</g:attribute_name><g:attribute_value>23px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito p { font-size</g:attribute_name><g:attribute_value>16px; line-height: 1.65; color: var(--mg-gray); margin: 0 0 12px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito p</g:attribute_name><g:attribute_value>last-child { margin-bottom: 0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito.mg-highlight { color</g:attribute_name><g:attribute_value>var(--mg-green)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito.mg-section { margin-bottom</g:attribute_name><g:attribute_value>30px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito.mg-section</g:attribute_name><g:attribute_value>last-child { margin-bottom: 0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito.mg-hero { text-align</g:attribute_name><g:attribute_value>center</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito.mg-hero h2 { max-width</g:attribute_name><g:attribute_value>650px; margin: 0 auto 14px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito.mg-hero p { max-width</g:attribute_name><g:attribute_value>620px; margin-left: auto; margin-right: auto</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito.mg-story { text-align</g:attribute_name><g:attribute_value>center</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito.mg-story p { max-width</g:attribute_name><g:attribute_value>620px; margin-left: auto; margin-right: auto</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito.mg-media img { display</g:attribute_name><g:attribute_value>block; width: 100%; height: auto; margin: 0; border: none</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito.mg-benefits { padding</g:attribute_name><g:attribute_value>24px; border-radius: 12px; background: var(--mg-light)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito ul { padding</g:attribute_name><g:attribute_value>0!important; margin: 0!important</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito li { padding</g:attribute_name><g:attribute_value>0!important; margin: 0!important</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito li</g:attribute_name><g:attribute_value>:before</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito.mg-benefit-list { display</g:attribute_name><g:attribute_value>flex; flex-direction: column; gap: 14px; margin-top: 18px!important</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito.mg-specs { border</g:attribute_name><g:attribute_value>1px solid #e6e8e6; border-radius: 10px; overflow: hidden</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito.mg-spec-row</g:attribute_name><g:attribute_value>last-child { border-bottom: 0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito.mg-spec-name { font-weight</g:attribute_name><g:attribute_value>800; color: var(--mg-dark)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito.mg-spec-value { color</g:attribute_name><g:attribute_value>var(--mg-gray); text-align: right</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito.mg-faq summary</g:attribute_name><g:attribute_value>:-webkit-details-marker { display: none</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>@media screen and (max-width</g:attribute_name><g:attribute_value>600px) {</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito { padding</g:attribute_name><g:attribute_value>38px 16px 48px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito.mg-media { margin-top</g:attribute_name><g:attribute_value>16px; border-radius: 10px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito.mg-benefit-list { gap</g:attribute_name><g:attribute_value>12px; margin-top: 14px!important</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito.mg-spec-row { padding</g:attribute_name><g:attribute_value>11px 13px; font-size: 14px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-futbolito.mg-faq summary { font-size</g:attribute_name><g:attribute_value>15px; padding: 14px 0</g:attribute_value></g:product_detail>
     </item>
     <item>
       <g:id>2739-0</g:id>
@@ -114290,7 +114448,7 @@ Si no sentís la diferencia, te devolvemos la plata. Probálas en tu próximo tu
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-media.jpg?v=1747783573</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/medias-1_4199e7c6-a326-46b8-b389-4d11b1ca9f91.jpg?v=1752091750</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/detalle-c8ae8628-5174-46e3-9a27-a6e3daf7da91.png?v=1785072155</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>1090.00 UYU</g:price>
       <g:sale_price>890.00 UYU</g:sale_price>
       <g:brand>MilGenial Uruguay</g:brand>
@@ -114925,7 +115083,7 @@ Características:
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/4b474f21-23bc-4e2b-9338-e2005b90557b.png?v=1787509169</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/0d912c3a-bcbf-4375-ba81-faa939ca7d01.png?v=1787509163</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/landing_4_b8dd85c3-3332-442f-af85-70804b02a1f5.jpg?v=1747787297</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>1200.00 UYU</g:price>
       <g:sale_price>970.00 UYU</g:sale_price>
       <g:brand>MilGenial Uruguay</g:brand>
@@ -125740,45 +125898,157 @@ Este set combina diversión y aprendizaje, proporcionando una herramienta creati
     <item>
       <g:id>1955-0</g:id>
       <g:title>Juego de 12 Marcadores de Tiza Liquida</g:title>
-      <g:description>Ideal para diversas aplicaciones creativas y prácticas. ✅.
+      <g:description>@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800;900&amp;display=swap');
 
-Estos marcadores ofrecen una forma moderna y conveniente de escribir y dibujar en superficies no porosas, proporcionando un acabado brillante y fácil de limpiar.
+.mg-tiza {
 
-Características principales: ⬇️
+--mg-green: #0D8B48;
 
-Amplia gama de colores: El set incluye 12 colores vibrantes que permiten una amplia gama de expresiones creativas, perfectos para dibujos detallados, escrituras y decoraciones.
+--mg-dark: #222222;
 
-Tinta de tiza líquida: Formulada para ofrecer un acabado suave y brillante, similar a la tiza tradicional pero sin el polvo y la desorden, proporcionando líneas nítidas y uniformes.
+--mg-gray: #555555;
 
-Larga duración: Cada marcador está diseñado para proporcionar una gran cantidad de tinta, asegurando una larga duración y un uso prolongado antes de necesitar ser reemplazado.
+--mg-light: #f5f7f5; max-width: 760px; margin: 0 auto; padding: 42px 24px 48px; font-family: 'Nunito', sans-serif; color: var(--mg-dark); font-size: 16px; line-height: 1.6; box-sizing: border-box;
 
-Secado rápido: La tinta se seca rápidamente para evitar manchas y borrones, permitiendo un trabajo limpio y preciso.
+}
 
-Aplicaciones típicas
+.mg-tiza *,
 
-Educación: Ideal para pizarras en aulas, facilitando la enseñanza interactiva con colores brillantes y fácilmente legibles.
+.mg-tiza h2,
 
-Decoración de vitrinas y menús: Perfectos para escribir y dibujar en ventanas y menús de restaurantes, permitiendo cambios frecuentes y diseños llamativos.
+.mg-tiza h3,
 
-Proyectos de arte y manualidades: Excelente para proyectos de bricolaje, tarjetería, y decoraciones temporales en vidrio y cerámica.
+.mg-tiza h2 { font-size: 29px; font-weight: 900; line-height: 1.22; letter-spacing: -0.6px; margin-bottom: 14px; color: var(--mg-dark);
 
-Organización de eventos: Útiles para crear letreros y decoraciones para fiestas, bodas, y otros eventos especiales.
+.mg-tiza h3 { font-size: 23px; font-weight: 800; line-height: 1.3; letter-spacing: -0.4px; margin-bottom: 14px; color: var(--mg-dark);
 
-Notas y recordatorios: Perfectos para escribir notas y recordatorios en superficies no porosas alrededor del hogar y la oficina.
+/* Encabezado */
 
-Estos marcadores combinan la facilidad de uso y la limpieza de los marcadores tradicionales con la versatilidad y el encanto visual de la tiza, proporcionando una herramienta indispensable para cualquier entorno creativo y profesional.</g:description>
+.mg-tiza.mg-hero p + p { margin-top: 10px;
+
+/* Video demostrativo */
+
+.mg-tiza.mg-video { max-width: 480px; margin: 22px auto 0; border-radius: 14px; overflow: hidden; background: #f5f5f5; aspect-ratio: 1 / 1;
+
+/* Bloque creativo */
+
+.mg-tiza.mg-story p + p { margin-top: 10px;
+
+/* Beneficios */
+
+.mg-tiza ul,
+
+.mg-tiza li { list-style: none!important; list-style-type: none!important; padding: 0!important; margin: 0!important;
+
+.mg-tiza.mg-check-list li { display: flex!important; align-items: flex-start; gap: 10px; color: var(--mg-gray); font-size: 15px; line-height: 1.5;
+
+/* Usos del producto */
+
+.mg-tiza.mg-use-item { display: flex; align-items: center; gap: 13px; padding: 13px 0; border-bottom: 1px solid #e8e8e8; font-size: 15px; color: var(--mg-gray);
+
+.mg-tiza.mg-use-icon { display: flex; align-items: center; justify-content: center; width: 37px; height: 37px; flex: 0 0 37px; border-radius: 9px; color: var(--mg-green); background: #edf6f0;
+
+/* Preguntas frecuentes */
+
+.mg-tiza.mg-faq summary { display: flex; align-items: center; justify-content: space-between; gap: 14px; padding: 15px 0; cursor: pointer; list-style: none!important; font-size: 15px; font-weight: 800; line-height: 1.45; color: var(--mg-dark);
+
+-webkit-tap-highlight-color: transparent;
+
+.mg-tiza.mg-faq summary svg { width: 18px; height: 18px; flex: 0 0 18px; color: var(--mg-green); transition: transform 0.2s ease;
+
+.mg-tiza.mg-faq details[open] summary svg { transform: rotate(180deg);
+
+.mg-tiza.mg-faq details[open] summary { color: var(--mg-green);
+
+/* Adaptación móvil */
+
+Hoy un dibujo, mañana una nueva idea.
+
+Transformá ventanas, espejos y pizarras en espacios llenos de creatividad con los 12 marcadores de tiza líquida.
+
+Dibujá, escribí, borrá y volvé a empezar sin dejar el polvo de la tiza tradicional.
+
+No todo tiene que dibujarse sobre papel.
+
+Desde una tarde de manualidades con los más chicos hasta la decoración de una ventana para Navidad.
+
+Convertí las superficies que utilizás todos los días en lugares donde expresar tus ideas.
+
+Más color, menos desorden
+
+12 colores para combinar y crear.
+
+Trazos definidos y uniformes.
+
+Fácil limpieza sobre superficies compatibles.
+
+Sin el polvo de la tiza tradicional.
+
+Mucho más que unos marcadores.
+
+Decorá ventanas y espejos.
+
+Personalizá vitrinas y carteles comerciales.
+
+Creá recordatorios en casa.
+
+Prepará actividades educativas.
+
+Decorá cumpleaños y fechas especiales.
+
+Preguntas frecuentes
+
+¿Sobre qué superficies puedo utilizarlos?
+
+Sobre vidrio, espejos, cerámica esmaltada y pizarras no porosas compatibles.
+
+¿Se pueden borrar?
+
+Sí. Sobre superficies compatibles podés retirar la tinta con un paño húmedo.
+
+¿Se pueden utilizar sobre cualquier superficie?
+
+No. En materiales porosos la tinta podría dejar marcas. Recomendamos probar primero en una zona pequeña.
+
+¿Cuántos marcadores incluye?
+
+El set incluye 12 marcadores de diferentes colores.
+
+(function () { const sections = document.querySelectorAll('.mg-tiza'); sections.forEach(function (section) {
+
+/* Reproducción automática del video */ const video = section.querySelector('.mg-video video'); if (video) { video.muted = true; video.defaultMuted = true; video.loop = true; video.playsInline = true; video.controls = false; const playVideo = function () { const playback = video.play(); if (playback!== undefined) { playback.catch(function () {});
+
+}; if ('IntersectionObserver' in window) { const observer = new IntersectionObserver( function (entries) { entries.forEach(function (entry) { if (entry.isIntersecting) { playVideo();
+
+} else { video.pause();
+
+});
+
+},
+
+); observer.observe(video);
+
+} else { playVideo();
+
+/* Acordeón de preguntas frecuentes */ const questions = section.querySelectorAll('.mg-faq details'); questions.forEach(function (question) { question.addEventListener('toggle', function () { if (question.open) { questions.forEach(function (other) { if (other!== question) { other.open = false;
+
+})();
+
+Características:
+- .mg-tiza *: :before
+- .mg-tiza p { font-family: inherit; margin: 0; padding: 0
+- .mg-tiza p { font-size: 16px; line-height: 1.65; color: var(--mg-gray)
+- .mg-tiza strong { font-weight: 800; color: var(--mg-dark)
+- .mg-tiza.mg-accent { color: var(--mg-green)
+- .mg-tiza.mg-section { margin-bottom: 30px
+- .mg-tiza.mg-section: last</g:description>
       <g:link>https://milgenialuruguay.com/products/juego-de-12-marcadores-de-tiza-liquida?variant=48354615722298</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/H63a33089659344a98f9ade32a81205d9J_fa1b30cc-bc79-4573-9ae4-4124101df22d.jpg?v=1752066838</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/818sbD6-jwL._AC_SL1500_92655be2-af90-4d8c-af06-9a1526a82d69.jpg?v=1752066838</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/H6d5a253ada7b4fdd8a4a12a7dc09cd12R_e18978f1-b155-4d4c-9c98-23794e2be041.jpg?v=1752066838</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/H1db06b1abfeb44e3a1d31d7a3053fbd2t_9310c61d-22b0-4bbb-b4a9-3dd281e0e410.jpg?v=1752066838</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/H88aded8966914d4389fa7eb6cb46840fV_214b3ffb-acd0-4eaa-af99-fc4dc1dc58c6.jpg?v=1752066838</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/41g6MJcG12L._AC_SX466_958f6981-f3ac-4f0e-8c62-1141e0dc44d5.jpg?v=1752066838</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/fine-tip-liquid-chalk-markers40423723356_0fc423ad-03fb-40ee-b52d-9b97157ebf4e.webp?v=1752066838</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/H63a33089659344a98f9ade32a81205d9J.jpg?v=1731096138</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/818sbD6-jwL._AC_SL1500.jpg?v=1731096142</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/H6d5a253ada7b4fdd8a4a12a7dc09cd12R.jpg?v=1731096145</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/H1db06b1abfeb44e3a1d31d7a3053fbd2t.jpg?v=1731096148</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/Portada_cf94997c-94b7-4723-a2a6-b39fcd78e772.png?v=1795810653</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo1_060dfdf7-5f54-48ed-b547-beef0a2fc055.png?v=1795810653</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo2_c31d2dc7-a381-4cbf-9c91-a2e5ad2864ed.png?v=1795810653</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo4_975792b2-00f5-4192-af33-b5e386625646.png?v=1795810653</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo3_eb3ea8fe-7b9a-4f5e-b7cf-394e30e6fd44.png?v=1795810653</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo5_0650ad3d-2b72-41ca-b16e-5c1e493256b8.png?v=1795810653</g:additional_image_link>
       <g:availability>in_stock</g:availability>
       <g:price>1790.00 UYU</g:price>
       <g:sale_price>990.00 UYU</g:sale_price>
@@ -125788,6 +126058,37 @@ Estos marcadores combinan la facilidad de uso y la limpieza de los marcadores tr
       <g:condition>new</g:condition>
       <g:product_type>Marcadores</g:product_type>
       <g:age_group>kids</g:age_group>
+      <g:color>var(--mg-green)</g:color>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza *</g:attribute_name><g:attribute_value>:before</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza p { font-family</g:attribute_name><g:attribute_value>inherit; margin: 0; padding: 0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza p { font-size</g:attribute_name><g:attribute_value>16px; line-height: 1.65; color: var(--mg-gray)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza strong { font-weight</g:attribute_name><g:attribute_value>800; color: var(--mg-dark)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza.mg-accent { color</g:attribute_name><g:attribute_value>var(--mg-green)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza.mg-section { margin-bottom</g:attribute_name><g:attribute_value>30px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza.mg-section</g:attribute_name><g:attribute_value>last-child { margin-bottom: 0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza.mg-hero { text-align</g:attribute_name><g:attribute_value>center</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza.mg-hero p { max-width</g:attribute_name><g:attribute_value>590px; margin: 0 auto</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza.mg-video video { display</g:attribute_name><g:attribute_value>block; width: 100%; height: 100%; object-fit: contain; margin: 0; border: 0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza.mg-story { text-align</g:attribute_name><g:attribute_value>center</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza.mg-benefits { background</g:attribute_name><g:attribute_value>var(--mg-light); border: 1px solid #e5ece7; border-radius: 14px; padding: 24px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza li</g:attribute_name><g:attribute_value>:marker { content: ""!important; font-size: 0!important</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza ul</g:attribute_name><g:attribute_value>:before</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza.mg-check-list { display</g:attribute_name><g:attribute_value>flex; flex-direction: column; gap: 13px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza.mg-check { width</g:attribute_name><g:attribute_value>20px; height: 20px; flex: 0 0 20px; margin-top: 2px; color: var(--mg-green)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza.mg-uses h3 { text-align</g:attribute_name><g:attribute_value>center</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza.mg-use-list { display</g:attribute_name><g:attribute_value>flex; flex-direction: column</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza.mg-use-item</g:attribute_name><g:attribute_value>last-child { border-bottom: 0; padding-bottom: 0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza.mg-use-icon svg { display</g:attribute_name><g:attribute_value>block; width: 20px; height: 20px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza.mg-faq h3 { text-align</g:attribute_name><g:attribute_value>center; margin-bottom: 18px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza.mg-faq details { margin</g:attribute_name><g:attribute_value>0; border-bottom: 1px solid #e2e2e2</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza.mg-faq summary</g:attribute_name><g:attribute_value>:-webkit-details-marker { display: none!important</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza.mg-faq details p { font-size</g:attribute_name><g:attribute_value>15px; line-height: 1.6; padding: 0 24px 16px 0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>@media screen and (max-width</g:attribute_name><g:attribute_value>600px) {</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza { padding</g:attribute_name><g:attribute_value>38px 16px 48px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza h2 { font-size</g:attribute_name><g:attribute_value>25px; letter-spacing: -0.5px; margin-bottom: 12px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza h3 { font-size</g:attribute_name><g:attribute_value>21px; margin-bottom: 12px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza.mg-video { margin-top</g:attribute_name><g:attribute_value>18px; border-radius: 12px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tiza.mg-benefits { padding</g:attribute_name><g:attribute_value>18px 16px; border-radius: 12px</g:attribute_value></g:product_detail>
     </item>
     <item>
       <g:id>1931-0</g:id>
@@ -142028,7 +142329,7 @@ MEDIDAS</g:description>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/61IgTrF8WvL._AC_SL1500_a93f9016-cf3d-49c5-8b31-3d20cb647a93.jpg?v=1752531038</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/333_0c9b2c23-9765-4c68-805e-11f48abbe60a.jpg?v=1731085631</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/61IgTrF8WvL._AC_SL1500.jpg?v=1731085634</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>1690.00 UYU</g:price>
       <g:brand>MilGenial Uruguay</g:brand>
       <g:gtin>7890120121210</g:gtin>
@@ -152834,7 +153135,7 @@ El paquete incluye: 1 x rodillo</g:description>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/basura_6.webp?v=1731079596</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/basura_5.webp?v=1731079600</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/basura_7.webp?v=1731079603</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>2390.00 UYU</g:price>
       <g:sale_price>1690.00 UYU</g:sale_price>
       <g:brand>Pepeganga</g:brand>

@@ -10490,7 +10490,7 @@ Características:
     <item>
       <g:id>850073872239</g:id>
       <g:item_group_id>3499</g:item_group_id>
-      <g:title>SSD Aimerican Immortality SATA - 240GB / 0</g:title>
+      <g:title>SSD Aimerican Immortality SATA - 240GB / 1</g:title>
       <g:description>El Aimerican Immortality es una unidad de almacenamiento SSD con interfaz SATA, destinada a guardar el sistema operativo, aplicaciones y archivos.
 
 Permite incorporar almacenamiento de estado sólido en un equipo compatible con la interfaz indicada. Verificá el formato de montaje y las conexiones disponibles antes de realizar la instalación.
@@ -10513,7 +10513,7 @@ Características:
       <g:mpn>850073872239</g:mpn>
       <g:condition>new</g:condition>
       <g:product_type>Componentes de PC &gt; Discos Rígidos &gt; Sólidos</g:product_type>
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Marca</g:attribute_name><g:attribute_value>Aimerican</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Interfaz</g:attribute_name><g:attribute_value>SATA III</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>10.5%</g:attribute_value></g:product_detail>
@@ -17108,7 +17108,7 @@ Características:
       <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169161/6937120318460_1.png?v=639250829955700000</g:image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169800/6937120317456_1.png?v=639292437454370000</g:additional_image_link>
       <g:availability>out_of_stock</g:availability>
-      <g:price>24800.00 ARS</g:price>
+      <g:price>26400.00 ARS</g:price>
       <g:brand>Flashforge</g:brand>
       <g:gtin>6937120318460</g:gtin>
       <g:mpn>6937120318460</g:mpn>
@@ -17250,7 +17250,7 @@ Características:
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169798/6937120325918_1.png?v=639292433079500000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169799/6937120325659_1.png?v=639292434385230000</g:additional_image_link>
       <g:availability>out_of_stock</g:availability>
-      <g:price>27600.00 ARS</g:price>
+      <g:price>25900.00 ARS</g:price>
       <g:brand>Flashforge</g:brand>
       <g:gtin>6937120325888</g:gtin>
       <g:mpn>6937120325888</g:mpn>
@@ -17279,8 +17279,8 @@ Características:
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169797/6937120325895_1.png?v=639292430769830000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169798/6937120325918_1.png?v=639292433079500000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169799/6937120325659_1.png?v=639292434385230000</g:additional_image_link>
-      <g:availability>out_of_stock</g:availability>
-      <g:price>24000.00 ARS</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:price>24700.00 ARS</g:price>
       <g:brand>Flashforge</g:brand>
       <g:gtin>6937120325642</g:gtin>
       <g:mpn>6937120325642</g:mpn>
@@ -17458,7 +17458,7 @@ La presentación contiene 1 kg de filamento de 1.75 mm de diámetro. Seleccioná
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169221/502030261_1.png?v=639251814644670000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169220/502030230_1.png?v=639251813490900000</g:additional_image_link>
       <g:availability>out_of_stock</g:availability>
-      <g:price>26300.00 ARS</g:price>
+      <g:price>24200.00 ARS</g:price>
       <g:brand>Elegoo</g:brand>
       <g:mpn>502030309</g:mpn>
       <g:condition>new</g:condition>
@@ -26354,6 +26354,25 @@ Características:
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Inalámbrico</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>10.5</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Cantidad de botones</g:attribute_name><g:attribute_value>3</g:attribute_value></g:product_detail>
+    </item>
+    <item>
+      <g:id>546431</g:id>
+      <g:title>Adaptador Audio 3.5mm (H) a Micrófono (M) Auricular (M)</g:title>
+      <g:description>El ADAPTADOR AUDIO 3.5 (H) A MIC (M) + AURI (M) permite convertir o extender una conexión entre 3.5 mm, facilitando el uso de monitores, televisores, proyectores, periféricos o equipos de red compatibles. Su formato ayuda a reutilizar dispositivos con interfaces diferentes en escritorios, oficinas, aulas o espacios de entretenimiento. Su diseño compacto facilita llevarlo junto con cables y accesorios, y permite resolver conexiones puntuales sin reemplazar el equipo principal.
+
+Características:
+- IVA: 21%
+- stockensucursal: 0</g:description>
+      <g:link>https://www.diamondcomputacion.com.ar/adaptador-audio-35-h-a-mic-m-auri-m/p?skuId=2872</g:link>
+      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/167368/546431_1.png?v=639117956939570000</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1100.00 ARS</g:price>
+      <g:brand>Genérico</g:brand>
+      <g:mpn>546431</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Conectividad &gt; Adaptadores</g:product_type>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21%</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>stockensucursal</g:attribute_name><g:attribute_value>0</g:attribute_value></g:product_detail>
     </item>
     <item>
       <g:id>910005492</g:id>
@@ -35754,7 +35773,7 @@ Características:
 - Dimensiones: 12.3 x 6.99 x 0.7 cm
 - Peso: 90 g
 - IVA: 10.5%
-- stockensucursal: 0</g:description>
+- stockensucursal: 1</g:description>
       <g:link>https://www.diamondcomputacion.com.ar/carry-disk-ext-usb-25-noga-cd1-30/p?skuId=2363</g:link>
       <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/165525/17868-1 -1-.jpg?v=639033130428600000</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -35774,7 +35793,7 @@ Características:
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Dimensiones</g:attribute_name><g:attribute_value>12.3 x 6.99 x 0.7 cm</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Peso</g:attribute_name><g:attribute_value>90 g</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>10.5%</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>stockensucursal</g:attribute_name><g:attribute_value>0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>stockensucursal</g:attribute_name><g:attribute_value>1</g:attribute_value></g:product_detail>
     </item>
     <item>
       <g:id>115481</g:id>
@@ -36502,30 +36521,6 @@ Características:
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>stockensucursal</g:attribute_name><g:attribute_value>0</g:attribute_value></g:product_detail>
     </item>
     <item>
-      <g:id>6957939002176</g:id>
-      <g:title>Adaptador Mercusys MA530 Bluetooth 5.4 USB NANO</g:title>
-      <g:description>El ADAPTADOR BLUETOOTH 5.4 USB NANO MERCUSYS MA530 permite agregar conectividad Bluetooth versión 5.4 a equipos compatibles. Este adaptador de Mercusys resulta útil para vincular auriculares, parlantes, teclados, mouses, celulares y otros dispositivos inalámbricos desde una computadora o fuente de audio compatible. El Adaptador Bluetooth 5.4 USB Nano Mercusys MA530 permite añadir conectividad inalámbrica moderna y estable a cualquier PC o notebook. Su diseño compacto facilita llevarlo junto con cables y accesorios, y permite resolver conexiones puntuales sin reemplazar el equipo principal.
-
-Características:
-- Tipo de adaptador: Bluetooth
-- IVA: 21%
-- stockensucursal: 1</g:description>
-      <g:link>https://www.diamondcomputacion.com.ar/adaptador-bluetooth-54-usb-nano-mercusys-ma530/p?skuId=2312</g:link>
-      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/165254/MA530_UN_1.0_06_large20240327072250.jpg?v=639005527898470000</g:image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/165255/MA530_UN_1.0_01_large20240327072400.jpg?v=639005527898600000</g:additional_image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/165256/MA530_UN_1.0_02_large20240327072348.jpg?v=639005527898600000</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>6400.00 ARS</g:price>
-      <g:brand>Mercusys</g:brand>
-      <g:gtin>6957939002176</g:gtin>
-      <g:mpn>6957939002176</g:mpn>
-      <g:condition>new</g:condition>
-      <g:product_type>Conectividad &gt; Adaptadores</g:product_type>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tipo de adaptador</g:attribute_name><g:attribute_value>Bluetooth</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21%</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>stockensucursal</g:attribute_name><g:attribute_value>1</g:attribute_value></g:product_detail>
-    </item>
-    <item>
       <g:id>8201889545</g:id>
       <g:title>Adaptador NM-BT8 Bluetooth USB Transmisor/receptor</g:title>
       <g:description>El ADAPTADOR BLUETOOTH USB TRANSMISOR/RECEPTOR NM-BT8 permite agregar conectividad Bluetooth a equipos compatibles. Este adaptador resulta útil para vincular auriculares, parlantes, teclados, mouses, celulares y otros dispositivos inalámbricos desde una computadora o fuente de audio compatible. El Adaptador Bluetooth USB Transmisor/Receptor Netmak NM-BT8 permite agregar conectividad inalámbrica tanto para enviar como para recibir audio desde cualquier PC, notebook o dispositivo compatible. Su diseño compacto y su funcionamiento versátil lo convierten en una solución ideal para conectar auriculares, parlantes, equipos de sonido y otros dispositivos Bluetooth sin complicaciones
@@ -36910,6 +36905,30 @@ Características:
       <g:product_type>Conectividad &gt; Cables</g:product_type>
       <g:size>0</g:size>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21%</g:attribute_value></g:product_detail>
+    </item>
+    <item>
+      <g:id>6957939002176</g:id>
+      <g:title>Adaptador Mercusys MA530 Bluetooth 5.4 USB NANO</g:title>
+      <g:description>El ADAPTADOR BLUETOOTH 5.4 USB NANO MERCUSYS MA530 permite agregar conectividad Bluetooth versión 5.4 a equipos compatibles. Este adaptador de Mercusys resulta útil para vincular auriculares, parlantes, teclados, mouses, celulares y otros dispositivos inalámbricos desde una computadora o fuente de audio compatible. El Adaptador Bluetooth 5.4 USB Nano Mercusys MA530 permite añadir conectividad inalámbrica moderna y estable a cualquier PC o notebook. Su diseño compacto facilita llevarlo junto con cables y accesorios, y permite resolver conexiones puntuales sin reemplazar el equipo principal.
+
+Características:
+- Tipo de adaptador: Bluetooth
+- IVA: 21%
+- stockensucursal: 0</g:description>
+      <g:link>https://www.diamondcomputacion.com.ar/adaptador-bluetooth-54-usb-nano-mercusys-ma530/p?skuId=2312</g:link>
+      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/165254/MA530_UN_1.0_06_large20240327072250.jpg?v=639005527898470000</g:image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/165255/MA530_UN_1.0_01_large20240327072400.jpg?v=639005527898600000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/165256/MA530_UN_1.0_02_large20240327072348.jpg?v=639005527898600000</g:additional_image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>6400.00 ARS</g:price>
+      <g:brand>Mercusys</g:brand>
+      <g:gtin>6957939002176</g:gtin>
+      <g:mpn>6957939002176</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Conectividad &gt; Adaptadores</g:product_type>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tipo de adaptador</g:attribute_name><g:attribute_value>Bluetooth</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21%</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>stockensucursal</g:attribute_name><g:attribute_value>0</g:attribute_value></g:product_detail>
     </item>
     <item>
       <g:id>23056</g:id>
@@ -48325,6 +48344,136 @@ Características:
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Idioma</g:attribute_name><g:attribute_value>Español Latinoamérica</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tamaño</g:attribute_name><g:attribute_value>100%</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Reposa muñecas</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Antighosting</g:attribute_name><g:attribute_value>Sí</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Rollover</g:attribute_name><g:attribute_value>N-key rollover</g:attribute_value></g:product_detail>
+    </item>
+    <item>
+      <g:id>6950376713117</g:id>
+      <g:item_group_id>1667</g:item_group_id>
+      <g:title>Teclado Redragon Dragonborn K630 Mecánico RGB - Negro / 0</g:title>
+      <g:description>El TECLADO REDRAGON K630 DRAGONBORN RGB BLACK RED está pensado para escritura, estudio, trabajo o gaming, según el formato y las funciones de esta versión. Su sistema de teclas acompaña el uso diario con una respuesta cómoda para documentos, navegación y tareas de oficina. La iluminación RGB o Rainbow aporta visibilidad y una estética gaming acorde al modelo. La propuesta combina funcionalidad, comodidad y una presentación adecuada para el uso cotidiano.
+
+Características:
+- Garantía: 1 año con el fabricante
+- Compatibilidad: Windows, macOS, Linux
+- Tipo de switch: Redragon Red
+- Operación: Lineal
+- Fuerza: 45 g
+- Punto de acción: 2 mm
+- Distancia total: 4 mm
+- IVA: 10.5%
+- Inalámbrico: No
+- Color de la retroiluminación: RGB
+- Tipo de conector: USB-C
+- Peso: 430 g
+- Dimensiones: 291 x 101 x 36 mm
+- Largo del Cable: 1.5 m
+- Tipo de teclado: Mecánico
+- Idioma: Español Latinoamérica
+- Tamaño: 60%
+- Reposa muñecas: No
+- Resistente a salpicaduras: No
+- Antighosting: Sí
+- Rollover: N-key rollover</g:description>
+      <g:link>https://www.diamondcomputacion.com.ar/teclado-redragon-dragonborn-k630-mecanico-rgb/p?skuId=1675</g:link>
+      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/162777/DRAGONBORN-1.png?v=638839584018000000</g:image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/162778/1736793742_22.jpg?v=638839584018300000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/162779/K630RGB-PNGWEB-10.png?v=638839584018470000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/163831/Dragonborn-K630-rgb.png?v=638881957902200000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/163832/D_NQ_NP_813691-MLA80541686010_112024-O.webp?v=638881957902700000</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>52969.00 ARS</g:price>
+      <g:brand>Redragon</g:brand>
+      <g:gtin>6950376713117</g:gtin>
+      <g:mpn>6950376713117</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Perifericos &gt; Teclados</g:product_type>
+      <g:color>Negro</g:color>
+      <g:size>0</g:size>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Garantía</g:attribute_name><g:attribute_value>1 año con el fabricante</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Compatibilidad</g:attribute_name><g:attribute_value>Windows, macOS, Linux</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tipo de switch</g:attribute_name><g:attribute_value>Redragon Red</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Operación</g:attribute_name><g:attribute_value>Lineal</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Fuerza</g:attribute_name><g:attribute_value>45 g</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Punto de acción</g:attribute_name><g:attribute_value>2 mm</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Distancia total</g:attribute_name><g:attribute_value>4 mm</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>10.5%</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Inalámbrico</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Color de la retroiluminación</g:attribute_name><g:attribute_value>RGB</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tipo de conector</g:attribute_name><g:attribute_value>USB-C</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Peso</g:attribute_name><g:attribute_value>430 g</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Dimensiones</g:attribute_name><g:attribute_value>291 x 101 x 36 mm</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Largo del Cable</g:attribute_name><g:attribute_value>1.5 m</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tipo de teclado</g:attribute_name><g:attribute_value>Mecánico</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Idioma</g:attribute_name><g:attribute_value>Español Latinoamérica</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tamaño</g:attribute_name><g:attribute_value>60%</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Reposa muñecas</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Resistente a salpicaduras</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Antighosting</g:attribute_name><g:attribute_value>Sí</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Rollover</g:attribute_name><g:attribute_value>N-key rollover</g:attribute_value></g:product_detail>
+    </item>
+    <item>
+      <g:id>6950376714909</g:id>
+      <g:item_group_id>1667</g:item_group_id>
+      <g:title>Teclado Redragon Dragonborn K630 Mecánico RGB - Blanco / 0</g:title>
+      <g:description>El TECLADO REDRAGON K630 DRAGONBORN RGB BLACK RED está pensado para escritura, estudio, trabajo o gaming, según el formato y las funciones de esta versión. Su sistema de teclas acompaña el uso diario con una respuesta cómoda para documentos, navegación y tareas de oficina. La iluminación RGB o Rainbow aporta visibilidad y una estética gaming acorde al modelo. La propuesta combina funcionalidad, comodidad y una presentación adecuada para el uso cotidiano.
+
+Características:
+- Garantía: 1 año con el fabricante
+- Compatibilidad: Windows, macOS, Linux
+- Tipo de switch: Redragon Red
+- Operación: Lineal
+- Fuerza: 45 g
+- Punto de acción: 2 mm
+- Distancia total: 4 mm
+- IVA: 10.5%
+- Inalámbrico: No
+- Color de la retroiluminación: RGB
+- Tipo de conector: USB-C
+- Peso: 430 g
+- Dimensiones: 291 x 101 x 36 mm
+- Largo del Cable: 1.5 m
+- Tipo de teclado: Mecánico
+- Idioma: Español Latinoamérica
+- Tamaño: 60%
+- Reposa muñecas: No
+- Resistente a salpicaduras: No
+- Antighosting: Sí
+- Rollover: N-key rollover</g:description>
+      <g:link>https://www.diamondcomputacion.com.ar/teclado-redragon-dragonborn-k630-mecanico-rgb/p?skuId=1676</g:link>
+      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/163831/Dragonborn-K630-rgb.png?v=638881957902200000</g:image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/162777/DRAGONBORN-1.png?v=638839584018000000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/162778/1736793742_22.jpg?v=638839584018300000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/162779/K630RGB-PNGWEB-10.png?v=638839584018470000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/163832/D_NQ_NP_813691-MLA80541686010_112024-O.webp?v=638881957902700000</g:additional_image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>69200.00 ARS</g:price>
+      <g:brand>Redragon</g:brand>
+      <g:gtin>6950376714909</g:gtin>
+      <g:mpn>6950376714909</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Perifericos &gt; Teclados</g:product_type>
+      <g:color>Blanco</g:color>
+      <g:size>0</g:size>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Garantía</g:attribute_name><g:attribute_value>1 año con el fabricante</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Compatibilidad</g:attribute_name><g:attribute_value>Windows, macOS, Linux</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tipo de switch</g:attribute_name><g:attribute_value>Redragon Red</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Operación</g:attribute_name><g:attribute_value>Lineal</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Fuerza</g:attribute_name><g:attribute_value>45 g</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Punto de acción</g:attribute_name><g:attribute_value>2 mm</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Distancia total</g:attribute_name><g:attribute_value>4 mm</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>10.5%</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Inalámbrico</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Color de la retroiluminación</g:attribute_name><g:attribute_value>RGB</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tipo de conector</g:attribute_name><g:attribute_value>USB-C</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Peso</g:attribute_name><g:attribute_value>430 g</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Dimensiones</g:attribute_name><g:attribute_value>291 x 101 x 36 mm</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Largo del Cable</g:attribute_name><g:attribute_value>1.5 m</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tipo de teclado</g:attribute_name><g:attribute_value>Mecánico</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Idioma</g:attribute_name><g:attribute_value>Español Latinoamérica</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tamaño</g:attribute_name><g:attribute_value>60%</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Reposa muñecas</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Resistente a salpicaduras</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Antighosting</g:attribute_name><g:attribute_value>Sí</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Rollover</g:attribute_name><g:attribute_value>N-key rollover</g:attribute_value></g:product_detail>
     </item>
@@ -62113,7 +62262,7 @@ Características:
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/162738/Kingston-PenDrive-64Gb--Exodia-M-Verde-USB-3-2-3.jpg?v=638852587690170000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/162739/Kingston-PenDrive-64Gb--Exodia-M-Verde-USB-3-2-2.jpg?v=638852587690470000</g:additional_image_link>
       <g:availability>out_of_stock</g:availability>
-      <g:price>10400.00 ARS</g:price>
+      <g:price>11300.00 ARS</g:price>
       <g:brand>Kingston</g:brand>
       <g:mpn>6426477</g:mpn>
       <g:condition>new</g:condition>
@@ -64068,6 +64217,34 @@ Características:
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>10.5</g:attribute_value></g:product_detail>
     </item>
     <item>
+      <g:id>6950376779908</g:id>
+      <g:title>Mouse Pad Redragon Flick P032 Extra Grande - XL (P032) / 0</g:title>
+      <g:description>El Mouse pad Redragon Flick P032 XL ofrece una superficie dedicada para mejorar el desplazamiento y la estabilidad del mouse durante el uso diario o gaming. Su tamaño extendido permite ubicar también el teclado y cubrir una mayor parte del escritorio. La base está pensada para mantenerse firme sobre la mesa y favorecer movimientos controlados. El diseño de Redragon mantiene una presentación coherente con la línea y facilita integrarlo a distintos tipos de setups.
+
+Características:
+- Categoría de tamaño: XL
+- Marca: Redragon
+- Material: Tela / Goma
+- Medidas: 90 x 42 x 0,4 cm
+- IVA: 21%</g:description>
+      <g:link>https://www.diamondcomputacion.com.ar/mouse-pad-redragon-flick-p032-xl/p?skuId=458</g:link>
+      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/157356/6950376779908_1.jpg?v=638069063889630000</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>35551.00 ARS</g:price>
+      <g:brand>Redragon</g:brand>
+      <g:gtin>6950376779908</g:gtin>
+      <g:mpn>6950376779908</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Perifericos &gt; Mouse pad</g:product_type>
+      <g:size>0</g:size>
+      <g:material>Tela / Goma</g:material>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Categoría de tamaño</g:attribute_name><g:attribute_value>XL</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Marca</g:attribute_name><g:attribute_value>Redragon</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Material</g:attribute_name><g:attribute_value>Tela / Goma</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Medidas</g:attribute_name><g:attribute_value>90 x 42 x 0,4 cm</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21%</g:attribute_value></g:product_detail>
+    </item>
+    <item>
       <g:id>6950376779885</g:id>
       <g:item_group_id>439</g:item_group_id>
       <g:title>Mouse Pad Redragon Flick - M (P030) / 0</g:title>
@@ -64588,138 +64765,6 @@ Características:
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Jack 3.5mm</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Ethernet</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Montaje VESA</g:attribute_name><g:attribute_value>100 x 100 mm (M4 x 10 mm)</g:attribute_value></g:product_detail>
-    </item>
-    <item>
-      <g:id>2475159</g:id>
-      <g:title>Monitor Asus VA24EHE 24" FHD 75Hz IPS - 0</g:title>
-      <g:description>El Monitor ASUS VA24EHE 24" FHD 75Hz IPS ofrece una pantalla de 24 pulgadas con resolución Full HD y panel IPS, pensada para trabajo, estudio, entretenimiento o gaming según la configuración del modelo. La frecuencia de 75Hz resulta adecuada para oficina, estudio, navegación y reproducción multimedia. El panel IPS ofrece colores consistentes y buenos ángulos de visión, útil para productividad, contenido multimedia y tareas visuales. La resolución Full HD entrega una imagen nítida para documentos, streaming, navegación y entretenimiento. El monitor ASUS VA24EHE Eye Care presenta un panel IPS de 23.8 pulgadas con resolución Full HD (1920 x 1080), que proporciona un panel de ángulo de visión de 178 ° de ancho y una calidad de imagen vívida
-
-Características:
-- Tipo: Plano
-- Relación de aspecto: 16:9
-- Panel: IPS
-- Tiempo de respuesta: 5 ms
-- Resolución: Full HD
-- Tasa de refresco: 75 Hz
-- Parlantes: No
-- IVA: 21%
-- Pulgadas: 24 pulgadas
-- HDMI: 1
-- VGA: 1
-- Jack 3.5mm: No
-- Ethernet: No
-- Montaje VESA: 100 x 100 mm (M4 x 10 mm)
-- DVI: 1</g:description>
-      <g:link>https://www.diamondcomputacion.com.ar/monitor-asus-va24ehe-24-ips-full-hd-75hz-5ms/p?skuId=377</g:link>
-      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156913/2475159_2.jpg?v=638069061559870000</g:image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156914/2475159_3.jpg?v=638854206347070000</g:additional_image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156915/2475159_4.jpg?v=638854206347070000</g:additional_image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156912/2475159_1.jpg?v=638854206347230000</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>200500.00 ARS</g:price>
-      <g:brand>Asus</g:brand>
-      <g:gtin>4718017451253</g:gtin>
-      <g:mpn>2475159</g:mpn>
-      <g:condition>new</g:condition>
-      <g:product_type>Monitores &gt; Monitores Gamer</g:product_type>
-      <g:size>0</g:size>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tipo</g:attribute_name><g:attribute_value>Plano</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Relación de aspecto</g:attribute_name><g:attribute_value>16:9</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Panel</g:attribute_name><g:attribute_value>IPS</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tiempo de respuesta</g:attribute_name><g:attribute_value>5 ms</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Resolución</g:attribute_name><g:attribute_value>Full HD</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tasa de refresco</g:attribute_name><g:attribute_value>75 Hz</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Parlantes</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21%</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Pulgadas</g:attribute_name><g:attribute_value>24 pulgadas</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>HDMI</g:attribute_name><g:attribute_value>1</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>VGA</g:attribute_name><g:attribute_value>1</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Jack 3.5mm</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Ethernet</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Montaje VESA</g:attribute_name><g:attribute_value>100 x 100 mm (M4 x 10 mm)</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>DVI</g:attribute_name><g:attribute_value>1</g:attribute_value></g:product_detail>
-    </item>
-    <item>
-      <g:id>27341</g:id>
-      <g:title>Monitor Philips 193V5LHSB2/55 19" HD - 0</g:title>
-      <g:description>El Monitor Philips 193V5LHSB2/55 19" HD ofrece una pantalla de 19 pulgadas con resolución HD, pensada para trabajo, estudio, entretenimiento o gaming según la configuración del modelo. La resolución HD cubre tareas básicas de oficina, estudio y reproducción de contenido. » HDMI Ready para el entretenimiento en Full HD Un dispositivo HDMI Ready tiene todo el hardware necesario para admitir una entrada de interfaz multimedia de alta definición (HDMI) » Pantalla ecológica sin mercurio Los monitores de Philips con retroiluminación LED no contienen mercurio, una de las sustancias naturales más tóxicas que afectan a los seres humanos y a los animales Su diseño Philips se integra con facilidad a escritorios domésticos, oficinas y setups de entretenimiento.
-
-Características:
-- Tipo: Plano
-- Relación de aspecto: 16:9
-- Panel: LCD
-- Tiempo de respuesta: 1 ms
-- Resolución: HD
-- Tasa de refresco: 60 Hz
-- Pulgadas: 19 pulgadas
-- IVA: 21%
-- HDMI: 1
-- VGA: 1
-- Jack 3.5mm: No
-- Ethernet: No
-- Montaje VESA: 100 x 100 mm (M4 x 10 mm)</g:description>
-      <g:link>https://www.diamondcomputacion.com.ar/monitor-philips-193v5lhsb255-19-lcd-hd-60hz-5ms/p?skuId=368</g:link>
-      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156863/27341_2.jpg?v=638069061305000000</g:image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156864/27341_3.jpg?v=639168753878700000</g:additional_image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156865/27341_4.jpg?v=639168753878870000</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>159900.00 ARS</g:price>
-      <g:brand>Philips</g:brand>
-      <g:gtin>8712581753610</g:gtin>
-      <g:mpn>27341</g:mpn>
-      <g:condition>new</g:condition>
-      <g:product_type>Monitores &gt; Monitores de Oficina</g:product_type>
-      <g:size>0</g:size>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tipo</g:attribute_name><g:attribute_value>Plano</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Relación de aspecto</g:attribute_name><g:attribute_value>16:9</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Panel</g:attribute_name><g:attribute_value>LCD</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tiempo de respuesta</g:attribute_name><g:attribute_value>1 ms</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Resolución</g:attribute_name><g:attribute_value>HD</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tasa de refresco</g:attribute_name><g:attribute_value>60 Hz</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Pulgadas</g:attribute_name><g:attribute_value>19 pulgadas</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21%</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>HDMI</g:attribute_name><g:attribute_value>1</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>VGA</g:attribute_name><g:attribute_value>1</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Jack 3.5mm</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Ethernet</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Montaje VESA</g:attribute_name><g:attribute_value>100 x 100 mm (M4 x 10 mm)</g:attribute_value></g:product_detail>
-    </item>
-    <item>
-      <g:id>2222</g:id>
-      <g:title>Monitor Philips 221V8 22" FHD 75Hz VA - 0</g:title>
-      <g:description>El Monitor Philips 221V8 22" FHD 75Hz VA ofrece una pantalla de 22 pulgadas con resolución Full HD y panel VA, pensada para trabajo, estudio, entretenimiento o gaming según la configuración del modelo. La frecuencia de 75Hz resulta adecuada para oficina, estudio, navegación y reproducción multimedia. El panel VA aporta buen contraste y una reproducción profunda de escenas oscuras, conveniente para películas y juegos. La resolución Full HD entrega una imagen nítida para documentos, streaming, navegación y entretenimiento. Su tecnología de gestión de píxeles optimizada te ofrece un ángulo de visión extrapanorámico de 178/178 grados, que proporciona imágenes nítidas » Pantalla de 16:9 con Full HD para unas imágenes nítidas La calidad de imagen importa
-
-Características:
-- Tipo: Plano
-- Relación de aspecto: 16:9
-- Panel: VA
-- Tiempo de respuesta: 4 ms
-- Resolución: 1920 x 1080
-- Tasa de refresco: 75 Hz
-- Pulgadas: 22 pulgadas
-- IVA: 21%</g:description>
-      <g:link>https://www.diamondcomputacion.com.ar/monitor-philips-221v8-22-va-full-hd-75hz-4ms/p?skuId=365</g:link>
-      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156851/2222_1.jpg?v=638069061229870000</g:image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156852/2222_2.jpg?v=638852441288100000</g:additional_image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156853/2222_3.jpg?v=638852441288570000</g:additional_image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156854/2222_4.jpg?v=638852441288570000</g:additional_image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156855/2222_5.jpg?v=638852441288730000</g:additional_image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156856/2222_6.jpg?v=638852441288730000</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>176600.00 ARS</g:price>
-      <g:brand>Philips</g:brand>
-      <g:mpn>2222</g:mpn>
-      <g:condition>new</g:condition>
-      <g:product_type>Monitores &gt; Monitores de Oficina</g:product_type>
-      <g:size>0</g:size>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tipo</g:attribute_name><g:attribute_value>Plano</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Relación de aspecto</g:attribute_name><g:attribute_value>16:9</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Panel</g:attribute_name><g:attribute_value>VA</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tiempo de respuesta</g:attribute_name><g:attribute_value>4 ms</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Resolución</g:attribute_name><g:attribute_value>1920 x 1080</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tasa de refresco</g:attribute_name><g:attribute_value>75 Hz</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Pulgadas</g:attribute_name><g:attribute_value>22 pulgadas</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21%</g:attribute_value></g:product_detail>
     </item>
     <item>
       <g:id>80258025</g:id>
