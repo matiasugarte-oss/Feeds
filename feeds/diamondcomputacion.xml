@@ -534,7 +534,7 @@ Características:
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/165645/456651321321_2.png?v=639035702901700000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169834/65583_1.png?v=639294067989530000</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>43300.00 ARS</g:price>
+      <g:price>42600.00 ARS</g:price>
       <g:brand>Adata</g:brand>
       <g:mpn>65581</g:mpn>
       <g:condition>new</g:condition>
@@ -561,7 +561,7 @@ Características:
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/165645/456651321321_2.png?v=639035702901700000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/166515/20-215-186-V05_800x--1-.jpg?v=639286136887730000</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>88700.00 ARS</g:price>
+      <g:price>87300.00 ARS</g:price>
       <g:brand>Adata</g:brand>
       <g:mpn>65583</g:mpn>
       <g:condition>new</g:condition>
@@ -1221,6 +1221,33 @@ Características:
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Batería</g:attribute_name><g:attribute_value>Li-ion 3.7 V / 500 mAh</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Elemento</g:attribute_name><g:attribute_value>Boom desmontable</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Patron Polar</g:attribute_name><g:attribute_value>Direccional</g:attribute_value></g:product_detail>
+    </item>
+    <item>
+      <g:id>417302</g:id>
+      <g:title>Webcam Kelyx FHD</g:title>
+      <g:description>La Webcam Kelyx 1080P Full HD con Micrófono permite realizar videollamadas, clases virtuales, reuniones y transmisiones desde una computadora compatible. La resolución Full HD 1080p ofrece una imagen nítida para reuniones, streaming y creación de contenido. Su formato compacto facilita ubicarla sobre el monitor o en el espacio de trabajo. El micrófono integrado permite transmitir voz sin sumar un accesorio adicional. La Webcam Kelyx 1080p Full HD con micrófono integrado es una solución ideal para videollamadas, clases virtuales, conferencias y streaming El diseño de Kelyx mantiene una presentación coherente con la línea y facilita integrarlo a distintos tipos de setups.
+
+Características:
+- Modelo: 1080p Full HD
+- Resolución máxima de video: 1080P
+- IVA: 21
+- stockensucursal: 0
+- Tipo de conexión: USB</g:description>
+      <g:link>https://www.diamondcomputacion.com.ar/webcam-kelyx-1080p-full-hd-cmic/p?skuId=2256</g:link>
+      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/165113/000000000041730228266webcam-kelyx-1.jpg?v=639002018813570000</g:image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/165114/0000000000417302000128261webcam-kelyx-2.jpg?v=639002018814030000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/165115/0000000000417302000228262webcam-kelyx-3.jpg?v=639002018814030000</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>19000.00 ARS</g:price>
+      <g:brand>Kelyx</g:brand>
+      <g:mpn>417302</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Perifericos &gt; Webcam</g:product_type>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Modelo</g:attribute_name><g:attribute_value>1080p Full HD</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Resolución máxima de video</g:attribute_name><g:attribute_value>1080P</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>stockensucursal</g:attribute_name><g:attribute_value>0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tipo de conexión</g:attribute_name><g:attribute_value>USB</g:attribute_value></g:product_detail>
     </item>
     <item>
       <g:id>416276</g:id>
@@ -2475,7 +2502,7 @@ Características:
 - Temperatura máxima de boquilla: 300
 - Temperatura máxima de cama: 80
 - Volumen de impresión (ancho x profundidad x alto, mm): 180 x 180 x 180
-- stockensucursal: 1
+- stockensucursal: 0
 - IVA: 10.5%</g:description>
       <g:link>https://www.diamondcomputacion.com.ar/impresora-3d-bambu-lab-a1-mini-combo/p?skuId=2916</g:link>
       <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/168472/impresora-bambulab-a1-mini-combo -2-.png?v=639180743276800000</g:image_link>
@@ -2495,7 +2522,7 @@ Características:
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Temperatura máxima de boquilla</g:attribute_name><g:attribute_value>300</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Temperatura máxima de cama</g:attribute_name><g:attribute_value>80</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Volumen de impresión (ancho x profundidad x alto, mm)</g:attribute_name><g:attribute_value>180 x 180 x 180</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>stockensucursal</g:attribute_name><g:attribute_value>1</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>stockensucursal</g:attribute_name><g:attribute_value>0</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>10.5%</g:attribute_value></g:product_detail>
     </item>
     <item>
@@ -3046,7 +3073,7 @@ Características:
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/164663/SNV3S_2000GB-zm-lg.jpg?v=638941493846470000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/164664/SNV3S_2000GB_angle-zm-lg.jpg?v=638941493846770000</g:additional_image_link>
       <g:availability>out_of_stock</g:availability>
-      <g:price>629900.00 ARS</g:price>
+      <g:price>670500.00 ARS</g:price>
       <g:brand>Kingston</g:brand>
       <g:mpn>3200178722</g:mpn>
       <g:condition>new</g:condition>
@@ -4252,7 +4279,7 @@ La presentación contiene 1 kg de filamento de 1.75 mm de diámetro. Seleccioná
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169991/sku3586foto01.png?v=639306074923970000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169992/sku3587foto01.png?v=639306074924900000</g:additional_image_link>
       <g:availability>out_of_stock</g:availability>
-      <g:price>23100.00 ARS</g:price>
+      <g:price>24600.00 ARS</g:price>
       <g:brand>Elegoo</g:brand>
       <g:gtin>6932704912577</g:gtin>
       <g:mpn>6932704912577</g:mpn>
@@ -14747,33 +14774,6 @@ Características:
       <g:product_type>Componentes de PC &gt; Memorias Ram &gt; PC</g:product_type>
       <g:size>0</g:size>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Marca</g:attribute_name><g:attribute_value>WICGTYP</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>10.5%</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tipo</g:attribute_name><g:attribute_value>DDR4</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Velocidad</g:attribute_name><g:attribute_value>3200 MHz</g:attribute_value></g:product_detail>
-    </item>
-    <item>
-      <g:id>843367123773</g:id>
-      <g:title>Memoria RAM Lexar 16GB DDR4 3200MHz SODIMM - 0</g:title>
-      <g:description>La Memoria RAM Lexar 16GB DDR4 3200MHz SODIMM está diseñada para ampliar o actualizar la memoria de equipos compatibles, mejorando la capacidad de multitarea y el rendimiento general del sistema.
-
-Características:
-- Marca: Lexar
-- Capacidad: 16GB
-- IVA: 10.5%
-- Tipo: DDR4
-- Velocidad: 3200 MHz</g:description>
-      <g:link>https://www.diamondcomputacion.com.ar/memoria-ram-lexar-16gb-ddr4-3200mhz-sodimm/p?skuId=3389</g:link>
-      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169464/memoria-sodimm-16gb-ddr4-3200-lexar-0 -1-.jpg?v=639269818162130000</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>310086.00 ARS</g:price>
-      <g:brand>Lexar</g:brand>
-      <g:gtin>843367123773</g:gtin>
-      <g:mpn>843367123773</g:mpn>
-      <g:condition>new</g:condition>
-      <g:product_type>Componentes de PC &gt; Memorias Ram &gt; Notebook</g:product_type>
-      <g:size>0</g:size>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Marca</g:attribute_name><g:attribute_value>Lexar</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Capacidad</g:attribute_name><g:attribute_value>16GB</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>10.5%</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tipo</g:attribute_name><g:attribute_value>DDR4</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Velocidad</g:attribute_name><g:attribute_value>3200 MHz</g:attribute_value></g:product_detail>
@@ -32678,7 +32678,7 @@ Características:
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/158531/7111907245_4.jpg?v=639172340038770000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/158533/7111907245_5.jpg?v=639172340038770000</g:additional_image_link>
       <g:availability>out_of_stock</g:availability>
-      <g:price>31200.00 ARS</g:price>
+      <g:price>28800.00 ARS</g:price>
       <g:brand>Redragon</g:brand>
       <g:mpn>21058</g:mpn>
       <g:condition>new</g:condition>
@@ -37961,7 +37961,7 @@ Características:
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/165083/ktc-sdce-128gb-s-hr.jpg?v=638989946507430000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/165084/ktc-sdce-128gb-hr.jpg?v=638989946507600000</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>94394.00 ARS</g:price>
+      <g:price>92302.00 ARS</g:price>
       <g:brand>Kingston</g:brand>
       <g:gtin>740617290226</g:gtin>
       <g:mpn>740617290226</g:mpn>
@@ -45664,7 +45664,7 @@ Características:
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/163651/210711-800-auto.webp?v=638848299300430000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/163652/210712-800-auto.webp?v=638848299300430000</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>445930.00 ARS</g:price>
+      <g:price>440293.00 ARS</g:price>
       <g:brand>Kingston</g:brand>
       <g:gtin>740617335019</g:gtin>
       <g:mpn>740617335019</g:mpn>
@@ -48557,7 +48557,7 @@ Características:
       <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/162679/730143314428_1.jpg.jpg?v=638814534526770000</g:image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/162680/730143314428_2.jpg.jpg?v=638814534527100000</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>865818.00 ARS</g:price>
+      <g:price>851542.00 ARS</g:price>
       <g:brand>Amd</g:brand>
       <g:mpn>730143314428</g:mpn>
       <g:condition>new</g:condition>
@@ -48900,7 +48900,7 @@ Características:
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/166111/D_885678-MLA54955082117_042023-F.jpg?v=639041735495870000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/166112/D_675717-MLA54960290096_042023-F.jpg?v=639041735495870000</g:additional_image_link>
       <g:availability>out_of_stock</g:availability>
-      <g:price>122700.00 ARS</g:price>
+      <g:price>113000.00 ARS</g:price>
       <g:brand>Redragon</g:brand>
       <g:gtin>6950376722287</g:gtin>
       <g:mpn>6950376722287</g:mpn>
@@ -50554,7 +50554,7 @@ Características:
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/163485/D_NQ_NP_2X_724891-MLU77475603892_072024-F.webp?v=638848105220630000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/166355/Image-1.jpg?v=639047065818530000</g:additional_image_link>
       <g:availability>out_of_stock</g:availability>
-      <g:price>23400.00 ARS</g:price>
+      <g:price>24000.00 ARS</g:price>
       <g:brand>Hiksemi</g:brand>
       <g:gtin>6974202726034</g:gtin>
       <g:mpn>6974202726034</g:mpn>
@@ -53502,7 +53502,7 @@ Características:
     <item>
       <g:id>763649127315</g:id>
       <g:item_group_id>1346</g:item_group_id>
-      <g:title>Disco externo Seagate Portable Drive - 4TB / 0</g:title>
+      <g:title>Disco externo Seagate Portable Drive - 4TB / 1</g:title>
       <g:description>Disco externo Seagate Portable Drive. Elegí la variante correspondiente en el selector del producto.
 
 Capacidades y variantes: 4TB, 2TB, 5TB, 1TB.
@@ -53529,7 +53529,7 @@ Características:
       <g:mpn>763649127315</g:mpn>
       <g:condition>new</g:condition>
       <g:product_type>Almacenamiento &gt; Discos Externos</g:product_type>
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Interfaz</g:attribute_name><g:attribute_value>USB 3.0</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21%</g:attribute_value></g:product_detail>
     </item>
@@ -61146,6 +61146,36 @@ Características:
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Antighosting</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
     </item>
     <item>
+      <g:id>4710268256984</g:id>
+      <g:title>Parlante Genius SP-HF280 USB Madera</g:title>
+      <g:description>El Parlante genius SP-HF280 USB madera permite reproducir música, juegos, videos y contenido multimedia desde computadoras y otros dispositivos compatibles. La conexión directa permite integrarlo fácilmente a un escritorio o equipo de entretenimiento. Su formato resulta práctico para escritorios, habitaciones, oficinas y espacios de uso cotidiano. El diseño de Genius mantiene una presentación coherente con la línea y facilita integrarlo a distintos tipos de setups. La propuesta combina funcionalidad, comodidad y una presentación adecuada para el uso cotidiano.
+
+Características:
+- Modelo: SP-HF280
+- Jack 3.5mm: Sí
+- Es inalámbrico: No
+- Potencia de salida: 6 W máx. total
+- IVA: 21%
+- stockensucursal: 0</g:description>
+      <g:link>https://www.diamondcomputacion.com.ar/parlante-genius-hf280-madera/p?skuId=720</g:link>
+      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/158724/4710268256984_1.jpg?v=638164070479270000</g:image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/158725/4710268256984_2.jpg?v=638164070556900000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/158726/4710268256984_3.jpg?v=638164070626170000</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>21374.00 ARS</g:price>
+      <g:brand>Genius</g:brand>
+      <g:gtin>4710268256984</g:gtin>
+      <g:mpn>4710268256984</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Perifericos &gt; Parlantes</g:product_type>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Modelo</g:attribute_name><g:attribute_value>SP-HF280</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Jack 3.5mm</g:attribute_name><g:attribute_value>Sí</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Es inalámbrico</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Potencia de salida</g:attribute_name><g:attribute_value>6 W máx. total</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21%</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>stockensucursal</g:attribute_name><g:attribute_value>0</g:attribute_value></g:product_detail>
+    </item>
+    <item>
       <g:id>4710268257158</g:id>
       <g:title>Parlante Genius SP-HF180 USB Negro</g:title>
       <g:description>El Parlante genius SP-HF180 USB negro permite reproducir música, juegos, videos y contenido multimedia desde computadoras y otros dispositivos compatibles. La conexión directa permite integrarlo fácilmente a un escritorio o equipo de entretenimiento. Su formato resulta práctico para escritorios, habitaciones, oficinas y espacios de uso cotidiano. Estos parlantes cuentan con conexión 3,5mm para el audio y USB para la alimentación con una potencia de hasta 6W en total Los Parlantes altavoces SP-HF180 de la marca Genius, son ideales para escritorio El diseño de Genius mantiene una presentación coherente con la línea y facilita integrarlo a distintos tipos de setups.
@@ -64692,46 +64722,6 @@ Características:
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Disipación de potencia</g:attribute_name><g:attribute_value>No especificado</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Velocidad del ventilador</g:attribute_name><g:attribute_value>No especificado</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Iluminación</g:attribute_name><g:attribute_value>Sí</g:attribute_value></g:product_detail>
-    </item>
-    <item>
-      <g:id>413589</g:id>
-      <g:title>Cooler Gabinete Corsair ICUE QL120 120mm RGB - 0</g:title>
-      <g:description>El Cooler Corsair ICUE Ql120 RGB 12cm Pwm está pensado para acompañar la refrigeración de una computadora compatible y ayudar a controlar la temperatura de sus componentes. COLOR INTENSO Cuatro zonas de iluminación y 34 LED en cada ventilador que irradian colores y efectos fascinantes en los dos lados, ofreciendo una iluminación sorprendente tanto si se utilizan para entrada como para salida. CONTROL COMPACTO Y POTENTE Controle la iluminación RGB mediante el software CORSAIR iCUE con el increíblemente compacto Lighting Node CORE*, reduciendo el desorden de cables con sencillas conexiones USB 2.0 y SATA. Antes de instalarlo o utilizarlo, conviene verificar medidas, conexiones, alimentación y compatibilidad con el resto del equipo.
-
-Características:
-- Flujo de aire máximo: 41.8 CFM
-- Voltaje de funcionamiento del ventilador: 12V DC
-- Dimensión del ventilador: 120 x 120 x 25mm
-- Nivel de ruido: 26 dBA
-- IVA: 21%
-- Conexión: 4 pines PWM + conector LED 3 pines
-- Disipación de potencia: No especificado
-- Velocidad del ventilador: 525 - 1500 ±10% RPM
-- Iluminación: RGB</g:description>
-      <g:link>https://www.diamondcomputacion.com.ar/cooler-corsair-icue-ql120-rgb-120mm-pwm/p?skuId=349</g:link>
-      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156782/413589_1.jpg?v=638024400192630000</g:image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156783/413589_2.jpg?v=639168621454200000</g:additional_image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156784/413589_3.jpg?v=639168621454530000</g:additional_image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156785/413589_4.jpg?v=639168621454530000</g:additional_image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156786/413589_5.jpg?v=639168621454530000</g:additional_image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156787/413589_6.jpg?v=639168621454530000</g:additional_image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156788/413589_7.jpg?v=639168621454670000</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>44600.00 ARS</g:price>
-      <g:brand>Corsair</g:brand>
-      <g:mpn>413589</g:mpn>
-      <g:condition>new</g:condition>
-      <g:product_type>Componentes de PC &gt; Coolers &gt; Gabinete</g:product_type>
-      <g:size>0</g:size>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Flujo de aire máximo</g:attribute_name><g:attribute_value>41.8 CFM</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Voltaje de funcionamiento del ventilador</g:attribute_name><g:attribute_value>12V DC</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Dimensión del ventilador</g:attribute_name><g:attribute_value>120 x 120 x 25mm</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Nivel de ruido</g:attribute_name><g:attribute_value>26 dBA</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21%</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Conexión</g:attribute_name><g:attribute_value>4 pines PWM + conector LED 3 pines</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Disipación de potencia</g:attribute_name><g:attribute_value>No especificado</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Velocidad del ventilador</g:attribute_name><g:attribute_value>525 - 1500 ±10% RPM</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Iluminación</g:attribute_name><g:attribute_value>RGB</g:attribute_value></g:product_detail>
     </item>
     <item>
       <g:id>530204399</g:id>

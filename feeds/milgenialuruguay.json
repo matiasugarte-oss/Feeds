@@ -1,7 +1,7 @@
 {
  "tienda": "Milgenialuruguay",
  "url": "https://milgenialuruguay.com",
- "generado": "2026-11-27T15:21:45+00:00",
+ "generado": "2026-11-27T16:27:52+00:00",
  "total": 1605,
  "productos": [
   {
@@ -1353,7 +1353,7 @@
    "url": "https://milgenialuruguay.com/products/medias-invisibles-de-malla-antideslizante",
    "marca": "Clara (Yiwu Mayhome Import&export Co.,ltd) (0.0 Unidades - 98,60 $)",
    "categorias": [],
-   "descripcion": "/* ==========================================\n\nMILGENIAL | MEDIAS INVISIBLES\n\nSKU 3118-0\n\n========================================== */\n\n.mg3118 {\n\n--mg-green: #08A56E;\n\n--mg-dark: #18241e;\n\n--mg-muted: #65736b;\n\n--mg-soft: #f3faf6;\n\n--mg-border: #dfebe3; font-family: 'Poppins', 'Inter', Arial, sans-serif; color: var(--mg-dark); background: #fff; width: 100%; line-height: 1.6; overflow: hidden;\n\n}\n\n.mg3118 *,\n\n.mg3118 h2,\n\n.mg3118 h3,\n\n.mg3118 h2 { font-size: clamp(28px, 5vw, 39px); font-weight: 800; letter-spacing: -1.3px; line-height: 1.2;\n\n.mg3118.mg-label { display: inline-block; font-size: 11px; font-weight: 800; letter-spacing: 1.4px; text-transform: uppercase; color: var(--mg-green); margin-bottom: 14px;\n\n/* HERO */\n\n180deg,\n\n#f1faf5 0%,\n\n#ffffff 100%\n\n);\n\n.mg3118.mg-hero-pills span { border: 1px solid #d8eade; background: #fff; border-radius: 30px; padding: 9px 15px; font-size: 12px; font-weight: 700; color: #23734d;\n\n/* BENEFICIO */\n\n/* IMAGEN EXPLICATIVA */\n\n.mg3118.mg-image-placeholder { min-height: 240px; padding: 30px; border-radius: 17px; border: 1px dashed #b8d9c4; background: #f6faf7; display: flex; align-items: center; justify-content: center;\n\n.mg3118.mg-image-placeholder p { font-size: 13px; text-align: center; max-width: 380px; color: #759182;\n\n.mg3118.mg-product-image { display: block!important; width: 100%!important; max-width: 100%!important; height: auto!important; margin: 0!important; border-radius: 16px; object-fit: contain;\n\n/* CARACTERISTICAS */\n\n.mg3118.mg-feature-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 13px; margin-top: 29px;\n\n.mg3118.mg-feature-card { padding: 23px 19px; border: 1px solid var(--mg-border); background: #fff; border-radius: 15px;\n\n.mg3118.mg-icon { width: 45px; height: 45px; display: flex; justify-content: center; align-items: center; background: #eaf8ef; color: var(--mg-green); border-radius: 12px; margin-bottom: 17px;\n\n.mg3118.mg-feature-card h3 { margin-bottom: 9px;\n\n/* COTIDIANO */\n\n.mg3118.mg-everyday-note { max-width: 570px; margin: 25px auto 0; background: var(--mg-soft); border: 1px solid var(--mg-border); color: #316849; padding: 17px 20px; border-radius: 13px; font-size: 14px; font-weight: 650;\n\n/* CTA FINAL */\n\n.mg3118.mg-cart { position: relative; display: block; width: 100%; max-width: 450px; min-height: 60px; margin: 27px auto 0; padding: 16px 55px; border: none; border-radius: 12px; background: #18a558; color: #fff; font-family: inherit; font-size: 16px; font-weight: 750; cursor: pointer; transition: background.2s, transform.2s;\n\n.mg3118.mg-cart-message[data-type=\"error\"] { color: #b63030;\n\n.mg3118.mg-cart-message[data-type=\"success\"] { color: #087d53;\n\n/* RESPONSIVE */\n\n.mg3118.mg-benefit,\n\n.mg3118.mg-features,\n\n.mg3118.mg-image-placeholder { min-height: 185px; border-radius: 13px; padding: 24px;\n\n.mg3118.mg-feature-grid { grid-template-columns: 1fr; gap: 10px; margin-top: 24px;\n\n.mg3118.mg-feature-card h3 { margin-bottom: 6px;\n\nMedias invisibles de malla antideslizante\n\nQue no se vean no significa que tengas que estar acomodándolas.\n\n¿Te pasó de caminar unos minutos y sentir que la media se te empieza a bajar dentro del champión? Estas medias están pensadas para combinar un diseño discreto con un ajuste antideslizante.\n\nDiseño invisible Tejido de malla Ajuste antideslizante\n\nDiscreción y comodidad\n\nInvisibles por fuera. Cómodas por dentro.\n\nSu corte bajo permite usarlas con calzado sin que sobresalgan como unas medias tradicionales. Y su tejido de malla favorece la circulación del aire para una sensación más fresca durante el uso.\n\nEspacio reservado para una imagen realista de las medias invisibles utilizadas con championes, mostrando su corte bajo y el tejido de malla.\n\nTres detalles que importan\n\nUn pequeño detalle que cambia cómo usás tus championes.\n\nDiseño invisible\n\nCorte bajo para que las medias no sobresalgan tanto del calzado.\n\nTejido de malla\n\nFavorece la ventilación del pie durante el uso cotidiano.\n\nAjuste antideslizante\n\nAyuda a reducir el deslizamiento de la media dentro del champión.\n\nPara todos los días\n\nPonete los championes y seguí con tu día.\n\nPara ir al trabajo, salir a caminar o simplemente estar cómodo con tu calzado de todos los días.\n\nMenos tiempo acomodando las medias. Más comodidad para tu rutina.\n\nComodidad cotidiana\n\nQue tus medias acompañen tu día.\n\nElegí un diseño discreto, con tejido de malla y ajuste antideslizante.",
+   "descripcion": "/* ==========================================\n\nMILGENIAL | MEDIAS INVISIBLES\n\nSKU 3118-0\n\n========================================== */\n\n.mg3118 {\n\n--mg-green: #08A56E;\n\n--mg-dark: #18241e;\n\n--mg-muted: #65736b;\n\n--mg-soft: #f3faf6;\n\n--mg-border: #dfebe3; font-family: 'Poppins', 'Inter', Arial, sans-serif; color: var(--mg-dark); background: #fff; width: 100%; line-height: 1.6; overflow: hidden;\n\n}\n\n.mg3118 *,\n\n.mg3118 h2,\n\n.mg3118 h3,\n\n.mg3118 h2 { font-size: clamp(28px, 5vw, 39px); font-weight: 800; letter-spacing: -1.3px; line-height: 1.2;\n\n.mg3118.mg-label { display: inline-block; font-size: 11px; font-weight: 800; letter-spacing: 1.4px; text-transform: uppercase; color: var(--mg-green); margin-bottom: 14px;\n\n/* HERO */\n\n180deg,\n\n#f1faf5 0%,\n\n#ffffff 100%\n\n);\n\n.mg3118.mg-hero-pills span { border: 1px solid #d8eade; background: #fff; border-radius: 30px; padding: 9px 15px; font-size: 12px; font-weight: 700; color: #23734d;\n\n/* BENEFICIO */\n\n/* IMAGEN EXPLICATIVA */\n\n.mg3118.mg-image-placeholder { min-height: 240px; padding: 30px; border-radius: 17px; border: 1px dashed #b8d9c4; background: #f6faf7; display: flex; align-items: center; justify-content: center;\n\n.mg3118.mg-image-placeholder p { font-size: 13px; text-align: center; max-width: 380px; color: #759182;\n\n.mg3118.mg-product-image { display: block!important; width: 100%!important; max-width: 100%!important; height: auto!important; margin: 0!important; border-radius: 16px; object-fit: contain;\n\n/* CARACTERISTICAS */\n\n.mg3118.mg-feature-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 13px; margin-top: 29px;\n\n.mg3118.mg-feature-card { padding: 23px 19px; border: 1px solid var(--mg-border); background: #fff; border-radius: 15px;\n\n.mg3118.mg-icon { width: 45px; height: 45px; display: flex; justify-content: center; align-items: center; background: #eaf8ef; color: var(--mg-green); border-radius: 12px; margin-bottom: 17px;\n\n.mg3118.mg-feature-card h3 { margin-bottom: 9px;\n\n/* COTIDIANO */\n\n.mg3118.mg-everyday-note { max-width: 570px; margin: 25px auto 0; background: var(--mg-soft); border: 1px solid var(--mg-border); color: #316849; padding: 17px 20px; border-radius: 13px; font-size: 14px; font-weight: 650;\n\n/* CTA FINAL */\n\n.mg3118.mg-cart { position: relative; display: block; width: 100%; max-width: 450px; min-height: 60px; margin: 27px auto 0; padding: 16px 55px; border: none; border-radius: 12px; background: #18a558; color: #fff; font-family: inherit; font-size: 16px; font-weight: 750; cursor: pointer; transition: background.2s, transform.2s;\n\n.mg3118.mg-cart-message[data-type=\"error\"] { color: #b63030;\n\n.mg3118.mg-cart-message[data-type=\"success\"] { color: #087d53;\n\n/* RESPONSIVE */\n\n.mg3118.mg-benefit,\n\n.mg3118.mg-features,\n\n.mg3118.mg-image-placeholder { min-height: 185px; border-radius: 13px; padding: 24px;\n\n.mg3118.mg-feature-grid { grid-template-columns: 1fr; gap: 10px; margin-top: 24px;\n\n.mg3118.mg-feature-card h3 { margin-bottom: 6px;\n\nMedias invisibles de malla antideslizante\n\nQue no se vean no significa que tengas que estar acomodándolas.\n\n¿Te pasó de caminar unos minutos y sentir que la media se te empieza a bajar dentro del champión? Estas medias están pensadas para combinar un diseño discreto con un ajuste antideslizante.\n\nDiseño invisible Tejido de malla Ajuste antideslizante\n\nDiscreción y comodidad\n\nInvisibles por fuera. Cómodas por dentro.\n\nSu corte bajo permite usarlas con calzado sin que sobresalgan como unas medias tradicionales. Y su tejido de malla favorece la circulación del aire para una sensación más fresca durante el uso.\n\nTres detalles que importan\n\nUn pequeño detalle que cambia cómo usás tus championes.\n\nDiseño invisible\n\nCorte bajo para que las medias no sobresalgan tanto del calzado.\n\nTejido de malla\n\nFavorece la ventilación del pie durante el uso cotidiano.\n\nAjuste antideslizante\n\nAyuda a reducir el deslizamiento de la media dentro del champión.\n\nPara todos los días\n\nPonete los championes y seguí con tu día.\n\nPara ir al trabajo, salir a caminar o simplemente estar cómodo con tu calzado de todos los días.\n\nMenos tiempo acomodando las medias. Más comodidad para tu rutina.\n\nComodidad cotidiana\n\nQue tus medias acompañen tu día.\n\nElegí un diseño discreto, con tejido de malla y ajuste antideslizante.",
    "caracteristicas": {
     ".mg3118 *": ":before,",
     ".mg3118.mg-wrap { max-width": "780px; margin: 0 auto; padding: 0 22px;",
@@ -30062,7 +30062,7 @@
    "caracteristicas": {},
    "precio_desde": 690.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/He4f4fd404bb34ed2815d737b7aaeef9e8.jpg?v=1757609176",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/1_edc1c96f-6d12-4d93-a292-352899ba1cd9.jpg?v=1784831477",
@@ -30074,7 +30074,7 @@
      "opciones": {},
      "precio": 690.0,
      "precio_anterior": 790.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/limpiador-y-removedor-de-manchas-para-gomas-y-burletes?variant=51662677672250"
@@ -37858,7 +37858,7 @@
    },
    "precio_desde": 790.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/pegamuchoX3.jpg?v=1743422032",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/IMG_3305-1.webp?v=1743422730",
@@ -37870,7 +37870,7 @@
      "opciones": {},
      "precio": 790.0,
      "precio_anterior": 1190.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/pack-de-3-cintas-de-doble-faz-transparente-pegamucho-de-5m-leisel?variant=51084151161146"
@@ -55761,7 +55761,7 @@
    "caracteristicas": {},
    "precio_desde": 2970.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-1_a8f0e3a7-a041-4890-b314-d26d899c6844.jpg?v=1731097563",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/IMG_3306_1.jpg?v=1731097575",
@@ -55773,7 +55773,7 @@
      "opciones": {},
      "precio": 2970.0,
      "precio_anterior": 5940.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/pack-6-de-cintas-leisel?variant=48441112461626"
@@ -57325,7 +57325,7 @@
      },
      "precio": 590.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/tupper-organizador-de-acrilico-para-alimentos?variant=47829327511866"
@@ -63039,7 +63039,7 @@
    },
    "precio_desde": 590.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/alf-v1.jpg?v=1731087348",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/EDIT-1.jpg?v=1731087361",
@@ -63051,7 +63051,7 @@
      "opciones": {},
      "precio": 590.0,
      "precio_anterior": 690.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/alfombra-enrulada-para-ducha-con-antideslizante-rulomat-milh?variant=46903022879034"

@@ -3363,8 +3363,6 @@ Invisibles por fuera. Cómodas por dentro.
 
 Su corte bajo permite usarlas con calzado sin que sobresalgan como unas medias tradicionales. Y su tejido de malla favorece la circulación del aire para una sensación más fresca durante el uso.
 
-Espacio reservado para una imagen realista de las medias invisibles utilizadas con championes, mostrando su corte bajo y el tejido de malla.
-
 Tres detalles que importan
 
 Un pequeño detalle que cambia cómo usás tus championes.
@@ -3404,7 +3402,9 @@ Características:
 - .mg3118.mg-green { color: var(--mg-green)
 - .mg3118.mg-center { text-align: center
 - .mg3118.mg-hero { text-align: center; padding: 52px 0 49px; background: linear-gradient(
-- .mg3118.mg-hero h2 { max-width: 690px; margin: auto; font-size: clamp(32px, 6vw, 47px); letter-spacing: -1.7p</g:description>
+- .mg3118.mg-hero h2 { max-width: 690px; margin: auto; font-size: clamp(32px, 6vw, 47px); letter-spacing: -1.7px
+- .mg3118.mg-hero p { max-width: 590px; margin: 20px auto 0
+- .mg3118.mg-hero-pills { display: flex; justify-content: center; flex-wrap: wra</g:description>
       <g:link>https://milgenialuruguay.com/products/medias-invisibles-de-malla-antideslizante?variant=67951842918714</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/Portada_99f40667-718e-4e50-802d-a53ac8292d37.png?v=1794320746</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo1_fb136210-4e06-4263-922b-5906ea9d0f1d.png?v=1794320863</g:additional_image_link>
@@ -72452,7 +72452,7 @@ Tiempo de acción: 1 a 3 horas según la mancha
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/5_85814f64-3aa8-4f2b-b07a-ff12b2890ba8.jpg?v=1784831477</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/3_3_11zon_0400a5aa-b903-425d-8e9d-af891c282ef0.webp?v=1772640883</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/9813085e-fda4-4178-96a9-b0eb844f9880.png?v=1772640883</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>790.00 UYU</g:price>
       <g:sale_price>690.00 UYU</g:sale_price>
       <g:brand>MilGenial Uruguay</g:brand>
@@ -85333,7 +85333,7 @@ Características:
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/IMG_3305-1.webp?v=1743422730</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/IMG_3306.webp?v=1743422730</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/usa-3-_5_69099036-36cc-49f2-a95f-8b57c4d3110c.webp?v=1743422730</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>1190.00 UYU</g:price>
       <g:sale_price>790.00 UYU</g:sale_price>
       <g:brand>MilGenial Uruguay</g:brand>
@@ -130640,7 +130640,7 @@ Incluye
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/Ha75aee0f541c4fdd8af0a209941f1dece_4ca1342b-5673-49db-8eee-4e0c414100f8.webp?v=1731097590</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/5_720x720_1428cabb-c0a6-4510-ac10-3fa7c183421e.webp?v=1731097592</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/2_720x720_92f78afb-d817-48d2-bfb1-20df73128bc8.webp?v=1731097596</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>5940.00 UYU</g:price>
       <g:sale_price>2970.00 UYU</g:sale_price>
       <g:brand>MilGenial Uruguay</g:brand>
@@ -133289,7 +133289,7 @@ Características:
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/0138588_b57d9a14c9dab1ad6c56cb03bafb8aef05d4afa17a68ff11106731686c011f7b_600.jpg?v=1731091510</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/0138587_0e879e7f83b7dcf8dd0881be81629991bd1d4ea5dfca0803c8e5178e887f1a6e_600.jpg?v=1731091512</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/0138586_6c97526d58755e7ac01f1512cbda491ed8aaa62d3c42c4d84aaf500675c409cd_600.jpg?v=1731091514</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>590.00 UYU</g:price>
       <g:brand>MilGenial Uruguay</g:brand>
       <g:gtin>8658100004095</g:gtin>
@@ -143839,7 +143839,7 @@ Con la alfombra RuloMat Milh, puedes disfrutar de una ducha segura y relajante s
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/EDIT-1.jpg?v=1731087361</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/oport-1.jpg?v=1731087364</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/oport-2.jpg?v=1731087367</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>690.00 UYU</g:price>
       <g:sale_price>590.00 UYU</g:sale_price>
       <g:brand>MilGenial Uruguay</g:brand>

@@ -1,7 +1,7 @@
 {
  "tienda": "Diamond Computacion",
  "url": "https://www.diamondcomputacion.com.ar",
- "generado": "2026-11-27T15:22:20+00:00",
+ "generado": "2026-11-27T16:28:28+00:00",
  "total": 1378,
  "productos": [
   {
@@ -309,7 +309,7 @@
       "Capacidad": "128GB",
       "stockensucursal": "0"
      },
-     "precio": 43300.0,
+     "precio": 42600.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
@@ -322,7 +322,7 @@
       "Capacidad": "256GB",
       "stockensucursal": "0"
      },
-     "precio": 88700.0,
+     "precio": 87300.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
@@ -894,6 +894,43 @@
    ]
   },
   {
+   "titulo": "Webcam Kelyx FHD",
+   "url": "https://www.diamondcomputacion.com.ar/webcam-kelyx-1080p-full-hd-cmic/p",
+   "marca": "Kelyx",
+   "categorias": [
+    "Perifericos",
+    "Webcam"
+   ],
+   "descripcion": "La Webcam Kelyx 1080P Full HD con Micrófono permite realizar videollamadas, clases virtuales, reuniones y transmisiones desde una computadora compatible. La resolución Full HD 1080p ofrece una imagen nítida para reuniones, streaming y creación de contenido. Su formato compacto facilita ubicarla sobre el monitor o en el espacio de trabajo. El micrófono integrado permite transmitir voz sin sumar un accesorio adicional. La Webcam Kelyx 1080p Full HD con micrófono integrado es una solución ideal para videollamadas, clases virtuales, conferencias y streaming El diseño de Kelyx mantiene una presentación coherente con la línea y facilita integrarlo a distintos tipos de setups.",
+   "caracteristicas": {
+    "Modelo": "1080p Full HD",
+    "Resolución máxima de video": "1080P",
+    "IVA": "21",
+    "stockensucursal": "0",
+    "Tipo de conexión": "USB"
+   },
+   "precio_desde": 19000.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/165113/000000000041730228266webcam-kelyx-1.jpg?v=639002018813570000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/165114/0000000000417302000128261webcam-kelyx-2.jpg?v=639002018814030000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/165115/0000000000417302000228262webcam-kelyx-3.jpg?v=639002018814030000"
+   ],
+   "variantes": [
+    {
+     "sku": "417302",
+     "opciones": {},
+     "precio": 19000.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://www.diamondcomputacion.com.ar/webcam-kelyx-1080p-full-hd-cmic/p?skuId=2256"
+    }
+   ]
+  },
+  {
    "titulo": "Fuente Thermaltake Toughpower GF A3 80+ Gold",
    "url": "https://www.diamondcomputacion.com.ar/fuente-thermaltake-toughpower-gf-a3-80-plus-gold/p",
    "marca": "Thermaltake",
@@ -956,7 +993,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/fuente-thermaltake-toughpower-gf-a3-80-plus-gold/p?skuId=1386"
     },
     {
@@ -1797,7 +1834,7 @@
     "Temperatura máxima de boquilla": "300",
     "Temperatura máxima de cama": "80",
     "Volumen de impresión (ancho x profundidad x alto, mm)": "180 x 180 x 180",
-    "stockensucursal": "1",
+    "stockensucursal": "0",
     "IVA": "10.5%"
    },
    "precio_desde": 866600.0,
@@ -2344,7 +2381,7 @@
       "Capacidad": "2TB",
       "stockensucursal": "0"
      },
-     "precio": 629900.0,
+     "precio": 670500.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -3200,7 +3237,7 @@
     "Peso neto (kg)": "1",
     "IVA": "21%"
    },
-   "precio_desde": 23100.0,
+   "precio_desde": 23900.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -3293,7 +3330,7 @@
       "Color": "Beige",
       "stockensucursal": "0"
      },
-     "precio": 23100.0,
+     "precio": 24600.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -4214,7 +4251,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/ssd-hiksemi-wave-m-2-nvme/p?skuId=1476"
     },
     {
@@ -7008,7 +7045,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/ssd-512gb-aimerican-agility-m-2-nvme/p?skuId=3651"
     }
    ]
@@ -11022,7 +11059,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/soporte-celular-netmak-nm-hc23-magsafe/p?skuId=3444"
     }
    ]
@@ -11567,7 +11604,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/joystick-netmak-nm-danger-bt-5-en-1/p?skuId=3428"
     }
    ]
@@ -12810,44 +12847,6 @@
    ]
   },
   {
-   "titulo": "Memoria RAM Lexar 16GB DDR4 3200MHz SODIMM",
-   "url": "https://www.diamondcomputacion.com.ar/memoria-ram-lexar-16gb-ddr4-3200mhz-sodimm/p",
-   "marca": "Lexar",
-   "categorias": [
-    "Componentes de PC",
-    "Memorias Ram",
-    "Notebook"
-   ],
-   "descripcion": "La Memoria RAM Lexar 16GB DDR4 3200MHz SODIMM está diseñada para ampliar o actualizar la memoria de equipos compatibles, mejorando la capacidad de multitarea y el rendimiento general del sistema.",
-   "caracteristicas": {
-    "Marca": "Lexar",
-    "Capacidad": "16GB",
-    "IVA": "10.5%",
-    "Tipo": "DDR4",
-    "Velocidad": "3200 MHz"
-   },
-   "precio_desde": 310086.0,
-   "moneda": "ARS",
-   "disponible": true,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/169464/memoria-sodimm-16gb-ddr4-3200-lexar-0 -1-.jpg?v=639269818162130000"
-   ],
-   "variantes": [
-    {
-     "sku": "843367123773",
-     "opciones": {
-      "stockensucursal": "0"
-     },
-     "precio": 310086.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 1,
-     "url": "https://www.diamondcomputacion.com.ar/memoria-ram-lexar-16gb-ddr4-3200mhz-sodimm/p?skuId=3389"
-    }
-   ]
-  },
-  {
    "titulo": "SSD Wicgtyp S900 2.5 Sata Iii",
    "url": "https://www.diamondcomputacion.com.ar/ssd-wicgtyp-s900-2-5-sata-iii/p",
    "marca": "Genérico",
@@ -13725,7 +13724,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 99999,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/pendrive-kingston-exodia-g2-dtx-g2/p?skuId=3439"
     },
     {
@@ -15924,7 +15923,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/fuente-msi-mag-500w-a500dn-80-white/p?skuId=3272"
     }
    ]
@@ -18411,7 +18410,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/monitor-performance-pf185r-19/p?skuId=3160"
     }
    ]
@@ -18743,7 +18742,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/pasta-t-rmica-arctic-mx-7-4g/p?skuId=3138"
     }
    ]
@@ -18852,7 +18851,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/pasta-t-rmica-arctic-mx-4-8g-con-esp-tula/p?skuId=3132"
     }
    ]
@@ -21959,7 +21958,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 99999,
      "url": "https://www.diamondcomputacion.com.ar/ram-16gb-ddr5-5600mhz-adata-sodimm/p?skuId=2994"
     }
    ]
@@ -22362,7 +22361,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/placa-de-video-asrock-rx7600-challenger-dark-8g-oc/p?skuId=2968"
     }
    ]
@@ -27253,7 +27252,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/cartucho-alternativo-epson-206/p?skuId=2684"
     }
    ]
@@ -28834,7 +28833,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/cartucho-hp-664/p?skuId=3163"
     }
    ]
@@ -29054,7 +29053,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/tablet-lenovo-tab-101-wuxga-4gb128gb-zaeh0074ar-tb/p?skuId=2599"
     }
    ]
@@ -29895,7 +29894,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/teclado-raptor-fireclaw-m68-mecanico/p?skuId=2835"
     }
    ]
@@ -29955,7 +29954,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/teclado-raptor-fireclaw-m87-mec-retoil/p?skuId=2559"
     }
    ]
@@ -30864,7 +30863,7 @@
     "Forma": "Estándar",
     "Cantidad de botones": "6"
    },
-   "precio_desde": 31200.0,
+   "precio_desde": 28800.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -30879,7 +30878,7 @@
       "Color": "Negro",
       "stockensucursal": "0"
      },
-     "precio": 31200.0,
+     "precio": 28800.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -35698,7 +35697,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/cable-displayport-4k/p?skuId=2282"
     },
     {
@@ -36559,7 +36558,7 @@
     "Garantia": "3 años con el fabricante",
     "IVA": "10.5%"
    },
-   "precio_desde": 94394.0,
+   "precio_desde": 92302.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -36574,7 +36573,7 @@
       "Capacidad": "64GB",
       "stockensucursal": "0"
      },
-     "precio": 94394.0,
+     "precio": 92302.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
@@ -38498,7 +38497,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 99999,
      "url": "https://www.diamondcomputacion.com.ar/fuente-formula-v-850w-apmm-850gm-80-gold-fm/p?skuId=2168"
     }
    ]
@@ -43478,7 +43477,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/memoria-ram-16gb-ddr5-5600mhz-kingston-fury-beast/p?skuId=1901"
     }
    ]
@@ -43593,7 +43592,7 @@
     "IVA": "10.5",
     "Tipo": "DDR5"
    },
-   "precio_desde": 445930.0,
+   "precio_desde": 440293.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -43607,7 +43606,7 @@
      "opciones": {
       "stockensucursal": "0"
      },
-     "precio": 445930.0,
+     "precio": 440293.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
@@ -46013,7 +46012,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/procesador-amd-ryzen7-5700/p?skuId=1686"
     }
    ]
@@ -46410,7 +46409,7 @@
     "TDP": "65 W",
     "Zocalo": "AM5"
    },
-   "precio_desde": 865818.0,
+   "precio_desde": 851542.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -46421,7 +46420,7 @@
     {
      "sku": "730143314428",
      "opciones": {},
-     "precio": 865818.0,
+     "precio": 851542.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
@@ -46710,7 +46709,7 @@
     "Elemento": "Condensador desmontable",
     "Patron Polar": "Omnidireccional con cancelación de ruido"
    },
-   "precio_desde": 122700.0,
+   "precio_desde": 113000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -46725,7 +46724,7 @@
       "Color": "Blanco",
       "stockensucursal": "0"
      },
-     "precio": 122700.0,
+     "precio": 113000.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -48199,7 +48198,7 @@
       "Capacidad": "64GB sin adaptador",
       "stockensucursal": "0"
      },
-     "precio": 23400.0,
+     "precio": 24000.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -48336,7 +48335,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/pendrive-hiksemi-m200s-rotary/p?skuId=1538"
     }
    ]
@@ -48443,7 +48442,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/pendrive-hiksemi-classic-m200/p?skuId=1532"
     },
     {
@@ -49788,7 +49787,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/memoria-ram-ddr4-3200mhz-hiksemi-hiker/p?skuId=1424"
     }
    ]
@@ -50690,7 +50689,7 @@
      "sku": "763649127315",
      "opciones": {
       "Capacidad": "4TB",
-      "stockensucursal": "0"
+      "stockensucursal": "1"
      },
      "precio": 408500.0,
      "precio_anterior": null,
@@ -52508,7 +52507,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/memoria-ram-sodimm-ddr4-3200mhz-hiksemi-hiker/p?skuId=1144"
     },
     {
@@ -53128,7 +53127,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/auricular-redragon-ire-pro-inalambrico/p?skuId=1181"
     }
    ]
@@ -54245,7 +54244,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 99999,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/toner-alternativo-hp-12a/p?skuId=1082"
     }
    ]
@@ -54932,7 +54931,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/toner-alternativo-hp-cf279a/p?skuId=1024"
     }
    ]
@@ -57664,6 +57663,44 @@
    ]
   },
   {
+   "titulo": "Parlante Genius SP-HF280 USB Madera",
+   "url": "https://www.diamondcomputacion.com.ar/parlante-genius-hf280-madera/p",
+   "marca": "Genius",
+   "categorias": [
+    "Perifericos",
+    "Parlantes"
+   ],
+   "descripcion": "El Parlante genius SP-HF280 USB madera permite reproducir música, juegos, videos y contenido multimedia desde computadoras y otros dispositivos compatibles. La conexión directa permite integrarlo fácilmente a un escritorio o equipo de entretenimiento. Su formato resulta práctico para escritorios, habitaciones, oficinas y espacios de uso cotidiano. El diseño de Genius mantiene una presentación coherente con la línea y facilita integrarlo a distintos tipos de setups. La propuesta combina funcionalidad, comodidad y una presentación adecuada para el uso cotidiano.",
+   "caracteristicas": {
+    "Modelo": "SP-HF280",
+    "Jack 3.5mm": "Sí",
+    "Es inalámbrico": "No",
+    "Potencia de salida": "6 W máx. total",
+    "IVA": "21%",
+    "stockensucursal": "0"
+   },
+   "precio_desde": 21374.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/158724/4710268256984_1.jpg?v=638164070479270000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/158725/4710268256984_2.jpg?v=638164070556900000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/158726/4710268256984_3.jpg?v=638164070626170000"
+   ],
+   "variantes": [
+    {
+     "sku": "4710268256984",
+     "opciones": {},
+     "precio": 21374.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 99999,
+     "url": "https://www.diamondcomputacion.com.ar/parlante-genius-hf280-madera/p?skuId=720"
+    }
+   ]
+  },
+  {
    "titulo": "Parlante Genius SP-HF180 USB Negro",
    "url": "https://www.diamondcomputacion.com.ar/parlante-genius-hf180-negro/p",
    "marca": "Genius",
@@ -59426,7 +59463,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/adaptador-hdmi-h-a-hdmi-h/p?skuId=581"
     }
    ]
@@ -60408,7 +60445,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/mouse-pad-redragon-kunlun-p006-880-grande/p?skuId=432"
     }
    ]
@@ -60855,50 +60892,6 @@
      "preorden": false,
      "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/cooler-80mm-4pin-con-luz/p?skuId=357"
-    }
-   ]
-  },
-  {
-   "titulo": "Cooler Gabinete Corsair ICUE QL120 120mm RGB",
-   "url": "https://www.diamondcomputacion.com.ar/cooler-corsair-icue-ql120-rgb-120mm-pwm/p",
-   "marca": "Corsair",
-   "categorias": [
-    "Componentes de PC",
-    "Coolers",
-    "Gabinete"
-   ],
-   "descripcion": "El Cooler Corsair ICUE Ql120 RGB 12cm Pwm está pensado para acompañar la refrigeración de una computadora compatible y ayudar a controlar la temperatura de sus componentes. COLOR INTENSO Cuatro zonas de iluminación y 34 LED en cada ventilador que irradian colores y efectos fascinantes en los dos lados, ofreciendo una iluminación sorprendente tanto si se utilizan para entrada como para salida. CONTROL COMPACTO Y POTENTE Controle la iluminación RGB mediante el software CORSAIR iCUE con el increíblemente compacto Lighting Node CORE*, reduciendo el desorden de cables con sencillas conexiones USB 2.0 y SATA. Antes de instalarlo o utilizarlo, conviene verificar medidas, conexiones, alimentación y compatibilidad con el resto del equipo.",
-   "caracteristicas": {
-    "Flujo de aire máximo": "41.8 CFM",
-    "Voltaje de funcionamiento del ventilador": "12V DC",
-    "Dimensión del ventilador": "120 x 120 x 25mm",
-    "Nivel de ruido": "26 dBA",
-    "IVA": "21%",
-    "Conexión": "4 pines PWM + conector LED 3 pines",
-    "Disipación de potencia": "No especificado",
-    "Velocidad del ventilador": "525 - 1500 ±10% RPM",
-    "Iluminación": "RGB"
-   },
-   "precio_desde": 44600.0,
-   "moneda": "ARS",
-   "disponible": true,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156782/413589_1.jpg?v=638024400192630000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156783/413589_2.jpg?v=639168621454200000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156784/413589_3.jpg?v=639168621454530000"
-   ],
-   "variantes": [
-    {
-     "sku": "413589",
-     "opciones": {
-      "stockensucursal": "0"
-     },
-     "precio": 44600.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 1,
-     "url": "https://www.diamondcomputacion.com.ar/cooler-corsair-icue-ql120-rgb-120mm-pwm/p?skuId=349"
     }
    ]
   },
