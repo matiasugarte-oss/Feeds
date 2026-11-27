@@ -9116,7 +9116,7 @@ Características:
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/7_8132643c-9dba-4c3e-9213-6e1ef182f0f5.jpg?v=1793107157</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/a_e741e358-7097-4283-b05f-d63072751ce5.jpg?v=1793107172</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/bandeja.png?v=1793041308</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>2190.00 UYU</g:price>
       <g:sale_price>1690.00 UYU</g:sale_price>
       <g:brand>MilGenial Uruguay</g:brand>
@@ -11453,7 +11453,7 @@ Características:
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/steps.png?v=1792412371</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/info_fa7ef0e8-1386-4123-b910-70d5a644f172.png?v=1792412477</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo4_ac14d621-d601-4728-a73e-e1f4306ae607.png?v=1792412371</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>990.00 UYU</g:price>
       <g:brand>Grato Home Deco (0.0 Unidades - 0,00 $)</g:brand>
       <g:gtin>8900202466616</g:gtin>
@@ -24286,7 +24286,7 @@ Características:
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/Generated_Image_March_17_2026_-_1_43PM.jpg?v=1773766043</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-3_b0921007-b996-4b0e-91fc-c04f5754ddbb.jpg?v=1773766043</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-2_69d9be48-ea6a-4ed2-9bc7-495bf53d1c34.jpg?v=1773766043</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>3990.00 UYU</g:price>
       <g:sale_price>2490.00 UYU</g:sale_price>
       <g:brand>MilGenial Uruguay</g:brand>
@@ -53583,7 +53583,7 @@ Medidas:.</g:description>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/61Tfihd-xCL._AC_SL1001.jpg?v=1731091710</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/61DSfifeXGL._AC_SL1001.jpg?v=1731091713</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/51Zy3vW81WL._AC_SL1500.jpg?v=1731091736</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>1990.00 UYU</g:price>
       <g:sale_price>1490.00 UYU</g:sale_price>
       <g:brand>MilGenial Uruguay</g:brand>
@@ -57462,11 +57462,11 @@ Características:
 - .mg-futbolito li: :before
 - .mg-futbolito.mg-benefit-list { display: flex; flex-direction: column; gap: 14px; margin-top: 1</g:description>
       <g:link>https://milgenialuruguay.com/products/mini-futbolito-de-aluminio-para-mesa-resistente?variant=51975540605242</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/H88a79074ced3428d9dd59aa7a675bd90X.jpg?v=1761067608</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/asd_d99a15a0-7450-41ce-9332-f5e922c05fb9.jpg?v=1763658423</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/H85dcdfb868334f1c85d59e85fd7f1699Z.jpg?v=1763658423</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/41E3B5Dl0oL._AC_SL1080.jpg?v=1763658423</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/81mge5it1pL._AC_SL1500.jpg?v=1763658423</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/portada_5879ca20-f017-454c-a9a8-d42657165258.png?v=1795811804</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo1_2b26b1b6-e5ba-4901-bfc6-78db9bbd3e4a.png?v=1795811804</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo2_fc346cd7-0812-426e-beee-86fb6d6a843b.png?v=1795811804</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo3_66a519bf-f8b4-4487-ab3f-449842a49777.png?v=1795811804</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo4_47e7b705-af83-4902-bda1-3199f47e96bf.png?v=1795812065</g:additional_image_link>
       <g:availability>in_stock</g:availability>
       <g:price>1290.00 UYU</g:price>
       <g:sale_price>990.00 UYU</g:sale_price>
@@ -57537,25 +57537,146 @@ Transformá cualquier mesa en una cancha de básquet. El Juego de Mesa Mini Bask
       <g:id>2559-1</g:id>
       <g:item_group_id>10041674367290</g:item_group_id>
       <g:title>Juguete Carpa Infantil Grande con Luces - Celeste</g:title>
-      <g:description>🎪 Transformá su espacio de juego en una aventura mágica
+      <g:description>/* Estilos generales */
 
-La Carpa Infantil Grande con Luces es el rincón perfecto para que los niños exploren, imaginen y se diviertan en su propio mundo. Ideal para interiores o exteriores, este espacio especial les permite construir historias, jugar con amigos o simplemente relajarse bajo su “techo” de fantasía.
+.mg-carpa {
 
-➡️ Lo que la hace tan especial
+--mg-green: #0D8B48;
 
-✅ Amplia y cómoda: ideal para que jueguen varios niños o se transformen en su escondite favorito. ✅ Luces integradas: crean un ambiente cálido y encantador que invita al juego y la imaginación. ✅ Montaje sencillo: la arman solos o con ayuda, y pueden moverla según el espacio. ✅ Estimula su creatividad, autonomía y ganas de jugar sin parar.
+--mg-text: #242424;
 
-Medidas: 1,25 cm x 1,25 cm
+--mg-muted: #555555; font-family: 'Nunito', sans-serif; color: var(--mg-text); max-width: 900px; margin: 0 auto; padding: 38px 24px 48px; line-height: 1.6; box-sizing: border-box;
 
-✨ Regalales momentos de pura magia y diversión. Pedila hoy y convertí cada tarde en una historia inolvidable.</g:description>
+}
+
+.mg-carpa *,
+
+.mg-carpa h2,
+
+.mg-carpa h3,
+
+.mg-carpa h2 { font-size: clamp(25px, 4vw, 34px); font-weight: 800; line-height: 1.2; letter-spacing: -0.6px;
+
+.mg-carpa h3 { font-size: clamp(21px, 3vw, 26px); font-weight: 800; line-height: 1.3; letter-spacing: -0.3px;
+
+/* Encabezado */
+
+.mg-carpa.mg-hero.mg-hero-close { margin-top: 8px; color: var(--mg-text); font-weight: 700;
+
+/* Video */
+
+.mg-carpa.mg-video { max-width: 540px; margin: 24px auto 0; border-radius: 14px; overflow: hidden; background: #f5f5f5; line-height: 0;
+
+.mg-carpa.mg-video video { display: block; width: 100%; height: auto; margin: 0; border: 0; object-fit: contain; pointer-events: none;
+
+/* Beneficios */
+
+.mg-carpa.mg-benefit-list { display: flex; flex-direction: column; gap: 13px; max-width: 650px; margin: 0 auto!important; padding: 0!important; list-style: none!important;
+
+.mg-carpa.mg-benefit-list li { display: flex; align-items: flex-start; gap: 11px; margin: 0!important; padding: 0!important; list-style: none!important; color: var(--mg-muted); font-size: 16px; line-height: 1.5;
+
+/* Bloque emocional */
+
+/* Variantes */
+
+.mg-carpa.mg-color { display: inline-flex; align-items: center; gap: 9px; padding: 10px 19px; border: 1px solid #e4e4e4; border-radius: 8px; background: #ffffff; font-size: 15px; font-weight: 700;
+
+/* Preguntas frecuentes */
+
+.mg-carpa.mg-faq-item summary { display: flex; align-items: center; justify-content: space-between; gap: 15px; padding: 15px 0; font-size: 16px; font-weight: 800; line-height: 1.4; cursor: pointer; list-style: none!important; color: var(--mg-text);
+
+.mg-carpa.mg-faq-icon { width: 19px; height: 19px; min-width: 19px; color: var(--mg-green); transition: transform 0.2s ease;
+
+.mg-carpa.mg-faq-item[open].mg-faq-icon { transform: rotate(180deg);
+
+/* Adaptación móvil */
+
+.mg-carpa p,
+
+.mg-carpa.mg-faq-item summary { font-size: 15px;
+
+Un pequeño refugio para grandes aventuras
+
+Hoy es un castillo. Mañana, una casa secreta.
+
+Y antes de dormir, su rincón favorito para escuchar cuentos.
+
+Un espacio propio donde su imaginación pone las reglas.
+
+Mucho más que una carpa
+
+Su propio espacio un rincón para jugar, leer e imaginar.
+
+Luces decorativas crean un ambiente acogedor y especial.
+
+Diversión compartida para inventar historias con amigos y hermanos.
+
+Montaje sencillo prepará su rincón de juegos sin complicaciones.
+
+Una alternativa a las pantallas más oportunidades para disfrutar del juego creativo.
+
+Cuando se encienden las luces, empieza la magia
+
+Convertí cualquier rincón de casa en un lugar especial, donde las historias cobran vida y cada tarde puede ser una aventura diferente.
+
+Elegí su color favorito
+
+Disponible en dos colores.
+
+Rosa
+
+Celeste
+
+Preguntas frecuentes
+
+¿Se puede utilizar dentro de casa?
+
+Sí, podés instalarla en el dormitorio, el living o en su espacio de juegos.
+
+¿Incluye las luces?
+
+Sí, la carpa incluye luces decorativas para crear un ambiente más acogedor.
+
+¿Es difícil de armar?
+
+No, su montaje es sencillo y permite preparar un espacio de juegos dentro de casa.
+
+Características:
+- .mg-carpa *: :before
+- .mg-carpa p { font-family: inherit; margin: 0
+- .mg-carpa p { font-size: 16px; color: var(--mg-muted); line-height: 1.65
+- .mg-carpa.mg-highlight { color: var(--mg-green)
+- .mg-carpa.mg-section { margin-top: 30px
+- .mg-carpa.mg-hero { text-align: center; max-width: 680px; margin: 0 auto
+- .mg-carpa.mg-hero p { margin-top: 14px
+- .mg-carpa.mg-benefits h3 { text-align: center; margin-bottom: 18px
+- .mg-carpa.mg-benefit-list li: :before
+- .mg-carpa.mg-benefit-list svg { width: 21px; height: 21px; min-width: 21px; margin-top: 2px; color: var(--mg-green)
+- .mg-carpa.mg-benefit-list strong { color: var(--mg-text); font-weight: 800
+- .mg-carpa.mg-emotional { text-align: center; background: #f5f6f5; padding: 26px 24px; border-radius: 14px
+- .mg-carpa.mg-emotional p { max-width: 620px; margin: 12px auto 0
+- .mg-carpa.mg-variants { text-align: center
+- .mg-carpa.mg-variants p { margin-top: 8px
+- .mg-carpa.mg-colors { display: flex; justify-content: center; flex-wrap: wrap; gap: 12px; margin-top: 16px
+- .mg-carpa.mg-color-dot { display: block; width: 15px; height: 15px; border-radius: 50%
+- .mg-carpa.mg-pink { background: #e7a4bc
+- .mg-carpa.mg-blue { background: #9bcbe3
+- .mg-carpa.mg-faq h3 { text-align: center; margin-bottom: 16px
+- .mg-carpa.mg-faq-item { margin: 0; border-bottom: 1px solid #e5e5e5
+- .mg-carpa.mg-faq-item summary: :-webkit-details-marker { display: none
+- .mg-carpa.mg-faq-item p { padding: 0 25px 16px 0; font-size: 15px
+- @media (max-width: 767px) {
+- .mg-carpa { padding: 38px 16px 48px
+- .mg-carpa h2 { font-size: 27px
+- .mg-carpa h3 { font-size: 22px
+- .mg-carpa.mg-benefit-list li { font-size: 15px
+- .mg-carpa.mg-video { m</g:description>
       <g:link>https://milgenialuruguay.com/products/juego-de-mesa-catapulta-mete-gol-con-dedos-1?variant=51975566393658</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-1_713d7388-2056-4720-8d3f-869f599d248d.jpg?v=1763743389</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/PORT-5_2535b57c-2290-42d5-95be-0da2f586b58d.jpg?v=1762779891</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-6_0afa4f1d-a8e8-4c8b-8c35-48da9e9b3cdd.jpg?v=1762779908</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-2_5dada376-9acf-49e5-a945-ad6023668801.jpg?v=1762779908</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-3_00be7a8e-58c6-4bc7-b879-c765b97ed51a.jpg?v=1762779908</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-4_a39a60ce-6c94-4c64-92a8-26c8de4eeab5.jpg?v=1762779908</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-1_fe92b8be-e892-48c8-b69d-acae37ae4f4d.jpg?v=1762779908</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo4_447c1d26-7740-42e6-93df-577185fe9d3b.png?v=1795812633</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/portada_cee39bd9-f710-4ad8-8bbb-3c1d6cda6667.png?v=1795812632</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo1_dd70a3f7-6411-4366-aef0-d440c45079db.png?v=1795812632</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo2_b0ec2b2b-d46a-4a17-8291-67d59d3616de.png?v=1795812633</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo3_e36025df-bedc-4926-a534-8282f19b56f8.png?v=1795812633</g:additional_image_link>
       <g:availability>in_stock</g:availability>
       <g:price>1990.00 UYU</g:price>
       <g:sale_price>1690.00 UYU</g:sale_price>
@@ -57566,30 +57687,181 @@ Medidas: 1,25 cm x 1,25 cm
       <g:product_type>Juguetes</g:product_type>
       <g:age_group>kids</g:age_group>
       <g:color>Celeste</g:color>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa *</g:attribute_name><g:attribute_value>:before</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa p { font-family</g:attribute_name><g:attribute_value>inherit; margin: 0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa p { font-size</g:attribute_name><g:attribute_value>16px; color: var(--mg-muted); line-height: 1.65</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-highlight { color</g:attribute_name><g:attribute_value>var(--mg-green)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-section { margin-top</g:attribute_name><g:attribute_value>30px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-hero { text-align</g:attribute_name><g:attribute_value>center; max-width: 680px; margin: 0 auto</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-hero p { margin-top</g:attribute_name><g:attribute_value>14px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-benefits h3 { text-align</g:attribute_name><g:attribute_value>center; margin-bottom: 18px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-benefit-list li</g:attribute_name><g:attribute_value>:before</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-benefit-list svg { width</g:attribute_name><g:attribute_value>21px; height: 21px; min-width: 21px; margin-top: 2px; color: var(--mg-green)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-benefit-list strong { color</g:attribute_name><g:attribute_value>var(--mg-text); font-weight: 800</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-emotional { text-align</g:attribute_name><g:attribute_value>center; background: #f5f6f5; padding: 26px 24px; border-radius: 14px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-emotional p { max-width</g:attribute_name><g:attribute_value>620px; margin: 12px auto 0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-variants { text-align</g:attribute_name><g:attribute_value>center</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-variants p { margin-top</g:attribute_name><g:attribute_value>8px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-colors { display</g:attribute_name><g:attribute_value>flex; justify-content: center; flex-wrap: wrap; gap: 12px; margin-top: 16px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-color-dot { display</g:attribute_name><g:attribute_value>block; width: 15px; height: 15px; border-radius: 50%</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-pink { background</g:attribute_name><g:attribute_value>#e7a4bc</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-blue { background</g:attribute_name><g:attribute_value>#9bcbe3</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-faq h3 { text-align</g:attribute_name><g:attribute_value>center; margin-bottom: 16px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-faq-item { margin</g:attribute_name><g:attribute_value>0; border-bottom: 1px solid #e5e5e5</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-faq-item summary</g:attribute_name><g:attribute_value>:-webkit-details-marker { display: none</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-faq-item p { padding</g:attribute_name><g:attribute_value>0 25px 16px 0; font-size: 15px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>@media (max-width</g:attribute_name><g:attribute_value>767px) {</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa { padding</g:attribute_name><g:attribute_value>38px 16px 48px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa h2 { font-size</g:attribute_name><g:attribute_value>27px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa h3 { font-size</g:attribute_name><g:attribute_value>22px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-benefit-list li { font-size</g:attribute_name><g:attribute_value>15px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-video { margin-top</g:attribute_name><g:attribute_value>20px; border-radius: 12px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-emotional { padding</g:attribute_name><g:attribute_value>23px 17px</g:attribute_value></g:product_detail>
     </item>
     <item>
       <g:id>2559-2</g:id>
       <g:item_group_id>10041674367290</g:item_group_id>
       <g:title>Juguete Carpa Infantil Grande con Luces - Rosa</g:title>
-      <g:description>🎪 Transformá su espacio de juego en una aventura mágica
+      <g:description>/* Estilos generales */
 
-La Carpa Infantil Grande con Luces es el rincón perfecto para que los niños exploren, imaginen y se diviertan en su propio mundo. Ideal para interiores o exteriores, este espacio especial les permite construir historias, jugar con amigos o simplemente relajarse bajo su “techo” de fantasía.
+.mg-carpa {
 
-➡️ Lo que la hace tan especial
+--mg-green: #0D8B48;
 
-✅ Amplia y cómoda: ideal para que jueguen varios niños o se transformen en su escondite favorito. ✅ Luces integradas: crean un ambiente cálido y encantador que invita al juego y la imaginación. ✅ Montaje sencillo: la arman solos o con ayuda, y pueden moverla según el espacio. ✅ Estimula su creatividad, autonomía y ganas de jugar sin parar.
+--mg-text: #242424;
 
-Medidas: 1,25 cm x 1,25 cm
+--mg-muted: #555555; font-family: 'Nunito', sans-serif; color: var(--mg-text); max-width: 900px; margin: 0 auto; padding: 38px 24px 48px; line-height: 1.6; box-sizing: border-box;
 
-✨ Regalales momentos de pura magia y diversión. Pedila hoy y convertí cada tarde en una historia inolvidable.</g:description>
+}
+
+.mg-carpa *,
+
+.mg-carpa h2,
+
+.mg-carpa h3,
+
+.mg-carpa h2 { font-size: clamp(25px, 4vw, 34px); font-weight: 800; line-height: 1.2; letter-spacing: -0.6px;
+
+.mg-carpa h3 { font-size: clamp(21px, 3vw, 26px); font-weight: 800; line-height: 1.3; letter-spacing: -0.3px;
+
+/* Encabezado */
+
+.mg-carpa.mg-hero.mg-hero-close { margin-top: 8px; color: var(--mg-text); font-weight: 700;
+
+/* Video */
+
+.mg-carpa.mg-video { max-width: 540px; margin: 24px auto 0; border-radius: 14px; overflow: hidden; background: #f5f5f5; line-height: 0;
+
+.mg-carpa.mg-video video { display: block; width: 100%; height: auto; margin: 0; border: 0; object-fit: contain; pointer-events: none;
+
+/* Beneficios */
+
+.mg-carpa.mg-benefit-list { display: flex; flex-direction: column; gap: 13px; max-width: 650px; margin: 0 auto!important; padding: 0!important; list-style: none!important;
+
+.mg-carpa.mg-benefit-list li { display: flex; align-items: flex-start; gap: 11px; margin: 0!important; padding: 0!important; list-style: none!important; color: var(--mg-muted); font-size: 16px; line-height: 1.5;
+
+/* Bloque emocional */
+
+/* Variantes */
+
+.mg-carpa.mg-color { display: inline-flex; align-items: center; gap: 9px; padding: 10px 19px; border: 1px solid #e4e4e4; border-radius: 8px; background: #ffffff; font-size: 15px; font-weight: 700;
+
+/* Preguntas frecuentes */
+
+.mg-carpa.mg-faq-item summary { display: flex; align-items: center; justify-content: space-between; gap: 15px; padding: 15px 0; font-size: 16px; font-weight: 800; line-height: 1.4; cursor: pointer; list-style: none!important; color: var(--mg-text);
+
+.mg-carpa.mg-faq-icon { width: 19px; height: 19px; min-width: 19px; color: var(--mg-green); transition: transform 0.2s ease;
+
+.mg-carpa.mg-faq-item[open].mg-faq-icon { transform: rotate(180deg);
+
+/* Adaptación móvil */
+
+.mg-carpa p,
+
+.mg-carpa.mg-faq-item summary { font-size: 15px;
+
+Un pequeño refugio para grandes aventuras
+
+Hoy es un castillo. Mañana, una casa secreta.
+
+Y antes de dormir, su rincón favorito para escuchar cuentos.
+
+Un espacio propio donde su imaginación pone las reglas.
+
+Mucho más que una carpa
+
+Su propio espacio un rincón para jugar, leer e imaginar.
+
+Luces decorativas crean un ambiente acogedor y especial.
+
+Diversión compartida para inventar historias con amigos y hermanos.
+
+Montaje sencillo prepará su rincón de juegos sin complicaciones.
+
+Una alternativa a las pantallas más oportunidades para disfrutar del juego creativo.
+
+Cuando se encienden las luces, empieza la magia
+
+Convertí cualquier rincón de casa en un lugar especial, donde las historias cobran vida y cada tarde puede ser una aventura diferente.
+
+Elegí su color favorito
+
+Disponible en dos colores.
+
+Rosa
+
+Celeste
+
+Preguntas frecuentes
+
+¿Se puede utilizar dentro de casa?
+
+Sí, podés instalarla en el dormitorio, el living o en su espacio de juegos.
+
+¿Incluye las luces?
+
+Sí, la carpa incluye luces decorativas para crear un ambiente más acogedor.
+
+¿Es difícil de armar?
+
+No, su montaje es sencillo y permite preparar un espacio de juegos dentro de casa.
+
+Características:
+- .mg-carpa *: :before
+- .mg-carpa p { font-family: inherit; margin: 0
+- .mg-carpa p { font-size: 16px; color: var(--mg-muted); line-height: 1.65
+- .mg-carpa.mg-highlight { color: var(--mg-green)
+- .mg-carpa.mg-section { margin-top: 30px
+- .mg-carpa.mg-hero { text-align: center; max-width: 680px; margin: 0 auto
+- .mg-carpa.mg-hero p { margin-top: 14px
+- .mg-carpa.mg-benefits h3 { text-align: center; margin-bottom: 18px
+- .mg-carpa.mg-benefit-list li: :before
+- .mg-carpa.mg-benefit-list svg { width: 21px; height: 21px; min-width: 21px; margin-top: 2px; color: var(--mg-green)
+- .mg-carpa.mg-benefit-list strong { color: var(--mg-text); font-weight: 800
+- .mg-carpa.mg-emotional { text-align: center; background: #f5f6f5; padding: 26px 24px; border-radius: 14px
+- .mg-carpa.mg-emotional p { max-width: 620px; margin: 12px auto 0
+- .mg-carpa.mg-variants { text-align: center
+- .mg-carpa.mg-variants p { margin-top: 8px
+- .mg-carpa.mg-colors { display: flex; justify-content: center; flex-wrap: wrap; gap: 12px; margin-top: 16px
+- .mg-carpa.mg-color-dot { display: block; width: 15px; height: 15px; border-radius: 50%
+- .mg-carpa.mg-pink { background: #e7a4bc
+- .mg-carpa.mg-blue { background: #9bcbe3
+- .mg-carpa.mg-faq h3 { text-align: center; margin-bottom: 16px
+- .mg-carpa.mg-faq-item { margin: 0; border-bottom: 1px solid #e5e5e5
+- .mg-carpa.mg-faq-item summary: :-webkit-details-marker { display: none
+- .mg-carpa.mg-faq-item p { padding: 0 25px 16px 0; font-size: 15px
+- @media (max-width: 767px) {
+- .mg-carpa { padding: 38px 16px 48px
+- .mg-carpa h2 { font-size: 27px
+- .mg-carpa h3 { font-size: 22px
+- .mg-carpa.mg-benefit-list li { font-size: 15px
+- .mg-carpa.mg-video { m</g:description>
       <g:link>https://milgenialuruguay.com/products/juego-de-mesa-catapulta-mete-gol-con-dedos-1?variant=51975566426426</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/PORT-5_2535b57c-2290-42d5-95be-0da2f586b58d.jpg?v=1762779891</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-6_0afa4f1d-a8e8-4c8b-8c35-48da9e9b3cdd.jpg?v=1762779908</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-2_5dada376-9acf-49e5-a945-ad6023668801.jpg?v=1762779908</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-3_00be7a8e-58c6-4bc7-b879-c765b97ed51a.jpg?v=1762779908</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-4_a39a60ce-6c94-4c64-92a8-26c8de4eeab5.jpg?v=1762779908</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-1_fe92b8be-e892-48c8-b69d-acae37ae4f4d.jpg?v=1762779908</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-1_713d7388-2056-4720-8d3f-869f599d248d.jpg?v=1763743389</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo1_dd70a3f7-6411-4366-aef0-d440c45079db.png?v=1795812632</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/portada_cee39bd9-f710-4ad8-8bbb-3c1d6cda6667.png?v=1795812632</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo2_b0ec2b2b-d46a-4a17-8291-67d59d3616de.png?v=1795812633</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo3_e36025df-bedc-4926-a534-8282f19b56f8.png?v=1795812633</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo4_447c1d26-7740-42e6-93df-577185fe9d3b.png?v=1795812633</g:additional_image_link>
       <g:availability>in_stock</g:availability>
       <g:price>1990.00 UYU</g:price>
       <g:sale_price>1690.00 UYU</g:sale_price>
@@ -57600,6 +57872,36 @@ Medidas: 1,25 cm x 1,25 cm
       <g:product_type>Juguetes</g:product_type>
       <g:age_group>kids</g:age_group>
       <g:color>Rosa</g:color>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa *</g:attribute_name><g:attribute_value>:before</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa p { font-family</g:attribute_name><g:attribute_value>inherit; margin: 0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa p { font-size</g:attribute_name><g:attribute_value>16px; color: var(--mg-muted); line-height: 1.65</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-highlight { color</g:attribute_name><g:attribute_value>var(--mg-green)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-section { margin-top</g:attribute_name><g:attribute_value>30px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-hero { text-align</g:attribute_name><g:attribute_value>center; max-width: 680px; margin: 0 auto</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-hero p { margin-top</g:attribute_name><g:attribute_value>14px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-benefits h3 { text-align</g:attribute_name><g:attribute_value>center; margin-bottom: 18px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-benefit-list li</g:attribute_name><g:attribute_value>:before</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-benefit-list svg { width</g:attribute_name><g:attribute_value>21px; height: 21px; min-width: 21px; margin-top: 2px; color: var(--mg-green)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-benefit-list strong { color</g:attribute_name><g:attribute_value>var(--mg-text); font-weight: 800</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-emotional { text-align</g:attribute_name><g:attribute_value>center; background: #f5f6f5; padding: 26px 24px; border-radius: 14px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-emotional p { max-width</g:attribute_name><g:attribute_value>620px; margin: 12px auto 0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-variants { text-align</g:attribute_name><g:attribute_value>center</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-variants p { margin-top</g:attribute_name><g:attribute_value>8px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-colors { display</g:attribute_name><g:attribute_value>flex; justify-content: center; flex-wrap: wrap; gap: 12px; margin-top: 16px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-color-dot { display</g:attribute_name><g:attribute_value>block; width: 15px; height: 15px; border-radius: 50%</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-pink { background</g:attribute_name><g:attribute_value>#e7a4bc</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-blue { background</g:attribute_name><g:attribute_value>#9bcbe3</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-faq h3 { text-align</g:attribute_name><g:attribute_value>center; margin-bottom: 16px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-faq-item { margin</g:attribute_name><g:attribute_value>0; border-bottom: 1px solid #e5e5e5</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-faq-item summary</g:attribute_name><g:attribute_value>:-webkit-details-marker { display: none</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-faq-item p { padding</g:attribute_name><g:attribute_value>0 25px 16px 0; font-size: 15px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>@media (max-width</g:attribute_name><g:attribute_value>767px) {</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa { padding</g:attribute_name><g:attribute_value>38px 16px 48px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa h2 { font-size</g:attribute_name><g:attribute_value>27px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa h3 { font-size</g:attribute_name><g:attribute_value>22px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-benefit-list li { font-size</g:attribute_name><g:attribute_value>15px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-video { margin-top</g:attribute_name><g:attribute_value>20px; border-radius: 12px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-carpa.mg-emotional { padding</g:attribute_name><g:attribute_value>23px 17px</g:attribute_value></g:product_detail>
     </item>
     <item>
       <g:id>2740-0</g:id>
@@ -61821,7 +62123,7 @@ Funda Protectora de Sofá Antimanchas ☑️ Material elástico, suave y resiste
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-1_7f8e306e-e359-49f8-a5c5-4d38ac83edf1.webp?v=1761842262</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-2_781a13e3-e5f0-4eb4-9f79-48c601715a33.webp?v=1761842262</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-4_28226549-e769-47f7-81a4-fa459692fe2e.webp?v=1761842262</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>2190.00 UYU</g:price>
       <g:brand>MilGenial Uruguay</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
@@ -78673,7 +78975,7 @@ Esta promoción es exclusiva solo por hoy y no está disponible en la tienda.
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/beige.webp?v=1751388750</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/marro.webp?v=1751388750</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/negro.webp?v=1751388750</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>2190.00 UYU</g:price>
       <g:brand>MilGenial Uruguay</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
@@ -142797,7 +143099,7 @@ Características:
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/negro_c9a81b26-3699-4c48-95b4-5cddf0ca0a16.jpg?v=1784895492</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/azull.jpg?v=1784895492</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/marronn.jpg?v=1784895492</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>2290.00 UYU</g:price>
       <g:brand>MilGenial Uruguay</g:brand>
       <g:gtin>659459543738</g:gtin>

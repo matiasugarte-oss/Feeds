@@ -2509,7 +2509,7 @@ Características:
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/168473/impresora-bambulab-a1-mini-combo.png?v=639180743277100000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/168474/impresora-bambulab-a1-mini-combo -1-.png?v=639180743277270000</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>866600.00 ARS</g:price>
+      <g:price>876400.00 ARS</g:price>
       <g:brand>Bambu Lab</g:brand>
       <g:mpn>31447411</g:mpn>
       <g:condition>new</g:condition>
@@ -6810,6 +6810,27 @@ Características:
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Zocalo</g:attribute_name><g:attribute_value>LGA1700</g:attribute_value></g:product_detail>
     </item>
     <item>
+      <g:id>22665458</g:id>
+      <g:title>Impresora 3D Elegoo Centauri Carbon 2 Combo</g:title>
+      <g:description>La Impresora 3D Elegoo Centauri Carbon 2 Combo es una solución innovadora para quienes buscan llevar sus proyectos de impresión 3D a un nuevo nivel. Diseñada para ofrecer una experiencia de impresión moderna, versátil y eficiente, permite transformar ideas y diseños digitales en objetos reales con gran precisión y calidad. Su combinación de tecnología avanzada y facilidad de uso la convierte en una excelente opción tanto para entusiastas del modelado 3D como para creadores, profesionales y usuarios que desean explorar nuevas posibilidades de fabricación y creatividad.
+
+Características:
+- Volumen de impresión (ancho x profundidad x alto, mm): 256 × 256 × 256 mm
+- stockensucursal: 0
+- IVA: 10.5%</g:description>
+      <g:link>https://www.diamondcomputacion.com.ar/impresora-3d-elegoo-centauri-carbon-2-combo/p?skuId=3718</g:link>
+      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/170318/22665458_1.png?v=639314060539200000</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>990700.00 ARS</g:price>
+      <g:brand>Elegoo</g:brand>
+      <g:mpn>22665458</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Impresoras 3D</g:product_type>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Volumen de impresión (ancho x profundidad x alto, mm)</g:attribute_name><g:attribute_value>256 × 256 × 256 mm</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>stockensucursal</g:attribute_name><g:attribute_value>0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>10.5%</g:attribute_value></g:product_detail>
+    </item>
+    <item>
       <g:id>80101</g:id>
       <g:title>Tablet 10" Iweggo 18GB 128GB Android 15</g:title>
       <g:description>La Tablet Iweggo de 10 pulgadas es una excelente alternativa para quienes buscan un dispositivo práctico y versátil para el uso diario. Su diseño moderno permite disfrutar de una experiencia cómoda en diferentes actividades, como navegar por internet, mirar películas y videos, utilizar redes sociales, estudiar o trabajar. Ideal para acompañarte en todo momento, brindando comodidad y funcionalidad para tus necesidades cotidianas.
@@ -8716,7 +8737,7 @@ Características:
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169916/sku3646foto02.png?v=639301990722370000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169917/sku3646foto03.png?v=639301990749630000</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>118800.00 ARS</g:price>
+      <g:price>113800.00 ARS</g:price>
       <g:brand>Genérico</g:brand>
       <g:gtin>850073872260</g:gtin>
       <g:mpn>832004820</g:mpn>
@@ -10490,7 +10511,7 @@ Características:
     <item>
       <g:id>850073872239</g:id>
       <g:item_group_id>3499</g:item_group_id>
-      <g:title>SSD Aimerican Immortality SATA - 240GB / 1</g:title>
+      <g:title>SSD Aimerican Immortality SATA - 240GB / 0</g:title>
       <g:description>El Aimerican Immortality es una unidad de almacenamiento SSD con interfaz SATA, destinada a guardar el sistema operativo, aplicaciones y archivos.
 
 Permite incorporar almacenamiento de estado sólido en un equipo compatible con la interfaz indicada. Verificá el formato de montaje y las conexiones disponibles antes de realizar la instalación.
@@ -10507,13 +10528,13 @@ Características:
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169749/480332550_1.png?v=639282020605000000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169751/480332550_1.png?v=639282023222530000</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>68400.00 ARS</g:price>
+      <g:price>66100.00 ARS</g:price>
       <g:brand>Genérico</g:brand>
       <g:gtin>850073872239</g:gtin>
       <g:mpn>850073872239</g:mpn>
       <g:condition>new</g:condition>
       <g:product_type>Componentes de PC &gt; Discos Rígidos &gt; Sólidos</g:product_type>
-      <g:size>1</g:size>
+      <g:size>0</g:size>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Marca</g:attribute_name><g:attribute_value>Aimerican</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Interfaz</g:attribute_name><g:attribute_value>SATA III</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>10.5%</g:attribute_value></g:product_detail>
@@ -11038,7 +11059,7 @@ El formato SODIMM permite identificar su uso en plataformas que admiten módulos
       <g:link>https://www.diamondcomputacion.com.ar/memoria-ram-sodimm-8gb-ddr4-3200mhz-aimerican-telekinesis/p?skuId=3493</g:link>
       <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169757/832002047_1.png?v=639282034746500000</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>115900.00 ARS</g:price>
+      <g:price>113300.00 ARS</g:price>
       <g:brand>Genérico</g:brand>
       <g:mpn>832002047</g:mpn>
       <g:condition>new</g:condition>
@@ -17617,8 +17638,8 @@ La presentación contiene 1 kg de filamento de 1.75 mm de diámetro. Seleccioná
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169214/502030693_1.png?v=639251788646100000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169221/502030261_1.png?v=639251814644670000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169220/502030230_1.png?v=639251813490900000</g:additional_image_link>
-      <g:availability>out_of_stock</g:availability>
-      <g:price>30100.00 ARS</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:price>28900.00 ARS</g:price>
       <g:brand>Elegoo</g:brand>
       <g:mpn>502030091</g:mpn>
       <g:condition>new</g:condition>
@@ -17713,8 +17734,8 @@ La presentación contiene 1 kg de filamento de 1.75 mm de diámetro. Seleccioná
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169215/502030091_1.png?v=639251803141870000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169214/502030693_1.png?v=639251788646100000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169221/502030261_1.png?v=639251814644670000</g:additional_image_link>
-      <g:availability>out_of_stock</g:availability>
-      <g:price>37000.00 ARS</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:price>37800.00 ARS</g:price>
       <g:brand>Elegoo</g:brand>
       <g:mpn>502030230</g:mpn>
       <g:condition>new</g:condition>
@@ -19641,6 +19662,27 @@ Características:
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Velocidad ISO de impresión (ppm)</g:attribute_name><g:attribute_value>29</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>stockensucursal</g:attribute_name><g:attribute_value>0</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21%</g:attribute_value></g:product_detail>
+    </item>
+    <item>
+      <g:id>6937120305606</g:id>
+      <g:title>Impresora 3D Flashforge Adventurer 5M Pro - 0</g:title>
+      <g:description>La Impresora 3D Flashforge Adventurer 5M Pro es una impresora 3D orientada a prototipado, piezas funcionales y proyectos creativos. Está diseñada para trabajar con filamentos compatibles y ofrecer una experiencia de impresión precisa y práctica.
+
+Características:
+- stockensucursal: 0
+- IVA: 10.5%</g:description>
+      <g:link>https://www.diamondcomputacion.com.ar/impresora-3d-flashforge-adventurer-5m-pro/p?skuId=3240</g:link>
+      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169072/6937120305606_1.png?v=639234589441870000</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>776900.00 ARS</g:price>
+      <g:brand>Flashforge</g:brand>
+      <g:gtin>6937120305606</g:gtin>
+      <g:mpn>6937120305606</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Impresoras 3D</g:product_type>
+      <g:size>0</g:size>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>stockensucursal</g:attribute_name><g:attribute_value>0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>10.5%</g:attribute_value></g:product_detail>
     </item>
     <item>
       <g:id>4711401664567</g:id>
@@ -36905,30 +36947,6 @@ Características:
       <g:product_type>Conectividad &gt; Cables</g:product_type>
       <g:size>0</g:size>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21%</g:attribute_value></g:product_detail>
-    </item>
-    <item>
-      <g:id>6957939002176</g:id>
-      <g:title>Adaptador Mercusys MA530 Bluetooth 5.4 USB NANO</g:title>
-      <g:description>El ADAPTADOR BLUETOOTH 5.4 USB NANO MERCUSYS MA530 permite agregar conectividad Bluetooth versión 5.4 a equipos compatibles. Este adaptador de Mercusys resulta útil para vincular auriculares, parlantes, teclados, mouses, celulares y otros dispositivos inalámbricos desde una computadora o fuente de audio compatible. El Adaptador Bluetooth 5.4 USB Nano Mercusys MA530 permite añadir conectividad inalámbrica moderna y estable a cualquier PC o notebook. Su diseño compacto facilita llevarlo junto con cables y accesorios, y permite resolver conexiones puntuales sin reemplazar el equipo principal.
-
-Características:
-- Tipo de adaptador: Bluetooth
-- IVA: 21%
-- stockensucursal: 0</g:description>
-      <g:link>https://www.diamondcomputacion.com.ar/adaptador-bluetooth-54-usb-nano-mercusys-ma530/p?skuId=2312</g:link>
-      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/165254/MA530_UN_1.0_06_large20240327072250.jpg?v=639005527898470000</g:image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/165255/MA530_UN_1.0_01_large20240327072400.jpg?v=639005527898600000</g:additional_image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/165256/MA530_UN_1.0_02_large20240327072348.jpg?v=639005527898600000</g:additional_image_link>
-      <g:availability>out_of_stock</g:availability>
-      <g:price>6400.00 ARS</g:price>
-      <g:brand>Mercusys</g:brand>
-      <g:gtin>6957939002176</g:gtin>
-      <g:mpn>6957939002176</g:mpn>
-      <g:condition>new</g:condition>
-      <g:product_type>Conectividad &gt; Adaptadores</g:product_type>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tipo de adaptador</g:attribute_name><g:attribute_value>Bluetooth</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21%</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>stockensucursal</g:attribute_name><g:attribute_value>0</g:attribute_value></g:product_detail>
     </item>
     <item>
       <g:id>23056</g:id>
@@ -62262,7 +62280,7 @@ Características:
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/162738/Kingston-PenDrive-64Gb--Exodia-M-Verde-USB-3-2-3.jpg?v=638852587690170000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/162739/Kingston-PenDrive-64Gb--Exodia-M-Verde-USB-3-2-2.jpg?v=638852587690470000</g:additional_image_link>
       <g:availability>out_of_stock</g:availability>
-      <g:price>11300.00 ARS</g:price>
+      <g:price>10400.00 ARS</g:price>
       <g:brand>Kingston</g:brand>
       <g:mpn>6426477</g:mpn>
       <g:condition>new</g:condition>
@@ -64721,50 +64739,136 @@ Características:
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Conectores</g:attribute_name><g:attribute_value>24 pines</g:attribute_value></g:product_detail>
     </item>
     <item>
-      <g:id>502222520</g:id>
-      <g:title>Monitor Hikvision DS-D5022QE-B 22" FHD - 0</g:title>
-      <g:description>El Monitor Hikvision DS-D5022QE-B 22" FHD ofrece una pantalla de 22 pulgadas con resolución Full HD, pensada para trabajo, estudio, entretenimiento o gaming según la configuración del modelo. La resolución Full HD entrega una imagen nítida para documentos, streaming, navegación y entretenimiento. Su diseño Hikvision se integra con facilidad a escritorios domésticos, oficinas y setups de entretenimiento. Su combinación de tamaño, definición y frecuencia permite adaptar la pantalla a distintas actividades sin ocupar más espacio del necesario.
+      <g:id>2475159</g:id>
+      <g:title>Monitor Asus VA24EHE 24" FHD 75Hz IPS - 0</g:title>
+      <g:description>El Monitor ASUS VA24EHE 24" FHD 75Hz IPS ofrece una pantalla de 24 pulgadas con resolución Full HD y panel IPS, pensada para trabajo, estudio, entretenimiento o gaming según la configuración del modelo. La frecuencia de 75Hz resulta adecuada para oficina, estudio, navegación y reproducción multimedia. El panel IPS ofrece colores consistentes y buenos ángulos de visión, útil para productividad, contenido multimedia y tareas visuales. La resolución Full HD entrega una imagen nítida para documentos, streaming, navegación y entretenimiento. El monitor ASUS VA24EHE Eye Care presenta un panel IPS de 23.8 pulgadas con resolución Full HD (1920 x 1080), que proporciona un panel de ángulo de visión de 178 ° de ancho y una calidad de imagen vívida
 
 Características:
 - Tipo: Plano
 - Relación de aspecto: 16:9
-- Panel: LED
+- Panel: IPS
 - Tiempo de respuesta: 5 ms
 - Resolución: Full HD
-- Tasa de refresco: 60 Hz
+- Tasa de refresco: 75 Hz
 - Parlantes: No
-- Pulgadas: 22 pulgadas
+- IVA: 21%
+- Pulgadas: 24 pulgadas
+- HDMI: 1
+- VGA: 1
+- Jack 3.5mm: No
+- Ethernet: No
+- Montaje VESA: 100 x 100 mm (M4 x 10 mm)
+- DVI: 1</g:description>
+      <g:link>https://www.diamondcomputacion.com.ar/monitor-asus-va24ehe-24-ips-full-hd-75hz-5ms/p?skuId=377</g:link>
+      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156913/2475159_2.jpg?v=638069061559870000</g:image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156914/2475159_3.jpg?v=638854206347070000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156915/2475159_4.jpg?v=638854206347070000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156912/2475159_1.jpg?v=638854206347230000</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>200500.00 ARS</g:price>
+      <g:brand>Asus</g:brand>
+      <g:gtin>4718017451253</g:gtin>
+      <g:mpn>2475159</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Monitores &gt; Monitores Gamer</g:product_type>
+      <g:size>0</g:size>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tipo</g:attribute_name><g:attribute_value>Plano</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Relación de aspecto</g:attribute_name><g:attribute_value>16:9</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Panel</g:attribute_name><g:attribute_value>IPS</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tiempo de respuesta</g:attribute_name><g:attribute_value>5 ms</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Resolución</g:attribute_name><g:attribute_value>Full HD</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tasa de refresco</g:attribute_name><g:attribute_value>75 Hz</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Parlantes</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21%</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Pulgadas</g:attribute_name><g:attribute_value>24 pulgadas</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>HDMI</g:attribute_name><g:attribute_value>1</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>VGA</g:attribute_name><g:attribute_value>1</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Jack 3.5mm</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Ethernet</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Montaje VESA</g:attribute_name><g:attribute_value>100 x 100 mm (M4 x 10 mm)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>DVI</g:attribute_name><g:attribute_value>1</g:attribute_value></g:product_detail>
+    </item>
+    <item>
+      <g:id>27341</g:id>
+      <g:title>Monitor Philips 193V5LHSB2/55 19" HD - 0</g:title>
+      <g:description>El Monitor Philips 193V5LHSB2/55 19" HD ofrece una pantalla de 19 pulgadas con resolución HD, pensada para trabajo, estudio, entretenimiento o gaming según la configuración del modelo. La resolución HD cubre tareas básicas de oficina, estudio y reproducción de contenido. » HDMI Ready para el entretenimiento en Full HD Un dispositivo HDMI Ready tiene todo el hardware necesario para admitir una entrada de interfaz multimedia de alta definición (HDMI) » Pantalla ecológica sin mercurio Los monitores de Philips con retroiluminación LED no contienen mercurio, una de las sustancias naturales más tóxicas que afectan a los seres humanos y a los animales Su diseño Philips se integra con facilidad a escritorios domésticos, oficinas y setups de entretenimiento.
+
+Características:
+- Tipo: Plano
+- Relación de aspecto: 16:9
+- Panel: LCD
+- Tiempo de respuesta: 1 ms
+- Resolución: HD
+- Tasa de refresco: 60 Hz
+- Pulgadas: 19 pulgadas
 - IVA: 21%
 - HDMI: 1
 - VGA: 1
 - Jack 3.5mm: No
 - Ethernet: No
 - Montaje VESA: 100 x 100 mm (M4 x 10 mm)</g:description>
-      <g:link>https://www.diamondcomputacion.com.ar/monitor-hikvision-dsd5022qeb-22-led-full-hd-60hz-5ms/p?skuId=385</g:link>
-      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156953/502222520_1.jpg?v=638069061773230000</g:image_link>
-      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156954/502222520_4.jpg?v=639168753724600000</g:additional_image_link>
+      <g:link>https://www.diamondcomputacion.com.ar/monitor-philips-193v5lhsb255-19-lcd-hd-60hz-5ms/p?skuId=368</g:link>
+      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156863/27341_2.jpg?v=638069061305000000</g:image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156864/27341_3.jpg?v=639168753878700000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156865/27341_4.jpg?v=639168753878870000</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>174900.00 ARS</g:price>
-      <g:brand>Hikvision</g:brand>
-      <g:gtin>842571116465</g:gtin>
-      <g:mpn>502222520</g:mpn>
+      <g:price>159900.00 ARS</g:price>
+      <g:brand>Philips</g:brand>
+      <g:gtin>8712581753610</g:gtin>
+      <g:mpn>27341</g:mpn>
       <g:condition>new</g:condition>
       <g:product_type>Monitores &gt; Monitores de Oficina</g:product_type>
       <g:size>0</g:size>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tipo</g:attribute_name><g:attribute_value>Plano</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Relación de aspecto</g:attribute_name><g:attribute_value>16:9</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Panel</g:attribute_name><g:attribute_value>LED</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tiempo de respuesta</g:attribute_name><g:attribute_value>5 ms</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Resolución</g:attribute_name><g:attribute_value>Full HD</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Panel</g:attribute_name><g:attribute_value>LCD</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tiempo de respuesta</g:attribute_name><g:attribute_value>1 ms</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Resolución</g:attribute_name><g:attribute_value>HD</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tasa de refresco</g:attribute_name><g:attribute_value>60 Hz</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Parlantes</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Pulgadas</g:attribute_name><g:attribute_value>22 pulgadas</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Pulgadas</g:attribute_name><g:attribute_value>19 pulgadas</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21%</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>HDMI</g:attribute_name><g:attribute_value>1</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>VGA</g:attribute_name><g:attribute_value>1</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Jack 3.5mm</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Ethernet</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Montaje VESA</g:attribute_name><g:attribute_value>100 x 100 mm (M4 x 10 mm)</g:attribute_value></g:product_detail>
+    </item>
+    <item>
+      <g:id>2222</g:id>
+      <g:title>Monitor Philips 221V8 22" FHD 75Hz VA - 0</g:title>
+      <g:description>El Monitor Philips 221V8 22" FHD 75Hz VA ofrece una pantalla de 22 pulgadas con resolución Full HD y panel VA, pensada para trabajo, estudio, entretenimiento o gaming según la configuración del modelo. La frecuencia de 75Hz resulta adecuada para oficina, estudio, navegación y reproducción multimedia. El panel VA aporta buen contraste y una reproducción profunda de escenas oscuras, conveniente para películas y juegos. La resolución Full HD entrega una imagen nítida para documentos, streaming, navegación y entretenimiento. Su tecnología de gestión de píxeles optimizada te ofrece un ángulo de visión extrapanorámico de 178/178 grados, que proporciona imágenes nítidas » Pantalla de 16:9 con Full HD para unas imágenes nítidas La calidad de imagen importa
+
+Características:
+- Tipo: Plano
+- Relación de aspecto: 16:9
+- Panel: VA
+- Tiempo de respuesta: 4 ms
+- Resolución: 1920 x 1080
+- Tasa de refresco: 75 Hz
+- Pulgadas: 22 pulgadas
+- IVA: 21%</g:description>
+      <g:link>https://www.diamondcomputacion.com.ar/monitor-philips-221v8-22-va-full-hd-75hz-4ms/p?skuId=365</g:link>
+      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156851/2222_1.jpg?v=638069061229870000</g:image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156852/2222_2.jpg?v=638852441288100000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156853/2222_3.jpg?v=638852441288570000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156854/2222_4.jpg?v=638852441288570000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156855/2222_5.jpg?v=638852441288730000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/156856/2222_6.jpg?v=638852441288730000</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>176600.00 ARS</g:price>
+      <g:brand>Philips</g:brand>
+      <g:mpn>2222</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Monitores &gt; Monitores de Oficina</g:product_type>
+      <g:size>0</g:size>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tipo</g:attribute_name><g:attribute_value>Plano</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Relación de aspecto</g:attribute_name><g:attribute_value>16:9</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Panel</g:attribute_name><g:attribute_value>VA</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tiempo de respuesta</g:attribute_name><g:attribute_value>4 ms</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Resolución</g:attribute_name><g:attribute_value>1920 x 1080</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tasa de refresco</g:attribute_name><g:attribute_value>75 Hz</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Pulgadas</g:attribute_name><g:attribute_value>22 pulgadas</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21%</g:attribute_value></g:product_detail>
     </item>
     <item>
       <g:id>80258025</g:id>

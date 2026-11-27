@@ -1,8 +1,8 @@
 {
  "tienda": "Milgenialuruguay",
  "url": "https://milgenialuruguay.com",
- "generado": "2026-11-27T20:22:22+00:00",
- "total": 1605,
+ "generado": "2026-11-27T21:20:19+00:00",
+ "total": 1604,
  "productos": [
   {
    "titulo": "SpikeBall Juego de Rebote 3 Pelota mas Red",
@@ -294,30 +294,6 @@
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/pato-astronauta-bailarin-para-armar-con-destornillador?variant=67951843049786"
-    }
-   ]
-  },
-  {
-   "titulo": "Repuesto de 50 Toallitas para Cepillo Mágico",
-   "url": "https://milgenialuruguay.com/products/repuesto-de-50-toallitas-para-cepillo-magico",
-   "marca": "Clara (Yiwu Mayhome Import&export Co.,ltd) (0.0 Unidades - 23,67 $)",
-   "categorias": [],
-   "descripcion": "",
-   "caracteristicas": {},
-   "precio_desde": 290.0,
-   "moneda": "UYU",
-   "disponible": true,
-   "imagenes": [],
-   "variantes": [
-    {
-     "sku": "3125-0",
-     "opciones": {},
-     "precio": 290.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": null,
-     "url": "https://milgenialuruguay.com/products/repuesto-de-50-toallitas-para-cepillo-magico?variant=67951845146938"
     }
    ]
   },
@@ -3540,7 +3516,7 @@
      },
      "precio": 1690.0,
      "precio_anterior": 2190.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/escurridor-con-bandeja-y-drenaje-calidad-superior?variant=47585773879610"
@@ -4380,7 +4356,7 @@
      },
      "precio": 990.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/plantillas-deportivas-de-latex-con-soporte-de-arco?variant=47333874860346"
@@ -10410,7 +10386,7 @@
    },
    "precio_desde": 2490.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-1_cffbbfe5-d5b0-451b-8fd2-45fb44c3ac51.jpg?v=1773766043",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/Generated_Image_March_17_2026_-_1_43PM.jpg?v=1773766043",
@@ -10422,7 +10398,7 @@
      "opciones": {},
      "precio": 2490.0,
      "precio_anterior": 3990.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/pistola-touchpro-de-masajes-3-niveles-marca-wilma?variant=45254744080698"
@@ -20949,7 +20925,7 @@
    "caracteristicas": {},
    "precio_desde": 1490.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/61H1paWgwIL._AC_SL1001.jpg?v=1731091702",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/61wZOzw95RL._AC_SL1500.jpg?v=1731091705",
@@ -20961,7 +20937,7 @@
      "opciones": {},
      "precio": 1490.0,
      "precio_anterior": 1990.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/carpa-piscina-de-ninos-para-playa?variant=47196192899386"
@@ -23615,9 +23591,9 @@
    "moneda": "UYU",
    "disponible": true,
    "imagenes": [
-    "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/H88a79074ced3428d9dd59aa7a675bd90X.jpg?v=1761067608",
-    "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/asd_d99a15a0-7450-41ce-9332-f5e922c05fb9.jpg?v=1763658423",
-    "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/H85dcdfb868334f1c85d59e85fd7f1699Z.jpg?v=1763658423"
+    "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/portada_5879ca20-f017-454c-a9a8-d42657165258.png?v=1795811804",
+    "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo1_2b26b1b6-e5ba-4901-bfc6-78db9bbd3e4a.png?v=1795811804",
+    "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo2_fc346cd7-0812-426e-beee-86fb6d6a843b.png?v=1795811804"
    ],
    "variantes": [
     {
@@ -23669,15 +23645,46 @@
    "categorias": [
     "Juguetes"
    ],
-   "descripcion": "🎪 Transformá su espacio de juego en una aventura mágica\n\nLa Carpa Infantil Grande con Luces es el rincón perfecto para que los niños exploren, imaginen y se diviertan en su propio mundo. Ideal para interiores o exteriores, este espacio especial les permite construir historias, jugar con amigos o simplemente relajarse bajo su “techo” de fantasía.\n\n➡️ Lo que la hace tan especial\n\n✅ Amplia y cómoda: ideal para que jueguen varios niños o se transformen en su escondite favorito. ✅ Luces integradas: crean un ambiente cálido y encantador que invita al juego y la imaginación. ✅ Montaje sencillo: la arman solos o con ayuda, y pueden moverla según el espacio. ✅ Estimula su creatividad, autonomía y ganas de jugar sin parar.\n\nMedidas: 1,25 cm x 1,25 cm\n\n✨ Regalales momentos de pura magia y diversión. Pedila hoy y convertí cada tarde en una historia inolvidable.",
-   "caracteristicas": {},
+   "descripcion": "/* Estilos generales */\n\n.mg-carpa {\n\n--mg-green: #0D8B48;\n\n--mg-text: #242424;\n\n--mg-muted: #555555; font-family: 'Nunito', sans-serif; color: var(--mg-text); max-width: 900px; margin: 0 auto; padding: 38px 24px 48px; line-height: 1.6; box-sizing: border-box;\n\n}\n\n.mg-carpa *,\n\n.mg-carpa h2,\n\n.mg-carpa h3,\n\n.mg-carpa h2 { font-size: clamp(25px, 4vw, 34px); font-weight: 800; line-height: 1.2; letter-spacing: -0.6px;\n\n.mg-carpa h3 { font-size: clamp(21px, 3vw, 26px); font-weight: 800; line-height: 1.3; letter-spacing: -0.3px;\n\n/* Encabezado */\n\n.mg-carpa.mg-hero.mg-hero-close { margin-top: 8px; color: var(--mg-text); font-weight: 700;\n\n/* Video */\n\n.mg-carpa.mg-video { max-width: 540px; margin: 24px auto 0; border-radius: 14px; overflow: hidden; background: #f5f5f5; line-height: 0;\n\n.mg-carpa.mg-video video { display: block; width: 100%; height: auto; margin: 0; border: 0; object-fit: contain; pointer-events: none;\n\n/* Beneficios */\n\n.mg-carpa.mg-benefit-list { display: flex; flex-direction: column; gap: 13px; max-width: 650px; margin: 0 auto!important; padding: 0!important; list-style: none!important;\n\n.mg-carpa.mg-benefit-list li { display: flex; align-items: flex-start; gap: 11px; margin: 0!important; padding: 0!important; list-style: none!important; color: var(--mg-muted); font-size: 16px; line-height: 1.5;\n\n/* Bloque emocional */\n\n/* Variantes */\n\n.mg-carpa.mg-color { display: inline-flex; align-items: center; gap: 9px; padding: 10px 19px; border: 1px solid #e4e4e4; border-radius: 8px; background: #ffffff; font-size: 15px; font-weight: 700;\n\n/* Preguntas frecuentes */\n\n.mg-carpa.mg-faq-item summary { display: flex; align-items: center; justify-content: space-between; gap: 15px; padding: 15px 0; font-size: 16px; font-weight: 800; line-height: 1.4; cursor: pointer; list-style: none!important; color: var(--mg-text);\n\n.mg-carpa.mg-faq-icon { width: 19px; height: 19px; min-width: 19px; color: var(--mg-green); transition: transform 0.2s ease;\n\n.mg-carpa.mg-faq-item[open].mg-faq-icon { transform: rotate(180deg);\n\n/* Adaptación móvil */\n\n.mg-carpa p,\n\n.mg-carpa.mg-faq-item summary { font-size: 15px;\n\nUn pequeño refugio para grandes aventuras\n\nHoy es un castillo. Mañana, una casa secreta.\n\nY antes de dormir, su rincón favorito para escuchar cuentos.\n\nUn espacio propio donde su imaginación pone las reglas.\n\nMucho más que una carpa\n\nSu propio espacio un rincón para jugar, leer e imaginar.\n\nLuces decorativas crean un ambiente acogedor y especial.\n\nDiversión compartida para inventar historias con amigos y hermanos.\n\nMontaje sencillo prepará su rincón de juegos sin complicaciones.\n\nUna alternativa a las pantallas más oportunidades para disfrutar del juego creativo.\n\nCuando se encienden las luces, empieza la magia\n\nConvertí cualquier rincón de casa en un lugar especial, donde las historias cobran vida y cada tarde puede ser una aventura diferente.\n\nElegí su color favorito\n\nDisponible en dos colores.\n\nRosa\n\nCeleste\n\nPreguntas frecuentes\n\n¿Se puede utilizar dentro de casa?\n\nSí, podés instalarla en el dormitorio, el living o en su espacio de juegos.\n\n¿Incluye las luces?\n\nSí, la carpa incluye luces decorativas para crear un ambiente más acogedor.\n\n¿Es difícil de armar?\n\nNo, su montaje es sencillo y permite preparar un espacio de juegos dentro de casa.",
+   "caracteristicas": {
+    ".mg-carpa *": ":before,",
+    ".mg-carpa p { font-family": "inherit; margin: 0;",
+    ".mg-carpa p { font-size": "16px; color: var(--mg-muted); line-height: 1.65;",
+    ".mg-carpa.mg-highlight { color": "var(--mg-green);",
+    ".mg-carpa.mg-section { margin-top": "30px;",
+    ".mg-carpa.mg-hero { text-align": "center; max-width: 680px; margin: 0 auto;",
+    ".mg-carpa.mg-hero p { margin-top": "14px;",
+    ".mg-carpa.mg-benefits h3 { text-align": "center; margin-bottom: 18px;",
+    ".mg-carpa.mg-benefit-list li": ":before,",
+    ".mg-carpa.mg-benefit-list svg { width": "21px; height: 21px; min-width: 21px; margin-top: 2px; color: var(--mg-green);",
+    ".mg-carpa.mg-benefit-list strong { color": "var(--mg-text); font-weight: 800;",
+    ".mg-carpa.mg-emotional { text-align": "center; background: #f5f6f5; padding: 26px 24px; border-radius: 14px;",
+    ".mg-carpa.mg-emotional p { max-width": "620px; margin: 12px auto 0;",
+    ".mg-carpa.mg-variants { text-align": "center;",
+    ".mg-carpa.mg-variants p { margin-top": "8px;",
+    ".mg-carpa.mg-colors { display": "flex; justify-content: center; flex-wrap: wrap; gap: 12px; margin-top: 16px;",
+    ".mg-carpa.mg-color-dot { display": "block; width: 15px; height: 15px; border-radius: 50%;",
+    ".mg-carpa.mg-pink { background": "#e7a4bc;",
+    ".mg-carpa.mg-blue { background": "#9bcbe3;",
+    ".mg-carpa.mg-faq h3 { text-align": "center; margin-bottom: 16px;",
+    ".mg-carpa.mg-faq-item { margin": "0; border-bottom: 1px solid #e5e5e5;",
+    ".mg-carpa.mg-faq-item summary": ":-webkit-details-marker { display: none;",
+    ".mg-carpa.mg-faq-item p { padding": "0 25px 16px 0; font-size: 15px;",
+    "@media (max-width": "767px) {",
+    ".mg-carpa { padding": "38px 16px 48px;",
+    ".mg-carpa h2 { font-size": "27px;",
+    ".mg-carpa h3 { font-size": "22px;",
+    ".mg-carpa.mg-benefit-list li { font-size": "15px;",
+    ".mg-carpa.mg-video { margin-top": "20px; border-radius: 12px;",
+    ".mg-carpa.mg-emotional { padding": "23px 17px;"
+   },
    "precio_desde": 1690.0,
    "moneda": "UYU",
    "disponible": true,
    "imagenes": [
-    "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/PORT-5_2535b57c-2290-42d5-95be-0da2f586b58d.jpg?v=1762779891",
-    "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-6_0afa4f1d-a8e8-4c8b-8c35-48da9e9b3cdd.jpg?v=1762779908",
-    "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-2_5dada376-9acf-49e5-a945-ad6023668801.jpg?v=1762779908"
+    "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/portada_cee39bd9-f710-4ad8-8bbb-3c1d6cda6667.png?v=1795812632",
+    "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo1_dd70a3f7-6411-4366-aef0-d440c45079db.png?v=1795812632",
+    "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo2_b0ec2b2b-d46a-4a17-8291-67d59d3616de.png?v=1795812633"
    ],
    "variantes": [
     {
@@ -25437,7 +25444,7 @@
      },
      "precio": 2190.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/oferta-1-funda-protectora-de-sofa-2-fundas-de-almohadones-de-regalo?variant=52056169480506"
@@ -34293,7 +34300,7 @@
      },
      "precio": 2190.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/sistema-completo-de-proteccion-textil-funda-protectora-de-sfa-capsulas-tuki-de-regalo?variant=51468679414074"
@@ -62455,7 +62462,7 @@
      },
      "precio": 2290.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/funda-protectora-de-sofa-anti-manchas?variant=47119743451450"

@@ -1,8 +1,8 @@
 {
  "tienda": "Diamond Computacion",
  "url": "https://www.diamondcomputacion.com.ar",
- "generado": "2026-11-27T20:22:55+00:00",
- "total": 1380,
+ "generado": "2026-11-27T21:20:55+00:00",
+ "total": 1383,
  "productos": [
   {
    "titulo": "Carry Disk Netmak NM-CASEAL 2.5\" SATA",
@@ -1837,7 +1837,7 @@
     "stockensucursal": "0",
     "IVA": "10.5%"
    },
-   "precio_desde": 866600.0,
+   "precio_desde": 876400.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -1851,11 +1851,11 @@
      "opciones": {
       "Stockensucursal": "0"
      },
-     "precio": 866600.0,
+     "precio": 876400.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/impresora-3d-bambu-lab-a1-mini-combo/p?skuId=2916"
     }
    ]
@@ -2914,7 +2914,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/mouse-vertical-netmak-nm-ergo-inalambrico/p?skuId=3425"
     }
    ]
@@ -5065,6 +5065,38 @@
      "preorden": false,
      "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/procesador-intel-core-i5-12400-44-ghz-12va-generacion/p?skuId=213"
+    }
+   ]
+  },
+  {
+   "titulo": "Impresora 3D Elegoo Centauri Carbon 2 Combo",
+   "url": "https://www.diamondcomputacion.com.ar/impresora-3d-elegoo-centauri-carbon-2-combo/p",
+   "marca": "Elegoo",
+   "categorias": [
+    "Impresoras 3D"
+   ],
+   "descripcion": "La Impresora 3D Elegoo Centauri Carbon 2 Combo es una solución innovadora para quienes buscan llevar sus proyectos de impresión 3D a un nuevo nivel. Diseñada para ofrecer una experiencia de impresión moderna, versátil y eficiente, permite transformar ideas y diseños digitales en objetos reales con gran precisión y calidad. Su combinación de tecnología avanzada y facilidad de uso la convierte en una excelente opción tanto para entusiastas del modelado 3D como para creadores, profesionales y usuarios que desean explorar nuevas posibilidades de fabricación y creatividad.",
+   "caracteristicas": {
+    "Volumen de impresión (ancho x profundidad x alto, mm)": "256 × 256 × 256 mm",
+    "stockensucursal": "0",
+    "IVA": "10.5%"
+   },
+   "precio_desde": 990700.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/170318/22665458_1.png?v=639314060539200000"
+   ],
+   "variantes": [
+    {
+     "sku": "22665458",
+     "opciones": {},
+     "precio": 990700.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 10,
+     "url": "https://www.diamondcomputacion.com.ar/impresora-3d-elegoo-centauri-carbon-2-combo/p?skuId=3718"
     }
    ]
   },
@@ -7249,7 +7281,7 @@
     "Velocidad": "3200MHz",
     "RGB": "No"
    },
-   "precio_desde": 118800.0,
+   "precio_desde": 113800.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -7265,11 +7297,11 @@
       "Iluminación": "Sin RGB",
       "stockensucursal": "0"
      },
-     "precio": 118800.0,
+     "precio": 113800.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/memoria-ram-8gb-ddr4-3200mhz-aimerican-telekinesis/p?skuId=3646"
     }
    ]
@@ -9065,7 +9097,7 @@
     "IVA": "10.5%",
     "Factor de forma": "2.5 pulgadas"
    },
-   "precio_desde": 68400.0,
+   "precio_desde": 66100.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -9091,13 +9123,13 @@
      "sku": "850073872239",
      "opciones": {
       "Capacidad": "240GB",
-      "stockensucursal": "1"
+      "stockensucursal": "0"
      },
-     "precio": 68400.0,
+     "precio": 66100.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/ssd-aimerican-immortality-sata/p?skuId=3701"
     },
     {
@@ -9294,7 +9326,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/impresora-epson-ecotank-l3352-wifi-multifuncion/p?skuId=3504"
     }
    ]
@@ -9597,7 +9629,7 @@
     "Tipo": "DDR4",
     "Velocidad": "3200 MHz"
    },
-   "precio_desde": 115900.0,
+   "precio_desde": 113300.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -9609,11 +9641,11 @@
      "opciones": {
       "stockensucursal": "0"
      },
-     "precio": 115900.0,
+     "precio": 113300.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/memoria-ram-sodimm-8gb-ddr4-3200mhz-aimerican-telekinesis/p?skuId=3493"
     }
    ]
@@ -12743,7 +12775,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/fuente-msi-a550bn-550w-80-bronze/p?skuId=3395"
     }
    ]
@@ -14932,11 +14964,11 @@
       "Color": "Dorado",
       "stockensucursal": "0"
      },
-     "precio": 30100.0,
+     "precio": 28900.0,
      "precio_anterior": null,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
-     "stock": 0,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-silk-pla-1-75mm-1kg/p?skuId=3316"
     },
     {
@@ -14971,11 +15003,11 @@
       "Color": "Púrpura Galáctico",
       "stockensucursal": "0"
      },
-     "precio": 37000.0,
+     "precio": 37800.0,
      "precio_anterior": null,
-     "disponible": false,
+     "disponible": true,
      "preorden": false,
-     "stock": 0,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-silk-pla-1-75mm-1kg/p?skuId=3324"
     }
    ]
@@ -16786,6 +16818,39 @@
      "preorden": false,
      "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/impresora-hp-laserjet-m236sdw-multifuncion/p?skuId=3241"
+    }
+   ]
+  },
+  {
+   "titulo": "Impresora 3D Flashforge Adventurer 5M Pro",
+   "url": "https://www.diamondcomputacion.com.ar/impresora-3d-flashforge-adventurer-5m-pro/p",
+   "marca": "Flashforge",
+   "categorias": [
+    "Impresoras 3D"
+   ],
+   "descripcion": "La Impresora 3D Flashforge Adventurer 5M Pro es una impresora 3D orientada a prototipado, piezas funcionales y proyectos creativos. Está diseñada para trabajar con filamentos compatibles y ofrecer una experiencia de impresión precisa y práctica.",
+   "caracteristicas": {
+    "stockensucursal": "0",
+    "IVA": "10.5%"
+   },
+   "precio_desde": 776900.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/169072/6937120305606_1.png?v=639234589441870000"
+   ],
+   "variantes": [
+    {
+     "sku": "6937120305606",
+     "opciones": {
+      "Stockensucursal": "0"
+     },
+     "precio": 776900.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 10,
+     "url": "https://www.diamondcomputacion.com.ar/impresora-3d-flashforge-adventurer-5m-pro/p?skuId=3240"
     }
    ]
   },
@@ -29051,7 +29116,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/procesador-amd-ryzen-9-9950x3d-am5-16n-y-32h-57ghz/p?skuId=2602"
     }
    ]
@@ -35375,41 +35440,6 @@
    ]
   },
   {
-   "titulo": "Adaptador Mercusys MA530 Bluetooth 5.4 USB NANO",
-   "url": "https://www.diamondcomputacion.com.ar/adaptador-bluetooth-54-usb-nano-mercusys-ma530/p",
-   "marca": "Mercusys",
-   "categorias": [
-    "Conectividad",
-    "Adaptadores"
-   ],
-   "descripcion": "El ADAPTADOR BLUETOOTH 5.4 USB NANO MERCUSYS MA530 permite agregar conectividad Bluetooth versión 5.4 a equipos compatibles. Este adaptador de Mercusys resulta útil para vincular auriculares, parlantes, teclados, mouses, celulares y otros dispositivos inalámbricos desde una computadora o fuente de audio compatible. El Adaptador Bluetooth 5.4 USB Nano Mercusys MA530 permite añadir conectividad inalámbrica moderna y estable a cualquier PC o notebook. Su diseño compacto facilita llevarlo junto con cables y accesorios, y permite resolver conexiones puntuales sin reemplazar el equipo principal.",
-   "caracteristicas": {
-    "Tipo de adaptador": "Bluetooth",
-    "IVA": "21%",
-    "stockensucursal": "0"
-   },
-   "precio_desde": 6400.0,
-   "moneda": "ARS",
-   "disponible": false,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/165254/MA530_UN_1.0_06_large20240327072250.jpg?v=639005527898470000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/165255/MA530_UN_1.0_01_large20240327072400.jpg?v=639005527898600000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/165256/MA530_UN_1.0_02_large20240327072348.jpg?v=639005527898600000"
-   ],
-   "variantes": [
-    {
-     "sku": "6957939002176",
-     "opciones": {},
-     "precio": 6400.0,
-     "precio_anterior": null,
-     "disponible": false,
-     "preorden": false,
-     "stock": 0,
-     "url": "https://www.diamondcomputacion.com.ar/adaptador-bluetooth-54-usb-nano-mercusys-ma530/p?skuId=2312"
-    }
-   ]
-  },
-  {
    "titulo": "Cable USB Iphone",
    "url": "https://www.diamondcomputacion.com.ar/cable-usb-para-iphone/p",
    "marca": "Genérico",
@@ -38487,7 +38517,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 99999,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/fuente-formula-v-850w-apmm-850gm-80-gold-fm/p?skuId=2168"
     }
    ]
@@ -46958,7 +46988,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 99999,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/impresora-hp-mf-580-smart-tank/p?skuId=1624"
     }
    ]
@@ -54574,7 +54604,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/soporte-notebook-base-plegable/p?skuId=1072"
     }
    ]
@@ -56171,7 +56201,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/cartucho-alternativo-epson-t062-t063/p?skuId=862"
     }
    ]
@@ -58793,7 +58823,7 @@
       "Capacidad": "64GB Verde neón",
       "stockensucursal": "0"
      },
-     "precio": 11300.0,
+     "precio": 10400.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -60851,23 +60881,71 @@
    ]
   },
   {
-   "titulo": "Monitor Hikvision DS-D5022QE-B 22\" FHD",
-   "url": "https://www.diamondcomputacion.com.ar/monitor-hikvision-dsd5022qeb-22-led-full-hd-60hz-5ms/p",
-   "marca": "Hikvision",
+   "titulo": "Monitor Asus VA24EHE 24\" FHD 75Hz IPS",
+   "url": "https://www.diamondcomputacion.com.ar/monitor-asus-va24ehe-24-ips-full-hd-75hz-5ms/p",
+   "marca": "ASUS",
+   "categorias": [
+    "Monitores",
+    "Monitores Gamer"
+   ],
+   "descripcion": "El Monitor ASUS VA24EHE 24\" FHD 75Hz IPS ofrece una pantalla de 24 pulgadas con resolución Full HD y panel IPS, pensada para trabajo, estudio, entretenimiento o gaming según la configuración del modelo. La frecuencia de 75Hz resulta adecuada para oficina, estudio, navegación y reproducción multimedia. El panel IPS ofrece colores consistentes y buenos ángulos de visión, útil para productividad, contenido multimedia y tareas visuales. La resolución Full HD entrega una imagen nítida para documentos, streaming, navegación y entretenimiento. El monitor ASUS VA24EHE Eye Care presenta un panel IPS de 23.8 pulgadas con resolución Full HD (1920 x 1080), que proporciona un panel de ángulo de visión de 178 ° de ancho y una calidad de imagen vívida",
+   "caracteristicas": {
+    "Tipo": "Plano",
+    "Relación de aspecto": "16:9",
+    "Panel": "IPS",
+    "Tiempo de respuesta": "5 ms",
+    "Resolución": "Full HD",
+    "Tasa de refresco": "75 Hz",
+    "Parlantes": "No",
+    "IVA": "21%",
+    "Pulgadas": "24 pulgadas",
+    "HDMI": "1",
+    "VGA": "1",
+    "Jack 3.5mm": "No",
+    "Ethernet": "No",
+    "Montaje VESA": "100 x 100 mm (M4 x 10 mm)",
+    "DVI": "1"
+   },
+   "precio_desde": 200500.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156913/2475159_2.jpg?v=638069061559870000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156914/2475159_3.jpg?v=638854206347070000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156915/2475159_4.jpg?v=638854206347070000"
+   ],
+   "variantes": [
+    {
+     "sku": "2475159",
+     "opciones": {
+      "stockensucursal": "0"
+     },
+     "precio": 200500.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://www.diamondcomputacion.com.ar/monitor-asus-va24ehe-24-ips-full-hd-75hz-5ms/p?skuId=377"
+    }
+   ]
+  },
+  {
+   "titulo": "Monitor Philips 193V5LHSB2/55 19\" HD",
+   "url": "https://www.diamondcomputacion.com.ar/monitor-philips-193v5lhsb255-19-lcd-hd-60hz-5ms/p",
+   "marca": "Philips",
    "categorias": [
     "Monitores",
     "Monitores de Oficina"
    ],
-   "descripcion": "El Monitor Hikvision DS-D5022QE-B 22\" FHD ofrece una pantalla de 22 pulgadas con resolución Full HD, pensada para trabajo, estudio, entretenimiento o gaming según la configuración del modelo. La resolución Full HD entrega una imagen nítida para documentos, streaming, navegación y entretenimiento. Su diseño Hikvision se integra con facilidad a escritorios domésticos, oficinas y setups de entretenimiento. Su combinación de tamaño, definición y frecuencia permite adaptar la pantalla a distintas actividades sin ocupar más espacio del necesario.",
+   "descripcion": "El Monitor Philips 193V5LHSB2/55 19\" HD ofrece una pantalla de 19 pulgadas con resolución HD, pensada para trabajo, estudio, entretenimiento o gaming según la configuración del modelo. La resolución HD cubre tareas básicas de oficina, estudio y reproducción de contenido. » HDMI Ready para el entretenimiento en Full HD Un dispositivo HDMI Ready tiene todo el hardware necesario para admitir una entrada de interfaz multimedia de alta definición (HDMI) » Pantalla ecológica sin mercurio Los monitores de Philips con retroiluminación LED no contienen mercurio, una de las sustancias naturales más tóxicas que afectan a los seres humanos y a los animales Su diseño Philips se integra con facilidad a escritorios domésticos, oficinas y setups de entretenimiento.",
    "caracteristicas": {
     "Tipo": "Plano",
     "Relación de aspecto": "16:9",
-    "Panel": "LED",
-    "Tiempo de respuesta": "5 ms",
-    "Resolución": "Full HD",
+    "Panel": "LCD",
+    "Tiempo de respuesta": "1 ms",
+    "Resolución": "HD",
     "Tasa de refresco": "60 Hz",
-    "Parlantes": "No",
-    "Pulgadas": "22 pulgadas",
+    "Pulgadas": "19 pulgadas",
     "IVA": "21%",
     "HDMI": "1",
     "VGA": "1",
@@ -60875,25 +60953,68 @@
     "Ethernet": "No",
     "Montaje VESA": "100 x 100 mm (M4 x 10 mm)"
    },
-   "precio_desde": 174900.0,
+   "precio_desde": 159900.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156953/502222520_1.jpg?v=638069061773230000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156954/502222520_4.jpg?v=639168753724600000"
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156863/27341_2.jpg?v=638069061305000000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156864/27341_3.jpg?v=639168753878700000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156865/27341_4.jpg?v=639168753878870000"
    ],
    "variantes": [
     {
-     "sku": "502222520",
+     "sku": "27341",
      "opciones": {
       "stockensucursal": "0"
      },
-     "precio": 174900.0,
+     "precio": 159900.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
-     "url": "https://www.diamondcomputacion.com.ar/monitor-hikvision-dsd5022qeb-22-led-full-hd-60hz-5ms/p?skuId=385"
+     "stock": 1,
+     "url": "https://www.diamondcomputacion.com.ar/monitor-philips-193v5lhsb255-19-lcd-hd-60hz-5ms/p?skuId=368"
+    }
+   ]
+  },
+  {
+   "titulo": "Monitor Philips 221V8 22\" FHD 75Hz VA",
+   "url": "https://www.diamondcomputacion.com.ar/monitor-philips-221v8-22-va-full-hd-75hz-4ms/p",
+   "marca": "Philips",
+   "categorias": [
+    "Monitores",
+    "Monitores de Oficina"
+   ],
+   "descripcion": "El Monitor Philips 221V8 22\" FHD 75Hz VA ofrece una pantalla de 22 pulgadas con resolución Full HD y panel VA, pensada para trabajo, estudio, entretenimiento o gaming según la configuración del modelo. La frecuencia de 75Hz resulta adecuada para oficina, estudio, navegación y reproducción multimedia. El panel VA aporta buen contraste y una reproducción profunda de escenas oscuras, conveniente para películas y juegos. La resolución Full HD entrega una imagen nítida para documentos, streaming, navegación y entretenimiento. Su tecnología de gestión de píxeles optimizada te ofrece un ángulo de visión extrapanorámico de 178/178 grados, que proporciona imágenes nítidas » Pantalla de 16:9 con Full HD para unas imágenes nítidas La calidad de imagen importa",
+   "caracteristicas": {
+    "Tipo": "Plano",
+    "Relación de aspecto": "16:9",
+    "Panel": "VA",
+    "Tiempo de respuesta": "4 ms",
+    "Resolución": "1920 x 1080",
+    "Tasa de refresco": "75 Hz",
+    "Pulgadas": "22 pulgadas",
+    "IVA": "21%"
+   },
+   "precio_desde": 176600.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156851/2222_1.jpg?v=638069061229870000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156852/2222_2.jpg?v=638852441288100000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156853/2222_3.jpg?v=638852441288570000"
+   ],
+   "variantes": [
+    {
+     "sku": "2222",
+     "opciones": {
+      "stockensucursal": "0"
+     },
+     "precio": 176600.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://www.diamondcomputacion.com.ar/monitor-philips-221v8-22-va-full-hd-75hz-4ms/p?skuId=365"
     }
    ]
   },
