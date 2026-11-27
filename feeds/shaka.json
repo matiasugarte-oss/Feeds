@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-26T23:12:53+00:00",
+ "generado": "2026-11-27T00:10:57+00:00",
  "total": 549,
  "productos": [
   {
@@ -2841,7 +2841,7 @@
      "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 83,
+     "stock": 82,
      "url": "https://sh-aka.com.ar/productos/squared-boardshort-1q5h0/?variant=1645758143"
     },
     {
@@ -5335,7 +5335,9 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -5345,7 +5347,9 @@
     },
     {
      "sku": "371",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -5355,7 +5359,9 @@
     },
     {
      "sku": "372",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -7163,7 +7169,7 @@
      "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 50,
+     "stock": 49,
      "url": "https://sh-aka.com.ar/productos/retro-tee-azul-1rjlp/?variant=1645757415"
     },
     {
@@ -8229,7 +8235,9 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -8239,7 +8247,9 @@
     },
     {
      "sku": "368",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -8249,7 +8259,9 @@
     },
     {
      "sku": "369",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -8778,7 +8790,7 @@
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 12,
+     "stock": 11,
      "url": "https://sh-aka.com.ar/productos/fun-towel-polo-1xrri/?variant=1555351707"
     },
     {
@@ -14823,7 +14835,7 @@
      "precio_anterior": 135000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 9,
      "url": "https://sh-aka.com.ar/productos/basic-knit-negro-1quks/?variant=1631288986"
     }
    ]
@@ -18269,7 +18281,7 @@
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 65,
+     "stock": 62,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-negro/?variant=1367948001"
     },
     {
@@ -18764,7 +18776,7 @@
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 73,
+     "stock": 71,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-azul/?variant=1367950146"
     },
     {
@@ -18776,7 +18788,7 @@
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 73,
+     "stock": 72,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-azul/?variant=1367950151"
     },
     {
@@ -21760,7 +21772,7 @@
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 9,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-rojo-j5zk3/?variant=1367949985"
     },
     {
@@ -21772,7 +21784,7 @@
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 18,
+     "stock": 17,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-rojo-j5zk3/?variant=1367949989"
     },
     {
@@ -22717,7 +22729,7 @@
      "precio_anterior": 160000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 8,
+     "stock": 7,
      "url": "https://sh-aka.com.ar/productos/kidz-reversible-zip-hoodie-gris-oscuro-2kx7y/?variant=1555354817"
     },
     {
@@ -24958,7 +24970,7 @@
      "precio_anterior": 120000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 3,
+     "stock": 2,
      "url": "https://sh-aka.com.ar/productos/kidz-reversible-zip-hoodie-vison-copia-1kkdn/?variant=1559624963"
     },
     {
@@ -25794,7 +25806,7 @@
      "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 44,
+     "stock": 43,
      "url": "https://sh-aka.com.ar/productos/smmr-tee-crudo-14jyv/?variant=1615055442"
     },
     {
@@ -28245,7 +28257,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 15,
+     "stock": 14,
      "url": "https://sh-aka.com.ar/productos/costa-rica-knit-1ym6e/?variant=1496274464"
     },
     {
@@ -30078,9 +30090,7 @@
    "variantes": [
     {
      "sku": "747",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -30090,9 +30100,7 @@
     },
     {
      "sku": "748",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -30102,9 +30110,7 @@
     },
     {
      "sku": "749",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": true,
@@ -32410,7 +32416,7 @@
      "precio_anterior": 80000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 29,
+     "stock": 28,
      "url": "https://sh-aka.com.ar/productos/red-logo-waffle-tee-74uys/?variant=1645757630"
     },
     {
@@ -32422,7 +32428,7 @@
      "precio_anterior": 80000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 12,
+     "stock": 10,
      "url": "https://sh-aka.com.ar/productos/red-logo-waffle-tee-74uys/?variant=1645757634"
     }
    ]
@@ -32934,7 +32940,7 @@
      "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 99,
+     "stock": 98,
      "url": "https://sh-aka.com.ar/productos/90s-boardshort-azul-2jqmw/?variant=1645758087"
     },
     {
@@ -32946,7 +32952,7 @@
      "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 97,
+     "stock": 96,
      "url": "https://sh-aka.com.ar/productos/90s-boardshort-azul-2jqmw/?variant=1645758093"
     },
     {
