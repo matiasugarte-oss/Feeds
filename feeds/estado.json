@@ -97,5 +97,16 @@
     "error": null,
     "graves": 0,
     "avisos": 2
+  },
+  "diamondcomputacion": {
+    "nombre": "Diamond Computacion",
+    "url": "https://www.diamondcomputacion.com.ar",
+    "plataforma": "generico",
+    "productos": 3,
+    "items": 6,
+    "actualizado": "2026-11-27 13:45",
+    "error": null,
+    "graves": 1,
+    "avisos": 0
   }
 }

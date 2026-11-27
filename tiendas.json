@@ -73,5 +73,12 @@
     "url": "https://milgenialuruguay.com",
     "nombre": "Milgenialuruguay",
     "activa": true
+  },
+  {
+    "slug": "diamondcomputacion",
+    "url": "https://www.diamondcomputacion.com.ar",
+    "nombre": "Diamond Computacion",
+    "moneda": "ARS",
+    "activa": true
   }
 ]

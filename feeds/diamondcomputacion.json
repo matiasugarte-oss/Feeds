@@ -1,0 +1,116 @@
+{
+ "tienda": "Diamond Computacion",
+ "url": "https://www.diamondcomputacion.com.ar",
+ "generado": "2026-11-27T13:45:55+00:00",
+ "total": 3,
+ "productos": [
+  {
+   "titulo": "Motherboard MSI PRO Z790-P WiFi DDR5",
+   "url": "https://www.diamondcomputacion.com.ar/motherboard-msi-pro-z790-p-wifi-ddr5/p",
+   "marca": "MSI",
+   "categorias": [],
+   "descripcion": "La MSI PRO Z790-P WiFi es una placa madre para procesadores Intel compatibles con zócalo LGA1700, con memoria DDR5 y conexión de red inalámbrica.",
+   "caracteristicas": {},
+   "precio_desde": 473100.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vtexassets.com/arquivos/ids/170057/771488790_1.png?v=639312288191900000"
+   ],
+   "variantes": [
+    {
+     "sku": "00003665",
+     "opciones": {},
+     "precio": 473100.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": null,
+     "url": "https://www.diamondcomputacion.com.ar/motherboard-msi-pro-z790-p-wifi-ddr5/p"
+    }
+   ]
+  },
+  {
+   "titulo": "Motherboard MSI PRO B840M-P WiFi 6E DDR5",
+   "url": "https://www.diamondcomputacion.com.ar/motherboard-msi-pro-b840m-p-wifi-6e-ddr5/p",
+   "marca": "MSI",
+   "categorias": [],
+   "descripcion": "La MSI PRO B840M-P WiFi 6E es una placa madre AM5 para procesadores AMD compatibles, con soporte para memoria DDR5 y conectividad WiFi 6E.",
+   "caracteristicas": {},
+   "precio_desde": 255500.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vtexassets.com/arquivos/ids/170035/4711377361804_1.png?v=639312273797770000"
+   ],
+   "variantes": [
+    {
+     "sku": "00003660",
+     "opciones": {},
+     "precio": 255500.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": null,
+     "url": "https://www.diamondcomputacion.com.ar/motherboard-msi-pro-b840m-p-wifi-6e-ddr5/p"
+    }
+   ]
+  },
+  {
+   "titulo": "Fuente Gigabyte P-SS 80+ Silver",
+   "url": "https://www.diamondcomputacion.com.ar/fuente-gigabyte-p-ss-80-plus-silver/p",
+   "marca": "Gigabyte",
+   "categorias": [],
+   "descripcion": "Comprá FUENTE GIGABYTE 650W P650SS 80 PLUS SILVER al mejor precio en Diamond System. Fuente de alimentación potente y confiable para tu PC gamer o profesional.",
+   "caracteristicas": {},
+   "precio_desde": 85800.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vtexassets.com/arquivos/ids/161759/P550SS-07.png.png?v=638803161046330000"
+   ],
+   "variantes": [
+    {
+     "sku": "00001408",
+     "opciones": {},
+     "precio": 88700.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": null,
+     "url": "https://www.diamondcomputacion.com.ar/fuente-gigabyte-p-ss-80-plus-silver/p"
+    },
+    {
+     "sku": "00001409",
+     "opciones": {},
+     "precio": 85800.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": null,
+     "url": "https://www.diamondcomputacion.com.ar/fuente-gigabyte-p-ss-80-plus-silver/p"
+    },
+    {
+     "sku": "00001406",
+     "opciones": {},
+     "precio": 106200.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": null,
+     "url": "https://www.diamondcomputacion.com.ar/fuente-gigabyte-p-ss-80-plus-silver/p"
+    },
+    {
+     "sku": "00001357",
+     "opciones": {},
+     "precio": 106200.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": null,
+     "url": "https://www.diamondcomputacion.com.ar/fuente-gigabyte-p-ss-80-plus-silver/p"
+    }
+   ]
+  }
+ ]
+}
