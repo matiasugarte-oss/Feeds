@@ -4714,7 +4714,7 @@ Ella mide 1,56 y usa talle S</g:description>
       <g:image_link>https://acdn-us.mitiendanube.com/stores/001/708/518/products/artboard-46-c4877e12c18a90082217915010950784-1024-1024.webp</g:image_link>
       <g:additional_image_link>https://acdn-us.mitiendanube.com/stores/001/708/518/products/artboard-45-83c556bf0c493d852217915010950765-1024-1024.webp</g:additional_image_link>
       <g:additional_image_link>https://acdn-us.mitiendanube.com/stores/001/708/518/products/artboard-55-a39bddf14d0ef03eb617915010957121-1024-1024.webp</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>95000.00 ARS</g:price>
       <g:sale_price>85500.00 ARS</g:sale_price>
       <g:brand>Shaka Cmmnty</g:brand>
@@ -16639,7 +16639,7 @@ Ella mide 1,70 y usa talle S</g:description>
     <item>
       <g:id>1440889630</g:id>
       <g:item_group_id>324958311</g:item_group_id>
-      <g:title>Corset Top</g:title>
+      <g:title>Corset Top - S</g:title>
       <g:description>Top de poplin.
 
 Forma de corset con ajustes en mangas y volado en el torso.
@@ -16664,11 +16664,12 @@ Ella mide 1,75 y usa talle L</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>S</g:size>
     </item>
     <item>
       <g:id>1440889637</g:id>
       <g:item_group_id>324958311</g:item_group_id>
-      <g:title>Corset Top</g:title>
+      <g:title>Corset Top - M</g:title>
       <g:description>Top de poplin.
 
 Forma de corset con ajustes en mangas y volado en el torso.
@@ -16693,11 +16694,12 @@ Ella mide 1,75 y usa talle L</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>M</g:size>
     </item>
     <item>
       <g:id>1440889643</g:id>
       <g:item_group_id>324958311</g:item_group_id>
-      <g:title>Corset Top</g:title>
+      <g:title>Corset Top - L</g:title>
       <g:description>Top de poplin.
 
 Forma de corset con ajustes en mangas y volado en el torso.
@@ -16722,6 +16724,7 @@ Ella mide 1,75 y usa talle L</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>L</g:size>
     </item>
     <item>
       <g:id>1367940625</g:id>
@@ -29244,7 +29247,7 @@ Ella mide 1,74 y usa talle S</g:description>
     <item>
       <g:id>1073285773</g:id>
       <g:item_group_id>244269266</g:item_group_id>
-      <g:title>Top Polo - S</g:title>
+      <g:title>Top Polo</g:title>
       <g:description>Top de 100% algodón.
 
 Tela jersey 24/1 con lycra y cuello tejido a tono con estampa.
@@ -29268,12 +29271,11 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>S</g:size>
     </item>
     <item>
       <g:id>1073285775</g:id>
       <g:item_group_id>244269266</g:item_group_id>
-      <g:title>Top Polo - M</g:title>
+      <g:title>Top Polo</g:title>
       <g:description>Top de 100% algodón.
 
 Tela jersey 24/1 con lycra y cuello tejido a tono con estampa.
@@ -29297,12 +29299,11 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>M</g:size>
     </item>
     <item>
       <g:id>1073285776</g:id>
       <g:item_group_id>244269266</g:item_group_id>
-      <g:title>Top Polo - L</g:title>
+      <g:title>Top Polo</g:title>
       <g:description>Top de 100% algodón.
 
 Tela jersey 24/1 con lycra y cuello tejido a tono con estampa.
@@ -29326,7 +29327,6 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>L</g:size>
     </item>
     <item>
       <g:id>173</g:id>
@@ -46137,7 +46137,7 @@ Ella mide 1,70 y usa talle S</g:description>
       <g:additional_image_link>https://acdn-us.mitiendanube.com/stores/001/708/518/products/artboard-48-1436f2c3cf7eb4fb2117834601343092-1024-1024.webp</g:additional_image_link>
       <g:additional_image_link>https://acdn-us.mitiendanube.com/stores/001/708/518/products/artboard-49-4696d989f53eac88b817834601344176-1024-1024.webp</g:additional_image_link>
       <g:additional_image_link>https://acdn-us.mitiendanube.com/stores/001/708/518/products/artboard-51-d348a015866c1d335717834601342774-1024-1024.webp</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>160000.00 ARS</g:price>
       <g:sale_price>96000.00 ARS</g:sale_price>
       <g:brand>Shaka Cmmnty</g:brand>
@@ -47066,7 +47066,7 @@ el mide 1,80 y usa talle L ella mide 1,68 y usa talle S</g:description>
       <g:additional_image_link>https://acdn-us.mitiendanube.com/stores/001/708/518/products/artboard-71-b1891bd7762c78145117901157742740-1024-1024.webp</g:additional_image_link>
       <g:additional_image_link>https://acdn-us.mitiendanube.com/stores/001/708/518/products/artboard-72-fd64307b559300375317901157739058-1024-1024.webp</g:additional_image_link>
       <g:additional_image_link>https://acdn-us.mitiendanube.com/stores/001/708/518/products/artboard-73-11f5a2fd3fdef2784e17901157737182-1024-1024.webp</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>125000.00 ARS</g:price>
       <g:brand>Shaka Cmmnty</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
@@ -60161,7 +60161,7 @@ Ella mide 1,63 y usa talle S</g:description>
     <item>
       <g:id>1073285381</g:id>
       <g:item_group_id>244269148</g:item_group_id>
-      <g:title>SHK Morley Top</g:title>
+      <g:title>SHK Morley Top - S</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley
@@ -60186,11 +60186,12 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>S</g:size>
     </item>
     <item>
       <g:id>1073285382</g:id>
       <g:item_group_id>244269148</g:item_group_id>
-      <g:title>SHK Morley Top</g:title>
+      <g:title>SHK Morley Top - M</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley
@@ -60215,11 +60216,12 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>M</g:size>
     </item>
     <item>
       <g:id>1073285384</g:id>
       <g:item_group_id>244269148</g:item_group_id>
-      <g:title>SHK Morley Top</g:title>
+      <g:title>SHK Morley Top - L</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley
@@ -60244,6 +60246,7 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>L</g:size>
     </item>
     <item>
       <g:id>475</g:id>
@@ -61196,7 +61199,7 @@ Textura croco.
     <item>
       <g:id>747</g:id>
       <g:item_group_id>200221091</g:item_group_id>
-      <g:title>SHK Top - S</g:title>
+      <g:title>SHK Top</g:title>
       <g:description>Top de 100% algodón.
 
 Elastico bordado de la marca.
@@ -61220,12 +61223,11 @@ Hecho en Argentina x argentinos.</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>S</g:size>
     </item>
     <item>
       <g:id>748</g:id>
       <g:item_group_id>200221091</g:item_group_id>
-      <g:title>SHK Top - M</g:title>
+      <g:title>SHK Top</g:title>
       <g:description>Top de 100% algodón.
 
 Elastico bordado de la marca.
@@ -61249,12 +61251,11 @@ Hecho en Argentina x argentinos.</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>M</g:size>
     </item>
     <item>
       <g:id>749</g:id>
       <g:item_group_id>200221091</g:item_group_id>
-      <g:title>SHK Top - L</g:title>
+      <g:title>SHK Top</g:title>
       <g:description>Top de 100% algodón.
 
 Elastico bordado de la marca.
@@ -61278,7 +61279,6 @@ Hecho en Argentina x argentinos.</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>L</g:size>
     </item>
     <item>
       <g:id>1332696394</g:id>

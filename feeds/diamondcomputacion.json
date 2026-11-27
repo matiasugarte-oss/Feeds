@@ -1,7 +1,7 @@
 {
  "tienda": "Diamond Computacion",
  "url": "https://www.diamondcomputacion.com.ar",
- "generado": "2026-11-27T22:17:29+00:00",
+ "generado": "2026-11-27T23:19:41+00:00",
  "total": 1384,
  "productos": [
   {
@@ -8991,6 +8991,61 @@
    ]
   },
   {
+   "titulo": "Notebook Lenovo ThinkBook 16 Intel Core 5 210H 8GB 512GB",
+   "url": "https://www.diamondcomputacion.com.ar/notebook-lenovo-thinkbook-16-intel-core-5-210h-8gb-512gb/p",
+   "marca": "Lenovo",
+   "categorias": [
+    "Notebooks",
+    "Intel"
+   ],
+   "descripcion": "La Lenovo ThinkBook 16 combina procesador Intel Core 5 210H, 8GB de memoria y almacenamiento de 512GB en una notebook orientada al trabajo cotidiano.\n\nSu configuración de 8GB de RAM y almacenamiento de 512GB permite organizar documentos y aplicaciones. Incluye FreeDOS; requiere instalar el sistema operativo que se utilizará en el equipo.",
+   "caracteristicas": {
+    "Tamaño": "16 pulgadas",
+    "Tipo": "IPS",
+    "Tasa de refresco": "60 Hz",
+    "Resolución": "1920 x 1200",
+    "IVA": "10.5%",
+    "stockensucursal": "0",
+    "Capacidad SSD": "512 GB",
+    "Capacidad": "8 GB",
+    "Marca Procesador": "Intel",
+    "Modelo": "Core 5 210H",
+    "Núcleos": "8 (4 P-core + 4 E-core)",
+    "Integrados": "Sí",
+    "Marca": "Intel",
+    "HDMI": "1 x HDMI, hasta 4096 x 2160 a 60 Hz",
+    "USB Tipo A": "2 x USB-A de 5 Gbps; uno Always On",
+    "USB Tipo C": "1 x USB-C de 10 Gbps con PD 45 - 65 W y DisplayPort 1.4\n1 x Thunderbolt 4",
+    "Tarjeta SD": "Lector SD",
+    "Ethernet": "1 x RJ45",
+    "Jack 3.5mm": "1 x combinado de auriculares y micrófono de 3.5 mm",
+    "Wifi": "Sí",
+    "Bluetooth": "Sí",
+    "Cámara Web": "Full HD 1080p con obturador de privacidad",
+    "Micrófono": "Sí, doble micrófono"
+   },
+   "precio_desde": 1787804.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/169704/sku3515foto01.png?v=639281929498900000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/169705/sku3515foto02.png?v=639281929500630000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/169706/sku3515foto03.png?v=639281929502970000"
+   ],
+   "variantes": [
+    {
+     "sku": "198155963377",
+     "opciones": {},
+     "precio": 1787804.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://www.diamondcomputacion.com.ar/notebook-lenovo-thinkbook-16-intel-core-5-210h-8gb-512gb/p?skuId=3515"
+    }
+   ]
+  },
+  {
    "titulo": "Placa de video Arktek Radeon RX 550 4GB",
    "url": "https://www.diamondcomputacion.com.ar/placa-de-video-arktek-radeon-rx-550-4gb/p",
    "marca": "Genérico",
@@ -13852,7 +13907,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/impresora-canon-pixma-g3110-multifuncion-sistema-continuo/p?skuId=3351"
     }
    ]
@@ -14990,7 +15045,7 @@
       "Color": "Azul Galáctico",
       "stockensucursal": "0"
      },
-     "precio": 37000.0,
+     "precio": 39400.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -28786,7 +28841,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/cable-usb-a-micro-usb/p?skuId=2618"
     }
    ]
@@ -34584,7 +34639,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 99999,
      "url": "https://www.diamondcomputacion.com.ar/aire-comprimido-gtc-adg-001/p?skuId=2341"
     }
    ]
@@ -46600,7 +46655,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/motherboard-asus-prime-h610m-k-lga1700/p?skuId=1638"
     },
     {
@@ -48424,7 +48479,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/pendrive-hiksemi-m200s-rotary/p?skuId=1538"
     }
    ]
@@ -56772,7 +56827,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/cartucho-alternativo-hp-662-xl/p?skuId=821"
     },
     {
@@ -57318,7 +57373,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/tinta-alternativa-hp-gt51-gt52/p?skuId=783"
     },
     {
@@ -58797,7 +58852,7 @@
       "Capacidad": "32GB Negro",
       "stockensucursal": "0"
      },
-     "precio": 11300.0,
+     "precio": 12300.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -58849,7 +58904,7 @@
       "Capacidad": "128GB Negro/Rojo",
       "stockensucursal": "0"
      },
-     "precio": 27400.0,
+     "precio": 29800.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -60842,45 +60897,6 @@
    ]
   },
   {
-   "titulo": "Fuente DS 550W ATX 24 Pines",
-   "url": "https://www.diamondcomputacion.com.ar/fuente-ds-atx-550w-24-pines/p",
-   "marca": "DS",
-   "categorias": [
-    "Componentes de PC",
-    "Fuentes"
-   ],
-   "descripcion": "La Fuente DS ATX 550W 24 pines suministra energía a los componentes de una PC y está pensada para configuraciones compatibles con su potencia y conectores. Este producto mantiene las características identificadas en el nombre exacto del modelo. Resulta adecuado para usuarios que necesitan incorporar, reemplazar o ampliar un componente sin sumar funciones que no estén confirmadas. Antes de instalarlo o utilizarlo, conviene verificar medidas, conexiones, alimentación y compatibilidad con el resto del equipo.",
-   "caracteristicas": {
-    "Watts": "500 W",
-    "Color": "Gris",
-    "IVA": "21",
-    "Tamaño del ventilador": "120 mm",
-    "Conectores": "24 pines"
-   },
-   "precio_desde": 31200.0,
-   "moneda": "ARS",
-   "disponible": true,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/159508/2129_3.jpg?v=638285767350300000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/157003/2129_2.jpg?v=638069062058170000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/157004/2129_3.jpg?v=638069062061370000"
-   ],
-   "variantes": [
-    {
-     "sku": "2129",
-     "opciones": {
-      "stockensucursal": "0"
-     },
-     "precio": 31200.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 1,
-     "url": "https://www.diamondcomputacion.com.ar/fuente-ds-atx-550w-24-pines/p?skuId=394"
-    }
-   ]
-  },
-  {
    "titulo": "Monitor Hikvision DS-D5022QE-B 22\" FHD",
    "url": "https://www.diamondcomputacion.com.ar/monitor-hikvision-dsd5022qeb-22-led-full-hd-60hz-5ms/p",
    "marca": "Hikvision",
@@ -61934,7 +61950,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 99999,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/mother-msi-h610m-g-pro/p?skuId=269"
     }
    ]
