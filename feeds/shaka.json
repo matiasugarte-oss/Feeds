@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-27T04:24:40+00:00",
+ "generado": "2026-11-27T06:16:47+00:00",
  "total": 549,
  "productos": [
   {
@@ -5335,7 +5335,9 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -5345,7 +5347,9 @@
     },
     {
      "sku": "371",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -5355,7 +5359,9 @@
     },
     {
      "sku": "372",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -8229,7 +8235,9 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -8239,7 +8247,9 @@
     },
     {
      "sku": "368",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -8249,7 +8259,9 @@
     },
     {
      "sku": "369",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -11020,7 +11032,7 @@
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 4,
+     "stock": 3,
      "url": "https://sh-aka.com.ar/productos/3-longsleeve-shirt-crudo-156s2/?variant=1615144648"
     },
     {
@@ -18053,7 +18065,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 6,
+     "stock": 5,
      "url": "https://sh-aka.com.ar/productos/bigger-cmmnty-knit-negro/?variant=1251848904"
     }
    ]
@@ -20259,9 +20271,7 @@
    "variantes": [
     {
      "sku": "299",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -20271,9 +20281,7 @@
     },
     {
      "sku": "300",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -20283,9 +20291,7 @@
     },
     {
      "sku": "301",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -24690,7 +24696,7 @@
      "precio_anterior": 85000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 19,
+     "stock": 18,
      "url": "https://sh-aka.com.ar/productos/fire-3-shirt-marron-1962n/?variant=1645756646"
     },
     {
@@ -29558,9 +29564,7 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 21000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -29570,9 +29574,7 @@
     },
     {
      "sku": "371",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 21000.0,
      "precio_anterior": 30000.0,
      "disponible": true,
@@ -29582,9 +29584,7 @@
     },
     {
      "sku": "372",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 21000.0,
      "precio_anterior": 30000.0,
      "disponible": true,
@@ -30507,7 +30507,7 @@
      "precio_anterior": 105000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 5,
+     "stock": 4,
      "url": "https://sh-aka.com.ar/productos/3-jort-gris-melange-18swx/?variant=1631289724"
     },
     {
