@@ -1,7 +1,7 @@
 {
  "tienda": "Vlack Hockey",
  "url": "https://www.vlackhockey.com.uy",
- "generado": "2026-11-27T12:13:46+00:00",
+ "generado": "2026-11-27T13:35:14+00:00",
  "total": 447,
  "productos": [
   {
@@ -12724,7 +12724,7 @@
      },
      "precio": 3390.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://www.vlackhockey.com.uy/products/vlack-shoes-junior?variant=46134890135791"

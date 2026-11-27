@@ -5,6 +5,357 @@
     <link>https://milgenialuruguay.com</link>
     <description>Catalogo completo de productos</description>
     <item>
+      <g:id>3111-0</g:id>
+      <g:title>Juego 4 en Línea con Canasta de Básquet para Niños</g:title>
+      <g:description>#mg3111 {
+
+}
+
+/* HERO */
+
+/* VIDEO */
+
+/* PASOS */
+
+/* FAMILIA */
+
+#mg3111 .image-placeholder{ display:flex; min-height:150px; align-items:center; justify-content:center; background:#F6FAF7; border:1px dashed #B6DAC6; border-radius:14px; padding:24px; color:var(--muted); font-size:13px; text-align:center;
+
+/* CTA */
+
+#mg3111 .add{ display:flex; align-items:center; justify-content:center; gap:12px; width:100%; min-height:55px; padding:14px 18px; background:var(--green); border:0; border-radius:11px; color:#fff; font-size:16px; font-weight:750; cursor:pointer; margin-top:22px; transition:background .2s;
+
+/* FAQ */
+
+/* MINI CARRITO */
+
+#mg3111 .drawer{ position:fixed; z-index:2147483001; right:0; top:0; bottom:0; width:min(410px,100%); background:#fff; display:flex; flex-direction:column; transform:translateX(105%); transition:transform .3s; box-shadow:-10px 0 35px rgba(0,0,0,.12);
+
+Juego de pelotas rebotadoras
+
+¡Rebotá, apuntá y ganá!
+
+Hacé rebotar las pelotas y conseguí 4 en línea antes que tu rival. ¡Cada lanzamiento cuenta!
+
+¡No es el 4 en línea de siempre!
+
+Tres pasos
+
+¡Así de fácil se juega!
+
+1
+
+Elegí tu color
+
+Prepará tus pelotas y desafiá a tu rival.
+
+2
+
+¡Rebotá!
+
+Apuntá e intentá meterlas en el tablero.
+
+3
+
+¡Ganale!
+
+Conseguí cuatro en línea antes que tu rival.
+
+Diversión para compartir
+
+¿Quién se anima a la revancha?
+
+Padres, hijos, hermanos o amigos. ¡Siempre hay alguien para desafiar!
+
+El próximo desafío
+
+¡Que empiece la competencia!
+
+Elegí a tu rival y preparate para jugar.
+
+Preguntas frecuentes
+
+¿Tenés alguna duda?
+
+¿Cómo se juega?
+
+Hacé rebotar las pelotas contra la mesa para introducirlas en el tablero. Gana quien consigue cuatro de su color en línea.
+
+¿Cuántas personas pueden jugar?
+
+Está diseñado para competir entre dos jugadores.
+
+¿Necesita pilas?
+
+No. Funciona manualmente, sin pilas.
+
+(function(){ const root=document.getElementById('mg3111'); if(!root || root.dataset.ready==='true')return; root.dataset.ready='true'; const video=root.querySelector('#mg3111-video'); if(video){ video.muted=true; video.defaultMuted=true; video.loop=true; video.playsInline=true; const playVideo=()=&gt;{ const promise=video.play(); if(promise?.catch)promise.catch(()=&gt;{});
+
+}; if(video.readyState&gt;=2){ playVideo();
+
+}else{ video.addEventListener('loadeddata',playVideo,{once:true});
+
+})();
+
+Características:
+- --green: #08A56E
+- --dark: #18382B
+- --text: #42534A
+- --muted: #687A70
+- --soft: #F2FAF6
+- --border: #DFEBE4; width:100%; font-family:'Poppins',Arial,sans-serif; color:var(--text); background:#fff; line-height:1.6
+- #mg3111 *{box-sizing: border-box}
+- #mg3111 h2,#mg3111 h3,#mg3111 p{ margin: 0; padding:0; font-family:inherit; text-transform:none; letter-spacing:normal
+- #mg3111 h2,#mg3111 h3{color: var(--dark);line-height:1.2}
+- #mg3111 button{font-family: inherit}
+- #mg3111 .wrap{ max-width: 850px; margin:auto; padding:0 20px
+- #mg3111 .section{padding: 43px 0}
+- #mg3111 .center{text-align: center}
+- #mg3111 .soft{background: var(--soft)}
+- #mg3111 .tag{ display: block; color:var(--green); text-transform:uppercase; font-size:11px; letter-spacing:1px; font-weight:800; margin-bottom:12px
+- #mg3111 .title{ font-size: clamp(26px,4vw,36px); font-weight:800; margin:0 auto 13px; max-width:650px
+- #mg3111 .desc{ max-width: 570px; margin:0 auto; font-size:15px; line-height:1.7
+- #mg3111 .hero{ background: linear-gradient(180deg,#EDF9F2,#fff); padding:47px 0 30px; text-align:center
+- #mg3111 .hero h2{ font-size: clamp(35px,5vw,52px); font-weight:850; letter-spacing:-1.2px; max-width:690px; margin:0 auto 15px
+- #mg3111 .hero h2 span{color: var(--green)}
+- #mg3111 .hero p{ font-size: 16px; max-width:530px; margin:auto
+- #mg3111 .video-section{ padding: 5px 0 43px; text-align:center
+- #mg3111 .video-box{ max-width: 265px; width:100%; margin:0 auto
+- #mg3111 .video-box video{ display: block; width:100%; height:auto; border-radius:14px; background:#f5f5f5
+- #mg3111 .video-caption{ margin: 15px auto 0; font-size:14px; font-weight:700; color:var(--dark)
+- #mg3111 .steps{ display: grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:12px; margin-top:25px
+- #mg3111 .step{ display: flex; align-items:flex-start; gap:12px; background:#fff; border:1px solid var(--border); border-radius:13px; padding:18px; text-align:left
+- #mg3111 .step-number{ flex: 0 0 31px; width:31px; height:31px; display:flex; align-items:center; justify-content:center; background:#E5F8ED; color:var(--green); border-radius:9px; font-size:14px; font-weight:800
+- #mg3111 .step h3{ font-size: 15px; margin-bottom:5px; font-weight:750
+- #mg3111 .step p{ font-size: 12px; color:var(--muted); line-height:1.55
+- #mg3111 .family-image{ width: 100%; max-width:600px; margin:23px auto 0
+- #mg3111 .family-image img{ width: 100%; height:auto; display:block; border-radius:14px
+- #mg3111 .buy{ max-width: 550px; margin:0 auto; text-align:center
+- #mg3111 .add: hover{background:#087B53}
+- #mg3111 .add svg{ width: 19px; height:19px; fill:none; stroke:currentColor; stroke-width:1</g:description>
+      <g:link>https://milgenialuruguay.com/products/juego-4-en-linea-con-canasta-de-basquet-para-ninos?variant=67951839117626</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/Portada_73a5d8d0-0978-401f-b763-92d375c5b047.png?v=1794513596</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo1_5217d6c7-1d6e-4f06-99b4-bcabfc228463.png?v=1794568828</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo3_b852ce59-3cbe-4892-9461-8a03fdb9db61.png?v=1794569708</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo4_411fc48a-700b-4165-b420-26b79bc3ecc8.png?v=1794570029</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo2_7dcea97a-ff51-4bb8-88b2-4bb41d6239c2.png?v=1794569355</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>390.00 UYU</g:price>
+      <g:brand>Clara (Yiwu Mayhome Import&amp;export Co.,ltd) (0.0 Unidades - 113,20 $)</g:brand>
+      <g:gtin>6900131110002</g:gtin>
+      <g:mpn>3111-0</g:mpn>
+      <g:condition>new</g:condition>
+      <g:age_group>kids</g:age_group>
+      <g:color>var(--dark);line-height:1.2}</g:color>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>--green</g:attribute_name><g:attribute_value>#08A56E</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>--dark</g:attribute_name><g:attribute_value>#18382B</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>--text</g:attribute_name><g:attribute_value>#42534A</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>--muted</g:attribute_name><g:attribute_value>#687A70</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>--soft</g:attribute_name><g:attribute_value>#F2FAF6</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>--border</g:attribute_name><g:attribute_value>#DFEBE4; width:100%; font-family:'Poppins',Arial,sans-serif; color:var(--text); background:#fff; line-height:1.6</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 *{box-sizing</g:attribute_name><g:attribute_value>border-box}</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 h2,#mg3111 h3,#mg3111 p{ margin</g:attribute_name><g:attribute_value>0; padding:0; font-family:inherit; text-transform:none; letter-spacing:normal</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 h2,#mg3111 h3{color</g:attribute_name><g:attribute_value>var(--dark);line-height:1.2}</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 button{font-family</g:attribute_name><g:attribute_value>inherit}</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 .wrap{ max-width</g:attribute_name><g:attribute_value>850px; margin:auto; padding:0 20px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 .section{padding</g:attribute_name><g:attribute_value>43px 0}</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 .center{text-align</g:attribute_name><g:attribute_value>center}</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 .soft{background</g:attribute_name><g:attribute_value>var(--soft)}</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 .tag{ display</g:attribute_name><g:attribute_value>block; color:var(--green); text-transform:uppercase; font-size:11px; letter-spacing:1px; font-weight:800; margin-bottom:12px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 .title{ font-size</g:attribute_name><g:attribute_value>clamp(26px,4vw,36px); font-weight:800; margin:0 auto 13px; max-width:650px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 .desc{ max-width</g:attribute_name><g:attribute_value>570px; margin:0 auto; font-size:15px; line-height:1.7</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 .hero{ background</g:attribute_name><g:attribute_value>linear-gradient(180deg,#EDF9F2,#fff); padding:47px 0 30px; text-align:center</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 .hero h2{ font-size</g:attribute_name><g:attribute_value>clamp(35px,5vw,52px); font-weight:850; letter-spacing:-1.2px; max-width:690px; margin:0 auto 15px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 .hero h2 span{color</g:attribute_name><g:attribute_value>var(--green)}</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 .hero p{ font-size</g:attribute_name><g:attribute_value>16px; max-width:530px; margin:auto</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 .video-section{ padding</g:attribute_name><g:attribute_value>5px 0 43px; text-align:center</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 .video-box{ max-width</g:attribute_name><g:attribute_value>265px; width:100%; margin:0 auto</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 .video-box video{ display</g:attribute_name><g:attribute_value>block; width:100%; height:auto; border-radius:14px; background:#f5f5f5</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 .video-caption{ margin</g:attribute_name><g:attribute_value>15px auto 0; font-size:14px; font-weight:700; color:var(--dark)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 .steps{ display</g:attribute_name><g:attribute_value>grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:12px; margin-top:25px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 .step{ display</g:attribute_name><g:attribute_value>flex; align-items:flex-start; gap:12px; background:#fff; border:1px solid var(--border); border-radius:13px; padding:18px; text-align:left</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 .step-number{ flex</g:attribute_name><g:attribute_value>0 0 31px; width:31px; height:31px; display:flex; align-items:center; justify-content:center; background:#E5F8ED; color:var(--green); border-radius:9px; font-size:14px; font-weight:800</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 .step h3{ font-size</g:attribute_name><g:attribute_value>15px; margin-bottom:5px; font-weight:750</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3111 .step p{ font-size</g:attribute_name><g:attribute_value>12px; color:var(--muted); line-height:1.55</g:attribute_value></g:product_detail>
+    </item>
+    <item>
+      <g:id>3120-0</g:id>
+      <g:title>Pato Astronauta Bailarín para Armar con Destornillador</g:title>
+      <g:description>/* ==============================
+
+CONFIGURACION GENERAL
+
+============================== */
+
+#mg3120 {
+
+}
+
+#mg3120 *,
+
+#mg3120 h2,
+
+#mg3120 h3,
+
+HERO
+
+VIDEO PRINCIPAL
+
+BENEFICIOS COMPACTOS
+
+#mg3120 .mg-benefits-heading h2 { font-size: clamp(24px, 3.2vw, 32px);
+
+BLOQUE EMOCIONAL
+
+FAQ
+
+#mg3120 .mg-faq details p { padding: 0 24px 18px 0; font-size: 13px;
+
+CTA FINAL
+
+#mg3120 .mg-btn { display: flex; align-items: center; justify-content: space-between; gap: 12px; width: 100%; max-width: 410px; min-height: 55px; margin: 0 auto; padding: 13px 19px; border: 0; border-radius: 11px; background: var(--mg-green); color: #ffffff; font-family: inherit; font-size: 14px; font-weight: 750; line-height: 1.3; cursor: pointer; transition: background .2s ease;
+
+MOBILE
+
+#mg3120 .mg-video-section { padding-bottom: 38px;
+
+#mg3120 .mg-benefits-heading { margin-bottom: 23px;
+
+#mg3120 .mg-benefits { grid-template-columns: 1fr; gap: 9px;
+
+PATO ESPACIAL BAILARÍN
+
+¡Alguien empezó a bailar en casa!
+
+Y puede que los más chicos quieran seguirle el ritmo.
+
+DIVERSIÓN EN MOVIMIENTO
+
+Un juguete que no se queda quieto.
+
+Música y movimiento
+
+Luces de colores
+
+Diversión para compartir
+
+MOMENTOS PARA COMPARTIR
+
+La diversión también se comparte.
+
+Verlos reír, jugar e intentar seguirle el baile también es parte de esos momentos que disfrutamos en familia.
+
+Preguntas frecuentes
+
+¿El pato se mueve solo?
+
+Sí. Es un juguete eléctrico que realiza movimientos al encenderlo.
+
+¿Tiene música y luces?
+
+Sí. Combina música, movimiento y efectos de luces de colores.
+
+¿Cómo funciona?
+
+Funciona con alimentación eléctrica mediante pilas o batería, según la versión.
+
+Consultá la presentación del producto para confirmar cuál incluye.
+
+Un nuevo compañero para sus momentos de juego.
+
+Música, movimiento y diversión para los más chicos.
+
+(function () { function initializeMG3120() { var root = document.getElementById('mg3120'); if (!root || root.dataset.initialized === 'true') { return;
+
+} root.dataset.initialized = 'true';
+
+/* VIDEO */ var video = root.querySelector('video'); if (video) { video.muted = true; video.defaultMuted = true; video.loop = true; video.playsInline = true; var playPromise = video.play(); if (playPromise &amp;&amp; playPromise.catch) { playPromise.catch(function () {});
+
+} if (document.readyState === 'loading') { document.addEventListener(
+
+'DOMContentLoaded', initializeMG3120
+
+);
+
+} else { initializeMG3120();
+
+})();
+
+Características:
+- --mg-green: #08A56E
+- --mg-green-dark: #078558
+- --mg-ink: #192922
+- --mg-muted: #627269
+- --mg-light: #f3faf6
+- --mg-border: #e2ece5; width: 100%; max-width: 100%; margin: 0 auto; background: #ffffff; color: var(--mg-ink); font-family: 'Poppins', Arial, sans-serif; line-height: 1.6; overflow: hidden
+- #mg3120 *: :before
+- #mg3120 .mg-container { width: 100%; max-width: 900px; margin: 0 auto; padding: 0 20px
+- #mg3120 p { margin: 0; padding: 0; opacity: 1; visibility: visible; transform: none; text-transform: none; letter-spacing: normal
+- #mg3120 h2 { color: var(--mg-ink); font-family: inherit; font-size: clamp(27px, 4vw, 39px); font-weight: 750; line-height: 1.2; letter-spacing: -0.7px
+- #mg3120 h3 { color: var(--mg-ink); font-family: inherit; font-size: 16px; font-weight: 700; line-height: 1.35
+- #mg3120 p { color: var(--mg-muted); font-family: inherit; font-size: 14px; line-height: 1.7
+- #mg3120 .mg-green { color: var(--mg-green)
+- #mg3120 .mg-kicker { display: block; margin-bottom: 13px; color: var(--mg-green-dark); font-size: 11px; font-weight: 750; letter-spacing: 1.1px; text-transform: uppercase
+- #mg3120 .mg-section { padding: 50px 0
+- #mg3120 .mg-center { text-align: center
+- #mg3120 .mg-hero { padding: 43px 0 25px; background: #ffffff; text-align: center
+- #mg3120 .mg-hero-inner { max-width: 680px; margin: 0 auto
+- #mg3120 .mg-hero p { max-width: 540px; margin: 14px auto 0; color: #3c5144; font-size: 15px
+- #mg3120 .mg-video-section { padding: 4px 0 48px; background: #ffffff
+- #mg3120 .mg-video-wrap { width: 100%; max-width: 330px; margin: 0 auto
+- #mg3120 .mg-video-frame { overflow: hidden; border: 1px solid var(--mg-border); border-radius: 16px; background: #f6f8f7; box-shadow: 0 12px 35px rgba(19, 48, 29, 0.07)
+- #mg3120 .mg-video-frame video { display: block; width: 100%; height: auto; aspect-ratio: 9 / 16; object-fit: contain; background: #f6f8f7
+- #mg3120 .mg-benefits-section { padding: 46px 0; background: var(--mg-light)
+- #mg3120 .mg-benefits-heading { max-width: 670px; margin: 0 auto 29px; text-align: center
+- #mg3120 .mg-benefits { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px
+- #mg3120 .mg-benefit { display: flex; flex-direction: column; align-items: center; gap: 13px; padding: 25px 16px; border: 1px solid var(--mg-border); border-radius: 13px; background: #ffffff; text-align: center
+- #mg3120 .mg-benefit-icon { display: flex; align-items: center; justify-content: center; width: 47px; height: 47px; border-radius: 13px; background: #e5f7ed; color: var(--mg-green-dark)
+- #mg31</g:description>
+      <g:link>https://milgenialuruguay.com/products/pato-astronauta-bailarin-para-armar-con-destornillador?variant=67951843049786</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/Portada_5aa923b6-b5a2-47ec-917e-e4fadefc6404.png?v=1794511629</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo2_e7ca7827-eba1-4e7e-99b3-c290e703b4b8.png?v=1794511891</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo3_c28730fe-e218-4f98-a7ff-b4c3695420b0.png?v=1794512215</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo1_7e2d9aea-3b7a-40b6-bb66-e8406469e0fc.png?v=1794511891</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/medidas_162b433d-9102-4ab1-af21-6e69cc97a7d5.png?v=1794512579</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1290.00 UYU</g:price>
+      <g:brand>Clara (Yiwu Mayhome Import&amp;export Co.,ltd) (0.0 Unidades - 237,73 $)</g:brand>
+      <g:gtin>6900131200000</g:gtin>
+      <g:mpn>3120-0</g:mpn>
+      <g:condition>new</g:condition>
+      <g:color>var(--mg-ink); font-family: inherit; font-size: clamp(27px, 4vw, 39px); font-weight: 750; line-heigh</g:color>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>--mg-green</g:attribute_name><g:attribute_value>#08A56E</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>--mg-green-dark</g:attribute_name><g:attribute_value>#078558</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>--mg-ink</g:attribute_name><g:attribute_value>#192922</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>--mg-muted</g:attribute_name><g:attribute_value>#627269</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>--mg-light</g:attribute_name><g:attribute_value>#f3faf6</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>--mg-border</g:attribute_name><g:attribute_value>#e2ece5; width: 100%; max-width: 100%; margin: 0 auto; background: #ffffff; color: var(--mg-ink); font-family: 'Poppins', Arial, sans-serif; line-height: 1.6; overflow: hidden</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 *</g:attribute_name><g:attribute_value>:before</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 .mg-container { width</g:attribute_name><g:attribute_value>100%; max-width: 900px; margin: 0 auto; padding: 0 20px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 p { margin</g:attribute_name><g:attribute_value>0; padding: 0; opacity: 1; visibility: visible; transform: none; text-transform: none; letter-spacing: normal</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 h2 { color</g:attribute_name><g:attribute_value>var(--mg-ink); font-family: inherit; font-size: clamp(27px, 4vw, 39px); font-weight: 750; line-height: 1.2; letter-spacing: -0.7px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 h3 { color</g:attribute_name><g:attribute_value>var(--mg-ink); font-family: inherit; font-size: 16px; font-weight: 700; line-height: 1.35</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 p { color</g:attribute_name><g:attribute_value>var(--mg-muted); font-family: inherit; font-size: 14px; line-height: 1.7</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 .mg-green { color</g:attribute_name><g:attribute_value>var(--mg-green)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 .mg-kicker { display</g:attribute_name><g:attribute_value>block; margin-bottom: 13px; color: var(--mg-green-dark); font-size: 11px; font-weight: 750; letter-spacing: 1.1px; text-transform: uppercase</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 .mg-section { padding</g:attribute_name><g:attribute_value>50px 0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 .mg-center { text-align</g:attribute_name><g:attribute_value>center</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 .mg-hero { padding</g:attribute_name><g:attribute_value>43px 0 25px; background: #ffffff; text-align: center</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 .mg-hero-inner { max-width</g:attribute_name><g:attribute_value>680px; margin: 0 auto</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 .mg-hero p { max-width</g:attribute_name><g:attribute_value>540px; margin: 14px auto 0; color: #3c5144; font-size: 15px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 .mg-video-section { padding</g:attribute_name><g:attribute_value>4px 0 48px; background: #ffffff</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 .mg-video-wrap { width</g:attribute_name><g:attribute_value>100%; max-width: 330px; margin: 0 auto</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 .mg-video-frame { overflow</g:attribute_name><g:attribute_value>hidden; border: 1px solid var(--mg-border); border-radius: 16px; background: #f6f8f7; box-shadow: 0 12px 35px rgba(19, 48, 29, 0.07)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 .mg-video-frame video { display</g:attribute_name><g:attribute_value>block; width: 100%; height: auto; aspect-ratio: 9 / 16; object-fit: contain; background: #f6f8f7</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 .mg-benefits-section { padding</g:attribute_name><g:attribute_value>46px 0; background: var(--mg-light)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 .mg-benefits-heading { max-width</g:attribute_name><g:attribute_value>670px; margin: 0 auto 29px; text-align: center</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 .mg-benefits { display</g:attribute_name><g:attribute_value>grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 .mg-benefit { display</g:attribute_name><g:attribute_value>flex; flex-direction: column; align-items: center; gap: 13px; padding: 25px 16px; border: 1px solid var(--mg-border); border-radius: 13px; background: #ffffff; text-align: center</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 .mg-benefit-icon { display</g:attribute_name><g:attribute_value>flex; align-items: center; justify-content: center; width: 47px; height: 47px; border-radius: 13px; background: #e5f7ed; color: var(--mg-green-dark)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 .mg-benefit-icon svg { width</g:attribute_name><g:attribute_value>24px; height: 24px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>#mg3120 .mg-benefit h3 { font-size</g:attribute_name><g:attribute_value>14px</g:attribute_value></g:product_detail>
+    </item>
+    <item>
       <g:id>1845-0</g:id>
       <g:title>Cabezal de Ducha Foheel 5 Modos Broad</g:title>
       <g:description>Una excelente opción para transformar tu experiencia de baño en un momento relajante y rejuvenecedor. ✅.
@@ -5076,7 +5427,7 @@ Características:
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo2_8516fd53-cd02-4bb6-a312-1695710420e5.png?v=1794251356</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo4_31876f9f-724e-46ac-a3a4-ddad4a5c048a.png?v=1794252756</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo3_36414158-3844-444e-86f5-bb9dd8fdaa14.png?v=1794251925</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>1190.00 UYU</g:price>
       <g:sale_price>990.00 UYU</g:sale_price>
       <g:brand>Clara (Yiwu Mayhome Import&amp;export Co.,ltd) (0.0 Unidades - 119,38 $)</g:brand>
@@ -36615,7 +36966,7 @@ Mantenerse activo no siempre requiere equipos grandes o un gimnasio. La Tabla de
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/D_NQ_NP_2X_824275-MLA102028156089_122025-F.webp?v=1773326194</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/Generated_Image_March_12_2026_-_11_34AM.jpg?v=1773326194</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/productos35_34879.webp?v=1773326076</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>3790.00 UYU</g:price>
       <g:sale_price>3390.00 UYU</g:sale_price>
       <g:brand>MilGenial Uruguay</g:brand>
@@ -43329,7 +43680,7 @@ Características:
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/3_3_11zon_fa426e58-257c-452f-ab5d-c21e3e834d66.webp?v=1769784236</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/5_5_11zon_95b56490-1396-4c5d-af58-4c960bb1e07d.webp?v=1769784244</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/4_4_11zon_c247a6d1-5db2-46c4-903b-d306f47a1418.webp?v=1769784244</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>1390.00 UYU</g:price>
       <g:sale_price>990.00 UYU</g:sale_price>
       <g:brand>MilGenial Uruguay</g:brand>
@@ -58402,120 +58753,6 @@ Consultando disponibilidad...
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-bowling-v3__step span { font-size</g:attribute_name><g:attribute_value>13px; line-height: 1.4; color: var(--mg-muted)</g:attribute_value></g:product_detail>
     </item>
     <item>
-      <g:id>2738-0</g:id>
-      <g:title>Juego Mini Pool Billar para Mesa</g:title>
-      <g:description>/* General */
-
-.mg-mini-pool {
-
-}
-
-.mg-mini-pool *,
-
-.mg-mini-pool h2,
-
-/* Listas */
-
-.mg-mini-pool ul,
-
-/* Demostración */
-
-/* Características */
-
-.mg-mini-pool li.mg-feature { display: flex !important; flex-direction: column; justify-content: flex-start; align-items: center; gap: 8px; min-width: 0; width: 100%; margin: 0 !important; padding: 16px 8px !important; background: #f4f7f5; border-radius: 9px; border: none; text-align: center;
-
-/* Contenido */
-
-.mg-mini-pool .mg-includes h3 { font-size: 22px; margin-bottom: 8px;
-
-/* Responsive */
-
-.mg-mini-pool .mg-feature span { font-size: 12px;
-
-Que el próximo desafío no sea detrás de una pantalla
-
-Desafiá a tu familia o amigos a una partida de billar llena de risas, competencia y revanchas.
-
-Pequeño de tamaño.
-
-Grande en diversión.
-
-Convertí cualquier mesa en un lugar de encuentro para grandes y chicos.
-
-19 × 27 cm
-
-Coordinación y precisión
-
-Diversión en familia
-
-Todo listo para jugar
-
-Incluye mesa de billar, tacos, bolas y triángulo.
-
-Contiene piezas pequeñas. No apto para menores de 3 años.
-
-Características:
-- --mg-green: #0D8B48; max-width: 760px; width: 100%; margin: 0 auto; padding: 40px 24px 48px; box-sizing: border-box; font-family: 'Nunito', sans-serif; color: #202020; text-align: center
-- .mg-mini-pool *: :before
-- .mg-mini-pool h3 { font-family: inherit; font-weight: 800; line-height: 1.2; letter-spacing: -0.5px; color: #202020; margin: 0 0 12px
-- .mg-mini-pool h2 { font-size: clamp(27px, 4vw, 34px)
-- .mg-mini-pool h3 { font-size: clamp(22px, 3vw, 27px)
-- .mg-mini-pool p { font-size: 17px; line-height: 1.55; color: #454545; margin: 0
-- .mg-mini-pool .mg-green { color: var(--mg-green)
-- .mg-mini-pool .mg-section { margin-top: 28px
-- .mg-mini-pool li { list-style: none !important; padding: 0; margin: 0; text-indent: 0
-- .mg-mini-pool li: :marker { content: none !important
-- .mg-mini-pool .mg-demo { max-width: 600px; margin: 22px auto 0; overflow: hidden; border-radius: 10px
-- .mg-mini-pool .mg-demo img { display: block; width: 100%; height: auto; margin: 0; border: 0
-- .mg-mini-pool ul.mg-features { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: stretch; gap: 10px; margin: 20px 0 0 !important; padding: 0 !important
-- .mg-mini-pool .mg-feature svg { display: block; width: 25px; height: 25px; flex-shrink: 0; fill: none; stroke: var(--mg-green); stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; margin: 0
-- .mg-mini-pool .mg-feature span { display: block; width: 100%; font-size: 14px; font-weight: 800; line-height: 1.35; color: #202020; overflow-wrap: break-word
-- .mg-mini-pool .mg-includes { padding: 20px; background: #f5f6f5; border-radius: 10px
-- .mg-mini-pool .mg-includes p { font-size: 15px
-- .mg-mini-pool p.mg-warning { font-size: 12px; line-height: 1.5; color: #666666; margin-top: 12px
-- @media (max-width: 749px) {
-- .mg-mini-pool { padding: 38px 16px 48px
-- .mg-mini-pool ul.mg-features { gap: 7px; margin-top: 16px !important
-- .mg-mini-pool li.mg-feature { padding: 13px 6px !important</g:description>
-      <g:link>https://milgenialuruguay.com/products/juego-mini-pool-billar-para-mesa?variant=51975609712954</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/Portada_961b979a-8815-400a-902d-b56b9738bb92.png?v=1795638772</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo1_0d5fe09b-dd4c-4d45-8698-839b677b7b77.png?v=1795638772</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo2_1babdebd-7b99-46ae-bc0e-664c7845bd31.png?v=1795638772</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo3_514c9ea8-f5b0-4bdb-9887-0193c180d085.png?v=1795638772</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/medidas_8a0fdef1-5457-4c1f-96c7-1cf4719a252e.png?v=1795638772</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>990.00 UYU</g:price>
-      <g:sale_price>790.00 UYU</g:sale_price>
-      <g:brand>MilGenial Uruguay</g:brand>
-      <g:gtin>7548140288658</g:gtin>
-      <g:mpn>2738-0</g:mpn>
-      <g:condition>new</g:condition>
-      <g:product_type>Gravado Tasa Básica</g:product_type>
-      <g:color>var(--mg-green)</g:color>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>--mg-green</g:attribute_name><g:attribute_value>#0D8B48; max-width: 760px; width: 100%; margin: 0 auto; padding: 40px 24px 48px; box-sizing: border-box; font-family: 'Nunito', sans-serif; color: #202020; text-align: center</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-mini-pool *</g:attribute_name><g:attribute_value>:before</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-mini-pool h3 { font-family</g:attribute_name><g:attribute_value>inherit; font-weight: 800; line-height: 1.2; letter-spacing: -0.5px; color: #202020; margin: 0 0 12px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-mini-pool h2 { font-size</g:attribute_name><g:attribute_value>clamp(27px, 4vw, 34px)</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-mini-pool h3 { font-size</g:attribute_name><g:attribute_value>clamp(22px, 3vw, 27px)</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-mini-pool p { font-size</g:attribute_name><g:attribute_value>17px; line-height: 1.55; color: #454545; margin: 0</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-mini-pool .mg-green { color</g:attribute_name><g:attribute_value>var(--mg-green)</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-mini-pool .mg-section { margin-top</g:attribute_name><g:attribute_value>28px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-mini-pool li { list-style</g:attribute_name><g:attribute_value>none !important; padding: 0; margin: 0; text-indent: 0</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-mini-pool li</g:attribute_name><g:attribute_value>:marker { content: none !important</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-mini-pool .mg-demo { max-width</g:attribute_name><g:attribute_value>600px; margin: 22px auto 0; overflow: hidden; border-radius: 10px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-mini-pool .mg-demo img { display</g:attribute_name><g:attribute_value>block; width: 100%; height: auto; margin: 0; border: 0</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-mini-pool ul.mg-features { display</g:attribute_name><g:attribute_value>grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: stretch; gap: 10px; margin: 20px 0 0 !important; padding: 0 !important</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-mini-pool .mg-feature svg { display</g:attribute_name><g:attribute_value>block; width: 25px; height: 25px; flex-shrink: 0; fill: none; stroke: var(--mg-green); stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; margin: 0</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-mini-pool .mg-feature span { display</g:attribute_name><g:attribute_value>block; width: 100%; font-size: 14px; font-weight: 800; line-height: 1.35; color: #202020; overflow-wrap: break-word</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-mini-pool .mg-includes { padding</g:attribute_name><g:attribute_value>20px; background: #f5f6f5; border-radius: 10px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-mini-pool .mg-includes p { font-size</g:attribute_name><g:attribute_value>15px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-mini-pool p.mg-warning { font-size</g:attribute_name><g:attribute_value>12px; line-height: 1.5; color: #666666; margin-top: 12px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>@media (max-width</g:attribute_name><g:attribute_value>749px) {</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-mini-pool { padding</g:attribute_name><g:attribute_value>38px 16px 48px</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-mini-pool ul.mg-features { gap</g:attribute_name><g:attribute_value>7px; margin-top: 16px !important</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-mini-pool li.mg-feature { padding</g:attribute_name><g:attribute_value>13px 6px !important</g:attribute_value></g:product_detail>
-    </item>
-    <item>
       <g:id>2558-0</g:id>
       <g:title>SpikeBall Juego de Rebote 3 Pelota mas Red</g:title>
       <g:description>/* General */
@@ -64313,7 +64550,7 @@ Olvidate de los encendedores comunes. El Encendedor Eléctrico Recargable con Ex
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/productos35_30579.jpg?v=1760627529</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/productos35_30580.jpg?v=1760627529</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/port-2_52db7b3e-8bc9-46ad-989b-f01f9280f9f0.jpg?v=1760627529</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>499.00 UYU</g:price>
       <g:sale_price>490.00 UYU</g:sale_price>
       <g:brand>MilGenial Uruguay</g:brand>
@@ -73651,7 +73888,7 @@ Características:
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/futbol1.jpg?v=1731090270</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/S4684fffb59b2458abad15008648580f1P.jpg?v=1731090273</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/futbol3.jpg?v=1731090277</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>1890.00 UYU</g:price>
       <g:sale_price>1290.00 UYU</g:sale_price>
       <g:brand>MilGenial Uruguay</g:brand>
@@ -82090,7 +82327,7 @@ Características:
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/2_2_11zon_29d1d455-cde8-4a79-9a45-b6a8540d7288.webp?v=1752169802</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/71aPX_cy6fL._AC_SL1500_004a0de7-9d90-4371-8ad9-21611f577e5d.jpg?v=1752577839</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/71aPX_cy6fL._AC_SL1500.jpg?v=1752169788</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>1290.00 UYU</g:price>
       <g:sale_price>690.00 UYU</g:sale_price>
       <g:brand>MilGenial Uruguay</g:brand>
