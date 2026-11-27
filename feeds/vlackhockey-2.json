@@ -1,7 +1,7 @@
 {
  "tienda": "Vlackhockey",
  "url": "https://www.vlackhockey.com.ar",
- "generado": "2026-11-27T09:33:55+00:00",
+ "generado": "2026-11-27T11:16:12+00:00",
  "total": 772,
  "productos": [
   {
@@ -112,8 +112,8 @@
     {
      "sku": "63B0600   208",
      "opciones": {
-      "Talle": "Azul",
-      "Color": "T8"
+      "Color": "Azul",
+      "Talle": "T8"
      },
      "precio": 19320.0,
      "precio_anterior": 27600.0,
@@ -125,8 +125,8 @@
     {
      "sku": "63B0600   2010",
      "opciones": {
-      "Talle": "Azul",
-      "Color": "T10"
+      "Color": "Azul",
+      "Talle": "T10"
      },
      "precio": 19320.0,
      "precio_anterior": 27600.0,
@@ -138,8 +138,8 @@
     {
      "sku": "63B0600   2012",
      "opciones": {
-      "Talle": "Azul",
-      "Color": "T12"
+      "Color": "Azul",
+      "Talle": "T12"
      },
      "precio": 19320.0,
      "precio_anterior": 27600.0,
@@ -151,8 +151,8 @@
     {
      "sku": "63B0600   2014",
      "opciones": {
-      "Talle": "Azul",
-      "Color": "T14"
+      "Color": "Azul",
+      "Talle": "T14"
      },
      "precio": 19320.0,
      "precio_anterior": 27600.0,
@@ -401,8 +401,8 @@
     {
      "sku": "11A0902   210",
      "opciones": {
-      "Color": "T0",
-      "Talle": "Azul marino"
+      "Talle": "T0",
+      "Color": "Azul marino"
      },
      "precio": 19395.0,
      "precio_anterior": 21550.0,
@@ -414,8 +414,8 @@
     {
      "sku": "11A0902   211",
      "opciones": {
-      "Color": "T1",
-      "Talle": "Azul marino"
+      "Talle": "T1",
+      "Color": "Azul marino"
      },
      "precio": 19395.0,
      "precio_anterior": 21550.0,
@@ -427,8 +427,8 @@
     {
      "sku": "11A0902   212",
      "opciones": {
-      "Color": "T2",
-      "Talle": "Azul marino"
+      "Talle": "T2",
+      "Color": "Azul marino"
      },
      "precio": 19395.0,
      "precio_anterior": 21550.0,
@@ -440,8 +440,8 @@
     {
      "sku": "11A0902   213",
      "opciones": {
-      "Color": "T3",
-      "Talle": "Azul marino"
+      "Talle": "T3",
+      "Color": "Azul marino"
      },
      "precio": 19395.0,
      "precio_anterior": 21550.0,
@@ -453,8 +453,8 @@
     {
      "sku": "11A0902   214",
      "opciones": {
-      "Color": "T4",
-      "Talle": "Azul marino"
+      "Talle": "T4",
+      "Color": "Azul marino"
      },
      "precio": 19395.0,
      "precio_anterior": 21550.0,
@@ -1008,7 +1008,7 @@
      "precio_anterior": 21600.0,
      "disponible": true,
      "preorden": false,
-     "stock": 2,
+     "stock": 1,
      "url": "https://www.vlackhockey.com.ar/productos/remera-marimba-ninos2/?variant=1322693143"
     },
     {
@@ -1318,8 +1318,8 @@
     {
      "sku": "51A1707   3A00",
      "opciones": {
-      "Color": "Verde esmeralda",
-      "Talle": "00"
+      "Talle": "Verde esmeralda",
+      "Color": "00"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -1331,8 +1331,8 @@
     {
      "sku": "51A1707   3A0",
      "opciones": {
-      "Color": "Verde esmeralda",
-      "Talle": "0"
+      "Talle": "Verde esmeralda",
+      "Color": "0"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -1344,8 +1344,8 @@
     {
      "sku": "51A1707   3A1",
      "opciones": {
-      "Color": "Verde esmeralda",
-      "Talle": "1"
+      "Talle": "Verde esmeralda",
+      "Color": "1"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -1357,8 +1357,8 @@
     {
      "sku": "51A1707   3A2",
      "opciones": {
-      "Color": "Verde esmeralda",
-      "Talle": "2"
+      "Talle": "Verde esmeralda",
+      "Color": "2"
      },
      "precio": 20520.0,
      "precio_anterior": 22800.0,
@@ -1370,8 +1370,8 @@
     {
      "sku": "51A1707   3A3",
      "opciones": {
-      "Color": "Verde esmeralda",
-      "Talle": "3"
+      "Talle": "Verde esmeralda",
+      "Color": "3"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -1383,8 +1383,8 @@
     {
      "sku": "51A1707   3A4",
      "opciones": {
-      "Color": "Verde esmeralda",
-      "Talle": "4"
+      "Talle": "Verde esmeralda",
+      "Color": "4"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -3712,8 +3712,8 @@
     {
      "sku": "11B1703   SRXS",
      "opciones": {
-      "Color": "XS",
-      "Talle": "Salmón Rosado"
+      "Talle": "XS",
+      "Color": "Salmón Rosado"
      },
      "precio": 37350.0,
      "precio_anterior": 41500.0,
@@ -3725,8 +3725,8 @@
     {
      "sku": "11B1703   SRS",
      "opciones": {
-      "Color": "S",
-      "Talle": "Salmón Rosado"
+      "Talle": "S",
+      "Color": "Salmón Rosado"
      },
      "precio": 37350.0,
      "precio_anterior": 41500.0,
@@ -3738,8 +3738,8 @@
     {
      "sku": "11B1703   SRM",
      "opciones": {
-      "Color": "M",
-      "Talle": "Salmón Rosado"
+      "Talle": "M",
+      "Color": "Salmón Rosado"
      },
      "precio": 37350.0,
      "precio_anterior": 41500.0,
@@ -3751,8 +3751,8 @@
     {
      "sku": "11B1703   SRL",
      "opciones": {
-      "Color": "L",
-      "Talle": "Salmón Rosado"
+      "Talle": "L",
+      "Color": "Salmón Rosado"
      },
      "precio": 37350.0,
      "precio_anterior": 41500.0,
@@ -3764,8 +3764,8 @@
     {
      "sku": "11B1703   SRXL",
      "opciones": {
-      "Color": "XL",
-      "Talle": "Salmón Rosado"
+      "Talle": "XL",
+      "Color": "Salmón Rosado"
      },
      "precio": 37350.0,
      "precio_anterior": 41500.0,
@@ -4139,6 +4139,7 @@
     {
      "sku": "66H5611   10",
      "opciones": {
+      "Talle": "JR",
       "Color": "Negro"
      },
      "precio": 58500.0,
@@ -4568,8 +4569,8 @@
     {
      "sku": "51B1203   37XS",
      "opciones": {
-      "Color": "XS",
-      "Talle": "Verde Limon"
+      "Talle": "XS",
+      "Color": "Verde Limon"
      },
      "precio": 24150.0,
      "precio_anterior": 34500.0,
@@ -4581,8 +4582,8 @@
     {
      "sku": "51B1203   37S",
      "opciones": {
-      "Color": "S",
-      "Talle": "Verde Limon"
+      "Talle": "S",
+      "Color": "Verde Limon"
      },
      "precio": 24150.0,
      "precio_anterior": 34500.0,
@@ -4594,8 +4595,8 @@
     {
      "sku": "51B1203   37M",
      "opciones": {
-      "Color": "M",
-      "Talle": "Verde Limon"
+      "Talle": "M",
+      "Color": "Verde Limon"
      },
      "precio": 24150.0,
      "precio_anterior": 34500.0,
@@ -4607,8 +4608,8 @@
     {
      "sku": "51B1203   37L",
      "opciones": {
-      "Color": "L",
-      "Talle": "Verde Limon"
+      "Talle": "L",
+      "Color": "Verde Limon"
      },
      "precio": 24150.0,
      "precio_anterior": 34500.0,
@@ -4620,8 +4621,8 @@
     {
      "sku": "51B1203   37XL",
      "opciones": {
-      "Color": "XL",
-      "Talle": "Verde Limon"
+      "Talle": "XL",
+      "Color": "Verde Limon"
      },
      "precio": 24150.0,
      "precio_anterior": 34500.0,
@@ -5244,8 +5245,8 @@
     {
      "sku": "11B1203   71XS",
      "opciones": {
-      "Talle": "XS",
-      "Color": "Lila"
+      "Color": "XS",
+      "Talle": "Lila"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -5257,8 +5258,8 @@
     {
      "sku": "11B1203   71S",
      "opciones": {
-      "Talle": "S",
-      "Color": "Lila"
+      "Color": "S",
+      "Talle": "Lila"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -5270,8 +5271,8 @@
     {
      "sku": "11B1203   71M",
      "opciones": {
-      "Talle": "M",
-      "Color": "Lila"
+      "Color": "M",
+      "Talle": "Lila"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -5283,8 +5284,8 @@
     {
      "sku": "11B1203   71L",
      "opciones": {
-      "Talle": "L",
-      "Color": "Lila"
+      "Color": "L",
+      "Talle": "Lila"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -5296,8 +5297,8 @@
     {
      "sku": "11B1203   71XL",
      "opciones": {
-      "Talle": "XL",
-      "Color": "Lila"
+      "Color": "XL",
+      "Talle": "Lila"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -5395,8 +5396,8 @@
     {
      "sku": "64B0600   20XXS",
      "opciones": {
-      "Talle": "Azul",
-      "Color": "XXS"
+      "Color": "Azul",
+      "Talle": "XXS"
      },
      "precio": 26180.0,
      "precio_anterior": 37400.0,
@@ -5408,8 +5409,8 @@
     {
      "sku": "64B0600   20XS",
      "opciones": {
-      "Talle": "Azul",
-      "Color": "XS"
+      "Color": "Azul",
+      "Talle": "XS"
      },
      "precio": 26180.0,
      "precio_anterior": 37400.0,
@@ -5421,8 +5422,8 @@
     {
      "sku": "64B0600   20S",
      "opciones": {
-      "Talle": "Azul",
-      "Color": "S"
+      "Color": "Azul",
+      "Talle": "S"
      },
      "precio": 26180.0,
      "precio_anterior": 37400.0,
@@ -5434,8 +5435,8 @@
     {
      "sku": "64B0600   20M",
      "opciones": {
-      "Talle": "Azul",
-      "Color": "M"
+      "Color": "Azul",
+      "Talle": "M"
      },
      "precio": 26180.0,
      "precio_anterior": 37400.0,
@@ -5447,8 +5448,8 @@
     {
      "sku": "64B0600   20L",
      "opciones": {
-      "Talle": "Azul",
-      "Color": "L"
+      "Color": "Azul",
+      "Talle": "L"
      },
      "precio": 26180.0,
      "precio_anterior": 37400.0,
@@ -5460,8 +5461,8 @@
     {
      "sku": "64B0600   20XL",
      "opciones": {
-      "Talle": "Azul",
-      "Color": "XL"
+      "Color": "Azul",
+      "Talle": "XL"
      },
      "precio": 26180.0,
      "precio_anterior": 37400.0,
@@ -6397,8 +6398,8 @@
     {
      "sku": "11A0902   560",
      "opciones": {
-      "Color": "T0",
-      "Talle": "Amarillo Fluo"
+      "Talle": "T0",
+      "Color": "Amarillo Fluo"
      },
      "precio": 19395.0,
      "precio_anterior": 21550.0,
@@ -6410,8 +6411,8 @@
     {
      "sku": "11A0902   561",
      "opciones": {
-      "Color": "T1",
-      "Talle": "Amarillo Fluo"
+      "Talle": "T1",
+      "Color": "Amarillo Fluo"
      },
      "precio": 19395.0,
      "precio_anterior": 21550.0,
@@ -6423,8 +6424,8 @@
     {
      "sku": "11A0902   562",
      "opciones": {
-      "Color": "T2",
-      "Talle": "Amarillo Fluo"
+      "Talle": "T2",
+      "Color": "Amarillo Fluo"
      },
      "precio": 19395.0,
      "precio_anterior": 21550.0,
@@ -6436,8 +6437,8 @@
     {
      "sku": "11A0902   563",
      "opciones": {
-      "Color": "T3",
-      "Talle": "Amarillo Fluo"
+      "Talle": "T3",
+      "Color": "Amarillo Fluo"
      },
      "precio": 19395.0,
      "precio_anterior": 21550.0,
@@ -6449,8 +6450,8 @@
     {
      "sku": "11A0902   564",
      "opciones": {
-      "Color": "T4",
-      "Talle": "Amarillo Fluo"
+      "Talle": "T4",
+      "Color": "Amarillo Fluo"
      },
      "precio": 19395.0,
      "precio_anterior": 21550.0,
@@ -6483,8 +6484,8 @@
     {
      "sku": "63C0601   208",
      "opciones": {
-      "Talle": "Azul",
-      "Color": "8"
+      "Color": "Azul",
+      "Talle": "8"
      },
      "precio": 30800.0,
      "precio_anterior": 44000.0,
@@ -6496,8 +6497,8 @@
     {
      "sku": "63C0601   2010",
      "opciones": {
-      "Talle": "Azul",
-      "Color": "10"
+      "Color": "Azul",
+      "Talle": "10"
      },
      "precio": 30800.0,
      "precio_anterior": 44000.0,
@@ -6509,8 +6510,8 @@
     {
      "sku": "63C0601   2012",
      "opciones": {
-      "Talle": "Azul",
-      "Color": "12"
+      "Color": "Azul",
+      "Talle": "12"
      },
      "precio": 30800.0,
      "precio_anterior": 44000.0,
@@ -6522,8 +6523,8 @@
     {
      "sku": "63C0601   2014",
      "opciones": {
-      "Talle": "Azul",
-      "Color": "14"
+      "Color": "Azul",
+      "Talle": "14"
      },
      "precio": 30800.0,
      "precio_anterior": 44000.0,
@@ -7139,7 +7140,7 @@
      "precio_anterior": 21200.0,
      "disponible": true,
      "preorden": false,
-     "stock": 2,
+     "stock": 1,
      "url": "https://www.vlackhockey.com.ar/productos/remera-meskiana-ninas1/?variant=1322008058"
     },
     {
@@ -7583,8 +7584,8 @@
     {
      "sku": "91A0900   3314",
      "opciones": {
-      "Talle": "14",
-      "Color": "Verde Seco"
+      "Color": "14",
+      "Talle": "Verde Seco"
      },
      "precio": 21350.0,
      "precio_anterior": 30500.0,
@@ -7596,8 +7597,8 @@
     {
      "sku": "91A0900   33XS",
      "opciones": {
-      "Talle": "XS",
-      "Color": "Verde Seco"
+      "Color": "XS",
+      "Talle": "Verde Seco"
      },
      "precio": 21350.0,
      "precio_anterior": 30500.0,
@@ -7609,8 +7610,8 @@
     {
      "sku": "91A0900   33S",
      "opciones": {
-      "Talle": "S",
-      "Color": "Verde Seco"
+      "Color": "S",
+      "Talle": "Verde Seco"
      },
      "precio": 21350.0,
      "precio_anterior": 30500.0,
@@ -7622,8 +7623,8 @@
     {
      "sku": "91A0900   33M",
      "opciones": {
-      "Talle": "M",
-      "Color": "Verde Seco"
+      "Color": "M",
+      "Talle": "Verde Seco"
      },
      "precio": 21350.0,
      "precio_anterior": 30500.0,
@@ -7635,8 +7636,8 @@
     {
      "sku": "91A0900   33L",
      "opciones": {
-      "Talle": "L",
-      "Color": "Verde Seco"
+      "Color": "L",
+      "Talle": "Verde Seco"
      },
      "precio": 21350.0,
      "precio_anterior": 30500.0,
@@ -7669,8 +7670,8 @@
     {
      "sku": "51E1704   152",
      "opciones": {
-      "Color": "Gris topo",
-      "Talle": "2"
+      "Talle": "Gris topo",
+      "Color": "2"
      },
      "precio": 16125.0,
      "precio_anterior": 32250.0,
@@ -7682,8 +7683,8 @@
     {
      "sku": "51E1704   153",
      "opciones": {
-      "Color": "Gris topo",
-      "Talle": "3"
+      "Talle": "Gris topo",
+      "Color": "3"
      },
      "precio": 16125.0,
      "precio_anterior": 32250.0,
@@ -7695,8 +7696,8 @@
     {
      "sku": "51E1704   154",
      "opciones": {
-      "Color": "Gris topo",
-      "Talle": "4"
+      "Talle": "Gris topo",
+      "Color": "4"
      },
      "precio": 16125.0,
      "precio_anterior": 32250.0,
@@ -8996,8 +8997,8 @@
     {
      "sku": "41A1702   BD0",
      "opciones": {
-      "Color": "T0",
-      "Talle": "Bordeaux"
+      "Talle": "T0",
+      "Color": "Bordeaux"
      },
      "precio": 15725.0,
      "precio_anterior": 31450.0,
@@ -9009,8 +9010,8 @@
     {
      "sku": "41A1702   BD1",
      "opciones": {
-      "Color": "T1",
-      "Talle": "Bordeaux"
+      "Talle": "T1",
+      "Color": "Bordeaux"
      },
      "precio": 15725.0,
      "precio_anterior": 31450.0,
@@ -9022,8 +9023,8 @@
     {
      "sku": "41A1702   BD2",
      "opciones": {
-      "Color": "T2",
-      "Talle": "Bordeaux"
+      "Talle": "T2",
+      "Color": "Bordeaux"
      },
      "precio": 15725.0,
      "precio_anterior": 31450.0,
@@ -9035,8 +9036,8 @@
     {
      "sku": "41A1702   BD3",
      "opciones": {
-      "Color": "T3",
-      "Talle": "Bordeaux"
+      "Talle": "T3",
+      "Color": "Bordeaux"
      },
      "precio": 15725.0,
      "precio_anterior": 31450.0,
@@ -9048,8 +9049,8 @@
     {
      "sku": "41A1702   BD4",
      "opciones": {
-      "Color": "T4",
-      "Talle": "Bordeaux"
+      "Talle": "T4",
+      "Color": "Bordeaux"
      },
      "precio": 15725.0,
      "precio_anterior": 31450.0,
@@ -9486,8 +9487,8 @@
     {
      "sku": "13B1201   FR8",
      "opciones": {
-      "Talle": "8",
-      "Color": "Frutilla"
+      "Color": "8",
+      "Talle": "Frutilla"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -9499,8 +9500,8 @@
     {
      "sku": "13B1201   FR10",
      "opciones": {
-      "Talle": "10",
-      "Color": "Frutilla"
+      "Color": "10",
+      "Talle": "Frutilla"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -9512,8 +9513,8 @@
     {
      "sku": "13B1201   FR12",
      "opciones": {
-      "Talle": "12",
-      "Color": "Frutilla"
+      "Color": "12",
+      "Talle": "Frutilla"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -9525,8 +9526,8 @@
     {
      "sku": "13B1201   FR14",
      "opciones": {
-      "Talle": "14",
-      "Color": "Frutilla"
+      "Color": "14",
+      "Talle": "Frutilla"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -9538,8 +9539,8 @@
     {
      "sku": "13B1201   FR16",
      "opciones": {
-      "Talle": "16",
-      "Color": "Frutilla"
+      "Color": "16",
+      "Talle": "Frutilla"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -10909,8 +10910,8 @@
     {
      "sku": "13B1201   498",
      "opciones": {
-      "Color": "8",
-      "Talle": "Fucsia"
+      "Talle": "8",
+      "Color": "Fucsia"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -10922,8 +10923,8 @@
     {
      "sku": "13B1201   4910",
      "opciones": {
-      "Color": "10",
-      "Talle": "Fucsia"
+      "Talle": "10",
+      "Color": "Fucsia"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -10935,8 +10936,8 @@
     {
      "sku": "13B1201   4912",
      "opciones": {
-      "Color": "12",
-      "Talle": "Fucsia"
+      "Talle": "12",
+      "Color": "Fucsia"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -10948,8 +10949,8 @@
     {
      "sku": "13B1201   4914",
      "opciones": {
-      "Color": "14",
-      "Talle": "Fucsia"
+      "Talle": "14",
+      "Color": "Fucsia"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -10961,8 +10962,8 @@
     {
      "sku": "13B1201   4916",
      "opciones": {
-      "Color": "16",
-      "Talle": "Fucsia"
+      "Talle": "16",
+      "Color": "Fucsia"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -11131,7 +11132,7 @@
     {
      "sku": "66H5610   01",
      "opciones": {
-      "Talle": "Blanco"
+      "Color": "Blanco"
      },
      "precio": 67500.0,
      "precio_anterior": 75000.0,
@@ -13579,8 +13580,8 @@
     {
      "sku": "11B1703   43XS",
      "opciones": {
-      "Color": "XS",
-      "Talle": "Rosa"
+      "Talle": "XS",
+      "Color": "Rosa"
      },
      "precio": 37350.0,
      "precio_anterior": 41500.0,
@@ -13592,8 +13593,8 @@
     {
      "sku": "11B1703   43S",
      "opciones": {
-      "Color": "S",
-      "Talle": "Rosa"
+      "Talle": "S",
+      "Color": "Rosa"
      },
      "precio": 37350.0,
      "precio_anterior": 41500.0,
@@ -13605,8 +13606,8 @@
     {
      "sku": "11B1703   43M",
      "opciones": {
-      "Color": "M",
-      "Talle": "Rosa"
+      "Talle": "M",
+      "Color": "Rosa"
      },
      "precio": 37350.0,
      "precio_anterior": 41500.0,
@@ -13618,8 +13619,8 @@
     {
      "sku": "11B1703   43L",
      "opciones": {
-      "Color": "L",
-      "Talle": "Rosa"
+      "Talle": "L",
+      "Color": "Rosa"
      },
      "precio": 37350.0,
      "precio_anterior": 41500.0,
@@ -13631,8 +13632,8 @@
     {
      "sku": "11B1703   43XL",
      "opciones": {
-      "Color": "XL",
-      "Talle": "Rosa"
+      "Talle": "XL",
+      "Color": "Rosa"
      },
      "precio": 37350.0,
      "precio_anterior": 41500.0,
@@ -16530,8 +16531,8 @@
     {
      "sku": "53C0200   LA6",
      "opciones": {
-      "Color": "6",
-      "Talle": "Lima"
+      "Talle": "6",
+      "Color": "Lima"
      },
      "precio": 22000.0,
      "precio_anterior": 44000.0,
@@ -16543,8 +16544,8 @@
     {
      "sku": "53C0200   LA8",
      "opciones": {
-      "Color": "8",
-      "Talle": "Lima"
+      "Talle": "8",
+      "Color": "Lima"
      },
      "precio": 22000.0,
      "precio_anterior": 44000.0,
@@ -16556,8 +16557,8 @@
     {
      "sku": "53C0200   LA10",
      "opciones": {
-      "Color": "10",
-      "Talle": "Lima"
+      "Talle": "10",
+      "Color": "Lima"
      },
      "precio": 22000.0,
      "precio_anterior": 44000.0,
@@ -16569,8 +16570,8 @@
     {
      "sku": "53C0200   LA12",
      "opciones": {
-      "Color": "12",
-      "Talle": "Lima"
+      "Talle": "12",
+      "Color": "Lima"
      },
      "precio": 22000.0,
      "precio_anterior": 44000.0,
@@ -16582,8 +16583,8 @@
     {
      "sku": "53C0200   LA14",
      "opciones": {
-      "Color": "14",
-      "Talle": "Lima"
+      "Talle": "14",
+      "Color": "Lima"
      },
      "precio": 22000.0,
      "precio_anterior": 44000.0,
@@ -17020,8 +17021,8 @@
     {
      "sku": "53A1703   326",
      "opciones": {
-      "Talle": "6",
-      "Color": "Verde Claro"
+      "Color": "6",
+      "Talle": "Verde Claro"
      },
      "precio": 32850.0,
      "precio_anterior": 36500.0,
@@ -17033,8 +17034,8 @@
     {
      "sku": "53A1703   328",
      "opciones": {
-      "Talle": "8",
-      "Color": "Verde Claro"
+      "Color": "8",
+      "Talle": "Verde Claro"
      },
      "precio": 32850.0,
      "precio_anterior": 36500.0,
@@ -17046,8 +17047,8 @@
     {
      "sku": "53A1703   3210",
      "opciones": {
-      "Talle": "10",
-      "Color": "Verde Claro"
+      "Color": "10",
+      "Talle": "Verde Claro"
      },
      "precio": 32850.0,
      "precio_anterior": 36500.0,
@@ -17059,8 +17060,8 @@
     {
      "sku": "53A1703   3212",
      "opciones": {
-      "Talle": "12",
-      "Color": "Verde Claro"
+      "Color": "12",
+      "Talle": "Verde Claro"
      },
      "precio": 32850.0,
      "precio_anterior": 36500.0,
@@ -17072,8 +17073,8 @@
     {
      "sku": "53A1703   3214",
      "opciones": {
-      "Talle": "14",
-      "Color": "Verde Claro"
+      "Color": "14",
+      "Talle": "Verde Claro"
      },
      "precio": 32850.0,
      "precio_anterior": 36500.0,
@@ -17126,7 +17127,7 @@
      "precio_anterior": 21600.0,
      "disponible": true,
      "preorden": false,
-     "stock": 2,
+     "stock": 1,
      "url": "https://www.vlackhockey.com.ar/productos/remera-marimba-ninos1/?variant=1322692058"
     },
     {
@@ -18465,8 +18466,8 @@
     {
      "sku": "11B1203   FRXS",
      "opciones": {
-      "Talle": "XS",
-      "Color": "Frutilla"
+      "Color": "XS",
+      "Talle": "Frutilla"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -18478,8 +18479,8 @@
     {
      "sku": "11B1203   FRS",
      "opciones": {
-      "Talle": "S",
-      "Color": "Frutilla"
+      "Color": "S",
+      "Talle": "Frutilla"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -18491,8 +18492,8 @@
     {
      "sku": "11B1203   FRM",
      "opciones": {
-      "Talle": "M",
-      "Color": "Frutilla"
+      "Color": "M",
+      "Talle": "Frutilla"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -18504,8 +18505,8 @@
     {
      "sku": "11B1203   FRL",
      "opciones": {
-      "Talle": "L",
-      "Color": "Frutilla"
+      "Color": "L",
+      "Talle": "Frutilla"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -18517,8 +18518,8 @@
     {
      "sku": "11B1203   FRXL",
      "opciones": {
-      "Talle": "XL",
-      "Color": "Frutilla"
+      "Color": "XL",
+      "Talle": "Frutilla"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -19080,8 +19081,8 @@
     {
      "sku": "53B1206   278",
      "opciones": {
-      "Color": "8",
-      "Talle": "Turquesa"
+      "Talle": "8",
+      "Color": "Turquesa"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -19093,8 +19094,8 @@
     {
      "sku": "53B1206   2710",
      "opciones": {
-      "Color": "10",
-      "Talle": "Turquesa"
+      "Talle": "10",
+      "Color": "Turquesa"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -19106,8 +19107,8 @@
     {
      "sku": "53B1206   2712",
      "opciones": {
-      "Color": "12",
-      "Talle": "Turquesa"
+      "Talle": "12",
+      "Color": "Turquesa"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -19119,8 +19120,8 @@
     {
      "sku": "53B1206   2714",
      "opciones": {
-      "Color": "14",
-      "Talle": "Turquesa"
+      "Talle": "14",
+      "Color": "Turquesa"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -19132,8 +19133,8 @@
     {
      "sku": "53B1206   2716",
      "opciones": {
-      "Color": "16",
-      "Talle": "Turquesa"
+      "Talle": "16",
+      "Color": "Turquesa"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -19252,8 +19253,8 @@
     {
      "sku": "13B1703   104",
      "opciones": {
-      "Talle": "4",
-      "Color": "Negro"
+      "Color": "4",
+      "Talle": "Negro"
      },
      "precio": 31950.0,
      "precio_anterior": 35500.0,
@@ -19265,8 +19266,8 @@
     {
      "sku": "13B1703   106",
      "opciones": {
-      "Talle": "6",
-      "Color": "Negro"
+      "Color": "6",
+      "Talle": "Negro"
      },
      "precio": 31950.0,
      "precio_anterior": 35500.0,
@@ -19278,8 +19279,8 @@
     {
      "sku": "13B1703   108",
      "opciones": {
-      "Talle": "8",
-      "Color": "Negro"
+      "Color": "8",
+      "Talle": "Negro"
      },
      "precio": 31950.0,
      "precio_anterior": 35500.0,
@@ -19291,8 +19292,8 @@
     {
      "sku": "13B1703   1010",
      "opciones": {
-      "Talle": "10",
-      "Color": "Negro"
+      "Color": "10",
+      "Talle": "Negro"
      },
      "precio": 31950.0,
      "precio_anterior": 35500.0,
@@ -19304,8 +19305,8 @@
     {
      "sku": "13B1703   1012",
      "opciones": {
-      "Talle": "12",
-      "Color": "Negro"
+      "Color": "12",
+      "Talle": "Negro"
      },
      "precio": 31950.0,
      "precio_anterior": 35500.0,
@@ -19317,8 +19318,8 @@
     {
      "sku": "13B1703   1014",
      "opciones": {
-      "Talle": "14",
-      "Color": "Negro"
+      "Color": "14",
+      "Talle": "Negro"
      },
      "precio": 31950.0,
      "precio_anterior": 35500.0,
@@ -19529,8 +19530,8 @@
     {
      "sku": "51A1706   380",
      "opciones": {
-      "Talle": "T0",
-      "Color": "Menta"
+      "Color": "T0",
+      "Talle": "Menta"
      },
      "precio": 22400.0,
      "precio_anterior": 32000.0,
@@ -19542,8 +19543,8 @@
     {
      "sku": "51A1706   381",
      "opciones": {
-      "Talle": "T1",
-      "Color": "Menta"
+      "Color": "T1",
+      "Talle": "Menta"
      },
      "precio": 22400.0,
      "precio_anterior": 32000.0,
@@ -19555,8 +19556,8 @@
     {
      "sku": "51A1706   382",
      "opciones": {
-      "Talle": "T2",
-      "Color": "Menta"
+      "Color": "T2",
+      "Talle": "Menta"
      },
      "precio": 22400.0,
      "precio_anterior": 32000.0,
@@ -19568,8 +19569,8 @@
     {
      "sku": "51A1706   383",
      "opciones": {
-      "Talle": "T3",
-      "Color": "Menta"
+      "Color": "T3",
+      "Talle": "Menta"
      },
      "precio": 22400.0,
      "precio_anterior": 32000.0,
@@ -19581,8 +19582,8 @@
     {
      "sku": "51A1706   384",
      "opciones": {
-      "Talle": "T4",
-      "Color": "Menta"
+      "Color": "T4",
+      "Talle": "Menta"
      },
      "precio": 22400.0,
      "precio_anterior": 32000.0,
@@ -19777,8 +19778,8 @@
     {
      "sku": "51A1707   4300",
      "opciones": {
-      "Color": "Rosa",
-      "Talle": "00"
+      "Talle": "Rosa",
+      "Color": "00"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -19790,8 +19791,8 @@
     {
      "sku": "51A1707   430",
      "opciones": {
-      "Color": "Rosa",
-      "Talle": "0"
+      "Talle": "Rosa",
+      "Color": "0"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -19803,8 +19804,8 @@
     {
      "sku": "51A1707   431",
      "opciones": {
-      "Color": "Rosa",
-      "Talle": "1"
+      "Talle": "Rosa",
+      "Color": "1"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -19816,8 +19817,8 @@
     {
      "sku": "51A1707   432",
      "opciones": {
-      "Color": "Rosa",
-      "Talle": "2"
+      "Talle": "Rosa",
+      "Color": "2"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -19829,8 +19830,8 @@
     {
      "sku": "51A1707   433",
      "opciones": {
-      "Color": "Rosa",
-      "Talle": "3"
+      "Talle": "Rosa",
+      "Color": "3"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -19842,8 +19843,8 @@
     {
      "sku": "51A1707   434",
      "opciones": {
-      "Color": "Rosa",
-      "Talle": "4"
+      "Talle": "Rosa",
+      "Color": "4"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -20722,8 +20723,8 @@
     {
      "sku": "61A2600   AQ00",
      "opciones": {
-      "Color": "00",
-      "Talle": "Aqua"
+      "Talle": "00",
+      "Color": "Aqua"
      },
      "precio": 18760.0,
      "precio_anterior": 26800.0,
@@ -20735,8 +20736,8 @@
     {
      "sku": "61A2600   AQ0",
      "opciones": {
-      "Color": "T0",
-      "Talle": "Aqua"
+      "Talle": "T0",
+      "Color": "Aqua"
      },
      "precio": 18760.0,
      "precio_anterior": 26800.0,
@@ -20748,8 +20749,8 @@
     {
      "sku": "61A2600   AQ1",
      "opciones": {
-      "Color": "T1",
-      "Talle": "Aqua"
+      "Talle": "T1",
+      "Color": "Aqua"
      },
      "precio": 18760.0,
      "precio_anterior": 26800.0,
@@ -20761,8 +20762,8 @@
     {
      "sku": "61A2600   AQ2",
      "opciones": {
-      "Color": "T2",
-      "Talle": "Aqua"
+      "Talle": "T2",
+      "Color": "Aqua"
      },
      "precio": 18760.0,
      "precio_anterior": 26800.0,
@@ -20774,8 +20775,8 @@
     {
      "sku": "61A2600   AQ3",
      "opciones": {
-      "Color": "T3",
-      "Talle": "Aqua"
+      "Talle": "T3",
+      "Color": "Aqua"
      },
      "precio": 18760.0,
      "precio_anterior": 26800.0,
@@ -20787,8 +20788,8 @@
     {
      "sku": "61A2600   AQ4",
      "opciones": {
-      "Color": "T4",
-      "Talle": "Aqua"
+      "Talle": "T4",
+      "Color": "Aqua"
      },
      "precio": 18760.0,
      "precio_anterior": 26800.0,
@@ -21421,8 +21422,8 @@
     {
      "sku": "11B1703   55XS",
      "opciones": {
-      "Talle": "XS",
-      "Color": "Naranja"
+      "Color": "XS",
+      "Talle": "Naranja"
      },
      "precio": 37350.0,
      "precio_anterior": 41500.0,
@@ -21434,8 +21435,8 @@
     {
      "sku": "11B1703   55S",
      "opciones": {
-      "Talle": "S",
-      "Color": "Naranja"
+      "Color": "S",
+      "Talle": "Naranja"
      },
      "precio": 37350.0,
      "precio_anterior": 41500.0,
@@ -21447,8 +21448,8 @@
     {
      "sku": "11B1703   55M",
      "opciones": {
-      "Talle": "M",
-      "Color": "Naranja"
+      "Color": "M",
+      "Talle": "Naranja"
      },
      "precio": 37350.0,
      "precio_anterior": 41500.0,
@@ -21460,8 +21461,8 @@
     {
      "sku": "11B1703   55L",
      "opciones": {
-      "Talle": "L",
-      "Color": "Naranja"
+      "Color": "L",
+      "Talle": "Naranja"
      },
      "precio": 37350.0,
      "precio_anterior": 41500.0,
@@ -21473,8 +21474,8 @@
     {
      "sku": "11B1703   55XL",
      "opciones": {
-      "Talle": "XL",
-      "Color": "Naranja"
+      "Color": "XL",
+      "Talle": "Naranja"
      },
      "precio": 37350.0,
      "precio_anterior": 41500.0,
@@ -23045,8 +23046,8 @@
     {
      "sku": "14A0901   58XS",
      "opciones": {
-      "Color": "Naranja Fluo",
-      "Talle": "XS"
+      "Talle": "Naranja Fluo",
+      "Color": "XS"
      },
      "precio": 24435.0,
      "precio_anterior": 27150.0,
@@ -23058,8 +23059,8 @@
     {
      "sku": "14A0901   58S",
      "opciones": {
-      "Color": "Naranja Fluo",
-      "Talle": "S"
+      "Talle": "Naranja Fluo",
+      "Color": "S"
      },
      "precio": 24435.0,
      "precio_anterior": 27150.0,
@@ -23071,8 +23072,8 @@
     {
      "sku": "14A0901   58M",
      "opciones": {
-      "Color": "Naranja Fluo",
-      "Talle": "M"
+      "Talle": "Naranja Fluo",
+      "Color": "M"
      },
      "precio": 24435.0,
      "precio_anterior": 27150.0,
@@ -23084,8 +23085,8 @@
     {
      "sku": "14A0901   58L",
      "opciones": {
-      "Color": "Naranja Fluo",
-      "Talle": "L"
+      "Talle": "Naranja Fluo",
+      "Color": "L"
      },
      "precio": 24435.0,
      "precio_anterior": 27150.0,
@@ -25074,8 +25075,8 @@
     {
      "sku": "11A0902   4C0",
      "opciones": {
-      "Color": "T0",
-      "Talle": "Coral flúo"
+      "Talle": "T0",
+      "Color": "Coral flúo"
      },
      "precio": 19395.0,
      "precio_anterior": 21550.0,
@@ -25087,8 +25088,8 @@
     {
      "sku": "11A0902   4C1",
      "opciones": {
-      "Color": "T1",
-      "Talle": "Coral flúo"
+      "Talle": "T1",
+      "Color": "Coral flúo"
      },
      "precio": 19395.0,
      "precio_anterior": 21550.0,
@@ -25100,8 +25101,8 @@
     {
      "sku": "11A0902   4C2",
      "opciones": {
-      "Color": "T2",
-      "Talle": "Coral flúo"
+      "Talle": "T2",
+      "Color": "Coral flúo"
      },
      "precio": 19395.0,
      "precio_anterior": 21550.0,
@@ -25113,8 +25114,8 @@
     {
      "sku": "11A0902   4C3",
      "opciones": {
-      "Color": "T3",
-      "Talle": "Coral flúo"
+      "Talle": "T3",
+      "Color": "Coral flúo"
      },
      "precio": 19395.0,
      "precio_anterior": 21550.0,
@@ -25126,8 +25127,8 @@
     {
      "sku": "11A0902   4C4",
      "opciones": {
-      "Color": "T4",
-      "Talle": "Coral flúo"
+      "Talle": "T4",
+      "Color": "Coral flúo"
      },
      "precio": 19395.0,
      "precio_anterior": 21550.0,
@@ -25191,8 +25192,8 @@
     {
      "sku": "14A0901   4CXS",
      "opciones": {
-      "Talle": "Coral flúo",
-      "Color": "XS"
+      "Color": "Coral flúo",
+      "Talle": "XS"
      },
      "precio": 24435.0,
      "precio_anterior": 27150.0,
@@ -25204,8 +25205,8 @@
     {
      "sku": "14A0901   4CS",
      "opciones": {
-      "Talle": "Coral flúo",
-      "Color": "S"
+      "Color": "Coral flúo",
+      "Talle": "S"
      },
      "precio": 24435.0,
      "precio_anterior": 27150.0,
@@ -25217,8 +25218,8 @@
     {
      "sku": "14A0901   4CM",
      "opciones": {
-      "Talle": "Coral flúo",
-      "Color": "M"
+      "Color": "Coral flúo",
+      "Talle": "M"
      },
      "precio": 24435.0,
      "precio_anterior": 27150.0,
@@ -25230,8 +25231,8 @@
     {
      "sku": "14A0901   4CL",
      "opciones": {
-      "Talle": "Coral flúo",
-      "Color": "L"
+      "Color": "Coral flúo",
+      "Talle": "L"
      },
      "precio": 24435.0,
      "precio_anterior": 27150.0,
@@ -25936,8 +25937,8 @@
     {
      "sku": "11B1203   18XS",
      "opciones": {
-      "Talle": "Negro / Blanco",
-      "Color": "XS"
+      "Color": "Negro / Blanco",
+      "Talle": "XS"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -25949,8 +25950,8 @@
     {
      "sku": "11B1203   18S",
      "opciones": {
-      "Talle": "Negro / Blanco",
-      "Color": "S"
+      "Color": "Negro / Blanco",
+      "Talle": "S"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -25962,8 +25963,8 @@
     {
      "sku": "11B1203   18M",
      "opciones": {
-      "Talle": "Negro / Blanco",
-      "Color": "M"
+      "Color": "Negro / Blanco",
+      "Talle": "M"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -25975,8 +25976,8 @@
     {
      "sku": "11B1203   18L",
      "opciones": {
-      "Talle": "Negro / Blanco",
-      "Color": "L"
+      "Color": "Negro / Blanco",
+      "Talle": "L"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -25988,8 +25989,8 @@
     {
      "sku": "11B1203   18XL",
      "opciones": {
-      "Talle": "Negro / Blanco",
-      "Color": "XL"
+      "Color": "Negro / Blanco",
+      "Talle": "XL"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -28207,8 +28208,7 @@
     {
      "sku": "53A1704   218",
      "opciones": {
-      "Talle": "8",
-      "Color": "Azul Marino"
+      "Talle": "Azul Marino"
      },
      "precio": 51260.0,
      "precio_anterior": null,
@@ -28220,8 +28220,7 @@
     {
      "sku": "53A1704   2110",
      "opciones": {
-      "Talle": "10",
-      "Color": "Azul Marino"
+      "Talle": "Azul Marino"
      },
      "precio": 51260.0,
      "precio_anterior": null,
@@ -28233,8 +28232,7 @@
     {
      "sku": "53A1704   2112",
      "opciones": {
-      "Talle": "12",
-      "Color": "Azul Marino"
+      "Talle": "Azul Marino"
      },
      "precio": 51260.0,
      "precio_anterior": null,
@@ -28246,8 +28244,7 @@
     {
      "sku": "53A1704   2114",
      "opciones": {
-      "Talle": "14",
-      "Color": "Azul Marino"
+      "Talle": "Azul Marino"
      },
      "precio": 51260.0,
      "precio_anterior": null,
@@ -28511,8 +28508,8 @@
     {
      "sku": "41A1702   100",
      "opciones": {
-      "Color": "T0",
-      "Talle": "Negro"
+      "Talle": "T0",
+      "Color": "Negro"
      },
      "precio": 22015.0,
      "precio_anterior": 31450.0,
@@ -28524,8 +28521,8 @@
     {
      "sku": "41A1702   101",
      "opciones": {
-      "Color": "T1",
-      "Talle": "Negro"
+      "Talle": "T1",
+      "Color": "Negro"
      },
      "precio": 22015.0,
      "precio_anterior": 31450.0,
@@ -28537,8 +28534,8 @@
     {
      "sku": "41A1702   102",
      "opciones": {
-      "Color": "T2",
-      "Talle": "Negro"
+      "Talle": "T2",
+      "Color": "Negro"
      },
      "precio": 22015.0,
      "precio_anterior": 31450.0,
@@ -28550,8 +28547,8 @@
     {
      "sku": "41A1702   103",
      "opciones": {
-      "Color": "T3",
-      "Talle": "Negro"
+      "Talle": "T3",
+      "Color": "Negro"
      },
      "precio": 22015.0,
      "precio_anterior": 31450.0,
@@ -28563,8 +28560,8 @@
     {
      "sku": "41A1702   104",
      "opciones": {
-      "Color": "T4",
-      "Talle": "Negro"
+      "Talle": "T4",
+      "Color": "Negro"
      },
      "precio": 22015.0,
      "precio_anterior": 31450.0,
@@ -29067,8 +29064,8 @@
     {
      "sku": "63C0601   408",
      "opciones": {
-      "Talle": "Rojo",
-      "Color": "8"
+      "Color": "Rojo",
+      "Talle": "8"
      },
      "precio": 30800.0,
      "precio_anterior": 44000.0,
@@ -29080,8 +29077,8 @@
     {
      "sku": "63C0601   4010",
      "opciones": {
-      "Talle": "Rojo",
-      "Color": "10"
+      "Color": "Rojo",
+      "Talle": "10"
      },
      "precio": 30800.0,
      "precio_anterior": 44000.0,
@@ -29093,8 +29090,8 @@
     {
      "sku": "63C0601   4012",
      "opciones": {
-      "Talle": "Rojo",
-      "Color": "12"
+      "Color": "Rojo",
+      "Talle": "12"
      },
      "precio": 30800.0,
      "precio_anterior": 44000.0,
@@ -29106,8 +29103,8 @@
     {
      "sku": "63C0601   4014",
      "opciones": {
-      "Talle": "Rojo",
-      "Color": "14"
+      "Color": "Rojo",
+      "Talle": "14"
      },
      "precio": 30800.0,
      "precio_anterior": 44000.0,
@@ -29442,8 +29439,8 @@
     {
      "sku": "62B1203   40XS",
      "opciones": {
-      "Color": "Rojo",
-      "Talle": "XS"
+      "Talle": "Rojo",
+      "Color": "XS"
      },
      "precio": 28560.0,
      "precio_anterior": 40800.0,
@@ -29455,8 +29452,8 @@
     {
      "sku": "62B1203   40S",
      "opciones": {
-      "Color": "Rojo",
-      "Talle": "S"
+      "Talle": "Rojo",
+      "Color": "S"
      },
      "precio": 28560.0,
      "precio_anterior": 40800.0,
@@ -29468,8 +29465,8 @@
     {
      "sku": "62B1203   40M",
      "opciones": {
-      "Color": "Rojo",
-      "Talle": "M"
+      "Talle": "Rojo",
+      "Color": "M"
      },
      "precio": 28560.0,
      "precio_anterior": 40800.0,
@@ -29481,8 +29478,8 @@
     {
      "sku": "62B1203   40L",
      "opciones": {
-      "Color": "Rojo",
-      "Talle": "L"
+      "Talle": "Rojo",
+      "Color": "L"
      },
      "precio": 28560.0,
      "precio_anterior": 40800.0,
@@ -29494,8 +29491,8 @@
     {
      "sku": "62B1203   40XL",
      "opciones": {
-      "Color": "Rojo",
-      "Talle": "XL"
+      "Talle": "Rojo",
+      "Color": "XL"
      },
      "precio": 28560.0,
      "precio_anterior": 40800.0,
@@ -29507,8 +29504,8 @@
     {
      "sku": "62B1203   40XXL",
      "opciones": {
-      "Color": "Rojo",
-      "Talle": "XXL"
+      "Talle": "Rojo",
+      "Color": "XXL"
      },
      "precio": 28560.0,
      "precio_anterior": 40800.0,
@@ -32838,8 +32835,8 @@
     {
      "sku": "61A1703   21XS",
      "opciones": {
-      "Color": "XS",
-      "Talle": "Azul marino"
+      "Talle": "XS",
+      "Color": "Azul marino"
      },
      "precio": 32400.0,
      "precio_anterior": 36000.0,
@@ -32851,8 +32848,8 @@
     {
      "sku": "61A1703   21S",
      "opciones": {
-      "Color": "S",
-      "Talle": "Azul marino"
+      "Talle": "S",
+      "Color": "Azul marino"
      },
      "precio": 32400.0,
      "precio_anterior": 36000.0,
@@ -32864,8 +32861,8 @@
     {
      "sku": "61A1703   21M",
      "opciones": {
-      "Color": "M",
-      "Talle": "Azul marino"
+      "Talle": "M",
+      "Color": "Azul marino"
      },
      "precio": 32400.0,
      "precio_anterior": 36000.0,
@@ -32877,8 +32874,8 @@
     {
      "sku": "61A1703   21L",
      "opciones": {
-      "Color": "L",
-      "Talle": "Azul marino"
+      "Talle": "L",
+      "Color": "Azul marino"
      },
      "precio": 32400.0,
      "precio_anterior": 36000.0,
@@ -34369,8 +34366,8 @@
     {
      "sku": "63A1701   106",
      "opciones": {
-      "Color": "6",
-      "Talle": "Negro"
+      "Talle": "6",
+      "Color": "Negro"
      },
      "precio": 25650.0,
      "precio_anterior": 28500.0,
@@ -34382,8 +34379,8 @@
     {
      "sku": "63A1701   108",
      "opciones": {
-      "Color": "8",
-      "Talle": "Negro"
+      "Talle": "8",
+      "Color": "Negro"
      },
      "precio": 25650.0,
      "precio_anterior": 28500.0,
@@ -34395,8 +34392,8 @@
     {
      "sku": "63A1701   1010",
      "opciones": {
-      "Color": "10",
-      "Talle": "Negro"
+      "Talle": "10",
+      "Color": "Negro"
      },
      "precio": 25650.0,
      "precio_anterior": 28500.0,
@@ -34408,8 +34405,8 @@
     {
      "sku": "63A1701   1012",
      "opciones": {
-      "Color": "12",
-      "Talle": "Negro"
+      "Talle": "12",
+      "Color": "Negro"
      },
      "precio": 25650.0,
      "precio_anterior": 28500.0,
@@ -34421,8 +34418,8 @@
     {
      "sku": "63A1701   1014",
      "opciones": {
-      "Color": "14",
-      "Talle": "Negro"
+      "Talle": "14",
+      "Color": "Negro"
      },
      "precio": 25650.0,
      "precio_anterior": 28500.0,
@@ -34528,8 +34525,8 @@
     {
      "sku": "71A1703   10XS",
      "opciones": {
-      "Color": "XS",
-      "Talle": "Negro"
+      "Talle": "XS",
+      "Color": "Negro"
      },
      "precio": 27000.0,
      "precio_anterior": 30000.0,
@@ -34541,8 +34538,8 @@
     {
      "sku": "71A1703   10S",
      "opciones": {
-      "Color": "S",
-      "Talle": "Negro"
+      "Talle": "S",
+      "Color": "Negro"
      },
      "precio": 27000.0,
      "precio_anterior": 30000.0,
@@ -34554,8 +34551,8 @@
     {
      "sku": "71A1703   10M",
      "opciones": {
-      "Color": "M",
-      "Talle": "Negro"
+      "Talle": "M",
+      "Color": "Negro"
      },
      "precio": 27000.0,
      "precio_anterior": 30000.0,
@@ -34567,8 +34564,8 @@
     {
      "sku": "71A1703   10L",
      "opciones": {
-      "Color": "L",
-      "Talle": "Negro"
+      "Talle": "L",
+      "Color": "Negro"
      },
      "precio": 27000.0,
      "precio_anterior": 30000.0,
@@ -35329,8 +35326,8 @@
     {
      "sku": "11A0906   94XS",
      "opciones": {
-      "Color": "XS",
-      "Talle": "Gris"
+      "Talle": "XS",
+      "Color": "Gris"
      },
      "precio": 48150.0,
      "precio_anterior": 53500.0,
@@ -35342,8 +35339,8 @@
     {
      "sku": "11A0906   94S",
      "opciones": {
-      "Color": "S",
-      "Talle": "Gris"
+      "Talle": "S",
+      "Color": "Gris"
      },
      "precio": 48150.0,
      "precio_anterior": 53500.0,
@@ -35355,8 +35352,8 @@
     {
      "sku": "11A0906   94M",
      "opciones": {
-      "Color": "M",
-      "Talle": "Gris"
+      "Talle": "M",
+      "Color": "Gris"
      },
      "precio": 48150.0,
      "precio_anterior": 53500.0,
@@ -35368,8 +35365,8 @@
     {
      "sku": "11A0906   94L",
      "opciones": {
-      "Color": "L",
-      "Talle": "Gris"
+      "Talle": "L",
+      "Color": "Gris"
      },
      "precio": 48150.0,
      "precio_anterior": 53500.0,
@@ -35862,8 +35859,8 @@
     {
      "sku": "13B1201   BL8",
      "opciones": {
-      "Talle": "8",
-      "Color": "Black"
+      "Color": "8",
+      "Talle": "Black"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -35875,8 +35872,8 @@
     {
      "sku": "13B1201   BL10",
      "opciones": {
-      "Talle": "10",
-      "Color": "Black"
+      "Color": "10",
+      "Talle": "Black"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -35888,8 +35885,8 @@
     {
      "sku": "13B1201   BL12",
      "opciones": {
-      "Talle": "12",
-      "Color": "Black"
+      "Color": "12",
+      "Talle": "Black"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -35901,8 +35898,8 @@
     {
      "sku": "13B1201   BL14",
      "opciones": {
-      "Talle": "14",
-      "Color": "Black"
+      "Color": "14",
+      "Talle": "Black"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -35914,8 +35911,8 @@
     {
      "sku": "13B1201   BL16",
      "opciones": {
-      "Talle": "16",
-      "Color": "Black"
+      "Color": "16",
+      "Talle": "Black"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -36673,8 +36670,8 @@
     {
      "sku": "51B1203   27XS",
      "opciones": {
-      "Talle": "XS",
-      "Color": "Turquesa"
+      "Color": "XS",
+      "Talle": "Turquesa"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -36686,8 +36683,8 @@
     {
      "sku": "51B1203   27S",
      "opciones": {
-      "Talle": "S",
-      "Color": "Turquesa"
+      "Color": "S",
+      "Talle": "Turquesa"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -36699,8 +36696,8 @@
     {
      "sku": "51B1203   27M",
      "opciones": {
-      "Talle": "M",
-      "Color": "Turquesa"
+      "Color": "M",
+      "Talle": "Turquesa"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -36712,8 +36709,8 @@
     {
      "sku": "51B1203   27L",
      "opciones": {
-      "Talle": "L",
-      "Color": "Turquesa"
+      "Color": "L",
+      "Talle": "Turquesa"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -36725,8 +36722,8 @@
     {
      "sku": "51B1203   27XL",
      "opciones": {
-      "Talle": "XL",
-      "Color": "Turquesa"
+      "Color": "XL",
+      "Talle": "Turquesa"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -36803,9 +36800,9 @@
      },
      "precio": 16125.0,
      "precio_anterior": 32250.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
-     "stock": 1,
+     "stock": 0,
      "url": "https://www.vlackhockey.com.ar/productos/calza-zorg-ninas1/?variant=1216247955"
     },
     {
@@ -37379,8 +37376,8 @@
     {
      "sku": "62B1203   27XS",
      "opciones": {
-      "Color": "Turquesa",
-      "Talle": "XS"
+      "Talle": "Turquesa",
+      "Color": "XS"
      },
      "precio": 28560.0,
      "precio_anterior": 40800.0,
@@ -37392,8 +37389,8 @@
     {
      "sku": "62B1203   27S",
      "opciones": {
-      "Color": "Turquesa",
-      "Talle": "S"
+      "Talle": "Turquesa",
+      "Color": "S"
      },
      "precio": 28560.0,
      "precio_anterior": 40800.0,
@@ -37405,8 +37402,8 @@
     {
      "sku": "62B1203   27M",
      "opciones": {
-      "Color": "Turquesa",
-      "Talle": "M"
+      "Talle": "Turquesa",
+      "Color": "M"
      },
      "precio": 28560.0,
      "precio_anterior": 40800.0,
@@ -37418,8 +37415,8 @@
     {
      "sku": "62B1203   27L",
      "opciones": {
-      "Color": "Turquesa",
-      "Talle": "L"
+      "Talle": "Turquesa",
+      "Color": "L"
      },
      "precio": 28560.0,
      "precio_anterior": 40800.0,
@@ -37431,8 +37428,8 @@
     {
      "sku": "62B1203   27XL",
      "opciones": {
-      "Color": "Turquesa",
-      "Talle": "XL"
+      "Talle": "Turquesa",
+      "Color": "XL"
      },
      "precio": 28560.0,
      "precio_anterior": 40800.0,
@@ -37444,8 +37441,8 @@
     {
      "sku": "62B1203   27XXL",
      "opciones": {
-      "Color": "Turquesa",
-      "Talle": "XXL"
+      "Talle": "Turquesa",
+      "Color": "XXL"
      },
      "precio": 28560.0,
      "precio_anterior": 40800.0,
@@ -37478,8 +37475,8 @@
     {
      "sku": "41B1200   10XS",
      "opciones": {
-      "Color": "XS",
-      "Talle": "Negro"
+      "Talle": "XS",
+      "Color": "Negro"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -37491,8 +37488,8 @@
     {
      "sku": "41B1200   10S",
      "opciones": {
-      "Color": "S",
-      "Talle": "Negro"
+      "Talle": "S",
+      "Color": "Negro"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -37504,8 +37501,8 @@
     {
      "sku": "41B1200   10M",
      "opciones": {
-      "Color": "M",
-      "Talle": "Negro"
+      "Talle": "M",
+      "Color": "Negro"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -37517,8 +37514,8 @@
     {
      "sku": "41B1200   10L",
      "opciones": {
-      "Color": "L",
-      "Talle": "Negro"
+      "Talle": "L",
+      "Color": "Negro"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -37530,8 +37527,8 @@
     {
      "sku": "41B1200   10XL",
      "opciones": {
-      "Color": "XL",
-      "Talle": "Negro"
+      "Talle": "XL",
+      "Color": "Negro"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -37650,8 +37647,8 @@
     {
      "sku": "41B1200   01XS",
      "opciones": {
-      "Color": "XS",
-      "Talle": "Blanco"
+      "Talle": "XS",
+      "Color": "Blanco"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -37663,8 +37660,8 @@
     {
      "sku": "41B1200   01S",
      "opciones": {
-      "Color": "S",
-      "Talle": "Blanco"
+      "Talle": "S",
+      "Color": "Blanco"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -37676,8 +37673,8 @@
     {
      "sku": "41B1200   01M",
      "opciones": {
-      "Color": "M",
-      "Talle": "Blanco"
+      "Talle": "M",
+      "Color": "Blanco"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -37689,8 +37686,8 @@
     {
      "sku": "41B1200   01L",
      "opciones": {
-      "Color": "L",
-      "Talle": "Blanco"
+      "Talle": "L",
+      "Color": "Blanco"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -37702,8 +37699,8 @@
     {
      "sku": "41B1200   01XL",
      "opciones": {
-      "Color": "XL",
-      "Talle": "Blanco"
+      "Talle": "XL",
+      "Color": "Blanco"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -37736,8 +37733,8 @@
     {
      "sku": "44B1200   21XXS",
      "opciones": {
-      "Color": "XXS",
-      "Talle": "Azul"
+      "Talle": "XXS",
+      "Color": "Azul"
      },
      "precio": 36450.0,
      "precio_anterior": 40500.0,
@@ -37749,8 +37746,8 @@
     {
      "sku": "44B1200   21XS",
      "opciones": {
-      "Color": "XS",
-      "Talle": "Azul"
+      "Talle": "XS",
+      "Color": "Azul"
      },
      "precio": 36450.0,
      "precio_anterior": 40500.0,
@@ -37762,8 +37759,8 @@
     {
      "sku": "44B1200   21S",
      "opciones": {
-      "Color": "S",
-      "Talle": "Azul"
+      "Talle": "S",
+      "Color": "Azul"
      },
      "precio": 36450.0,
      "precio_anterior": 40500.0,
@@ -37775,8 +37772,8 @@
     {
      "sku": "44B1200   21M",
      "opciones": {
-      "Color": "M",
-      "Talle": "Azul"
+      "Talle": "M",
+      "Color": "Azul"
      },
      "precio": 36450.0,
      "precio_anterior": 40500.0,
@@ -37788,8 +37785,8 @@
     {
      "sku": "44B1200   21L",
      "opciones": {
-      "Color": "L",
-      "Talle": "Azul"
+      "Talle": "L",
+      "Color": "Azul"
      },
      "precio": 36450.0,
      "precio_anterior": 40500.0,
@@ -37801,8 +37798,8 @@
     {
      "sku": "44B1200   21XL",
      "opciones": {
-      "Color": "XL",
-      "Talle": "Azul"
+      "Talle": "XL",
+      "Color": "Azul"
      },
      "precio": 36450.0,
      "precio_anterior": 40500.0,
@@ -37814,8 +37811,8 @@
     {
      "sku": "44B1200   21XXL",
      "opciones": {
-      "Color": "XXL",
-      "Talle": "Azul"
+      "Talle": "XXL",
+      "Color": "Azul"
      },
      "precio": 36450.0,
      "precio_anterior": 40500.0,
@@ -37984,8 +37981,8 @@
     {
      "sku": "91A0900   2G12",
      "opciones": {
-      "Color": "12",
-      "Talle": "Azul"
+      "Talle": "12",
+      "Color": "Azul"
      },
      "precio": 21350.0,
      "precio_anterior": 30500.0,
@@ -37997,8 +37994,8 @@
     {
      "sku": "91A0900   2G14",
      "opciones": {
-      "Color": "14",
-      "Talle": "Azul"
+      "Talle": "14",
+      "Color": "Azul"
      },
      "precio": 21350.0,
      "precio_anterior": 30500.0,
@@ -38010,8 +38007,8 @@
     {
      "sku": "91A0900   2GXS",
      "opciones": {
-      "Color": "XS",
-      "Talle": "Azul"
+      "Talle": "XS",
+      "Color": "Azul"
      },
      "precio": 21350.0,
      "precio_anterior": 30500.0,
@@ -38023,8 +38020,8 @@
     {
      "sku": "91A0900   2GS",
      "opciones": {
-      "Color": "S",
-      "Talle": "Azul"
+      "Talle": "S",
+      "Color": "Azul"
      },
      "precio": 21350.0,
      "precio_anterior": 30500.0,
@@ -38036,8 +38033,8 @@
     {
      "sku": "91A0900   2GM",
      "opciones": {
-      "Color": "M",
-      "Talle": "Azul"
+      "Talle": "M",
+      "Color": "Azul"
      },
      "precio": 21350.0,
      "precio_anterior": 30500.0,
@@ -38049,8 +38046,8 @@
     {
      "sku": "91A0900   2GL",
      "opciones": {
-      "Color": "L",
-      "Talle": "Azul"
+      "Talle": "L",
+      "Color": "Azul"
      },
      "precio": 21350.0,
      "precio_anterior": 30500.0,
@@ -39224,8 +39221,8 @@
     {
      "sku": "11A0902   LA0",
      "opciones": {
-      "Color": "T0",
-      "Talle": "Lima"
+      "Talle": "T0",
+      "Color": "Lima"
      },
      "precio": 19395.0,
      "precio_anterior": 21550.0,
@@ -39237,8 +39234,8 @@
     {
      "sku": "11A0902   LA1",
      "opciones": {
-      "Color": "T1",
-      "Talle": "Lima"
+      "Talle": "T1",
+      "Color": "Lima"
      },
      "precio": 19395.0,
      "precio_anterior": 21550.0,
@@ -39250,8 +39247,8 @@
     {
      "sku": "11A0902   LA2",
      "opciones": {
-      "Color": "T2",
-      "Talle": "Lima"
+      "Talle": "T2",
+      "Color": "Lima"
      },
      "precio": 19395.0,
      "precio_anterior": 21550.0,
@@ -39263,8 +39260,8 @@
     {
      "sku": "11A0902   LA3",
      "opciones": {
-      "Color": "T3",
-      "Talle": "Lima"
+      "Talle": "T3",
+      "Color": "Lima"
      },
      "precio": 19395.0,
      "precio_anterior": 21550.0,
@@ -39276,8 +39273,8 @@
     {
      "sku": "11A0902   LA4",
      "opciones": {
-      "Color": "T4",
-      "Talle": "Lima"
+      "Talle": "T4",
+      "Color": "Lima"
      },
      "precio": 19395.0,
      "precio_anterior": 21550.0,
@@ -40087,8 +40084,8 @@
     {
      "sku": "41A1702   230",
      "opciones": {
-      "Talle": "T0",
-      "Color": "Celeste"
+      "Color": "T0",
+      "Talle": "Celeste"
      },
      "precio": 15725.0,
      "precio_anterior": 31450.0,
@@ -40100,8 +40097,8 @@
     {
      "sku": "41A1702   231",
      "opciones": {
-      "Talle": "T1",
-      "Color": "Celeste"
+      "Color": "T1",
+      "Talle": "Celeste"
      },
      "precio": 15725.0,
      "precio_anterior": 31450.0,
@@ -40113,8 +40110,8 @@
     {
      "sku": "41A1702   232",
      "opciones": {
-      "Talle": "T2",
-      "Color": "Celeste"
+      "Color": "T2",
+      "Talle": "Celeste"
      },
      "precio": 15725.0,
      "precio_anterior": 31450.0,
@@ -40126,8 +40123,8 @@
     {
      "sku": "41A1702   233",
      "opciones": {
-      "Talle": "T3",
-      "Color": "Celeste"
+      "Color": "T3",
+      "Talle": "Celeste"
      },
      "precio": 15725.0,
      "precio_anterior": 31450.0,
@@ -40139,8 +40136,8 @@
     {
      "sku": "41A1702   234",
      "opciones": {
-      "Talle": "T4",
-      "Color": "Celeste"
+      "Color": "T4",
+      "Talle": "Celeste"
      },
      "precio": 15725.0,
      "precio_anterior": 31450.0,
@@ -40476,8 +40473,8 @@
     {
      "sku": "41A1702   710",
      "opciones": {
-      "Color": "T0",
-      "Talle": "Lila"
+      "Talle": "T0",
+      "Color": "Lila"
      },
      "precio": 15725.0,
      "precio_anterior": 31450.0,
@@ -40489,8 +40486,8 @@
     {
      "sku": "41A1702   711",
      "opciones": {
-      "Color": "T1",
-      "Talle": "Lila"
+      "Talle": "T1",
+      "Color": "Lila"
      },
      "precio": 15725.0,
      "precio_anterior": 31450.0,
@@ -40502,8 +40499,8 @@
     {
      "sku": "41A1702   712",
      "opciones": {
-      "Color": "T2",
-      "Talle": "Lila"
+      "Talle": "T2",
+      "Color": "Lila"
      },
      "precio": 15725.0,
      "precio_anterior": 31450.0,
@@ -40515,8 +40512,8 @@
     {
      "sku": "41A1702   713",
      "opciones": {
-      "Color": "T3",
-      "Talle": "Lila"
+      "Talle": "T3",
+      "Color": "Lila"
      },
      "precio": 15725.0,
      "precio_anterior": 31450.0,
@@ -40528,8 +40525,8 @@
     {
      "sku": "41A1702   714",
      "opciones": {
-      "Color": "T4",
-      "Talle": "Lila"
+      "Talle": "T4",
+      "Color": "Lila"
      },
      "precio": 15725.0,
      "precio_anterior": 31450.0,
@@ -40768,8 +40765,8 @@
     {
      "sku": "53B1206   408",
      "opciones": {
-      "Talle": "8",
-      "Color": "Rojo"
+      "Color": "8",
+      "Talle": "Rojo"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -40781,8 +40778,8 @@
     {
      "sku": "53B1206   4010",
      "opciones": {
-      "Talle": "10",
-      "Color": "Rojo"
+      "Color": "10",
+      "Talle": "Rojo"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -40794,8 +40791,8 @@
     {
      "sku": "53B1206   4012",
      "opciones": {
-      "Talle": "12",
-      "Color": "Rojo"
+      "Color": "12",
+      "Talle": "Rojo"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -40807,8 +40804,8 @@
     {
      "sku": "53B1206   4014",
      "opciones": {
-      "Talle": "14",
-      "Color": "Rojo"
+      "Color": "14",
+      "Talle": "Rojo"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -40820,8 +40817,8 @@
     {
      "sku": "53B1206   4016",
      "opciones": {
-      "Talle": "16",
-      "Color": "Rojo"
+      "Color": "16",
+      "Talle": "Rojo"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -43245,8 +43242,8 @@
     {
      "sku": "13B1201   2G8",
      "opciones": {
-      "Color": "8",
-      "Talle": "Azul francia"
+      "Talle": "8",
+      "Color": "Azul francia"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -43258,8 +43255,8 @@
     {
      "sku": "13B1201   2G10",
      "opciones": {
-      "Color": "10",
-      "Talle": "Azul francia"
+      "Talle": "10",
+      "Color": "Azul francia"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -43271,8 +43268,8 @@
     {
      "sku": "13B1201   2G12",
      "opciones": {
-      "Color": "12",
-      "Talle": "Azul francia"
+      "Talle": "12",
+      "Color": "Azul francia"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -43284,8 +43281,8 @@
     {
      "sku": "13B1201   2G14",
      "opciones": {
-      "Color": "14",
-      "Talle": "Azul francia"
+      "Talle": "14",
+      "Color": "Azul francia"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -43297,8 +43294,8 @@
     {
      "sku": "13B1201   2G16",
      "opciones": {
-      "Color": "16",
-      "Talle": "Azul francia"
+      "Talle": "16",
+      "Color": "Azul francia"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -43557,8 +43554,8 @@
     {
      "sku": "51A1707   7100",
      "opciones": {
-      "Talle": "Lila",
-      "Color": "00"
+      "Color": "Lila",
+      "Talle": "00"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -43570,8 +43567,8 @@
     {
      "sku": "51A1707   710",
      "opciones": {
-      "Talle": "Lila",
-      "Color": "0"
+      "Color": "Lila",
+      "Talle": "0"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -43583,8 +43580,8 @@
     {
      "sku": "51A1707   711",
      "opciones": {
-      "Talle": "Lila",
-      "Color": "1"
+      "Color": "Lila",
+      "Talle": "1"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -43596,8 +43593,8 @@
     {
      "sku": "51A1707   712",
      "opciones": {
-      "Talle": "Lila",
-      "Color": "2"
+      "Color": "Lila",
+      "Talle": "2"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -43609,8 +43606,8 @@
     {
      "sku": "51A1707   713",
      "opciones": {
-      "Talle": "Lila",
-      "Color": "3"
+      "Color": "Lila",
+      "Talle": "3"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -43622,8 +43619,8 @@
     {
      "sku": "51A1707   714",
      "opciones": {
-      "Talle": "Lila",
-      "Color": "4"
+      "Color": "Lila",
+      "Talle": "4"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -44116,8 +44113,8 @@
     {
      "sku": "71A1703   07XS",
      "opciones": {
-      "Talle": "XS",
-      "Color": "Arena"
+      "Color": "XS",
+      "Talle": "Arena"
      },
      "precio": 27000.0,
      "precio_anterior": 30000.0,
@@ -44129,8 +44126,8 @@
     {
      "sku": "71A1703   07S",
      "opciones": {
-      "Talle": "S",
-      "Color": "Arena"
+      "Color": "S",
+      "Talle": "Arena"
      },
      "precio": 27000.0,
      "precio_anterior": 30000.0,
@@ -44142,8 +44139,8 @@
     {
      "sku": "71A1703   07M",
      "opciones": {
-      "Talle": "M",
-      "Color": "Arena"
+      "Color": "M",
+      "Talle": "Arena"
      },
      "precio": 27000.0,
      "precio_anterior": 30000.0,
@@ -44155,8 +44152,8 @@
     {
      "sku": "71A1703   07L",
      "opciones": {
-      "Talle": "L",
-      "Color": "Arena"
+      "Color": "L",
+      "Talle": "Arena"
      },
      "precio": 27000.0,
      "precio_anterior": 30000.0,
@@ -44227,8 +44224,8 @@
     {
      "sku": "51B1203   23XS",
      "opciones": {
-      "Color": "XS",
-      "Talle": "Celeste"
+      "Talle": "XS",
+      "Color": "Celeste"
      },
      "precio": 24150.0,
      "precio_anterior": 34500.0,
@@ -44240,8 +44237,8 @@
     {
      "sku": "51B1203   23S",
      "opciones": {
-      "Color": "S",
-      "Talle": "Celeste"
+      "Talle": "S",
+      "Color": "Celeste"
      },
      "precio": 24150.0,
      "precio_anterior": 34500.0,
@@ -44253,8 +44250,8 @@
     {
      "sku": "51B1203   23M",
      "opciones": {
-      "Color": "M",
-      "Talle": "Celeste"
+      "Talle": "M",
+      "Color": "Celeste"
      },
      "precio": 24150.0,
      "precio_anterior": 34500.0,
@@ -44266,8 +44263,8 @@
     {
      "sku": "51B1203   23L",
      "opciones": {
-      "Color": "L",
-      "Talle": "Celeste"
+      "Talle": "L",
+      "Color": "Celeste"
      },
      "precio": 24150.0,
      "precio_anterior": 34500.0,
@@ -44279,8 +44276,8 @@
     {
      "sku": "51B1203   23XL",
      "opciones": {
-      "Color": "XL",
-      "Talle": "Celeste"
+      "Talle": "XL",
+      "Color": "Celeste"
      },
      "precio": 24150.0,
      "precio_anterior": 34500.0,
@@ -44412,8 +44409,8 @@
     {
      "sku": "51A1707   2G00",
      "opciones": {
-      "Talle": "Azul francia",
-      "Color": "00"
+      "Color": "Azul francia",
+      "Talle": "00"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -44425,8 +44422,8 @@
     {
      "sku": "51A1707   2G00",
      "opciones": {
-      "Talle": "Azul francia",
-      "Color": "0"
+      "Color": "Azul francia",
+      "Talle": "0"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -44438,8 +44435,8 @@
     {
      "sku": "51A1707   2G00",
      "opciones": {
-      "Talle": "Azul francia",
-      "Color": "1"
+      "Color": "Azul francia",
+      "Talle": "1"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -44451,8 +44448,8 @@
     {
      "sku": "51A1707   2G00",
      "opciones": {
-      "Talle": "Azul francia",
-      "Color": "2"
+      "Color": "Azul francia",
+      "Talle": "2"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -44464,8 +44461,8 @@
     {
      "sku": "51A1707   2G00",
      "opciones": {
-      "Talle": "Azul francia",
-      "Color": "3"
+      "Color": "Azul francia",
+      "Talle": "3"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -44477,8 +44474,8 @@
     {
      "sku": "51A1707   2G00",
      "opciones": {
-      "Talle": "Azul francia",
-      "Color": "4"
+      "Color": "Azul francia",
+      "Talle": "4"
      },
      "precio": 21150.0,
      "precio_anterior": 23500.0,
@@ -45262,8 +45259,8 @@
     {
      "sku": "51B1203   SRXS",
      "opciones": {
-      "Color": "XS",
-      "Talle": "Salmon Rosado"
+      "Talle": "XS",
+      "Color": "Salmon Rosado"
      },
      "precio": 24150.0,
      "precio_anterior": 34500.0,
@@ -45275,8 +45272,8 @@
     {
      "sku": "51B1203   SRS",
      "opciones": {
-      "Color": "S",
-      "Talle": "Salmon Rosado"
+      "Talle": "S",
+      "Color": "Salmon Rosado"
      },
      "precio": 24150.0,
      "precio_anterior": 34500.0,
@@ -45288,8 +45285,8 @@
     {
      "sku": "51B1203   SRM",
      "opciones": {
-      "Color": "M",
-      "Talle": "Salmon Rosado"
+      "Talle": "M",
+      "Color": "Salmon Rosado"
      },
      "precio": 24150.0,
      "precio_anterior": 34500.0,
@@ -45301,8 +45298,8 @@
     {
      "sku": "51B1203   SRL",
      "opciones": {
-      "Color": "L",
-      "Talle": "Salmon Rosado"
+      "Talle": "L",
+      "Color": "Salmon Rosado"
      },
      "precio": 24150.0,
      "precio_anterior": 34500.0,
@@ -45314,8 +45311,8 @@
     {
      "sku": "51B1203   SRXL",
      "opciones": {
-      "Color": "XL",
-      "Talle": "Salmon Rosado"
+      "Talle": "XL",
+      "Color": "Salmon Rosado"
      },
      "precio": 24150.0,
      "precio_anterior": 34500.0,
@@ -45736,8 +45733,8 @@
     {
      "sku": "41A1901   10XS",
      "opciones": {
-      "Color": "XS",
-      "Talle": "Negro"
+      "Talle": "XS",
+      "Color": "Negro"
      },
      "precio": 48900.0,
      "precio_anterior": 61100.0,
@@ -45749,8 +45746,8 @@
     {
      "sku": "41A1901   10S",
      "opciones": {
-      "Color": "S",
-      "Talle": "Negro"
+      "Talle": "S",
+      "Color": "Negro"
      },
      "precio": 48900.0,
      "precio_anterior": 61100.0,
@@ -45762,8 +45759,8 @@
     {
      "sku": "41A1901   10M",
      "opciones": {
-      "Color": "M",
-      "Talle": "Negro"
+      "Talle": "M",
+      "Color": "Negro"
      },
      "precio": 48900.0,
      "precio_anterior": 61100.0,
@@ -45775,8 +45772,8 @@
     {
      "sku": "41A1901   10L",
      "opciones": {
-      "Color": "L",
-      "Talle": "Negro"
+      "Talle": "L",
+      "Color": "Negro"
      },
      "precio": 48900.0,
      "precio_anterior": 61100.0,
@@ -47015,7 +47012,7 @@
      "precio_anterior": 21200.0,
      "disponible": true,
      "preorden": false,
-     "stock": 2,
+     "stock": 1,
      "url": "https://www.vlackhockey.com.ar/productos/remera-meskiana-ninas2/?variant=1322009900"
     },
     {
@@ -48796,8 +48793,8 @@
     {
      "sku": "11B1703   71XS",
      "opciones": {
-      "Color": "XS",
-      "Talle": "Lila"
+      "Talle": "XS",
+      "Color": "Lila"
      },
      "precio": 37350.0,
      "precio_anterior": 41500.0,
@@ -48809,8 +48806,8 @@
     {
      "sku": "11B1703   71S",
      "opciones": {
-      "Color": "S",
-      "Talle": "Lila"
+      "Talle": "S",
+      "Color": "Lila"
      },
      "precio": 37350.0,
      "precio_anterior": 41500.0,
@@ -48822,8 +48819,8 @@
     {
      "sku": "11B1703   71M",
      "opciones": {
-      "Color": "M",
-      "Talle": "Lila"
+      "Talle": "M",
+      "Color": "Lila"
      },
      "precio": 37350.0,
      "precio_anterior": 41500.0,
@@ -48835,8 +48832,8 @@
     {
      "sku": "11B1703   71L",
      "opciones": {
-      "Color": "L",
-      "Talle": "Lila"
+      "Talle": "L",
+      "Color": "Lila"
      },
      "precio": 37350.0,
      "precio_anterior": 41500.0,
@@ -48848,8 +48845,8 @@
     {
      "sku": "11B1703   71XL",
      "opciones": {
-      "Color": "XL",
-      "Talle": "Lila"
+      "Talle": "XL",
+      "Color": "Lila"
      },
      "precio": 37350.0,
      "precio_anterior": 41500.0,
@@ -48886,7 +48883,7 @@
     {
      "sku": "53D0301   016",
      "opciones": {
-      "Color": "T6"
+      "Talle": "T6"
      },
      "precio": 69800.0,
      "precio_anterior": null,
@@ -48898,7 +48895,7 @@
     {
      "sku": "53D0301   018",
      "opciones": {
-      "Color": "T8"
+      "Talle": "T8"
      },
      "precio": 69800.0,
      "precio_anterior": null,
@@ -48910,7 +48907,7 @@
     {
      "sku": "53D0301   0110",
      "opciones": {
-      "Color": "T10"
+      "Talle": "T10"
      },
      "precio": 69800.0,
      "precio_anterior": null,
@@ -48922,7 +48919,7 @@
     {
      "sku": "53D0301   0112",
      "opciones": {
-      "Color": "T12"
+      "Talle": "T12"
      },
      "precio": 69800.0,
      "precio_anterior": null,
@@ -48934,7 +48931,7 @@
     {
      "sku": "53D0301   0114",
      "opciones": {
-      "Color": "T14"
+      "Talle": "T14"
      },
      "precio": 69800.0,
      "precio_anterior": null,
@@ -49053,8 +49050,8 @@
     {
      "sku": "43C0402  268",
      "opciones": {
-      "Talle": "8",
-      "Color": "Petroleo"
+      "Color": "8",
+      "Talle": "Petroleo"
      },
      "precio": 45045.0,
      "precio_anterior": 50050.0,
@@ -49066,8 +49063,8 @@
     {
      "sku": "43C0402  2610",
      "opciones": {
-      "Talle": "10",
-      "Color": "Petroleo"
+      "Color": "10",
+      "Talle": "Petroleo"
      },
      "precio": 45045.0,
      "precio_anterior": 50050.0,
@@ -49079,8 +49076,8 @@
     {
      "sku": "43C0402  2612",
      "opciones": {
-      "Talle": "12",
-      "Color": "Petroleo"
+      "Color": "12",
+      "Talle": "Petroleo"
      },
      "precio": 45045.0,
      "precio_anterior": 50050.0,
@@ -49092,8 +49089,8 @@
     {
      "sku": "43C0402  2614",
      "opciones": {
-      "Talle": "14",
-      "Color": "Petroleo"
+      "Color": "14",
+      "Talle": "Petroleo"
      },
      "precio": 45045.0,
      "precio_anterior": 50050.0,
@@ -49484,8 +49481,8 @@
     {
      "sku": "14A0901   10XS",
      "opciones": {
-      "Talle": "Negro",
-      "Color": "XS"
+      "Color": "Negro",
+      "Talle": "XS"
      },
      "precio": 24435.0,
      "precio_anterior": 27150.0,
@@ -49497,8 +49494,8 @@
     {
      "sku": "14A0901   10S",
      "opciones": {
-      "Talle": "Negro",
-      "Color": "S"
+      "Color": "Negro",
+      "Talle": "S"
      },
      "precio": 24435.0,
      "precio_anterior": 27150.0,
@@ -49510,8 +49507,8 @@
     {
      "sku": "14A0901   10M",
      "opciones": {
-      "Talle": "Negro",
-      "Color": "M"
+      "Color": "Negro",
+      "Talle": "M"
      },
      "precio": 24435.0,
      "precio_anterior": 27150.0,
@@ -49523,8 +49520,8 @@
     {
      "sku": "14A0901   10L",
      "opciones": {
-      "Talle": "Negro",
-      "Color": "L"
+      "Color": "Negro",
+      "Talle": "L"
      },
      "precio": 24435.0,
      "precio_anterior": 27150.0,
@@ -49828,8 +49825,8 @@
     {
      "sku": "51B1203   40XS",
      "opciones": {
-      "Color": "XS",
-      "Talle": "Rojo"
+      "Talle": "XS",
+      "Color": "Rojo"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -49841,8 +49838,8 @@
     {
      "sku": "51B1203   40S",
      "opciones": {
-      "Color": "S",
-      "Talle": "Rojo"
+      "Talle": "S",
+      "Color": "Rojo"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -49854,8 +49851,8 @@
     {
      "sku": "51B1203   40M",
      "opciones": {
-      "Color": "M",
-      "Talle": "Rojo"
+      "Talle": "M",
+      "Color": "Rojo"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -49867,8 +49864,8 @@
     {
      "sku": "51B1203   40L",
      "opciones": {
-      "Color": "L",
-      "Talle": "Rojo"
+      "Talle": "L",
+      "Color": "Rojo"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -49880,8 +49877,8 @@
     {
      "sku": "51B1203   40XL",
      "opciones": {
-      "Color": "XL",
-      "Talle": "Rojo"
+      "Talle": "XL",
+      "Color": "Rojo"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -49909,7 +49906,7 @@
     {
      "sku": "99",
      "opciones": {
-      "Talle": "$400.000"
+      "Color": "$400.000"
      },
      "precio": 400000.0,
      "precio_anterior": null,
@@ -49921,7 +49918,7 @@
     {
      "sku": "99",
      "opciones": {
-      "Talle": "$200.000"
+      "Color": "$200.000"
      },
      "precio": 200000.0,
      "precio_anterior": null,
@@ -49933,7 +49930,7 @@
     {
      "sku": "99",
      "opciones": {
-      "Talle": "$100.000"
+      "Color": "$100.000"
      },
      "precio": 100000.0,
      "precio_anterior": null,
@@ -49945,7 +49942,7 @@
     {
      "sku": "99",
      "opciones": {
-      "Talle": "$50.000"
+      "Color": "$50.000"
      },
      "precio": 50000.0,
      "precio_anterior": null,
@@ -51154,8 +51151,8 @@
     {
      "sku": "11B1203   BLXS",
      "opciones": {
-      "Color": "XS",
-      "Talle": "Black"
+      "Talle": "XS",
+      "Color": "Black"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -51167,8 +51164,8 @@
     {
      "sku": "11B1203   BLS",
      "opciones": {
-      "Color": "S",
-      "Talle": "Black"
+      "Talle": "S",
+      "Color": "Black"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -51180,8 +51177,8 @@
     {
      "sku": "11B1203   BLM",
      "opciones": {
-      "Color": "M",
-      "Talle": "Black"
+      "Talle": "M",
+      "Color": "Black"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -51193,8 +51190,8 @@
     {
      "sku": "11B1203   BLL",
      "opciones": {
-      "Color": "L",
-      "Talle": "Black"
+      "Talle": "L",
+      "Color": "Black"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -51206,8 +51203,8 @@
     {
      "sku": "11B1203   BLXL",
      "opciones": {
-      "Color": "XL",
-      "Talle": "Black"
+      "Talle": "XL",
+      "Color": "Black"
      },
      "precio": 31050.0,
      "precio_anterior": 34500.0,
@@ -51661,8 +51658,8 @@
     {
      "sku": "13B1201   NG8",
      "opciones": {
-      "Color": "8",
-      "Talle": "Negro y gris"
+      "Talle": "8",
+      "Color": "Negro y gris"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -51674,8 +51671,8 @@
     {
      "sku": "13B1201   NG10",
      "opciones": {
-      "Color": "10",
-      "Talle": "Negro y gris"
+      "Talle": "10",
+      "Color": "Negro y gris"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -51687,8 +51684,8 @@
     {
      "sku": "13B1201   NG12",
      "opciones": {
-      "Color": "12",
-      "Talle": "Negro y gris"
+      "Talle": "12",
+      "Color": "Negro y gris"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -51700,8 +51697,8 @@
     {
      "sku": "13B1201   NG14",
      "opciones": {
-      "Color": "14",
-      "Talle": "Negro y gris"
+      "Talle": "14",
+      "Color": "Negro y gris"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -51713,8 +51710,8 @@
     {
      "sku": "13B1201   NG16",
      "opciones": {
-      "Color": "16",
-      "Talle": "Negro y gris"
+      "Talle": "16",
+      "Color": "Negro y gris"
      },
      "precio": 27900.0,
      "precio_anterior": 31000.0,
@@ -52525,8 +52522,8 @@
     {
      "sku": "43C0402  798",
      "opciones": {
-      "Color": "8",
-      "Talle": "Purpura"
+      "Talle": "8",
+      "Color": "Purpura"
      },
      "precio": 45045.0,
      "precio_anterior": 50050.0,
@@ -52538,8 +52535,8 @@
     {
      "sku": "43C0402  7910",
      "opciones": {
-      "Color": "10",
-      "Talle": "Purpura"
+      "Talle": "10",
+      "Color": "Purpura"
      },
      "precio": 45045.0,
      "precio_anterior": 50050.0,
@@ -52551,8 +52548,8 @@
     {
      "sku": "43C0402  7912",
      "opciones": {
-      "Color": "12",
-      "Talle": "Purpura"
+      "Talle": "12",
+      "Color": "Purpura"
      },
      "precio": 45045.0,
      "precio_anterior": 50050.0,
@@ -52564,8 +52561,8 @@
     {
      "sku": "43C0402  7914",
      "opciones": {
-      "Color": "14",
-      "Talle": "Purpura"
+      "Talle": "14",
+      "Color": "Purpura"
      },
      "precio": 45045.0,
      "precio_anterior": 50050.0,
@@ -53912,8 +53909,8 @@
     {
      "sku": "14A0901   21XS",
      "opciones": {
-      "Talle": "Azul marino",
-      "Color": "XS"
+      "Color": "Azul marino",
+      "Talle": "XS"
      },
      "precio": 24435.0,
      "precio_anterior": 27150.0,
@@ -53925,8 +53922,8 @@
     {
      "sku": "14A0901   21S",
      "opciones": {
-      "Talle": "Azul marino",
-      "Color": "S"
+      "Color": "Azul marino",
+      "Talle": "S"
      },
      "precio": 24435.0,
      "precio_anterior": 27150.0,
@@ -53938,8 +53935,8 @@
     {
      "sku": "14A0901   21M",
      "opciones": {
-      "Talle": "Azul marino",
-      "Color": "M"
+      "Color": "Azul marino",
+      "Talle": "M"
      },
      "precio": 24435.0,
      "precio_anterior": 27150.0,
@@ -53951,8 +53948,8 @@
     {
      "sku": "14A0901   21L",
      "opciones": {
-      "Talle": "Azul marino",
-      "Color": "L"
+      "Color": "Azul marino",
+      "Talle": "L"
      },
      "precio": 24435.0,
      "precio_anterior": 27150.0,
@@ -55075,8 +55072,8 @@
     {
      "sku": "13B1703   SR6",
      "opciones": {
-      "Talle": "6",
-      "Color": "Salmón Rosado"
+      "Color": "6",
+      "Talle": "Salmón Rosado"
      },
      "precio": 31950.0,
      "precio_anterior": 35500.0,
@@ -55088,8 +55085,8 @@
     {
      "sku": "13B1703   SR8",
      "opciones": {
-      "Talle": "8",
-      "Color": "Salmón Rosado"
+      "Color": "8",
+      "Talle": "Salmón Rosado"
      },
      "precio": 31950.0,
      "precio_anterior": 35500.0,
@@ -55101,8 +55098,8 @@
     {
      "sku": "13B1703   SR10",
      "opciones": {
-      "Talle": "10",
-      "Color": "Salmón Rosado"
+      "Color": "10",
+      "Talle": "Salmón Rosado"
      },
      "precio": 31950.0,
      "precio_anterior": 35500.0,
@@ -55114,8 +55111,8 @@
     {
      "sku": "13B1703   SR12",
      "opciones": {
-      "Talle": "12",
-      "Color": "Salmón Rosado"
+      "Color": "12",
+      "Talle": "Salmón Rosado"
      },
      "precio": 31950.0,
      "precio_anterior": 35500.0,
@@ -55127,8 +55124,8 @@
     {
      "sku": "13B1703   SR14",
      "opciones": {
-      "Talle": "14",
-      "Color": "Salmón Rosado"
+      "Color": "14",
+      "Talle": "Salmón Rosado"
      },
      "precio": 31950.0,
      "precio_anterior": 35500.0,

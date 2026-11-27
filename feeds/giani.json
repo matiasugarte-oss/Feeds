@@ -1,7 +1,7 @@
 {
  "tienda": "Giani Dafirenze",
  "url": "https://gianidafirenze.cl",
- "generado": "2026-11-27T09:27:21+00:00",
+ "generado": "2026-11-27T11:09:21+00:00",
  "total": 402,
  "productos": [
   {
@@ -10649,7 +10649,7 @@
      },
      "precio": 67425.0,
      "precio_anterior": 89900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/sandalia-mujer-halieto-celeste?variant=45376658702379"
@@ -19855,7 +19855,7 @@
      },
      "precio": 67425.0,
      "precio_anterior": 89900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-cafe?variant=44654452047915"

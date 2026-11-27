@@ -1,7 +1,7 @@
 {
  "tienda": "Milgenialuruguay",
  "url": "https://milgenialuruguay.com",
- "generado": "2026-11-27T09:34:12+00:00",
+ "generado": "2026-11-27T11:16:29+00:00",
  "total": 1603,
  "productos": [
   {
@@ -15065,7 +15065,7 @@
      },
      "precio": 390.0,
      "precio_anterior": 790.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/revestimiento-eva-para-estantes-de-cocina?variant=50521390154042"
@@ -20335,7 +20335,7 @@
    },
    "precio_desde": 990.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/1_1_11zon_1346c09f-bafa-4427-8304-67cad351edd3.webp?v=1768834539",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/6_6_11zon_06f395ff-8132-4958-bc1f-3b1ddf0c2f4e.webp?v=1768834852",
@@ -20347,7 +20347,7 @@
      "opciones": {},
      "precio": 990.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/camara-ultrafino-para-espejo-de-auto-4-3-pulgadas?variant=52697717309754"
@@ -26734,7 +26734,7 @@
      },
      "precio": 2190.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/oferta-1-funda-protectora-de-sofa-2-fundas-de-almohadones-de-regalo?variant=52056169087290"
@@ -36068,7 +36068,7 @@
      },
      "precio": 2190.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/sistema-completo-de-proteccion-textil-funda-protectora-de-sfa-capsulas-tuki-de-regalo?variant=51468679315770"
@@ -65585,7 +65585,7 @@
      },
      "precio": 2290.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/funda-protectora-de-sofa-anti-manchas?variant=47119737356602"

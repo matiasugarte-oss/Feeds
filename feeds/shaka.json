@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-27T09:26:36+00:00",
+ "generado": "2026-11-27T11:08:35+00:00",
  "total": 549,
  "productos": [
   {
@@ -5335,9 +5335,7 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -5347,9 +5345,7 @@
     },
     {
      "sku": "371",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -5359,9 +5355,7 @@
     },
     {
      "sku": "372",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -20265,9 +20259,7 @@
    "variantes": [
     {
      "sku": "299",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -20277,9 +20269,7 @@
     },
     {
      "sku": "300",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -20289,9 +20279,7 @@
     },
     {
      "sku": "301",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -21790,7 +21778,7 @@
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 8,
+     "stock": 7,
      "url": "https://sh-aka.com.ar/productos/the-vntg-boardshort-rojo-j5zk3/?variant=1367949992"
     }
    ]
@@ -27433,7 +27421,7 @@
      "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 95,
+     "stock": 94,
      "url": "https://sh-aka.com.ar/productos/90s-boardshort-blanco-1yclz/?variant=1645758036"
     },
     {
@@ -29564,9 +29552,7 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 21000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -29576,9 +29562,7 @@
     },
     {
      "sku": "371",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 21000.0,
      "precio_anterior": 30000.0,
      "disponible": true,
@@ -29588,9 +29572,7 @@
     },
     {
      "sku": "372",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 21000.0,
      "precio_anterior": 30000.0,
      "disponible": true,
@@ -32940,7 +32922,7 @@
      "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 98,
+     "stock": 97,
      "url": "https://sh-aka.com.ar/productos/90s-boardshort-azul-2jqmw/?variant=1645758087"
     },
     {
@@ -32952,7 +32934,7 @@
      "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 94,
+     "stock": 93,
      "url": "https://sh-aka.com.ar/productos/90s-boardshort-azul-2jqmw/?variant=1645758093"
     },
     {
