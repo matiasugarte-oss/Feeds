@@ -1,7 +1,7 @@
 {
  "tienda": "Viaaqua",
  "url": "https://viaaqua.com",
- "generado": "2026-11-27T13:40:52+00:00",
+ "generado": "2026-11-27T15:21:33+00:00",
  "total": 55,
  "productos": [
   {
@@ -9,6 +9,7 @@
    "url": "https://viaaqua.com/producto/facial-relajante-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
+    "Gift Card - Física",
     "Faciales"
    ],
    "descripcion": "Un facial hidratante que combina el cuidado de la piel, con un profundo momento de relajación.\n\nIncluye un delicado masaje cérvico craneal que ayuda a liberar tensiones y aporta una agradable sensación de bienestar.\n\nLa piel queda hidratada, suave y luminosa, mientras disfrutas de una experiencia pensada para desconectar y relajarte.\n\nServicio exclusivo de VIAAQUA Spa – Víctor Soliño 375, VIAAQUA Punta Carretas",
@@ -37,7 +38,8 @@
    "url": "https://viaaqua.com/producto/facial-relajante-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "Experiencias"
+    "Experiencias",
+    "Faciales"
    ],
    "descripcion": "Un facial hidratante que combina el cuidado de la piel, con un profundo momento de relajación.\n\nIncluye un delicado masaje cérvico craneal que ayuda a liberar tensiones y aporta una agradable sensación de bienestar.\n\nLa piel queda hidratada, suave y luminosa, mientras disfrutas de una experiencia pensada para desconectar y relajarte.\n\nServicio exclusivo de VIAAQUA Spa – Víctor Soliño 375, VIAAQUA Punta Carretas",
    "caracteristicas": {},
@@ -65,7 +67,8 @@
    "url": "https://viaaqua.com/producto/facial-k-beauty-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
-    "Gift Card - Física"
+    "Gift Card - Física",
+    "Tratamientos"
    ],
    "descripcion": "El Facial K-Beauty es mucho más que un tratamiento facial. Es un ritual de renovación profunda que combina la excelencia de la cosmética coreana con tecnología inteligente de última generación para revelar una piel visiblemente más saludable, uniforme y radiante.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -93,7 +96,8 @@
    "url": "https://viaaqua.com/producto/facial-k-beauty-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "Experiencias"
+    "Experiencias",
+    "Tratamientos"
    ],
    "descripcion": "El Facial K-Beauty es mucho más que un tratamiento facial. Es un ritual de renovación profunda que combina la excelencia de la cosmética coreana con tecnología inteligente de última generación para revelar una piel visiblemente más saludable, uniforme y radiante.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -121,7 +125,8 @@
    "url": "https://viaaqua.com/producto/tratamiento-body-definition-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
-    "Gift Card - Física"
+    "Gift Card - Física",
+    "Tratamientos"
    ],
    "descripcion": "Descubrí una silueta más firme, definida y tonificada con el nuevo tratamiento indoloro de remodelación corporal con 15% OFF*.\n\nA través de un plan de 12 sesiones personalizadas, combinamos masajes modeladores, drenaje linfático, técnicas manuales y aparatología para ayudarte a mejorar la firmeza de la piel, redefinir el contorno corporal y reducir el aspecto de la celulitis.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -149,7 +154,8 @@
    "url": "https://viaaqua.com/producto/tratamiento-body-definition-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "Experiencias"
+    "Experiencias",
+    "Tratamientos"
    ],
    "descripcion": "Descubrí una silueta más firme, definida y tonificada con el nuevo tratamiento indoloro de remodelación corporal con 15% OFF*.\n\nA través de un plan de 12 sesiones personalizadas, combinamos masajes modeladores, drenaje linfático, técnicas manuales y aparatología para ayudarte a mejorar la firmeza de la piel, redefinir el contorno corporal y reducir el aspecto de la celulitis.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -177,12 +183,11 @@
    "url": "https://viaaqua.com/producto/experiencia-renovacion-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "DESTACADOS PARA MAMÁ"
+    "Experiencias",
+    "Experiencias"
    ],
-   "descripcion": "Incluye uso de la zona de aguas y sauna\n\nServicio exclusivo de VIAAQUA Spa – Víctor Soliño 375, VIAAQUA Punta Carretas",
-   "caracteristicas": {
-    "Una combinación perfecta de bienestar": "Masaje Manto de calma + Facial de seda, dos experiencias diseñadas para relajar profundamente, revitalizar la piel y reconectar con el cuerpo."
-   },
+   "descripcion": "Una combinación perfecta de bienestar: Masaje Manto de calma + Facial de seda, dos experiencias diseñadas para relajar profundamente, revitalizar la piel y reconectar con el cuerpo.\n\nIncluye uso de la zona de aguas y sauna\n\nServicio exclusivo de VIAAQUA Spa – Víctor Soliño 375, VIAAQUA Punta Carretas",
+   "caracteristicas": {},
    "precio_desde": 4800.0,
    "moneda": "UYU",
    "disponible": true,
@@ -207,12 +212,11 @@
    "url": "https://viaaqua.com/producto/experiencia-renovacion-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
+    "Gift Card - Física",
     "Experiencias"
    ],
-   "descripcion": "Incluye uso de la zona de aguas y sauna\n\nServicio exclusivo de VIAAQUA Spa – Víctor Soliño 375, VIAAQUA Punta Carretas",
-   "caracteristicas": {
-    "Una combinación perfecta de bienestar": "Masaje Manto de calma + Facial de seda, dos experiencias diseñadas para relajar profundamente, revitalizar la piel y reconectar con el cuerpo."
-   },
+   "descripcion": "Una combinación perfecta de bienestar: Masaje Manto de calma + Facial de seda, dos experiencias diseñadas para relajar profundamente, revitalizar la piel y reconectar con el cuerpo.\n\nIncluye uso de la zona de aguas y sauna\n\nServicio exclusivo de VIAAQUA Spa – Víctor Soliño 375, VIAAQUA Punta Carretas",
+   "caracteristicas": {},
    "precio_desde": 4800.0,
    "moneda": "UYU",
    "disponible": true,
@@ -237,7 +241,8 @@
    "url": "https://viaaqua.com/producto/spa-de-pies-zen-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "DESTACADOS PARA MAMÁ"
+    "Experiencias",
+    "Podología"
    ],
    "descripcion": "El momento perfecto para la salud y belleza de tus pies. El ritual se desarrolla sobre nuestro majestuoso sillón masajeador, iniciando con un baño de pies con hierbas y sales minerales. Seguido de un masaje con aceites esenciales inspirado en técnicas de reflexología. Y finaliza con una estética de pies, con esmaltado simple o semi permanente.\n\nServicio exclusivo de VIAAQUA Spa – Víctor Soliño 375, VIAAQUA Punta Carretas",
    "caracteristicas": {},
@@ -265,7 +270,8 @@
    "url": "https://viaaqua.com/producto/spa-de-pies-zen-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
-    "Gift Card - Física"
+    "Gift Card - Física",
+    "Spa de pies"
    ],
    "descripcion": "El momento perfecto para la salud y belleza de tus pies. El ritual se desarrolla sobre nuestro majestuoso sillón masajeador, iniciando con un baño de pies con hierbas y sales minerales. Seguido de un masaje con aceites esenciales inspirado en técnicas de reflexología. Y finaliza con una estética de pies, con esmaltado simple o semi permanente.\n\nServicio exclusivo de VIAAQUA Spa – Víctor Soliño 375, VIAAQUA Punta Carretas",
    "caracteristicas": {},
@@ -293,7 +299,8 @@
    "url": "https://viaaqua.com/producto/facial-de-seda-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "DESTACADOS PARA MAMÁ"
+    "Experiencias",
+    "Faciales"
    ],
    "descripcion": "Luminosidad, hidratación y una experiencia de relax total para vos.\n\nUn tratamiento que combina técnicas ancestrales con movimientos fluidos para armonizar piel, mente y energía.\n\nDesde el primer momento, la experiencia envuelve con aromaterapia de jazmín, preparando cuerpo y mente para un cuidado profundo.\n\nLa sesión incluye limpieza, masaje drenante con técnica guasha, mascarilla revitalizante y un cierre hidratante con relajación cervical.\n\nEs ideal para pieles con signos de cansancio y fatiga que buscan recuperar luz y vitalidad.\n\nServicio exclusivo de VIAAQUA Spa – Víctor Soliño 375, VIAAQUA Punta Carretas",
    "caracteristicas": {},
@@ -321,6 +328,7 @@
    "url": "https://viaaqua.com/producto/facial-de-seda-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
+    "Gift Card - Física",
     "Faciales"
    ],
    "descripcion": "Luminosidad, hidratación y una experiencia de relax total para vos.\n\nUn tratamiento que combina técnicas ancestrales con movimientos fluidos para armonizar piel, mente y energía.\n\nDesde el primer momento, la experiencia envuelve con aromaterapia de jazmín, preparando cuerpo y mente para un cuidado profundo.\n\nLa sesión incluye limpieza, masaje drenante con técnica guasha, mascarilla revitalizante y un cierre hidratante con relajación cervical.\n\nEs ideal para pieles con signos de cansancio y fatiga que buscan recuperar luz y vitalidad.\n\nServicio exclusivo de VIAAQUA Spa – Víctor Soliño 375, VIAAQUA Punta Carretas",
@@ -349,7 +357,8 @@
    "url": "https://viaaqua.com/producto/masaje-manto-de-calma-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Experiencias",
+    "Masajes"
    ],
    "descripcion": "Masaje sensorial para soltar, desconectar y volver a vos.\n\nEste masaje consiste en un ritual relajante que combina aromaterapia, movimientos lentos y estímulos sensoriales para llevarte a un estado de serenidad total.\n\nA través de técnicas suaves, cambios sutils de temperatura y el uso de elementos como pinceles y toallas tibias, este masaje invita a bajar el ritmo y reconectar con tu mejor versión.\n\nIdeal para reducir el estrés, calmar la mente y regalarse una pausa real.\n\nServicio exclusivo de VIAAQUA Spa – Víctor Soliño 375, VIAAQUA Punta Carretas",
    "caracteristicas": {},
@@ -377,7 +386,8 @@
    "url": "https://viaaqua.com/producto/masaje-manto-de-calma-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Gift Card - Física",
+    "Masajes"
    ],
    "descripcion": "Masaje sensorial para soltar, desconectar y volver a vos.\n\nEste masaje consiste en un ritual relajante que combina aromaterapia, movimientos lentos y estímulos sensoriales para llevarte a un estado de serenidad total.\n\nA través de técnicas suaves, cambios sutils de temperatura y el uso de elementos como pinceles y toallas tibias, este masaje invita a bajar el ritmo y reconectar con tu mejor versión.\n\nIdeal para reducir el estrés, calmar la mente y regalarse una pausa real.\n\nServicio exclusivo de VIAAQUA Spa – Víctor Soliño 375, VIAAQUA Punta Carretas",
    "caracteristicas": {},
@@ -405,9 +415,10 @@
    "url": "https://viaaqua.com/producto/masaje-recovery-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Experiencias",
+    "Masajes"
    ],
-   "descripcion": "Tu próximo entrenamiento empieza con una buena recuperación. Descubrí Recovery , el masaje ideal después del ejercicio para aliviar músculos cargados, reducir el dolor y recuperar energía. ✔ Recuperación muscular ✔ Menos fatiga ✔ Más rendimiento\n\n50 minutos que tu cuerpo va a agradecer.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
+   "descripcion": "Tu próximo entrenamiento empieza con una buena recuperación. Descubrí Recovery, el masaje ideal después del ejercicio para aliviar músculos cargados, reducir el dolor y recuperar energía. ✔ Recuperación muscular ✔ Menos fatiga ✔ Más rendimiento\n\n50 minutos que tu cuerpo va a agradecer.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
    "precio_desde": 2706.0,
    "moneda": "UYU",
@@ -433,9 +444,10 @@
    "url": "https://viaaqua.com/producto/masaje-recovery-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Gift Card - Física",
+    "Masajes"
    ],
-   "descripcion": "Tu próximo entrenamiento empieza con una buena recuperación. Descubrí Recovery , el masaje ideal después del ejercicio para aliviar músculos cargados, reducir el dolor y recuperar energía. ✔ Recuperación muscular ✔ Menos fatiga ✔ Más rendimiento\n\n50 minutos que tu cuerpo va a agradecer.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
+   "descripcion": "Tu próximo entrenamiento empieza con una buena recuperación. Descubrí Recovery, el masaje ideal después del ejercicio para aliviar músculos cargados, reducir el dolor y recuperar energía. ✔ Recuperación muscular ✔ Menos fatiga ✔ Más rendimiento\n\n50 minutos que tu cuerpo va a agradecer.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
    "precio_desde": 2706.0,
    "moneda": "UYU",
@@ -461,7 +473,8 @@
    "url": "https://viaaqua.com/producto/facial-power-lift-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "Gift Card - Virtual"
+    "Experiencias",
+    "Tratamientos"
    ],
    "descripcion": "Llega a VIAAQUA Spa el nuevo FACIAL Power Lift con Exosomas\n\nEl facial que tu piel estaba esperando.\n\nPower Lift con Exosomas es un tratamiento avanzado que activa la regeneración natural de tu piel desde la primera sesión.\n\nEs ideal para hombres y mujeres que quieren una piel más firme, luminosa y rejuvenecida, sin procedimientos invasivos.\n\nLos exosomas trabajan como mensajeros celulares que reparan, fortalecen y revitalizan la piel en profundidad, mientras el Dermapen potencia la absorción de los activos y acelera los resultados.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -489,7 +502,8 @@
    "url": "https://viaaqua.com/producto/facial-power-lift-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
-    "Gift Card - Física"
+    "Gift Card - Física",
+    "Tratamientos"
    ],
    "descripcion": "Llega a VIAAQUA Spa el nuevo FACIAL Power Lift con Exosomas\n\nEl facial que tu piel estaba esperando.\n\nPower Lift con Exosomas es un tratamiento avanzado que activa la regeneración natural de tu piel desde la primera sesión.\n\nEs ideal para hombres y mujeres que quieren una piel más firme, luminosa y rejuvenecida, sin procedimientos invasivos.\n\nLos exosomas trabajan como mensajeros celulares que reparan, fortalecen y revitalizan la piel en profundidad, mientras el Dermapen potencia la absorción de los activos y acelera los resultados.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -517,12 +531,11 @@
    "url": "https://viaaqua.com/producto/ritual-encanto-de-cacao-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "Experiencias"
+    "Experiencias",
+    "Masajes"
    ],
-   "descripcion": "Dejate envolver por la dulzura del cacao y descubrí el placer de un cuidado completo que nutre cuerpo y alma.\n\nExfoliación y nutrición corporal de lujo: renová tu piel, eliminá impurezas y sentí una suavidad sedosa incomparable.\n\n50 minutos de bienestar total que equilibran cuerpo y rostro, brindándote resultados visibles desde la primera sesión.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
-   "caracteristicas": {
-    "Facial de Chocolate Dubai": "rico en antioxidantes, ideal para nutrir, suavizar y dar luminosidad a tu piel mientras disfrutás de su irresistible aroma."
-   },
+   "descripcion": "Dejate envolver por la dulzura del cacao y descubrí el placer de un cuidado completo que nutre cuerpo y alma.\n\nFacial de Chocolate Dubai: rico en antioxidantes, ideal para nutrir, suavizar y dar luminosidad a tu piel mientras disfrutás de su irresistible aroma.\n\nExfoliación y nutrición corporal de lujo: renová tu piel, eliminá impurezas y sentí una suavidad sedosa incomparable.\n\n50 minutos de bienestar total que equilibran cuerpo y rostro, brindándote resultados visibles desde la primera sesión.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
+   "caracteristicas": {},
    "precio_desde": 4200.0,
    "moneda": "UYU",
    "disponible": true,
@@ -547,12 +560,11 @@
    "url": "https://viaaqua.com/producto/ritual-encanto-de-cacao-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
-    "Gift Card - Física"
+    "Gift Card - Física",
+    "Masajes"
    ],
-   "descripcion": "Dejate envolver por la dulzura del cacao y descubrí el placer de un cuidado completo que nutre cuerpo y alma.\n\nExfoliación y nutrición corporal de lujo: renová tu piel, eliminá impurezas y sentí una suavidad sedosa incomparable.\n\n50 minutos de bienestar total que equilibran cuerpo y rostro, brindándote resultados visibles desde la primera sesión.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
-   "caracteristicas": {
-    "Facial de Chocolate Dubai": "rico en antioxidantes, ideal para nutrir, suavizar y dar luminosidad a tu piel mientras disfrutás de su irresistible aroma."
-   },
+   "descripcion": "Dejate envolver por la dulzura del cacao y descubrí el placer de un cuidado completo que nutre cuerpo y alma.\n\nFacial de Chocolate Dubai: rico en antioxidantes, ideal para nutrir, suavizar y dar luminosidad a tu piel mientras disfrutás de su irresistible aroma.\n\nExfoliación y nutrición corporal de lujo: renová tu piel, eliminá impurezas y sentí una suavidad sedosa incomparable.\n\n50 minutos de bienestar total que equilibran cuerpo y rostro, brindándote resultados visibles desde la primera sesión.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
+   "caracteristicas": {},
    "precio_desde": 4200.0,
    "moneda": "UYU",
    "disponible": true,
@@ -577,6 +589,7 @@
    "url": "https://viaaqua.com/producto/facial-desintoxicante-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
+    "Experiencias",
     "Faciales"
    ],
    "descripcion": "Sumergite en un momento de calma y renovación total con este facial exclusivo de 50 minutos, que inicia con una limpieza aromática profunda y una delicada exfoliación que elimina toxinas, logrando una piel más tersa y luminosa, al instante.\n\nFinalizamos este facial con drenaje linfático suave para borrar por completo los signos de cansancio y fatiga.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
@@ -605,6 +618,7 @@
    "url": "https://viaaqua.com/producto/facial-desintoxicante-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
+    "Gift Card - Física",
     "Faciales"
    ],
    "descripcion": "Sumergite en un momento de calma y renovación total con este facial exclusivo de 50 minutos, que inicia con una limpieza aromática profunda y una delicada exfoliación que elimina toxinas, logrando una piel más tersa y luminosa, al instante.\n\nFinalizamos este facial con drenaje linfático suave para borrar por completo los signos de cansancio y fatiga.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
@@ -633,7 +647,8 @@
    "url": "https://viaaqua.com/producto/tratamiento-de-masajes-reductores-6-sesiones-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Experiencias",
+    "Tratamientos"
    ],
    "descripcion": "Redefiní tu silueta y decile chau a esas zonas que te molestan con esta cuponera de 6 sesiones de masajes modeladores.\n\nEn cada sesión se aplican cremas reductoras y anticelulíticas que, en conjunto con las técnicas manuales profundas realizadas por nuestras esteticistas, potenciarán al máximo los resultados: reducir volumen, mejorar la circulación y combatir la celulitis.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -661,7 +676,8 @@
    "url": "https://viaaqua.com/producto/tratamiento-de-masajes-reductores-6-sesiones-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Gift Card - Física",
+    "Tratamientos"
    ],
    "descripcion": "Redefiní tu silueta y decile chau a esas zonas que te molestan con esta cuponera de 6 sesiones de masajes modeladores.\n\nEn cada sesión se aplican cremas reductoras y anticelulíticas que, en conjunto con las técnicas manuales profundas realizadas por nuestras esteticistas, potenciarán al máximo los resultados: reducir volumen, mejorar la circulación y combatir la celulitis.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -689,7 +705,8 @@
    "url": "https://viaaqua.com/producto/tratamiento-modelador-modellata-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
-    "Gift Card - Física"
+    "Gift Card - Física",
+    "Tratamientos"
    ],
    "descripcion": "Modelá tu figura antes del verano. No esperes al último momento, prepárate desde ahora con nuestro nuevo tratamiento modelador Modellata, un tratamiento de 12 sesiones de 50 minutos, que combina tecnología de vanguardia y manos expertas para lograr resultados reales y visibles.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -717,7 +734,8 @@
    "url": "https://viaaqua.com/producto/tratamiento-modelador-modellata-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "Gift Card - Virtual"
+    "Experiencias",
+    "Tratamientos"
    ],
    "descripcion": "Modelá tu figura antes del verano. No esperes al último momento, prepárate desde ahora con nuestro nuevo tratamiento modelador Modellata, un tratamiento de 12 sesiones de 50 minutos, que combina tecnología de vanguardia y manos expertas para lograr resultados reales y visibles.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -745,7 +763,8 @@
    "url": "https://viaaqua.com/producto/facial-fit-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
-    "Gift Card - Física"
+    "Gift Card - Física",
+    "Tratamientos"
    ],
    "descripcion": "Un método cosmetológico que actúa frente a la falta de firmeza del rostro, mediante maniobras manuales específicas, sumado a la aplicación de aparatología de fortalecimiento muscular que produce una estimulación capaz de generar una contracción muscular.\n\nEn este procedimiento realizamos masajes faciales con el objetivo de reposicionar sectores del rostro que, con el paso del tiempo, van perdiendo firmeza. Además, estas maniobras manuales se ven complementadas con técnicas de estimulación muscular, aportando más tonicidad.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -773,7 +792,8 @@
    "url": "https://viaaqua.com/producto/facial-fit-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "Gift Card - Virtual"
+    "Experiencias",
+    "Tratamientos"
    ],
    "descripcion": "Un método cosmetológico que actúa frente a la falta de firmeza del rostro, mediante maniobras manuales específicas, sumado a la aplicación de aparatología de fortalecimiento muscular que produce una estimulación capaz de generar una contracción muscular.\n\nEn este procedimiento realizamos masajes faciales con el objetivo de reposicionar sectores del rostro que, con el paso del tiempo, van perdiendo firmeza. Además, estas maniobras manuales se ven complementadas con técnicas de estimulación muscular, aportando más tonicidad.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -801,12 +821,11 @@
    "url": "https://viaaqua.com/producto/experiencia-bienestar-sensorial-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
+    "Gift Card - Física",
     "Experiencias"
    ],
-   "descripcion": "Regalate un momento único para vos con una combinación exquisita de Masaje Relax y Facial Hidratante ideal para relajar todo tu cuerpo y brindarle luminosidad, brillo e hidratación a tu piel.\n\n-Masaje Relax : Este masaje combina técnicas manuales descontracturantes y relajantes para reducir o eliminar tensiones musculares. Este masaje realizado con aceite de almendras dulces, dejará la piel suave e hidratada.\n\nPara que tu día sea completo, contás con acceso a nuestra Zona de aguas y sauna.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
-   "caracteristicas": {
-    "-Facial Hidratante": "Tratamiento facial con alto poder hidratante y rejuvenecedor. La combinación de masajes y principios activos especialmente seleccionados revitalizarán tu piel, brindándole luminosidad y nutrición."
-   },
+   "descripcion": "Regalate un momento único para vos con una combinación exquisita de Masaje Relax y Facial Hidratante ideal para relajar todo tu cuerpo y brindarle luminosidad, brillo e hidratación a tu piel.\n\n-Masaje Relax: Este masaje combina técnicas manuales descontracturantes y relajantes para reducir o eliminar tensiones musculares. Este masaje realizado con aceite de almendras dulces, dejará la piel suave e hidratada.\n\n-Facial Hidratante: Tratamiento facial con alto poder hidratante y rejuvenecedor. La combinación de masajes y principios activos especialmente seleccionados revitalizarán tu piel, brindándole luminosidad y nutrición.\n\nPara que tu día sea completo, contás con acceso a nuestra Zona de aguas y sauna.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
+   "caracteristicas": {},
    "precio_desde": 4990.0,
    "moneda": "UYU",
    "disponible": true,
@@ -831,12 +850,11 @@
    "url": "https://viaaqua.com/producto/experiencia-bienestar-sensorial-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
+    "Experiencias",
     "Experiencias"
    ],
-   "descripcion": "Regalate un momento único para vos con una combinación exquisita de Masaje Relax y Facial Hidratante ideal para relajar todo tu cuerpo y brindarle luminosidad, brillo e hidratación a tu piel.\n\n-Masaje Relax : Este masaje combina técnicas manuales descontracturantes y relajantes para reducir o eliminar tensiones musculares. Este masaje realizado con aceite de almendras dulces, dejará la piel suave e hidratada.\n\nPara que tu día sea completo, contás con acceso a nuestra Zona de aguas y sauna.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
-   "caracteristicas": {
-    "-Facial Hidratante": "Tratamiento facial con alto poder hidratante y rejuvenecedor. La combinación de masajes y principios activos especialmente seleccionados revitalizarán tu piel, brindándole luminosidad y nutrición."
-   },
+   "descripcion": "Regalate un momento único para vos con una combinación exquisita de Masaje Relax y Facial Hidratante ideal para relajar todo tu cuerpo y brindarle luminosidad, brillo e hidratación a tu piel.\n\n-Masaje Relax: Este masaje combina técnicas manuales descontracturantes y relajantes para reducir o eliminar tensiones musculares. Este masaje realizado con aceite de almendras dulces, dejará la piel suave e hidratada.\n\n-Facial Hidratante: Tratamiento facial con alto poder hidratante y rejuvenecedor. La combinación de masajes y principios activos especialmente seleccionados revitalizarán tu piel, brindándole luminosidad y nutrición.\n\nPara que tu día sea completo, contás con acceso a nuestra Zona de aguas y sauna.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
+   "caracteristicas": {},
    "precio_desde": 4990.0,
    "moneda": "UYU",
    "disponible": true,
@@ -861,7 +879,8 @@
    "url": "https://viaaqua.com/producto/cuponera-plus-de-masajes-modeladores-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Gift Card - Física",
+    "Tratamientos"
    ],
    "descripcion": "Redefiní tu silueta y decile chau a esas zonas que te molestan con esta cuponera de 12 sesiones de masajes modeladores.\n\nEn cada sesión se aplican cremas reductoras y anticelulíticas que, en conjunto con las técnicas manuales profundas realizadas por nuestras esteticistas, potenciarán al máximo los resultados: reducir volumen, mejorar la circulación y combatir la celulitis.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -889,7 +908,8 @@
    "url": "https://viaaqua.com/producto/cuponera-plus-de-masajes-modeladores-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Experiencias",
+    "Tratamientos"
    ],
    "descripcion": "Redefiní tu silueta y decile chau a esas zonas que te molestan con esta cuponera de 12 sesiones de masajes modeladores.\n\nEn cada sesión se aplican cremas reductoras y anticelulíticas que, en conjunto con las técnicas manuales profundas realizadas por nuestras esteticistas, potenciarán al máximo los resultados: reducir volumen, mejorar la circulación y combatir la celulitis.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -917,7 +937,8 @@
    "url": "https://viaaqua.com/producto/cuponera-masaje-linfatico-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Gift Card - Física",
+    "Tratamientos"
    ],
    "descripcion": "Disfrutá de 5 sesiones de drenaje linfático de 50 minutos cada una, diseñadas para mejorar la circulación y reducir la retención de líquidos. Este tratamiento, ideal para quienes sufren de edemas o pesadez en las piernas, ayuda a desintoxicar el cuerpo, aliviando la sensación de piernas cansadas y favoreciendo una mejor función del sistema linfático. Ideal para quienes buscan un alivio efectivo y profundo.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -945,7 +966,8 @@
    "url": "https://viaaqua.com/producto/cuponera-masaje-linfatico-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Experiencias",
+    "Tratamientos"
    ],
    "descripcion": "Disfrutá de 5 sesiones de drenaje linfático de 50 minutos cada una, diseñadas para mejorar la circulación y reducir la retención de líquidos. Este tratamiento, ideal para quienes sufren de edemas o pesadez en las piernas, ayuda a desintoxicar el cuerpo, aliviando la sensación de piernas cansadas y favoreciendo una mejor función del sistema linfático. Ideal para quienes buscan un alivio efectivo y profundo.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -973,7 +995,8 @@
    "url": "https://viaaqua.com/producto/masaje-de-drenaje-linfatico-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Gift Card - Física",
+    "Masajes"
    ],
    "descripcion": "Dejate llevar por la suavidad y profunda relajación de este masaje manual que aplica técnicas específicas de drenaje linfático.\n\nDiseñado para estimular la circulación y aliviar la pesadez en las piernas, este masaje es ideal para personas con edemas, sensación de piernas cansadas o simplemente para quienes desean disfrutar de un momento de bienestar integral.\n\nLa duración de este masaje es de 50 minutos.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -1001,7 +1024,8 @@
    "url": "https://viaaqua.com/producto/masaje-de-drenaje-linfatico-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Experiencias",
+    "Masajes"
    ],
    "descripcion": "Dejate llevar por la suavidad y profunda relajación de este masaje manual que aplica técnicas específicas de drenaje linfático.\n\nDiseñado para estimular la circulación y aliviar la pesadez en las piernas, este masaje es ideal para personas con edemas, sensación de piernas cansadas o simplemente para quienes desean disfrutar de un momento de bienestar integral.\n\nLa duración de este masaje es de 50 minutos.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -1029,7 +1053,8 @@
    "url": "https://viaaqua.com/producto/masaje-con-piedras-calientes-sauna-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Experiencias",
+    "Masajes"
    ],
    "descripcion": "Combinamos delicadas técnicas manuales con la aplicación de piedras calientes volcánicas sobre puntos clave de relajación. A esto se suma el poder del aceite de almendras dulces, que deja la piel suave e hidratada mientras alivia tensiones profundas. El masaje incluye 50 minutos de relajación absoluta más acceso a nuestro sauna, para liberar toxinas, revitalizar la piel y potenciar el efecto de bienestar total.\n\nPara que tu estadía sea inigualable, al adquirir este masaje, contás con acceso al sauna y 1 hora previa de relajación total en nuestra exclusiva Zona de Aguas.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -1057,7 +1082,8 @@
    "url": "https://viaaqua.com/producto/masaje-con-piedras-calientes-sauna-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Gift Card - Física",
+    "Masajes"
    ],
    "descripcion": "Combinamos delicadas técnicas manuales con la aplicación de piedras calientes volcánicas sobre puntos clave de relajación. A esto se suma el poder del aceite de almendras dulces, que deja la piel suave e hidratada mientras alivia tensiones profundas. El masaje incluye 50 minutos de relajación absoluta más acceso a nuestro sauna, para liberar toxinas, revitalizar la piel y potenciar el efecto de bienestar total.\n\nPara que tu estadía sea inigualable, al adquirir este masaje, contás con acceso al sauna y 1 hora previa de relajación total en nuestra exclusiva Zona de Aguas.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -1085,7 +1111,8 @@
    "url": "https://viaaqua.com/producto/masaje-relax-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Gift Card - Física",
+    "Masajes"
    ],
    "descripcion": "Este masaje combina técnicas manuales descontracturantes y relajantes para reducir o eliminar tensiones musculares y mejorar la circulación sanguínea. Este masaje realizado con aceite de almendras dulces, dejará la piel suave e hidratada. La duración de este masaje es de 50 minutos.\n\nPara que tu estadía sea inigualable, al adquirir este masaje, contás con acceso al sauna y 1 hora previa de relajación total en nuestra exclusiva Zona de Aguas.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -1113,7 +1140,8 @@
    "url": "https://viaaqua.com/producto/masaje-relax-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Experiencias",
+    "Masajes"
    ],
    "descripcion": "Este masaje combina técnicas manuales descontracturantes y relajantes para reducir o eliminar tensiones musculares y mejorar la circulación sanguínea. Este masaje realizado con aceite de almendras dulces, dejará la piel suave e hidratada. La duración de este masaje es de 50 minutos.\n\nPara que tu estadía sea inigualable, al adquirir este masaje, contás con acceso al sauna y 1 hora previa de relajación total en nuestra exclusiva Zona de Aguas.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -1141,7 +1169,8 @@
    "url": "https://viaaqua.com/producto/tratamiento-adipo-out-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "Gift Card - Virtual"
+    "Experiencias",
+    "Tratamientos"
    ],
    "descripcion": "Nuevo tratamiento corporal que combina la aplicación de productos con potente acción modeladora y anticelulítica que actúa sobre la adiposidad localizada mejorando la circulación y elasticidad de la piel, devolviendo la firmeza e hidratación.\n\nTratamiento de 12 sesiones, apto tanto para hombres como para mujeres.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -1169,7 +1198,8 @@
    "url": "https://viaaqua.com/producto/tratamiento-adipo-out-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
-    "Gift Card - Física"
+    "Gift Card - Física",
+    "Tratamientos"
    ],
    "descripcion": "Nuevo tratamiento corporal que combina la aplicación de productos con potente acción modeladora y anticelulítica que actúa sobre la adiposidad localizada mejorando la circulación y elasticidad de la piel, devolviendo la firmeza e hidratación.\n\nTratamiento de 12 sesiones, apto tanto para hombres como para mujeres.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -1197,7 +1227,8 @@
    "url": "https://viaaqua.com/producto/cuponera-relax-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Gift Card - Física",
+    "Tratamientos"
    ],
    "descripcion": "Disfrutá de una colección de nuestro masaje relax. Con esta cuponera de 5 masajes, vas a poder acceder a un momento de relajación especial que combina técnicas manuales descontracturantes y relajantes, ideales para reducir o eliminar tensiones musculares y mejorar la circulación sanguínea.\n\nPara que tu estadía sea inigualable, al adquirir esta cuponera, contás con acceso al sauna y 1 hora de relajación total en nuestra exclusiva Zona de Aguas.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -1225,7 +1256,8 @@
    "url": "https://viaaqua.com/producto/cuponera-relax-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Experiencias",
+    "Tratamientos"
    ],
    "descripcion": "Disfrutá de una colección de nuestro masaje relax. Con esta cuponera de 5 masajes, vas a poder acceder a un momento de relajación especial que combina técnicas manuales descontracturantes y relajantes, ideales para reducir o eliminar tensiones musculares y mejorar la circulación sanguínea.\n\nPara que tu estadía sea inigualable, al adquirir esta cuponera, contás con acceso al sauna y 1 hora de relajación total en nuestra exclusiva Zona de Aguas.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -1255,7 +1287,7 @@
    "categorias": [
     "Gift Card - Física"
    ],
-   "descripcion": "El nuevo tratamiento facial de 4 sesiones suaviza las arrugas de expresión , en especial aquellas producidas por la contracción muscular en la zona de la frente y contorno de ojos. Además de ser un tratamiento cosmético para suavizar la mirada, es ideal para prevenir el envejecimiento de la piel del rostro y cuello. Mediante la aplicación del activo MUNAP-18, logramos relajar los músculos del rostro, generando un efecto botox, con resultados visibles desde la primera sesión.",
+   "descripcion": "El nuevo tratamiento facial de 4 sesiones suaviza las arrugas de expresión, en especial aquellas producidas por la contracción muscular en la zona de la frente y contorno de ojos. Además de ser un tratamiento cosmético para suavizar la mirada, es ideal para prevenir el envejecimiento de la piel del rostro y cuello. Mediante la aplicación del activo MUNAP-18, logramos relajar los músculos del rostro, generando un efecto botox, con resultados visibles desde la primera sesión.",
    "caracteristicas": {},
    "precio_desde": 15000.0,
    "moneda": "UYU",
@@ -1281,7 +1313,8 @@
    "url": "https://viaaqua.com/producto/podologia-simple-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
-    "Gift Card - Física"
+    "Gift Card - Física",
+    "Spa de pies"
    ],
    "descripcion": "Disfrutá de un tratamiento completo de 50 minutos que combina podología profesional, exfoliación con sales y masaje hidratante en pies y pantorrillas, sobre la comodidad de un sillón masajeador de última generación. Para que tu experiencia sea extraordinaria el servicio incluye esmaltado a tu elección, el cual puede ser tradicional o semi permanente. Tus pies merecen ser mimados y vos mereces relajarte mientras cuidamos tus pies.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -1309,6 +1342,7 @@
    "url": "https://viaaqua.com/producto/facial-hidratante-nutritivo-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
+    "Gift Card - Física",
     "Faciales"
    ],
    "descripcion": "Es un tratamiento facial con alto poder hidratante y rejuvenecedor. La combinación de masajes y principios activos especialmente seleccionados revitalizarán tu piel, brindándole luminosidad y nutrición. La duración del tratamiento es de 50 minutos.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
@@ -1337,6 +1371,7 @@
    "url": "https://viaaqua.com/producto/limpieza-profunda-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
+    "Gift Card - Física",
     "Faciales"
    ],
    "descripcion": "La perfecta combinación de productos y aparatología, combinados para dejar la piel impecable, libre de toda impureza. Este tratamiento incluye extracción de comedones, exfoliación, hidratación y máscara facial, todo aplicado según tu tipo de piel y necesidades. La duración del tratamiento es de 50 minutos.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
@@ -1365,7 +1400,8 @@
    "url": "https://viaaqua.com/producto/masaje-bienestar-sensorial-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Gift Card - Física",
+    "Masajes"
    ],
    "descripcion": "Masaje corporal, que se focaliza en la zona superior del cuerpo: espalda, trapecios y cervicales. La combinación de técnicas manuales especialmente seleccionadas realizadas y la aplicación de compresas tibias, te ayudará a aliviar tensiones y liberar tu mente. La duración de este masaje es de 50 minutos.\n\nPara que tu estadía sea inigualable, al adquirir este masaje, contás con acceso al sauna y 1 hora previa de relajación total en nuestra exclusiva Zona de Aguas.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -1393,7 +1429,8 @@
    "url": "https://viaaqua.com/producto/masaje-terapeutico-de-espalda-gift-card-fisica/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Gift Card - Física",
+    "Masajes"
    ],
    "descripcion": "Este es un masaje ideal para aliviar las contracturas de espalda y liberación de la tensión de los músculos. Las maniobras se realizan específicamente en espalda, trapecios y cervicales con movilizaciones y estiramientos, combinando técnicas manuales especializadas con la aplicación de esferas chinas y cañas de bambú produciendo un efecto relajante. Este es un masaje profundo, no se recomienda a personas que sea la primera vez que se realizan un masaje o que no se realicen habitualmente y a personas con contracturas severas. La duración de este masaje es de 50 minutos.\n\nPara que tu estadía sea inigualable, al adquirir este masaje, contás con acceso al sauna y 1 hora previa de relajación total en nuestra exclusiva Zona de Aguas.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -1421,7 +1458,8 @@
    "url": "https://viaaqua.com/producto/podologia-simple-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "Experiencias"
+    "Experiencias",
+    "Podología"
    ],
    "descripcion": "Disfrutá de un tratamiento completo de 50 minutos que combina podología profesional, exfoliación con sales y masaje hidratante en pies y pantorrillas, sobre la comodidad de un sillón masajeador de última generación. Para que tu experiencia sea extraordinaria el servicio incluye esmaltado a tu elección, el cual puede ser tradicional o semi permanente. Tus pies merecen ser mimados y vos mereces relajarte mientras cuidamos tus pies.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -1449,7 +1487,8 @@
    "url": "https://viaaqua.com/producto/facial-hidratante-nutritivo-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "Experiencias"
+    "Experiencias",
+    "Faciales"
    ],
    "descripcion": "Es un tratamiento facial con alto poder hidratante y rejuvenecedor. La combinación de masajes y principios activos especialmente seleccionados revitalizarán tu piel, brindándole luminosidad y nutrición. La duración del tratamiento es de 50 minutos.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -1477,7 +1516,8 @@
    "url": "https://viaaqua.com/producto/limpieza-profunda-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "Experiencias"
+    "Experiencias",
+    "Faciales"
    ],
    "descripcion": "La perfecta combinación de productos y aparatología, combinados para dejar la piel impecable, libre de toda impureza. Este tratamiento incluye extracción de comedones, exfoliación, hidratación y máscara facial, todo aplicado según tu tipo de piel y necesidades. La duración del tratamiento es de 50 minutos.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -1505,7 +1545,8 @@
    "url": "https://viaaqua.com/producto/masaje-bienestar-sensorial-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Experiencias",
+    "Masajes"
    ],
    "descripcion": "Masaje corporal, que se focaliza en la zona superior del cuerpo: espalda, trapecios y cervicales. La combinación de técnicas manuales especialmente seleccionadas y la aplicación de compresas tibias, te ayudará a aliviar tensiones y liberar tu mente. La duración de este masaje es de 50 minutos.\n\nPara que tu estadía sea inigualable, al adquirir este masaje, contás con acceso al sauna y 1 hora previa de relajación total en nuestra exclusiva Zona de Aguas.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},
@@ -1533,7 +1574,8 @@
    "url": "https://viaaqua.com/producto/masaje-terapeutico-de-espalda-gift-card/",
    "marca": "Viaaqua",
    "categorias": [
-    "CYBERWEEK"
+    "Experiencias",
+    "Masajes"
    ],
    "descripcion": "Este es un masaje ideal para aliviar las contracturas de espalda y liberación de la tensión de los músculos. Las maniobras se realizan específicamente en espalda, trapecios y cervicales con movilizaciones y estiramientos, combinando técnicas manuales especializadas con la aplicación de esferas chinas y cañas de bambú produciendo un efecto relajante. Este es un masaje profundo, no se recomienda a personas que sea la primera vez que se realizan un masaje o que no se realicen habitualmente y a personas con contracturas severas. La duración de este masaje es de 50 minutos.\n\nPara que tu estadía sea inigualable, al adquirir este masaje, contás con acceso al sauna y 1 hora previa de relajación total en nuestra exclusiva Zona de Aguas.\n\nServicio exclusivo de VIAAQUA Spa (ubicado en Victor Soliño 375, VIAAQUA Punta Carretas)",
    "caracteristicas": {},

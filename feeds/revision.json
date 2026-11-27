@@ -75,14 +75,7 @@
     }
   },
   "diamondcomputacion": {
-    "graves": {
-      "Producto duplicado (mismo título y link)": {
-        "cantidad": 1,
-        "ejemplos": [
-          "Fuente Gigabyte P-SS 80+ Silver (4 veces)"
-        ]
-      }
-    },
+    "graves": {},
     "avisos": {}
   }
 }

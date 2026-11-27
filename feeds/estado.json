@@ -5,7 +5,7 @@
     "plataforma": "tiendanube",
     "productos": 549,
     "items": 1921,
-    "actualizado": "2026-11-27 13:33",
+    "actualizado": "2026-11-27 15:14",
     "error": null,
     "graves": 0,
     "avisos": 0
@@ -17,9 +17,9 @@
     "productos": 10000,
     "items": 10001,
     "actualizado": "2026-11-27 13:33",
-    "error": null,
     "graves": 0,
-    "avisos": 0
+    "avisos": 0,
+    "error": "list index out of range"
   },
   "giani": {
     "nombre": "Giani Dafirenze",
@@ -28,9 +28,9 @@
     "productos": 401,
     "items": 2023,
     "actualizado": "2026-11-27 13:33",
-    "error": null,
     "graves": 0,
-    "avisos": 0
+    "avisos": 0,
+    "error": "list index out of range"
   },
   "fauna": {
     "nombre": "Fauna Deco",
@@ -38,7 +38,7 @@
     "plataforma": "luna",
     "productos": 90,
     "items": 91,
-    "actualizado": "2026-11-27 13:35",
+    "actualizado": "2026-11-27 15:16",
     "error": null,
     "graves": 0,
     "avisos": 0
@@ -50,9 +50,9 @@
     "productos": 777,
     "items": 2997,
     "actualizado": "2026-11-27 13:40",
-    "error": null,
     "graves": 0,
-    "avisos": 16
+    "avisos": 16,
+    "error": "list index out of range"
   },
   "vlackhockey": {
     "nombre": "Vlack Hockey",
@@ -61,9 +61,9 @@
     "productos": 447,
     "items": 1899,
     "actualizado": "2026-11-27 13:35",
-    "error": null,
     "graves": 0,
-    "avisos": 9
+    "avisos": 9,
+    "error": "list index out of range"
   },
   "zenseiuy": {
     "nombre": "Zenseiuy",
@@ -71,7 +71,7 @@
     "plataforma": "shopify",
     "productos": 19,
     "items": 19,
-    "actualizado": "2026-11-27 13:40",
+    "actualizado": "2026-11-27 15:21",
     "error": null,
     "graves": 0,
     "avisos": 0
@@ -82,7 +82,7 @@
     "plataforma": "woocommerce",
     "productos": 57,
     "items": 55,
-    "actualizado": "2026-11-27 13:40",
+    "actualizado": "2026-11-27 15:21",
     "error": null,
     "graves": 0,
     "avisos": 0
@@ -91,9 +91,9 @@
     "nombre": "Milgenialuruguay",
     "url": "https://milgenialuruguay.com",
     "plataforma": "shopify",
-    "productos": 1604,
-    "items": 2591,
-    "actualizado": "2026-11-27 13:41",
+    "productos": 1605,
+    "items": 2593,
+    "actualizado": "2026-11-27 15:21",
     "error": null,
     "graves": 0,
     "avisos": 2
@@ -101,12 +101,12 @@
   "diamondcomputacion": {
     "nombre": "Diamond Computacion",
     "url": "https://www.diamondcomputacion.com.ar",
-    "plataforma": "generico",
-    "productos": 3,
-    "items": 6,
-    "actualizado": "2026-11-27 13:48",
+    "plataforma": "vtex",
+    "productos": 1383,
+    "items": 1882,
+    "actualizado": "2026-11-27 15:22",
     "error": null,
-    "graves": 1,
+    "graves": 0,
     "avisos": 0
   }
 }
