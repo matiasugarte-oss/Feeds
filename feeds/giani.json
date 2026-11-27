@@ -1,8 +1,8 @@
 {
  "tienda": "Giani Dafirenze",
  "url": "https://gianidafirenze.cl",
- "generado": "2026-11-27T01:37:46+00:00",
- "total": 404,
+ "generado": "2026-11-27T03:15:55+00:00",
+ "total": 403,
  "productos": [
   {
    "titulo": "Mochila Mujer / Sauce Print",
@@ -6027,120 +6027,6 @@
      "preorden": false,
      "stock": null,
      "url": "https://gianidafirenze.cl/products/sandalia-mujer-senda-leopardo-negro?variant=67980776865835"
-    }
-   ]
-  },
-  {
-   "titulo": "Babucha Mujer / Guindo Beige",
-   "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-beige",
-   "marca": "Giani Dafirenze",
-   "categorias": [
-    "BABUCHAS"
-   ],
-   "descripcion": "Diseñada para construir estilismos luminosos, sobrios y altamente versátiles, esta babucha de cuero para mujer resalta por su suave tonalidad beige y su refinada silueta en punta. Su correa regulable con hebilla bajo el tobillo proporciona una sujeción firme y adaptada a la anatomía del pie, mientras que el forro y la plantilla de cuero natural cuidan la piel, ofreciendo suavidad, flexibilidad y máxima respirabilidad en jornadas cálidas.\n\nSu base se compone de una suela de goma antiderrapante y un taco de madera de 3 cm pintado a mano, entregando ligereza, absorción del impacto y un soporte estable en todo momento. Un calzado femenino de cuero elaborado artesanalmente en Chile, perfecto para complementar vestidos, faldas y pantalones neutros durante la temporada Primavera-Verano.",
-   "caracteristicas": {
-    "Nombre": "Guindo C21",
-    "Color": "Beige",
-    "Capellada (material exterior)": "Cuero",
-    "Forro (material interior)": "Cuero",
-    "Plantilla": "Cuero",
-    "Suela": "Goma",
-    "Taco": "Madera Pintado a mano",
-    "Altura taco": "3 cm",
-    "Punta": "En punta",
-    "Horma": "Normal",
-    "Cierre": "Hebilla",
-    "Altura": "Bajo el tobillo",
-    "Estilo": "Babucha",
-    "Procedencia": "Hecho en Chile",
-    "Temporada": "Primavera Verano 2027"
-   },
-   "precio_desde": 67425.0,
-   "moneda": "CLP",
-   "disponible": true,
-   "imagenes": [
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-guindo-beige-babuchas-giani-dafirenze-681761.jpg?v=1794868866",
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-guindo-beige-babuchas-giani-dafirenze-716043.jpg?v=1794868748",
-    "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-guindo-beige-zapatos-giani-dafirenze-662508.jpg?v=1786461209"
-   ],
-   "variantes": [
-    {
-     "sku": "GDF-PV27-GUINDO-C21-35",
-     "opciones": {
-      "Talla": "35",
-      "Color": "Beige"
-     },
-     "precio": 67425.0,
-     "precio_anterior": 89900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-beige?variant=44657315905579"
-    },
-    {
-     "sku": "GDF-PV27-GUINDO-C21-36",
-     "opciones": {
-      "Talla": "36",
-      "Color": "Beige"
-     },
-     "precio": 67425.0,
-     "precio_anterior": 89900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-beige?variant=44657466540075"
-    },
-    {
-     "sku": "GDF-PV27-GUINDO-C21-37",
-     "opciones": {
-      "Talla": "37",
-      "Color": "Beige"
-     },
-     "precio": 67425.0,
-     "precio_anterior": 89900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-beige?variant=44657466572843"
-    },
-    {
-     "sku": "GDF-PV27-GUINDO-C21-38",
-     "opciones": {
-      "Talla": "38",
-      "Color": "Beige"
-     },
-     "precio": 67425.0,
-     "precio_anterior": 89900.0,
-     "disponible": true,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-beige?variant=44657466605611"
-    },
-    {
-     "sku": "GDF-PV27-GUINDO-C21-39",
-     "opciones": {
-      "Talla": "39",
-      "Color": "Beige"
-     },
-     "precio": 67425.0,
-     "precio_anterior": 89900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-beige?variant=44657466638379"
-    },
-    {
-     "sku": "GDF-PV27-GUINDO-C21-40",
-     "opciones": {
-      "Talla": "40",
-      "Color": "Beige"
-     },
-     "precio": 67425.0,
-     "precio_anterior": 89900.0,
-     "disponible": false,
-     "preorden": false,
-     "stock": null,
-     "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-beige?variant=44657466671147"
     }
    ]
   },

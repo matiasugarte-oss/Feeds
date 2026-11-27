@@ -1,7 +1,7 @@
 {
  "tienda": "Milgenialuruguay",
  "url": "https://milgenialuruguay.com",
- "generado": "2026-11-27T01:44:51+00:00",
+ "generado": "2026-11-27T03:21:51+00:00",
  "total": 1603,
  "productos": [
   {
@@ -63669,7 +63669,7 @@
      },
      "precio": 990.0,
      "precio_anterior": 1490.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/parasol-triangular-vela-impermeable?variant=50164148306234"
