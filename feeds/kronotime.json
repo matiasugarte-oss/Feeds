@@ -1,7 +1,7 @@
 {
  "tienda": "Kronotime",
  "url": "https://kronotime.com",
- "generado": "2026-11-27T06:17:26+00:00",
+ "generado": "2026-11-27T07:44:07+00:00",
  "total": 10000,
  "productos": [
   {
@@ -28756,7 +28756,7 @@
    "caracteristicas": {},
    "precio_desde": 862425.0,
    "moneda": "COP",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/7613272672788_1_b4553f9b-d162-4e30-8658-d1000c4794c9.jpg?v=1786226987",
     "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/7613272672788_2_62b3959e-9337-4665-8afb-a114e48a8b34.jpg?v=1786226988",
@@ -28768,7 +28768,7 @@
      "opciones": {},
      "precio": 862425.0,
      "precio_anterior": 1149900.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://kronotime.com/products/reloj-para-hombre-tommy-hilfiger-tommy-hilfiger-1792238-plateado?variant=54158551777644"
