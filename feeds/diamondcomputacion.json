@@ -1,8 +1,8 @@
 {
  "tienda": "Diamond Computacion",
  "url": "https://www.diamondcomputacion.com.ar",
- "generado": "2026-11-28T04:19:54+00:00",
- "total": 1385,
+ "generado": "2026-11-28T05:23:14+00:00",
+ "total": 1383,
  "productos": [
   {
    "titulo": "Carry Disk Netmak NM-CASEAL 2.5\" SATA",
@@ -14948,7 +14948,7 @@
     "Acabado": "Silk",
     "IVA": "21%"
    },
-   "precio_desde": 24200.0,
+   "precio_desde": 26300.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -14963,7 +14963,7 @@
       "Color": "Cobre Rojo",
       "stockensucursal": "0"
      },
-     "precio": 24200.0,
+     "precio": 26300.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -18803,48 +18803,6 @@
      "preorden": false,
      "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/monitor-performance-pf215r-22-hd/p?skuId=3141"
-    }
-   ]
-  },
-  {
-   "titulo": "Fuente LNZ 550W XS550-CE",
-   "url": "https://www.diamondcomputacion.com.ar/fuente-lnz-550w-xs550-ce/p",
-   "marca": "LNZ",
-   "categorias": [
-    "Componentes de PC",
-    "Fuentes"
-   ],
-   "descripcion": "La Fuente LNZ 550W XS550-CE es una fuente de alimentación pensada para computadoras compatibles. Ofrece una solución práctica para armado, reparación o actualización de PC, brindando energía estable para configuraciones de uso general.",
-   "caracteristicas": {
-    "Watts": "550 W",
-    "Color": "Negro",
-    "Atx Versión": "ATX",
-    "IVA": "21%",
-    "Tamaño del ventilador": "80 mm",
-    "Salida máxima": "550 W; +12V 32A, +5V 15A, +3.3V 22A, +5VSB 2.5A y -12V 0.5A",
-    "Regulaciones": "Entrada AC 220V, 5A, 50Hz",
-    "Conectores": "1 x motherboard 20+4 pines, 1 x CPU +12V de 4 pines, 3 x SATA y 2 x Molex"
-   },
-   "precio_desde": 21300.0,
-   "moneda": "ARS",
-   "disponible": true,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/168571/3.jpg?v=639195546282800000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/168572/4.jpg?v=639195546283300000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/168573/9.jpg?v=639195546283300000"
-   ],
-   "variantes": [
-    {
-     "sku": "95848550",
-     "opciones": {
-      "stockensucursal": "0"
-     },
-     "precio": 21300.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 1,
-     "url": "https://www.diamondcomputacion.com.ar/fuente-lnz-550w-xs550-ce/p?skuId=3140"
     }
    ]
   },
@@ -22950,7 +22908,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/auricular-jbl-quantum-250/p?skuId=2932"
     },
     {
@@ -42541,7 +42499,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/silla-gamer-raptor-throne-r1/p?skuId=1968"
     }
    ]
@@ -46410,7 +46368,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/teclado-gtc-kbg-207-usb/p?skuId=1670"
     }
    ]
@@ -54577,7 +54535,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/soporte-notebook-base-plegable/p?skuId=1072"
     }
    ]
@@ -55587,51 +55545,6 @@
      "preorden": false,
      "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/fuente-para-pc-noga-650w/p?skuId=958"
-    }
-   ]
-  },
-  {
-   "titulo": "SSD 120GB Netac SA500",
-   "url": "https://www.diamondcomputacion.com.ar/disco-solido-ssd-netac-sa500-120gb/p",
-   "marca": "Netac",
-   "categorias": [
-    "Componentes de PC",
-    "Discos Rígidos",
-    "Sólidos"
-   ],
-   "descripcion": "El Disco Sólido SSD Netac SA500 120 GB es una unidad de estado sólido pensada para mejorar el almacenamiento y la respuesta de una computadora compatible. Con interfaz de alta velocidad SATA III 6 Gb/s, que puede reducir drásticamente el tiempo de arranque. Puede actualizar fácilmente la máquina con amplia compatibilidad para portátiles, ordenadores de sobremesa y ordenadores integrados. Solución SSD rentable y de alto rendimiento. Antes de instalarlo o utilizarlo, conviene verificar medidas, conexiones, alimentación y compatibilidad con el resto del equipo.",
-   "caracteristicas": {
-    "Marca": "Netac",
-    "Interfaz": "SATA III",
-    "Garantía": "3 años",
-    "IVA": "10.5",
-    "Dimensiones": "100 x 69.85 x 7 mm",
-    "Factor de forma": "2.5 pulgadas",
-    "Máxima velocidad de lectura": "500MB/s",
-    "Máxima velocidad de escritura": "400MB/s",
-    "MTTF": "1.500.000 horas"
-   },
-   "precio_desde": 56300.0,
-   "moneda": "ARS",
-   "disponible": true,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/159587/50025120_1.jpg?v=638300437533130000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/159588/50025120_2.jpg?v=639294073957600000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/159589/50025120_3.jpg?v=639294073957670000"
-   ],
-   "variantes": [
-    {
-     "sku": "81101",
-     "opciones": {
-      "Capacidad": "120GB",
-      "stockensucursal": "0"
-     },
-     "precio": 56300.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 100,
-     "url": "https://www.diamondcomputacion.com.ar/disco-solido-ssd-netac-sa500-120gb/p?skuId=953"
     }
    ]
   },
