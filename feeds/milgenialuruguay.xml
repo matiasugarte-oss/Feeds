@@ -11631,7 +11631,7 @@ La colocación tiene dos pasos: colocá una pestaña a cada lado de la nariz y d
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/3_bf9b8b89-44d8-4e30-92a3-75c784f68493.jpg?v=1784898484</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/before-after_82b99cc7-16dd-4f1c-9759-a43f64738603.png?v=1792430346</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/6_6f9bed09-9cad-41f1-a841-ae376482b50e.jpg?v=1784898623</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>1190.00 UYU</g:price>
       <g:sale_price>725.00 UYU</g:sale_price>
       <g:brand>MilGenial Uruguay</g:brand>
@@ -22895,35 +22895,13 @@ Sin estar atornillando y desatornillando cada vez.
 
 Los detalles que importan
 
-40–65 cm
+30 – 40 cm Rango de altura declarado
 
-Rango de altura declarado
+2 Posiciones regulables
 
-3
+80 kg Capacidad máxima declarada
 
-Posiciones regulables
-
-90 kg
-
-Capacidad máxima declarada
-
-Plegable
-
-Fácil de guardar
-
-Él estuvo a tu lado todos estos años.
-
-Ahora podés facilitarle el camino.
-
-Porque no se trata solamente de subir a un sillón.
-
-Se trata de seguir compartiendo esos pequeños momentos juntos.
-
-Que los saltos sean menos.
-
-Que los momentos juntos sigan siendo muchos.
-
-Agregar al carrito
+Plegable Fácil de guardar
 
 /* General */
 
@@ -23011,7 +22989,15 @@ Agregar al carrito
 
 .mpr-emotion p,
 
-.mpr-benefit-grid { grid-template-columns: 1fr; gap</g:description>
+.mpr-benefit-grid { grid-template-columns: 1fr; gap: 9px;
+
+(function () { var VIDEO_URL =
+
+"https://cdn.shopify.com/videos/c/o/v/b2a0f28019e14b54b34e71c2bc822a47.mp4"; function initRampVideos() { document.querySelectorAll(
+
+".mg-pet-ramp [data-ramp-video]"
+
+).forEach(function(container) { if (container.dataset.initialized === "true") re</g:description>
       <g:link>https://milgenialuruguay.com/products/rampa-plegable-para-mascotas-de-altura-ajustable?variant=53124652597562</g:link>
       <g:image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/fondo-blanco-1775646101607.jpg?v=1775646667</g:image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo2_c3aa7b8b-203e-4e0b-b8aa-a212ef54beff.png?v=1795091871</g:additional_image_link>
@@ -107232,33 +107218,121 @@ Plato
       <g:id>2150-1</g:id>
       <g:item_group_id>9731178889530</g:item_group_id>
       <g:title>Pack de 10 Tapas de Repuesto para Frascos - 70 mm</g:title>
-      <g:description>Mantén los alimentos en condiciones ✅.
+      <g:description>@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800;900&amp;display=swap');
 
-Las tapas con el paso del tiempo pueden comenzar a oxidarse y es necesario hacer un cambio ¡Obtén ahora el pack de 10!
+/* Estilos generales */
 
-No incluye los frascos
+.mg-tapas {
 
-☑️ Contienen silicona de grado alimenticio
+--mg-green: #0D8B48;
 
-☑️ Mantienen tus conservas frescas
+--mg-text: #252525;
 
-Importante: esta tapa se utiliza luego de abrir su frasco (quitando la tapa de sellado) para que sus alimento duren mas tiempo. Esta tapa no sirve para sellado ni para usar con la selladora de vacio
+--mg-secondary: #555555; font-family: 'Nunito', sans-serif; color: var(--mg-text); max-width: 850px; margin: 0 auto; padding: 48px 24px; line-height: 1.6; box-sizing: border-box;
+
+}
+
+.mg-tapas h2,
+
+.mg-tapas h3,
+
+.mg-tapas h2 { font-size: 30px; font-weight: 900; line-height: 1.2; color: var(--mg-text); margin-bottom: 14px;
+
+.mg-tapas h3 { font-size: 22px; font-weight: 800; line-height: 1.3; color: var(--mg-text); margin-bottom: 12px;
+
+/* Encabezado */
+
+/* Imagen representativa */
+
+/* Beneficios */
+
+.mg-tapas.mg-list li { display: flex; align-items: flex-start; gap: 11px; list-style: none!important; padding: 0!important; margin: 0 0 12px!important; font-size: 16px; font-weight: 600; line-height: 1.5; color: var(--mg-text);
+
+/* Medidas */
+
+.mg-tapas.mg-sizes { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin: 16px 0 12px;
+
+.mg-tapas.mg-size { padding: 18px 10px; border: 1px solid #E2E7E4; border-radius: 10px; text-align: center; background: #FFFFFF;
+
+.mg-tapas.mg-size-value { display: block; font-size: 28px; font-weight: 900; line-height: 1.2; color: var(--mg-green);
+
+.mg-tapas.mg-size-label { display: block; font-size: 13px; font-weight: 600; color: var(--mg-secondary); margin-top: 4px;
+
+/* Información importante */
+
+.mg-tapas.mg-notice { display: flex; align-items: flex-start; gap: 12px; background: #F5F5F5; border-left: 3px solid var(--mg-green); border-radius: 0 8px 8px 0; padding: 18px;
+
+.mg-tapas.mg-notice p + p { margin-top: 8px;
+
+/* Adaptación para celulares */
+
+Renová tus tapas y seguí aprovechando tus frascos
+
+No tires tus frascos porque sus tapas estén oxidadas o deterioradas. Reemplazalas y seguí utilizándolos para conservar tus alimentos de forma práctica.
+
+--&gt;
+
+Una solución sencilla para tu cocina
+
+Pack de 10 tapas de repuesto.
+
+Silicona de grado alimenticio.
+
+Ideales para reemplazar tapas deterioradas.
+
+Disponibles en dos medidas.
+
+Elegí la medida que necesitás
+
+70 mm
+
+Diámetro
+
+86 mm
+
+Comprobá el diámetro de tus frascos antes de realizar la compra para asegurarte de elegir la medida correcta.
+
+Información importante
+
+Estas tapas están diseñadas para cerrar los frascos después de abrirlos.
+
+No sirven para realizar el sellado al vacío.
+
+No se incluyen frascos ni selladora.
 
 Características:
-- Características: 
-- ☑️ 2 medidas: 86mm y 70mm</g:description>
+- .mg-tapas * { box-sizing: border-box
+- .mg-tapas p { font-family: 'Nunito', sans-serif; margin: 0; letter-spacing: normal
+- .mg-tapas p { font-size: 16px; font-weight: 500; line-height: 1.6; color: var(--mg-secondary)
+- .mg-tapas strong { font-weight: 800
+- .mg-tapas.mg-highlight { color: var(--mg-green)
+- .mg-tapas.mg-section { margin-top: 30px
+- .mg-tapas.mg-hero { text-align: center
+- .mg-tapas.mg-hero p { max-width: 650px; margin: 0 auto
+- .mg-tapas.mg-image { margin-top: 24px; width: 100%; overflow: hidden; border-radius: 12px
+- .mg-tapas.mg-image img { display: block; width: 100%; height: auto; margin: 0; border-radius: 12px
+- .mg-tapas.mg-benefits { padding: 22px; background: #F6F8F7; border-radius: 12px
+- .mg-tapas ul.mg-list { list-style: none!important; padding: 0!important; margin: 0!important
+- .mg-tapas.mg-list li: last-child { margin-bottom: 0!important
+- .mg-tapas.mg-check { width: 21px; height: 21px; min-width: 21px; margin-top: 1px; color: var(--mg-green)
+- .mg-tapas.mg-notice-icon { width: 22px; height: 22px; min-width: 22px; margin-top: 2px; color: var(--mg-green)
+- .mg-tapas.mg-notice h3 { font-size: 17px; margin-bottom: 6px
+- .mg-tapas.mg-notice p { font-size: 14px; line-height: 1.6
+- @media screen and (max-width: 749px) {
+- .mg-tapas { padding: 38px 16px 48px
+- .mg-tapas h2 { font-size: 25px; margin-bottom: 12px
+- .mg-tapas h3 { font-size: 20px; margin-bottom: 10px
+- .mg-tapas.mg-list li { font-size: 15px; margin-bottom: 10px!important
+- .mg-tapas.mg-sizes { gap: 10px
+- .mg-tapas.mg-size { padding: 15px 10px
+- .mg-tapas.mg-size-value { font-size: 25px
+- .mg-tapas.mg-notice { padding: 15px 12px; gap: 10px</g:description>
       <g:link>https://milgenialuruguay.com/products/tapas-de-repuesto-para-selladora-al-vacio-para-frascos?variant=50207610732858</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/5rfQScc6e3be873ea4d8bba5f8307191a501aL_039b98de-ab31-41dc-ac64-22ced9b2a876.jpg?v=1752525751</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/mason01_13543b0a-e731-4a45-8c99-a93b237cd436.jpg?v=1752525751</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/mason05_74f6e92f-815a-4228-ad0d-6282e93c36af.jpg?v=1752525751</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/galletas_3797166b-e02a-418a-aee8-3b245685d368.jpg?v=1752525751</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/mason01.jpg?v=1736249238</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/4_582ea306-d0f9-44f3-b5c7-a3ef99c12ab7.jpg?v=1736249238</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/5_a5798af2-cf7f-47b9-9222-e3817c5e5ac7.jpg?v=1736249238</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/3_e3cb590f-13e9-4cc6-bc0e-99941593a550.jpg?v=1736249238</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/ason2_a2dc364a-ba2f-4180-ba39-f9840e62b599.jpg?v=1752525751</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/galletas.jpg?v=1736249238</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/mason03_a3f77956-68e2-46e7-8f88-441914e391b4.jpg?v=1752525751</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/portada_54d9525f-0384-498e-a7c3-1049f1857d7e.png?v=1795870507</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo1_da5d8456-c984-4271-b098-587165951cee.png?v=1795870508</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo3_32494454-5b0a-46bd-a669-bfe60f1d612b.png?v=1795870507</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo2_6bd440d8-9839-4bc6-a69d-d48417dfde20.png?v=1795870507</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo4_9eb87fb0-756c-4953-bd11-e59ff9252556.png?v=1795870507</g:additional_image_link>
       <g:availability>in_stock</g:availability>
       <g:price>130.00 UYU</g:price>
       <g:brand>MilGenial Uruguay</g:brand>
@@ -107266,50 +107340,188 @@ Características:
       <g:mpn>2150-1</g:mpn>
       <g:condition>new</g:condition>
       <g:product_type>Otros (Cocina)</g:product_type>
+      <g:color>var(--mg-green)</g:color>
       <g:size>70 mm</g:size>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Características</g:attribute_name><g:attribute_value></g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>☑️ 2 medidas</g:attribute_name><g:attribute_value>86mm y 70mm</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas * { box-sizing</g:attribute_name><g:attribute_value>border-box</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas p { font-family</g:attribute_name><g:attribute_value>'Nunito', sans-serif; margin: 0; letter-spacing: normal</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas p { font-size</g:attribute_name><g:attribute_value>16px; font-weight: 500; line-height: 1.6; color: var(--mg-secondary)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas strong { font-weight</g:attribute_name><g:attribute_value>800</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-highlight { color</g:attribute_name><g:attribute_value>var(--mg-green)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-section { margin-top</g:attribute_name><g:attribute_value>30px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-hero { text-align</g:attribute_name><g:attribute_value>center</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-hero p { max-width</g:attribute_name><g:attribute_value>650px; margin: 0 auto</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-image { margin-top</g:attribute_name><g:attribute_value>24px; width: 100%; overflow: hidden; border-radius: 12px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-image img { display</g:attribute_name><g:attribute_value>block; width: 100%; height: auto; margin: 0; border-radius: 12px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-benefits { padding</g:attribute_name><g:attribute_value>22px; background: #F6F8F7; border-radius: 12px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas ul.mg-list { list-style</g:attribute_name><g:attribute_value>none!important; padding: 0!important; margin: 0!important</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-list li</g:attribute_name><g:attribute_value>last-child { margin-bottom: 0!important</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-check { width</g:attribute_name><g:attribute_value>21px; height: 21px; min-width: 21px; margin-top: 1px; color: var(--mg-green)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-notice-icon { width</g:attribute_name><g:attribute_value>22px; height: 22px; min-width: 22px; margin-top: 2px; color: var(--mg-green)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-notice h3 { font-size</g:attribute_name><g:attribute_value>17px; margin-bottom: 6px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-notice p { font-size</g:attribute_name><g:attribute_value>14px; line-height: 1.6</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>@media screen and (max-width</g:attribute_name><g:attribute_value>749px) {</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas { padding</g:attribute_name><g:attribute_value>38px 16px 48px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas h2 { font-size</g:attribute_name><g:attribute_value>25px; margin-bottom: 12px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas h3 { font-size</g:attribute_name><g:attribute_value>20px; margin-bottom: 10px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-list li { font-size</g:attribute_name><g:attribute_value>15px; margin-bottom: 10px!important</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-sizes { gap</g:attribute_name><g:attribute_value>10px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-size { padding</g:attribute_name><g:attribute_value>15px 10px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-size-value { font-size</g:attribute_name><g:attribute_value>25px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-notice { padding</g:attribute_name><g:attribute_value>15px 12px; gap: 10px</g:attribute_value></g:product_detail>
     </item>
     <item>
       <g:id>2150-2</g:id>
       <g:item_group_id>9731178889530</g:item_group_id>
       <g:title>Pack de 10 Tapas de Repuesto para Frascos - 86 mm</g:title>
-      <g:description>Mantén los alimentos en condiciones ✅.
+      <g:description>@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800;900&amp;display=swap');
 
-Las tapas con el paso del tiempo pueden comenzar a oxidarse y es necesario hacer un cambio ¡Obtén ahora el pack de 10!
+/* Estilos generales */
 
-No incluye los frascos
+.mg-tapas {
 
-☑️ Contienen silicona de grado alimenticio
+--mg-green: #0D8B48;
 
-☑️ Mantienen tus conservas frescas
+--mg-text: #252525;
 
-Importante: esta tapa se utiliza luego de abrir su frasco (quitando la tapa de sellado) para que sus alimento duren mas tiempo. Esta tapa no sirve para sellado ni para usar con la selladora de vacio
+--mg-secondary: #555555; font-family: 'Nunito', sans-serif; color: var(--mg-text); max-width: 850px; margin: 0 auto; padding: 48px 24px; line-height: 1.6; box-sizing: border-box;
+
+}
+
+.mg-tapas h2,
+
+.mg-tapas h3,
+
+.mg-tapas h2 { font-size: 30px; font-weight: 900; line-height: 1.2; color: var(--mg-text); margin-bottom: 14px;
+
+.mg-tapas h3 { font-size: 22px; font-weight: 800; line-height: 1.3; color: var(--mg-text); margin-bottom: 12px;
+
+/* Encabezado */
+
+/* Imagen representativa */
+
+/* Beneficios */
+
+.mg-tapas.mg-list li { display: flex; align-items: flex-start; gap: 11px; list-style: none!important; padding: 0!important; margin: 0 0 12px!important; font-size: 16px; font-weight: 600; line-height: 1.5; color: var(--mg-text);
+
+/* Medidas */
+
+.mg-tapas.mg-sizes { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin: 16px 0 12px;
+
+.mg-tapas.mg-size { padding: 18px 10px; border: 1px solid #E2E7E4; border-radius: 10px; text-align: center; background: #FFFFFF;
+
+.mg-tapas.mg-size-value { display: block; font-size: 28px; font-weight: 900; line-height: 1.2; color: var(--mg-green);
+
+.mg-tapas.mg-size-label { display: block; font-size: 13px; font-weight: 600; color: var(--mg-secondary); margin-top: 4px;
+
+/* Información importante */
+
+.mg-tapas.mg-notice { display: flex; align-items: flex-start; gap: 12px; background: #F5F5F5; border-left: 3px solid var(--mg-green); border-radius: 0 8px 8px 0; padding: 18px;
+
+.mg-tapas.mg-notice p + p { margin-top: 8px;
+
+/* Adaptación para celulares */
+
+Renová tus tapas y seguí aprovechando tus frascos
+
+No tires tus frascos porque sus tapas estén oxidadas o deterioradas. Reemplazalas y seguí utilizándolos para conservar tus alimentos de forma práctica.
+
+--&gt;
+
+Una solución sencilla para tu cocina
+
+Pack de 10 tapas de repuesto.
+
+Silicona de grado alimenticio.
+
+Ideales para reemplazar tapas deterioradas.
+
+Disponibles en dos medidas.
+
+Elegí la medida que necesitás
+
+70 mm
+
+Diámetro
+
+86 mm
+
+Comprobá el diámetro de tus frascos antes de realizar la compra para asegurarte de elegir la medida correcta.
+
+Información importante
+
+Estas tapas están diseñadas para cerrar los frascos después de abrirlos.
+
+No sirven para realizar el sellado al vacío.
+
+No se incluyen frascos ni selladora.
 
 Características:
-- Características: 
-- ☑️ 2 medidas: 86mm y 70mm</g:description>
+- .mg-tapas * { box-sizing: border-box
+- .mg-tapas p { font-family: 'Nunito', sans-serif; margin: 0; letter-spacing: normal
+- .mg-tapas p { font-size: 16px; font-weight: 500; line-height: 1.6; color: var(--mg-secondary)
+- .mg-tapas strong { font-weight: 800
+- .mg-tapas.mg-highlight { color: var(--mg-green)
+- .mg-tapas.mg-section { margin-top: 30px
+- .mg-tapas.mg-hero { text-align: center
+- .mg-tapas.mg-hero p { max-width: 650px; margin: 0 auto
+- .mg-tapas.mg-image { margin-top: 24px; width: 100%; overflow: hidden; border-radius: 12px
+- .mg-tapas.mg-image img { display: block; width: 100%; height: auto; margin: 0; border-radius: 12px
+- .mg-tapas.mg-benefits { padding: 22px; background: #F6F8F7; border-radius: 12px
+- .mg-tapas ul.mg-list { list-style: none!important; padding: 0!important; margin: 0!important
+- .mg-tapas.mg-list li: last-child { margin-bottom: 0!important
+- .mg-tapas.mg-check { width: 21px; height: 21px; min-width: 21px; margin-top: 1px; color: var(--mg-green)
+- .mg-tapas.mg-notice-icon { width: 22px; height: 22px; min-width: 22px; margin-top: 2px; color: var(--mg-green)
+- .mg-tapas.mg-notice h3 { font-size: 17px; margin-bottom: 6px
+- .mg-tapas.mg-notice p { font-size: 14px; line-height: 1.6
+- @media screen and (max-width: 749px) {
+- .mg-tapas { padding: 38px 16px 48px
+- .mg-tapas h2 { font-size: 25px; margin-bottom: 12px
+- .mg-tapas h3 { font-size: 20px; margin-bottom: 10px
+- .mg-tapas.mg-list li { font-size: 15px; margin-bottom: 10px!important
+- .mg-tapas.mg-sizes { gap: 10px
+- .mg-tapas.mg-size { padding: 15px 10px
+- .mg-tapas.mg-size-value { font-size: 25px
+- .mg-tapas.mg-notice { padding: 15px 12px; gap: 10px</g:description>
       <g:link>https://milgenialuruguay.com/products/tapas-de-repuesto-para-selladora-al-vacio-para-frascos?variant=50207611093306</g:link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/y3viS20507a355c5741c89a49ed6cd57a3d506_d8b51f5b-11ea-4076-b11e-9dcf4e69c711.jpg?v=1752525751</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/mason01_13543b0a-e731-4a45-8c99-a93b237cd436.jpg?v=1752525751</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/mason05_74f6e92f-815a-4228-ad0d-6282e93c36af.jpg?v=1752525751</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/galletas_3797166b-e02a-418a-aee8-3b245685d368.jpg?v=1752525751</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/mason01.jpg?v=1736249238</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/4_582ea306-d0f9-44f3-b5c7-a3ef99c12ab7.jpg?v=1736249238</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/5_a5798af2-cf7f-47b9-9222-e3817c5e5ac7.jpg?v=1736249238</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/3_e3cb590f-13e9-4cc6-bc0e-99941593a550.jpg?v=1736249238</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/ason2_a2dc364a-ba2f-4180-ba39-f9840e62b599.jpg?v=1752525751</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/galletas.jpg?v=1736249238</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/mason03_a3f77956-68e2-46e7-8f88-441914e391b4.jpg?v=1752525751</g:additional_image_link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/portada_54d9525f-0384-498e-a7c3-1049f1857d7e.png?v=1795870507</g:image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo1_da5d8456-c984-4271-b098-587165951cee.png?v=1795870508</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo3_32494454-5b0a-46bd-a669-bfe60f1d612b.png?v=1795870507</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo2_6bd440d8-9839-4bc6-a69d-d48417dfde20.png?v=1795870507</g:additional_image_link>
+      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/modelo4_9eb87fb0-756c-4953-bd11-e59ff9252556.png?v=1795870507</g:additional_image_link>
       <g:availability>in_stock</g:availability>
       <g:price>140.00 UYU</g:price>
       <g:brand>MilGenial Uruguay</g:brand>
       <g:mpn>2150-2</g:mpn>
       <g:condition>new</g:condition>
       <g:product_type>Otros (Cocina)</g:product_type>
+      <g:color>var(--mg-green)</g:color>
       <g:size>86 mm</g:size>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Características</g:attribute_name><g:attribute_value></g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>☑️ 2 medidas</g:attribute_name><g:attribute_value>86mm y 70mm</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas * { box-sizing</g:attribute_name><g:attribute_value>border-box</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas p { font-family</g:attribute_name><g:attribute_value>'Nunito', sans-serif; margin: 0; letter-spacing: normal</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas p { font-size</g:attribute_name><g:attribute_value>16px; font-weight: 500; line-height: 1.6; color: var(--mg-secondary)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas strong { font-weight</g:attribute_name><g:attribute_value>800</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-highlight { color</g:attribute_name><g:attribute_value>var(--mg-green)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-section { margin-top</g:attribute_name><g:attribute_value>30px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-hero { text-align</g:attribute_name><g:attribute_value>center</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-hero p { max-width</g:attribute_name><g:attribute_value>650px; margin: 0 auto</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-image { margin-top</g:attribute_name><g:attribute_value>24px; width: 100%; overflow: hidden; border-radius: 12px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-image img { display</g:attribute_name><g:attribute_value>block; width: 100%; height: auto; margin: 0; border-radius: 12px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-benefits { padding</g:attribute_name><g:attribute_value>22px; background: #F6F8F7; border-radius: 12px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas ul.mg-list { list-style</g:attribute_name><g:attribute_value>none!important; padding: 0!important; margin: 0!important</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-list li</g:attribute_name><g:attribute_value>last-child { margin-bottom: 0!important</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-check { width</g:attribute_name><g:attribute_value>21px; height: 21px; min-width: 21px; margin-top: 1px; color: var(--mg-green)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-notice-icon { width</g:attribute_name><g:attribute_value>22px; height: 22px; min-width: 22px; margin-top: 2px; color: var(--mg-green)</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-notice h3 { font-size</g:attribute_name><g:attribute_value>17px; margin-bottom: 6px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-notice p { font-size</g:attribute_name><g:attribute_value>14px; line-height: 1.6</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>@media screen and (max-width</g:attribute_name><g:attribute_value>749px) {</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas { padding</g:attribute_name><g:attribute_value>38px 16px 48px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas h2 { font-size</g:attribute_name><g:attribute_value>25px; margin-bottom: 12px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas h3 { font-size</g:attribute_name><g:attribute_value>20px; margin-bottom: 10px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-list li { font-size</g:attribute_name><g:attribute_value>15px; margin-bottom: 10px!important</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-sizes { gap</g:attribute_name><g:attribute_value>10px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-size { padding</g:attribute_name><g:attribute_value>15px 10px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-size-value { font-size</g:attribute_name><g:attribute_value>25px</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>.mg-tapas.mg-notice { padding</g:attribute_name><g:attribute_value>15px 12px; gap: 10px</g:attribute_value></g:product_detail>
     </item>
     <item>
       <g:id>2204-0</g:id>
@@ -113658,7 +113870,7 @@ Su diseño de acero inoxidable pulido evita que los olores se impregnen y facili
     <item>
       <g:id>1857-1</g:id>
       <g:item_group_id>9054655250746</g:item_group_id>
-      <g:title>Tobillera Corta Ankle Brace de Compresión para más Soporte - S/m</g:title>
+      <g:title>Par de Tobilleras Cortas Ankle Brace de Compresión - S/m</g:title>
       <g:description>La Tobillera Corta Ankle Brace de Compresión es una solución innovadora diseñada para brindar soporte y estabilidad a la articulación del tobillo. ✅.
 
 Fabricada con materiales de alta calidad y tecnología de compresión, esta tobillera ayuda a reducir la inflamación, alivia el dolor y promueve una recuperación más rápida de lesiones como esguinces y torceduras.
@@ -113697,7 +113909,7 @@ Características:
     <item>
       <g:id>1857-2</g:id>
       <g:item_group_id>9054655250746</g:item_group_id>
-      <g:title>Tobillera Corta Ankle Brace de Compresión para más Soporte - L/xl</g:title>
+      <g:title>Par de Tobilleras Cortas Ankle Brace de Compresión - L/xl</g:title>
       <g:description>La Tobillera Corta Ankle Brace de Compresión es una solución innovadora diseñada para brindar soporte y estabilidad a la articulación del tobillo. ✅.
 
 Fabricada con materiales de alta calidad y tecnología de compresión, esta tobillera ayuda a reducir la inflamación, alivia el dolor y promueve una recuperación más rápida de lesiones como esguinces y torceduras.
@@ -150253,7 +150465,7 @@ Además, su diseño ergonómico y liviano la hace fácil de manejar y transporta
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/S8e9fe03ec5604c89a10ee0227f55e0f9z.webp?v=1731105255</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/Hafc93195434e45ecb51701a74d004be6k.webp?v=1731105258</g:additional_image_link>
       <g:additional_image_link>https://cdn.shopify.com/s/files/1/0758/3698/1562/files/S37e50ef6471c44c6be7bb951c7d10009X.webp?v=1731105260</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>490.00 UYU</g:price>
       <g:sale_price>390.00 UYU</g:sale_price>
       <g:brand>Mil Genial Uruguay</g:brand>

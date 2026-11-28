@@ -29244,7 +29244,7 @@ Ella mide 1,74 y usa talle S</g:description>
     <item>
       <g:id>1073285773</g:id>
       <g:item_group_id>244269266</g:item_group_id>
-      <g:title>Top Polo</g:title>
+      <g:title>Top Polo - S</g:title>
       <g:description>Top de 100% algodón.
 
 Tela jersey 24/1 con lycra y cuello tejido a tono con estampa.
@@ -29268,11 +29268,12 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>S</g:size>
     </item>
     <item>
       <g:id>1073285775</g:id>
       <g:item_group_id>244269266</g:item_group_id>
-      <g:title>Top Polo</g:title>
+      <g:title>Top Polo - M</g:title>
       <g:description>Top de 100% algodón.
 
 Tela jersey 24/1 con lycra y cuello tejido a tono con estampa.
@@ -29296,11 +29297,12 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>M</g:size>
     </item>
     <item>
       <g:id>1073285776</g:id>
       <g:item_group_id>244269266</g:item_group_id>
-      <g:title>Top Polo</g:title>
+      <g:title>Top Polo - L</g:title>
       <g:description>Top de 100% algodón.
 
 Tela jersey 24/1 con lycra y cuello tejido a tono con estampa.
@@ -29324,6 +29326,7 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>L</g:size>
     </item>
     <item>
       <g:id>173</g:id>
@@ -33272,7 +33275,7 @@ Ella mide 1,62 y usa talle M</g:description>
     <item>
       <g:id>1313709552</g:id>
       <g:item_group_id>293992182</g:item_group_id>
-      <g:title>Kool Top - S</g:title>
+      <g:title>Kool Top</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley.
@@ -33298,12 +33301,11 @@ Cami mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>S</g:size>
     </item>
     <item>
       <g:id>1313709557</g:id>
       <g:item_group_id>293992182</g:item_group_id>
-      <g:title>Kool Top - M</g:title>
+      <g:title>Kool Top</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley.
@@ -33329,12 +33331,11 @@ Cami mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>M</g:size>
     </item>
     <item>
       <g:id>1313709561</g:id>
       <g:item_group_id>293992182</g:item_group_id>
-      <g:title>Kool Top - L</g:title>
+      <g:title>Kool Top</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley.
@@ -33360,7 +33361,6 @@ Cami mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>L</g:size>
     </item>
     <item>
       <g:id>1367941645</g:id>
@@ -41356,7 +41356,7 @@ Ella mide 1,72 y usa talle S</g:description>
     <item>
       <g:id>299</g:id>
       <g:item_group_id>247194898</g:item_group_id>
-      <g:title>SHK MORLEY TOP (blanco)</g:title>
+      <g:title>SHK MORLEY TOP (blanco) - S</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley
@@ -41379,11 +41379,12 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>S</g:size>
     </item>
     <item>
       <g:id>300</g:id>
       <g:item_group_id>247194898</g:item_group_id>
-      <g:title>SHK MORLEY TOP (blanco)</g:title>
+      <g:title>SHK MORLEY TOP (blanco) - M</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley
@@ -41406,11 +41407,12 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>M</g:size>
     </item>
     <item>
       <g:id>301</g:id>
       <g:item_group_id>247194898</g:item_group_id>
-      <g:title>SHK MORLEY TOP (blanco)</g:title>
+      <g:title>SHK MORLEY TOP (blanco) - L</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley
@@ -41433,6 +41435,7 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>L</g:size>
     </item>
     <item>
       <g:id>1590111866</g:id>
