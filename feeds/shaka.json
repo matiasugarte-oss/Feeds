@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-28T09:06:12+00:00",
+ "generado": "2026-11-28T10:05:37+00:00",
  "total": 549,
  "productos": [
   {
@@ -15796,9 +15796,7 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -15808,9 +15806,7 @@
     },
     {
      "sku": "371",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -15820,9 +15816,7 @@
     },
     {
      "sku": "372",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -19701,7 +19695,9 @@
    "variantes": [
     {
      "sku": "299",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -19711,7 +19707,9 @@
     },
     {
      "sku": "300",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -19721,7 +19719,9 @@
     },
     {
      "sku": "301",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -29247,9 +29247,7 @@
    "variantes": [
     {
      "sku": "747",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -29259,9 +29257,7 @@
     },
     {
      "sku": "748",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -29271,9 +29267,7 @@
     },
     {
      "sku": "749",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": true,

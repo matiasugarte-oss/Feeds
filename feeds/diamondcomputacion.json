@@ -1,7 +1,7 @@
 {
  "tienda": "Diamond Computacion",
  "url": "https://www.diamondcomputacion.com.ar",
- "generado": "2026-11-28T09:11:55+00:00",
+ "generado": "2026-11-28T10:13:03+00:00",
  "total": 1382,
  "productos": [
   {
@@ -4910,7 +4910,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 99999,
      "url": "https://www.diamondcomputacion.com.ar/memoria-ram-ddr4-3200mhz-kingston/p?skuId=560"
     },
     {
@@ -9261,7 +9261,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/auricular-t-dagger-sona-t-rgh304w-white/p?skuId=3507"
     }
    ]
@@ -9300,7 +9300,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/joystick-raptor-apex-pc-ps3-switch-wireless-white/p?skuId=3505"
     }
    ]
@@ -14845,7 +14845,7 @@
       "Color": "Amarillo",
       "stockensucursal": "0"
      },
-     "precio": 27600.0,
+     "precio": 25900.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -24922,6 +24922,52 @@
    ]
   },
   {
+   "titulo": "Escritorio Gamer Raptor Glow Station SE RGB",
+   "url": "https://www.diamondcomputacion.com.ar/escritorio-gamer-raptor-glow-station-se-rgb/p",
+   "marca": "Raptor",
+   "categorias": [
+    "Sillas y Escritorios",
+    "Escritorios"
+   ],
+   "descripcion": "El Escritorio Gamer Raptor Glow Station SE RGB ofrece una superficie dedicada para organizar una computadora, monitor, teclado, mouse y otros accesorios de uso diario. Su estructura está pensada para brindar estabilidad durante sesiones de gaming, estudio, streaming o trabajo. La iluminación RGB integrada aporta una estética gamer y acompaña visualmente el resto del setup. La superficie amplia permite distribuir periféricos y equipos sin concentrar todo en un espacio reducido. La estructura robusta ayuda a mantener el escritorio firme durante el uso cotidiano.",
+   "caracteristicas": {
+    "Tipo de escritorio": "Gamer",
+    "Material de la tapa": "Madera MDF",
+    "Material de la estructura": "Metal",
+    "Color": "Negro",
+    "Medidas": "120 x 60 x 75 cm",
+    "Peso": "15 kg",
+    "IVA": "21%",
+    "Pasacables": "Sí",
+    "Soporte para monitor": "No",
+    "Soporte para CPU": "No",
+    "Gancho para auriculares": "Sí",
+    "Iluminación RGB": "Sí",
+    "Regulación de altura": "No",
+    "stockensucursal": "0"
+   },
+   "precio_desde": 158900.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/167076/0000000000418176000351252RAP-ESC-SE-RGB-005---1-.jpg?v=639172308177670000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/167077/0000000000418176000251252RAP-ESC-SE-RGB-005---2-.jpg?v=639172308178030000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/167078/0000000000418176000151251RAP-ESC-SE-RGB-005---3-.jpg?v=639172308178070000"
+   ],
+   "variantes": [
+    {
+     "sku": "418176",
+     "opciones": {},
+     "precio": 158900.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 10,
+     "url": "https://www.diamondcomputacion.com.ar/escritorio-gamer-raptor-glow-station-se-rgb/p?skuId=2812"
+    }
+   ]
+  },
+  {
    "titulo": "Placa de video MSI GeForce RTX 5050 Ventus 2X OC 8GB",
    "url": "https://www.diamondcomputacion.com.ar/placa-de-video-msi-rtx-5050-ventus-2x-oc-8g/p",
    "marca": "MSI",
@@ -25087,6 +25133,52 @@
      "preorden": false,
      "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/placa-de-video-msi-gt1030-4g-lp-ddr4-oc/p?skuId=2804"
+    }
+   ]
+  },
+  {
+   "titulo": "Escritorio Gamer Raptor Glow Station RGB",
+   "url": "https://www.diamondcomputacion.com.ar/escritorio-gamer-raptor-glow-station-rgb/p",
+   "marca": "Raptor",
+   "categorias": [
+    "Sillas y Escritorios",
+    "Escritorios"
+   ],
+   "descripcion": "El Escritorio Gamer Raptor Glow Station RGB ofrece una superficie dedicada para organizar una computadora, monitor, teclado, mouse y otros accesorios de uso diario. Su estructura está pensada para brindar estabilidad durante sesiones de gaming, estudio, streaming o trabajo. La iluminación RGB integrada aporta una estética gamer y acompaña visualmente el resto del setup. La superficie amplia permite distribuir periféricos y equipos sin concentrar todo en un espacio reducido. La estructura robusta ayuda a mantener el escritorio firme durante el uso cotidiano.",
+   "caracteristicas": {
+    "Tipo de escritorio": "Gamer",
+    "Material de la tapa": "Madera MDF",
+    "Material de la estructura": "Metal",
+    "Color": "Negro",
+    "Medidas": "120 x 60 x 75 cm",
+    "Peso": "15 kg",
+    "IVA": "21%",
+    "Pasacables": "Sí",
+    "Soporte para monitor": "No",
+    "Soporte para CPU": "No",
+    "Gancho para auriculares": "Sí",
+    "Iluminación RGB": "Sí",
+    "Regulación de altura": "No",
+    "stockensucursal": "0"
+   },
+   "precio_desde": 425500.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/167079/000000000041817753015RAP-ESC-SE-RGB-005---1-.jpg?v=639172309276970000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/167080/0000000000418177000253100RAP-ESC-SE-RGB-005---3-.jpg?v=639172309276970000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/167081/0000000000418177000353100RAP-ESC-SE-RGB-005---2-.jpg?v=639172309276970000"
+   ],
+   "variantes": [
+    {
+     "sku": "418177",
+     "opciones": {},
+     "precio": 425500.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 10,
+     "url": "https://www.diamondcomputacion.com.ar/escritorio-gamer-raptor-glow-station-rgb/p?skuId=2803"
     }
    ]
   },
@@ -29836,7 +29928,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/teclado-redragon-bk-8345-ofimatica/p?skuId=2567"
     }
    ]
@@ -30938,7 +31030,7 @@
     "Forma": "Estándar",
     "Cantidad de botones": "6"
    },
-   "precio_desde": 31200.0,
+   "precio_desde": 28800.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -30953,7 +31045,7 @@
       "Color": "Negro",
       "stockensucursal": "0"
      },
-     "precio": 31200.0,
+     "precio": 28800.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -36490,7 +36582,7 @@
     "Garantía": "5 años (limitada)",
     "IVA": "21"
    },
-   "precio_desde": 20600.0,
+   "precio_desde": 21900.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -36505,7 +36597,7 @@
       "Capacidad": "64GB",
       "stockensucursal": "0"
      },
-     "precio": 20600.0,
+     "precio": 21900.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -38495,7 +38587,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 99999,
      "url": "https://www.diamondcomputacion.com.ar/fuente-formula-v-850w-apmm-850gm-80-gold-fm/p?skuId=2168"
     }
    ]
@@ -48402,7 +48494,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/pendrive-hiksemi-m200s-rotary/p?skuId=1538"
     }
    ]
@@ -60800,102 +60892,6 @@
    ]
   },
   {
-   "titulo": "Monitor Hikvision DS-D5022QE-B 22\" FHD",
-   "url": "https://www.diamondcomputacion.com.ar/monitor-hikvision-dsd5022qeb-22-led-full-hd-60hz-5ms/p",
-   "marca": "Hikvision",
-   "categorias": [
-    "Monitores",
-    "Monitores de Oficina"
-   ],
-   "descripcion": "El Monitor Hikvision DS-D5022QE-B 22\" FHD ofrece una pantalla de 22 pulgadas con resolución Full HD, pensada para trabajo, estudio, entretenimiento o gaming según la configuración del modelo. La resolución Full HD entrega una imagen nítida para documentos, streaming, navegación y entretenimiento. Su diseño Hikvision se integra con facilidad a escritorios domésticos, oficinas y setups de entretenimiento. Su combinación de tamaño, definición y frecuencia permite adaptar la pantalla a distintas actividades sin ocupar más espacio del necesario.",
-   "caracteristicas": {
-    "Tipo": "Plano",
-    "Relación de aspecto": "16:9",
-    "Panel": "LED",
-    "Tiempo de respuesta": "5 ms",
-    "Resolución": "Full HD",
-    "Tasa de refresco": "60 Hz",
-    "Parlantes": "No",
-    "Pulgadas": "22 pulgadas",
-    "IVA": "21%",
-    "HDMI": "1",
-    "VGA": "1",
-    "Jack 3.5mm": "No",
-    "Ethernet": "No",
-    "Montaje VESA": "100 x 100 mm (M4 x 10 mm)"
-   },
-   "precio_desde": 174900.0,
-   "moneda": "ARS",
-   "disponible": true,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156953/502222520_1.jpg?v=638069061773230000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156954/502222520_4.jpg?v=639168753724600000"
-   ],
-   "variantes": [
-    {
-     "sku": "502222520",
-     "opciones": {
-      "stockensucursal": "0"
-     },
-     "precio": 174900.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 10,
-     "url": "https://www.diamondcomputacion.com.ar/monitor-hikvision-dsd5022qeb-22-led-full-hd-60hz-5ms/p?skuId=385"
-    }
-   ]
-  },
-  {
-   "titulo": "Monitor Asus VA24EHE 24\" FHD 75Hz IPS",
-   "url": "https://www.diamondcomputacion.com.ar/monitor-asus-va24ehe-24-ips-full-hd-75hz-5ms/p",
-   "marca": "ASUS",
-   "categorias": [
-    "Monitores",
-    "Monitores Gamer"
-   ],
-   "descripcion": "El Monitor ASUS VA24EHE 24\" FHD 75Hz IPS ofrece una pantalla de 24 pulgadas con resolución Full HD y panel IPS, pensada para trabajo, estudio, entretenimiento o gaming según la configuración del modelo. La frecuencia de 75Hz resulta adecuada para oficina, estudio, navegación y reproducción multimedia. El panel IPS ofrece colores consistentes y buenos ángulos de visión, útil para productividad, contenido multimedia y tareas visuales. La resolución Full HD entrega una imagen nítida para documentos, streaming, navegación y entretenimiento. El monitor ASUS VA24EHE Eye Care presenta un panel IPS de 23.8 pulgadas con resolución Full HD (1920 x 1080), que proporciona un panel de ángulo de visión de 178 ° de ancho y una calidad de imagen vívida",
-   "caracteristicas": {
-    "Tipo": "Plano",
-    "Relación de aspecto": "16:9",
-    "Panel": "IPS",
-    "Tiempo de respuesta": "5 ms",
-    "Resolución": "Full HD",
-    "Tasa de refresco": "75 Hz",
-    "Parlantes": "No",
-    "IVA": "21%",
-    "Pulgadas": "24 pulgadas",
-    "HDMI": "1",
-    "VGA": "1",
-    "Jack 3.5mm": "No",
-    "Ethernet": "No",
-    "Montaje VESA": "100 x 100 mm (M4 x 10 mm)",
-    "DVI": "1"
-   },
-   "precio_desde": 200500.0,
-   "moneda": "ARS",
-   "disponible": true,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156913/2475159_2.jpg?v=638069061559870000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156914/2475159_3.jpg?v=638854206347070000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/156915/2475159_4.jpg?v=638854206347070000"
-   ],
-   "variantes": [
-    {
-     "sku": "2475159",
-     "opciones": {
-      "stockensucursal": "0"
-     },
-     "precio": 200500.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 1,
-     "url": "https://www.diamondcomputacion.com.ar/monitor-asus-va24ehe-24-ips-full-hd-75hz-5ms/p?skuId=377"
-    }
-   ]
-  },
-  {
    "titulo": "Monitor Philips 193V5LHSB2/55 19\" HD",
    "url": "https://www.diamondcomputacion.com.ar/monitor-philips-193v5lhsb255-19-lcd-hd-60hz-5ms/p",
    "marca": "Philips",
@@ -61853,7 +61849,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 99999,
      "url": "https://www.diamondcomputacion.com.ar/mother-msi-h610m-g-pro/p?skuId=269"
     }
    ]

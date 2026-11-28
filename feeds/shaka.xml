@@ -33272,7 +33272,7 @@ Ella mide 1,62 y usa talle M</g:description>
     <item>
       <g:id>1313709552</g:id>
       <g:item_group_id>293992182</g:item_group_id>
-      <g:title>Kool Top - S</g:title>
+      <g:title>Kool Top</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley.
@@ -33298,12 +33298,11 @@ Cami mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>S</g:size>
     </item>
     <item>
       <g:id>1313709557</g:id>
       <g:item_group_id>293992182</g:item_group_id>
-      <g:title>Kool Top - M</g:title>
+      <g:title>Kool Top</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley.
@@ -33329,12 +33328,11 @@ Cami mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>M</g:size>
     </item>
     <item>
       <g:id>1313709561</g:id>
       <g:item_group_id>293992182</g:item_group_id>
-      <g:title>Kool Top - L</g:title>
+      <g:title>Kool Top</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley.
@@ -33360,7 +33358,6 @@ Cami mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>L</g:size>
     </item>
     <item>
       <g:id>1367941645</g:id>
@@ -41356,7 +41353,7 @@ Ella mide 1,72 y usa talle S</g:description>
     <item>
       <g:id>299</g:id>
       <g:item_group_id>247194898</g:item_group_id>
-      <g:title>SHK MORLEY TOP (blanco)</g:title>
+      <g:title>SHK MORLEY TOP (blanco) - S</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley
@@ -41379,11 +41376,12 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>S</g:size>
     </item>
     <item>
       <g:id>300</g:id>
       <g:item_group_id>247194898</g:item_group_id>
-      <g:title>SHK MORLEY TOP (blanco)</g:title>
+      <g:title>SHK MORLEY TOP (blanco) - M</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley
@@ -41406,11 +41404,12 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>M</g:size>
     </item>
     <item>
       <g:id>301</g:id>
       <g:item_group_id>247194898</g:item_group_id>
-      <g:title>SHK MORLEY TOP (blanco)</g:title>
+      <g:title>SHK MORLEY TOP (blanco) - L</g:title>
       <g:description>Top de 100% algodón.
 
 Tela morley
@@ -41433,6 +41432,7 @@ Ella mide 1,62 y usa talle S</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
+      <g:size>L</g:size>
     </item>
     <item>
       <g:id>1590111866</g:id>
@@ -61196,7 +61196,7 @@ Textura croco.
     <item>
       <g:id>747</g:id>
       <g:item_group_id>200221091</g:item_group_id>
-      <g:title>SHK Top - S</g:title>
+      <g:title>SHK Top</g:title>
       <g:description>Top de 100% algodón.
 
 Elastico bordado de la marca.
@@ -61220,12 +61220,11 @@ Hecho en Argentina x argentinos.</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>S</g:size>
     </item>
     <item>
       <g:id>748</g:id>
       <g:item_group_id>200221091</g:item_group_id>
-      <g:title>SHK Top - M</g:title>
+      <g:title>SHK Top</g:title>
       <g:description>Top de 100% algodón.
 
 Elastico bordado de la marca.
@@ -61249,12 +61248,11 @@ Hecho en Argentina x argentinos.</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>M</g:size>
     </item>
     <item>
       <g:id>749</g:id>
       <g:item_group_id>200221091</g:item_group_id>
-      <g:title>SHK Top - L</g:title>
+      <g:title>SHK Top</g:title>
       <g:description>Top de 100% algodón.
 
 Elastico bordado de la marca.
@@ -61278,7 +61276,6 @@ Hecho en Argentina x argentinos.</g:description>
       <g:product_type>Tops</g:product_type>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:size>L</g:size>
     </item>
     <item>
       <g:id>1332696394</g:id>
