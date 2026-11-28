@@ -1,8 +1,8 @@
 {
  "tienda": "Diamond Computacion",
  "url": "https://www.diamondcomputacion.com.ar",
- "generado": "2026-11-27T23:19:41+00:00",
- "total": 1384,
+ "generado": "2026-11-28T00:10:09+00:00",
+ "total": 1385,
  "productos": [
   {
    "titulo": "Carry Disk Netmak NM-CASEAL 2.5\" SATA",
@@ -18,7 +18,7 @@
     "Compatibilidad de interfaz de disco": "SATA",
     "Velocidad de transferencia": "Hasta 5 Gbps (USB 3.0)",
     "IVA": "21%",
-    "stockensucursal": "0"
+    "stockensucursal": "1"
    },
    "precio_desde": 9400.0,
    "moneda": "ARS",
@@ -15045,7 +15045,7 @@
       "Color": "Azul Galáctico",
       "stockensucursal": "0"
      },
-     "precio": 39400.0,
+     "precio": 37000.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -20345,7 +20345,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/hub-usb-c-netmak-nm-hubc-4-puertos-usb-2-0/p?skuId=3069"
     }
    ]
@@ -22936,7 +22936,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/auricular-jbl-quantum-250/p?skuId=2932"
     },
     {
@@ -28841,7 +28841,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/cable-usb-a-micro-usb/p?skuId=2618"
     }
    ]
@@ -46655,7 +46655,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/motherboard-asus-prime-h610m-k-lga1700/p?skuId=1638"
     },
     {
@@ -48479,7 +48479,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/pendrive-hiksemi-m200s-rotary/p?skuId=1538"
     }
    ]
@@ -54659,7 +54659,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/soporte-notebook-base-plegable/p?skuId=1072"
     }
    ]
@@ -56827,7 +56827,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/cartucho-alternativo-hp-662-xl/p?skuId=821"
     },
     {
@@ -58852,7 +58852,7 @@
       "Capacidad": "32GB Negro",
       "stockensucursal": "0"
      },
-     "precio": 12300.0,
+     "precio": 11300.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -58904,7 +58904,7 @@
       "Capacidad": "128GB Negro/Rojo",
       "stockensucursal": "0"
      },
-     "precio": 29800.0,
+     "precio": 27400.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -59107,7 +59107,7 @@
     "Cantidad de botones": "3",
     "Peso": "85 g"
    },
-   "precio_desde": 5700.0,
+   "precio_desde": 6100.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -59161,7 +59161,7 @@
       "Color": "Negro",
       "stockensucursal": "0"
      },
-     "precio": 5700.0,
+     "precio": 6100.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -59720,7 +59720,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/adaptador-hdmi-a-microhdmi/p?skuId=578"
     }
    ]
@@ -60897,6 +60897,45 @@
    ]
   },
   {
+   "titulo": "Fuente DS 550W ATX 24 Pines",
+   "url": "https://www.diamondcomputacion.com.ar/fuente-ds-atx-550w-24-pines/p",
+   "marca": "DS",
+   "categorias": [
+    "Componentes de PC",
+    "Fuentes"
+   ],
+   "descripcion": "La Fuente DS ATX 550W 24 pines suministra energía a los componentes de una PC y está pensada para configuraciones compatibles con su potencia y conectores. Este producto mantiene las características identificadas en el nombre exacto del modelo. Resulta adecuado para usuarios que necesitan incorporar, reemplazar o ampliar un componente sin sumar funciones que no estén confirmadas. Antes de instalarlo o utilizarlo, conviene verificar medidas, conexiones, alimentación y compatibilidad con el resto del equipo.",
+   "caracteristicas": {
+    "Watts": "500 W",
+    "Color": "Gris",
+    "IVA": "21",
+    "Tamaño del ventilador": "120 mm",
+    "Conectores": "24 pines"
+   },
+   "precio_desde": 31200.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/159508/2129_3.jpg?v=638285767350300000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/157003/2129_2.jpg?v=638069062058170000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/157004/2129_3.jpg?v=638069062061370000"
+   ],
+   "variantes": [
+    {
+     "sku": "2129",
+     "opciones": {
+      "stockensucursal": "0"
+     },
+     "precio": 31200.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://www.diamondcomputacion.com.ar/fuente-ds-atx-550w-24-pines/p?skuId=394"
+    }
+   ]
+  },
+  {
    "titulo": "Monitor Hikvision DS-D5022QE-B 22\" FHD",
    "url": "https://www.diamondcomputacion.com.ar/monitor-hikvision-dsd5022qeb-22-led-full-hd-60hz-5ms/p",
    "marca": "Hikvision",
@@ -61950,7 +61989,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 99999,
      "url": "https://www.diamondcomputacion.com.ar/mother-msi-h610m-g-pro/p?skuId=269"
     }
    ]

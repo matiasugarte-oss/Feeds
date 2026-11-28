@@ -1,7 +1,7 @@
 {
  "tienda": "Milgenialuruguay",
  "url": "https://milgenialuruguay.com",
- "generado": "2026-11-27T23:19:03+00:00",
+ "generado": "2026-11-28T00:09:37+00:00",
  "total": 1604,
  "productos": [
   {
@@ -35744,7 +35744,7 @@
    },
    "precio_desde": 1290.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/porte-1_81cce1e8-eb72-4ec8-9b20-b71c79faa65b.jpg?v=1752069850",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/porte-2_fd781efc-f32c-4c5a-8187-21ade6cdc06b.jpg?v=1752069850",
@@ -35756,7 +35756,7 @@
      "opciones": {},
      "precio": 1290.0,
      "precio_anterior": 1590.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/set-de-5-estantes-para-bano-con-esquineros-autohadesivo?variant=51460008902970"

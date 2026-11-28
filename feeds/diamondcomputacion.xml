@@ -14,7 +14,7 @@ Características:
 - Compatibilidad de interfaz de disco: SATA
 - Velocidad de transferencia: Hasta 5 Gbps (USB 3.0)
 - IVA: 21%
-- stockensucursal: 0</g:description>
+- stockensucursal: 1</g:description>
       <g:link>https://www.diamondcomputacion.com.ar/carry-disk-netmak-externo-alum-sata-2-5-nm-caseal/p?skuId=2959</g:link>
       <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/167542/25483325_1.png?v=639156628533270000</g:image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/167543/25483325_2.png?v=639156628533430000</g:additional_image_link>
@@ -28,7 +28,7 @@ Características:
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Compatibilidad de interfaz de disco</g:attribute_name><g:attribute_value>SATA</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Velocidad de transferencia</g:attribute_name><g:attribute_value>Hasta 5 Gbps (USB 3.0)</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21%</g:attribute_value></g:product_detail>
-      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>stockensucursal</g:attribute_name><g:attribute_value>0</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>stockensucursal</g:attribute_name><g:attribute_value>1</g:attribute_value></g:product_detail>
     </item>
     <item>
       <g:id>10343938748</g:id>
@@ -17770,7 +17770,7 @@ La presentación contiene 1 kg de filamento de 1.75 mm de diámetro. Seleccioná
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169214/502030693_1.png?v=639251788646100000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/169220/502030230_1.png?v=639251813490900000</g:additional_image_link>
       <g:availability>out_of_stock</g:availability>
-      <g:price>39400.00 ARS</g:price>
+      <g:price>37000.00 ARS</g:price>
       <g:brand>Elegoo</g:brand>
       <g:mpn>502030261</g:mpn>
       <g:condition>new</g:condition>
@@ -62261,7 +62261,7 @@ Características:
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/162738/Kingston-PenDrive-64Gb--Exodia-M-Verde-USB-3-2-3.jpg?v=638852587690170000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/162739/Kingston-PenDrive-64Gb--Exodia-M-Verde-USB-3-2-2.jpg?v=638852587690470000</g:additional_image_link>
       <g:availability>out_of_stock</g:availability>
-      <g:price>12300.00 ARS</g:price>
+      <g:price>11300.00 ARS</g:price>
       <g:brand>Kingston</g:brand>
       <g:gtin>740617326185</g:gtin>
       <g:mpn>740617326185</g:mpn>
@@ -62432,7 +62432,7 @@ Características:
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/162737/pendrive-kingston-dtxm-6400-gb-verde-neon-exodia.jpg?v=638839511549100000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/162738/Kingston-PenDrive-64Gb--Exodia-M-Verde-USB-3-2-3.jpg?v=638852587690170000</g:additional_image_link>
       <g:availability>out_of_stock</g:availability>
-      <g:price>29800.00 ARS</g:price>
+      <g:price>27400.00 ARS</g:price>
       <g:brand>Kingston</g:brand>
       <g:gtin>740617326376</g:gtin>
       <g:mpn>740617326376</g:mpn>
@@ -63038,7 +63038,7 @@ Características:
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/163703/000000000040778680839407786--1-.jpg?v=638850799523530000</g:additional_image_link>
       <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/163704/0000000000407786000353614p-dx-110-503.jpg?v=638850799523530000</g:additional_image_link>
       <g:availability>out_of_stock</g:availability>
-      <g:price>5700.00 ARS</g:price>
+      <g:price>6100.00 ARS</g:price>
       <g:brand>Genius</g:brand>
       <g:gtin>4710268251477</g:gtin>
       <g:mpn>4710268251477</g:mpn>
@@ -64771,6 +64771,39 @@ Características:
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tamaño del ventilador</g:attribute_name><g:attribute_value>80 mm</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Salida máxima</g:attribute_name><g:attribute_value>+3.3V: 25A, +12V: 32A, -12V: 0.5A, +5V: 15A y +5Vsb: 3A</g:attribute_value></g:product_detail>
       <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Conectores</g:attribute_name><g:attribute_value>1 conector 20 + 4 Pines, 1 conector P4 + 4 Pines, 2 conectores SATA y 2 conectores IDE</g:attribute_value></g:product_detail>
+    </item>
+    <item>
+      <g:id>2129</g:id>
+      <g:title>Fuente DS 550W ATX 24 Pines - 0</g:title>
+      <g:description>La Fuente DS ATX 550W 24 pines suministra energía a los componentes de una PC y está pensada para configuraciones compatibles con su potencia y conectores. Este producto mantiene las características identificadas en el nombre exacto del modelo. Resulta adecuado para usuarios que necesitan incorporar, reemplazar o ampliar un componente sin sumar funciones que no estén confirmadas. Antes de instalarlo o utilizarlo, conviene verificar medidas, conexiones, alimentación y compatibilidad con el resto del equipo.
+
+Características:
+- Watts: 500 W
+- Color: Gris
+- IVA: 21
+- Tamaño del ventilador: 120 mm
+- Conectores: 24 pines</g:description>
+      <g:link>https://www.diamondcomputacion.com.ar/fuente-ds-atx-550w-24-pines/p?skuId=394</g:link>
+      <g:image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/159508/2129_3.jpg?v=638285767350300000</g:image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/157003/2129_2.jpg?v=638069062058170000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/157004/2129_3.jpg?v=638069062061370000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/157005/2129_4.jpg?v=638069062064800000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/157006/2129_5.jpg?v=638069062068300000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/159509/2129_2.jpg?v=638285767460770000</g:additional_image_link>
+      <g:additional_image_link>https://diamondsystemar.vteximg.com.br/arquivos/ids/159510/2129_1.jpg?v=638285767566130000</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>31200.00 ARS</g:price>
+      <g:brand>DS</g:brand>
+      <g:mpn>2129</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Componentes de PC &gt; Fuentes</g:product_type>
+      <g:color>Gris</g:color>
+      <g:size>0</g:size>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Watts</g:attribute_name><g:attribute_value>500 W</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Color</g:attribute_name><g:attribute_value>Gris</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>IVA</g:attribute_name><g:attribute_value>21</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Tamaño del ventilador</g:attribute_name><g:attribute_value>120 mm</g:attribute_value></g:product_detail>
+      <g:product_detail><g:section_name>Características</g:section_name><g:attribute_name>Conectores</g:attribute_name><g:attribute_value>24 pines</g:attribute_value></g:product_detail>
     </item>
     <item>
       <g:id>502222520</g:id>
