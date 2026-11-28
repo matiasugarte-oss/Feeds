@@ -1,7 +1,7 @@
 {
  "tienda": "Diamond Computacion",
  "url": "https://www.diamondcomputacion.com.ar",
- "generado": "2026-11-28T07:42:13+00:00",
+ "generado": "2026-11-28T09:11:55+00:00",
  "total": 1382,
  "productos": [
   {
@@ -4910,7 +4910,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 99999,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/memoria-ram-ddr4-3200mhz-kingston/p?skuId=560"
     },
     {
@@ -9261,7 +9261,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/auricular-t-dagger-sona-t-rgh304w-white/p?skuId=3507"
     }
    ]
@@ -14743,7 +14743,7 @@
    "caracteristicas": {
     "IVA": "21%"
    },
-   "precio_desde": 26400.0,
+   "precio_desde": 24800.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -14757,7 +14757,7 @@
       "Color": "Oro Rosado",
       "stockensucursal": "0"
      },
-     "precio": 26400.0,
+     "precio": 24800.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -14845,7 +14845,7 @@
       "Color": "Amarillo",
       "stockensucursal": "0"
      },
-     "precio": 25900.0,
+     "precio": 27600.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -28764,7 +28764,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/cable-usb-a-micro-usb/p?skuId=2618"
     }
    ]
@@ -29836,7 +29836,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/teclado-redragon-bk-8345-ofimatica/p?skuId=2567"
     }
    ]
@@ -30938,7 +30938,7 @@
     "Forma": "Estándar",
     "Cantidad de botones": "6"
    },
-   "precio_desde": 28800.0,
+   "precio_desde": 31200.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -30953,7 +30953,7 @@
       "Color": "Negro",
       "stockensucursal": "0"
      },
-     "precio": 28800.0,
+     "precio": 31200.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -38495,7 +38495,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 99999,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/fuente-formula-v-850w-apmm-850gm-80-gold-fm/p?skuId=2168"
     }
    ]
@@ -46578,7 +46578,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/motherboard-asus-prime-h610m-k-lga1700/p?skuId=1638"
     },
     {
@@ -48370,7 +48370,7 @@
     "Garantía": "5 años (limitada)",
     "IVA": "21"
    },
-   "precio_desde": 13900.0,
+   "precio_desde": 12800.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -48385,7 +48385,7 @@
       "Capacidad": "32GB",
       "stockensucursal": "0"
      },
-     "precio": 13900.0,
+     "precio": 12800.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -59584,7 +59584,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/adaptador-hdmi-a-microhdmi/p?skuId=578"
     }
    ]
@@ -61853,7 +61853,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 99999,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/mother-msi-h610m-g-pro/p?skuId=269"
     }
    ]
