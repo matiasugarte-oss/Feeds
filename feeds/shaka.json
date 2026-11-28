@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-28T05:16:56+00:00",
+ "generado": "2026-11-28T06:17:24+00:00",
  "total": 549,
  "productos": [
   {
@@ -2777,7 +2777,7 @@
      "precio_anterior": 100000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 78,
+     "stock": 77,
      "url": "https://sh-aka.com.ar/productos/squared-boardshort-1q5h0/?variant=1645758144"
     },
     {
@@ -5029,7 +5029,7 @@
      "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 5,
+     "stock": 4,
      "url": "https://sh-aka.com.ar/productos/ranch-tee-claro-n5cxe/?variant=1602830146"
     },
     {
@@ -13944,9 +13944,7 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -13956,9 +13954,7 @@
     },
     {
      "sku": "368",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -13968,9 +13964,7 @@
     },
     {
      "sku": "369",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -19707,7 +19701,9 @@
    "variantes": [
     {
      "sku": "299",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -19717,7 +19713,9 @@
     },
     {
      "sku": "300",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -19727,7 +19725,9 @@
     },
     {
      "sku": "301",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -27470,7 +27470,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 14,
+     "stock": 13,
      "url": "https://sh-aka.com.ar/productos/costa-rica-knit-1ym6e/?variant=1496274464"
     },
     {

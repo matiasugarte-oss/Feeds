@@ -1,7 +1,7 @@
 {
  "tienda": "Diamond Computacion",
  "url": "https://www.diamondcomputacion.com.ar",
- "generado": "2026-11-28T05:23:14+00:00",
+ "generado": "2026-11-28T06:23:36+00:00",
  "total": 1383,
  "productos": [
   {
@@ -3111,7 +3111,7 @@
     "Peso neto (kg)": "1",
     "IVA": "21%"
    },
-   "precio_desde": 23100.0,
+   "precio_desde": 23900.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -3204,7 +3204,7 @@
       "Color": "Beige",
       "stockensucursal": "0"
      },
-     "precio": 23100.0,
+     "precio": 24600.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -14374,9 +14374,9 @@
      },
      "precio": 26000.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
-     "stock": 1,
+     "stock": 0,
      "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-petg-pro-1-75mm-1kg/p?skuId=3564"
     },
     {
@@ -14948,7 +14948,7 @@
     "Acabado": "Silk",
     "IVA": "21%"
    },
-   "precio_desde": 26300.0,
+   "precio_desde": 24200.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -14963,7 +14963,7 @@
       "Color": "Cobre Rojo",
       "stockensucursal": "0"
      },
-     "precio": 26300.0,
+     "precio": 24200.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -20438,55 +20438,6 @@
    ]
   },
   {
-   "titulo": "Auricular Genius HS-505X",
-   "url": "https://www.diamondcomputacion.com.ar/auricular-genius-hs-505x/p",
-   "marca": "Genius",
-   "categorias": [
-    "Perifericos",
-    "Auriculares"
-   ],
-   "descripcion": "Auricular Genius HS-505X. Auricular pensado para uso diario, música, llamadas o entretenimiento según el modelo. Ofrece una opción cómoda y práctica para dispositivos compatibles.",
-   "caracteristicas": {
-    "Marca": "Genius",
-    "Modelo": "HS-M505X",
-    "Color": "Negro",
-    "Garantía": "6 meses",
-    "Driver": "40 mm",
-    "Forma": "Over-ear / vincha",
-    "Frecuencia": "20 Hz - 20 kHz",
-    "Sensibilidad": "115 dB ± 4 dB",
-    "Marco": "Diadema ajustable con acero inoxidable",
-    "IVA": "21%",
-    "Inalámbrico": "No",
-    "Bluetooth": "No",
-    "Peso": "319 g",
-    "Largo del Cable": "2 m",
-    "Compatibilidad": "Dispositivos con jack 3.5 mm",
-    "Elemento": "Micrófono incorporado en cable",
-    "Patron Polar": "Omnidireccional"
-   },
-   "precio_desde": 14600.0,
-   "moneda": "ARS",
-   "disponible": true,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/168053/7SjF0_l -1-.jpg?v=639174800566170000"
-   ],
-   "variantes": [
-    {
-     "sku": "4710268245674",
-     "opciones": {
-      "stockensucursal": "0"
-     },
-     "precio": 14600.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 1,
-     "url": "https://www.diamondcomputacion.com.ar/auricular-genius-hs-505x/p?skuId=3063"
-    }
-   ]
-  },
-  {
    "titulo": "Toner Alternativo Samsung D203U",
    "url": "https://www.diamondcomputacion.com.ar/toner-alternativo-samsung-d203u/p",
    "marca": "Genérico",
@@ -20993,6 +20944,55 @@
      "preorden": false,
      "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/cooler-formula-v-floe-12cm-argb-reverse-black/p?skuId=3037"
+    }
+   ]
+  },
+  {
+   "titulo": "Auricular Genius HS-505X",
+   "url": "https://www.diamondcomputacion.com.ar/auricular-genius-hs-505x/p",
+   "marca": "Genius",
+   "categorias": [
+    "Perifericos",
+    "Auriculares"
+   ],
+   "descripcion": "Auricular Genius HS-505X. Auricular pensado para uso diario, música, llamadas o entretenimiento según el modelo. Ofrece una opción cómoda y práctica para dispositivos compatibles.",
+   "caracteristicas": {
+    "Marca": "Genius",
+    "Modelo": "HS-M505X",
+    "Color": "Negro",
+    "Garantía": "6 meses",
+    "Driver": "40 mm",
+    "Forma": "Over-ear / vincha",
+    "Frecuencia": "20 Hz - 20 kHz",
+    "Sensibilidad": "115 dB ± 4 dB",
+    "Marco": "Diadema ajustable con acero inoxidable",
+    "IVA": "21%",
+    "Inalámbrico": "No",
+    "Bluetooth": "No",
+    "Peso": "319 g",
+    "Largo del Cable": "2 m",
+    "Compatibilidad": "Dispositivos con jack 3.5 mm",
+    "Elemento": "Micrófono incorporado en cable",
+    "Patron Polar": "Omnidireccional"
+   },
+   "precio_desde": 14600.0,
+   "moneda": "ARS",
+   "disponible": false,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/168053/7SjF0_l -1-.jpg?v=639174800566170000"
+   ],
+   "variantes": [
+    {
+     "sku": "4710268245674",
+     "opciones": {
+      "stockensucursal": "0"
+     },
+     "precio": 14600.0,
+     "precio_anterior": null,
+     "disponible": false,
+     "preorden": false,
+     "stock": 0,
+     "url": "https://www.diamondcomputacion.com.ar/auricular-genius-hs-505x/p?skuId=3063"
     }
    ]
   },
@@ -44301,7 +44301,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/cooler-arctic-p12-slim-pwm-pst-black/p?skuId=1787"
     }
    ]
@@ -46368,7 +46368,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/teclado-gtc-kbg-207-usb/p?skuId=1670"
     }
    ]
@@ -55817,7 +55817,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/cartucho-alternativo-epson-t133-t135/p?skuId=873"
     },
     {
@@ -56658,7 +56658,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/cartucho-alternativo-hp-662-xl/p?skuId=821"
     },
     {
@@ -58765,7 +58765,7 @@
       "Capacidad": "32GB Negro",
       "stockensucursal": "0"
      },
-     "precio": 11300.0,
+     "precio": 12300.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -58791,7 +58791,7 @@
       "Capacidad": "64GB Verde neón",
       "stockensucursal": "0"
      },
-     "precio": 10400.0,
+     "precio": 11300.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
