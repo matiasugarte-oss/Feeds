@@ -1,8 +1,8 @@
 {
  "tienda": "Diamond Computacion",
  "url": "https://www.diamondcomputacion.com.ar",
- "generado": "2026-11-28T06:23:36+00:00",
- "total": 1383,
+ "generado": "2026-11-28T07:42:13+00:00",
+ "total": 1382,
  "productos": [
   {
    "titulo": "Carry Disk Netmak NM-CASEAL 2.5\" SATA",
@@ -3111,7 +3111,7 @@
     "Peso neto (kg)": "1",
     "IVA": "21%"
    },
-   "precio_desde": 23900.0,
+   "precio_desde": 23100.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -3204,7 +3204,7 @@
       "Color": "Beige",
       "stockensucursal": "0"
      },
-     "precio": 24600.0,
+     "precio": 23100.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -9261,7 +9261,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/auricular-t-dagger-sona-t-rgh304w-white/p?skuId=3507"
     }
    ]
@@ -14743,7 +14743,7 @@
    "caracteristicas": {
     "IVA": "21%"
    },
-   "precio_desde": 24800.0,
+   "precio_desde": 26400.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -14757,7 +14757,7 @@
       "Color": "Oro Rosado",
       "stockensucursal": "0"
      },
-     "precio": 24800.0,
+     "precio": 26400.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -20948,55 +20948,6 @@
    ]
   },
   {
-   "titulo": "Auricular Genius HS-505X",
-   "url": "https://www.diamondcomputacion.com.ar/auricular-genius-hs-505x/p",
-   "marca": "Genius",
-   "categorias": [
-    "Perifericos",
-    "Auriculares"
-   ],
-   "descripcion": "Auricular Genius HS-505X. Auricular pensado para uso diario, música, llamadas o entretenimiento según el modelo. Ofrece una opción cómoda y práctica para dispositivos compatibles.",
-   "caracteristicas": {
-    "Marca": "Genius",
-    "Modelo": "HS-M505X",
-    "Color": "Negro",
-    "Garantía": "6 meses",
-    "Driver": "40 mm",
-    "Forma": "Over-ear / vincha",
-    "Frecuencia": "20 Hz - 20 kHz",
-    "Sensibilidad": "115 dB ± 4 dB",
-    "Marco": "Diadema ajustable con acero inoxidable",
-    "IVA": "21%",
-    "Inalámbrico": "No",
-    "Bluetooth": "No",
-    "Peso": "319 g",
-    "Largo del Cable": "2 m",
-    "Compatibilidad": "Dispositivos con jack 3.5 mm",
-    "Elemento": "Micrófono incorporado en cable",
-    "Patron Polar": "Omnidireccional"
-   },
-   "precio_desde": 14600.0,
-   "moneda": "ARS",
-   "disponible": false,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/168053/7SjF0_l -1-.jpg?v=639174800566170000"
-   ],
-   "variantes": [
-    {
-     "sku": "4710268245674",
-     "opciones": {
-      "stockensucursal": "0"
-     },
-     "precio": 14600.0,
-     "precio_anterior": null,
-     "disponible": false,
-     "preorden": false,
-     "stock": 0,
-     "url": "https://www.diamondcomputacion.com.ar/auricular-genius-hs-505x/p?skuId=3063"
-    }
-   ]
-  },
-  {
    "titulo": "Placa de red Mercusys TL-MW150US USB N150 Nano",
    "url": "https://www.diamondcomputacion.com.ar/placa-de-red-mercusys-tl-mw150us-nano-usb-n150/p",
    "marca": "Mercusys",
@@ -22908,7 +22859,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/auricular-jbl-quantum-250/p?skuId=2932"
     },
     {
@@ -28813,7 +28764,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/cable-usb-a-micro-usb/p?skuId=2618"
     }
    ]
@@ -48419,7 +48370,7 @@
     "Garantía": "5 años (limitada)",
     "IVA": "21"
    },
-   "precio_desde": 12800.0,
+   "precio_desde": 13900.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -48434,7 +48385,7 @@
       "Capacidad": "32GB",
       "stockensucursal": "0"
      },
-     "precio": 12800.0,
+     "precio": 13900.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -48451,7 +48402,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/pendrive-hiksemi-m200s-rotary/p?skuId=1538"
     }
    ]
@@ -58765,7 +58716,7 @@
       "Capacidad": "32GB Negro",
       "stockensucursal": "0"
      },
-     "precio": 12300.0,
+     "precio": 11300.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -58791,7 +58742,7 @@
       "Capacidad": "64GB Verde neón",
       "stockensucursal": "0"
      },
-     "precio": 11300.0,
+     "precio": 10400.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -59633,7 +59584,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/adaptador-hdmi-a-microhdmi/p?skuId=578"
     }
    ]

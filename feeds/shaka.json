@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-28T06:17:24+00:00",
+ "generado": "2026-11-28T07:35:39+00:00",
  "total": 549,
  "productos": [
   {
@@ -8011,9 +8011,7 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -8023,9 +8021,7 @@
     },
     {
      "sku": "368",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -8035,9 +8031,7 @@
     },
     {
      "sku": "369",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 36000.0,
      "precio_anterior": 45000.0,
      "disponible": false,
@@ -12086,7 +12080,7 @@
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 7,
+     "stock": 6,
      "url": "https://sh-aka.com.ar/productos/samot-longsleeve-tee-1swxu/?variant=1590100253"
     },
     {
@@ -12731,7 +12725,7 @@
      "precio_anterior": 95000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 6,
+     "stock": 5,
      "url": "https://sh-aka.com.ar/productos/el-rancho-longsleeve-tee-1lz4b/?variant=1602873401"
     },
     {
@@ -13944,7 +13938,9 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -13954,7 +13950,9 @@
     },
     {
      "sku": "368",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -13964,7 +13962,9 @@
     },
     {
      "sku": "369",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -15802,7 +15802,9 @@
    "variantes": [
     {
      "sku": "",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -15812,7 +15814,9 @@
     },
     {
      "sku": "371",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -15822,7 +15826,9 @@
     },
     {
      "sku": "372",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 17500.0,
      "precio_anterior": 35000.0,
      "disponible": false,
@@ -19701,9 +19707,7 @@
    "variantes": [
     {
      "sku": "299",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -19713,9 +19717,7 @@
     },
     {
      "sku": "300",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -19725,9 +19727,7 @@
     },
     {
      "sku": "301",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -25828,7 +25828,7 @@
      "precio_anterior": 80000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 7,
+     "stock": 6,
      "url": "https://sh-aka.com.ar/productos/sk8-waffle-tee-1p6am/?variant=1645757562"
     },
     {
