@@ -1,7 +1,7 @@
 {
  "tienda": "Shaka Cmmnty",
  "url": "https://sh-aka.com.ar",
- "generado": "2026-11-28T11:02:42+00:00",
+ "generado": "2026-11-28T12:01:38+00:00",
  "total": 549,
  "productos": [
   {
@@ -4061,7 +4061,7 @@
    "caracteristicas": {},
    "precio_desde": 144000.0,
    "moneda": "ARS",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://acdn-us.mitiendanube.com/stores/001/708/518/products/artboard-30-3c2d306c9894c2134317737741169661-1024-1024.webp",
     "https://acdn-us.mitiendanube.com/stores/001/708/518/products/artboard-31-b8e4b606433f48330d17737741171907-1024-1024.webp",
@@ -4099,9 +4099,9 @@
      },
      "precio": 144000.0,
      "precio_anterior": 180000.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
-     "stock": 2,
+     "stock": 0,
      "url": "https://sh-aka.com.ar/productos/shk-workwear-jacket-gris-1953r/?variant=1475191972"
     }
    ]
@@ -6513,7 +6513,7 @@
      "precio_anterior": 70000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 34,
+     "stock": 32,
      "url": "https://sh-aka.com.ar/productos/smmr-tee-gris-topo-pxndm/?variant=1615052903"
     },
     {
@@ -14155,7 +14155,7 @@
      "precio_anterior": 200000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 7,
+     "stock": 5,
      "url": "https://sh-aka.com.ar/productos/broken-workwear-jacket-1ft6j/?variant=1532377619"
     },
     {
@@ -19701,9 +19701,7 @@
    "variantes": [
     {
      "sku": "299",
-     "opciones": {
-      "Talle": "S"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -19713,9 +19711,7 @@
     },
     {
      "sku": "300",
-     "opciones": {
-      "Talle": "M"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -19725,9 +19721,7 @@
     },
     {
      "sku": "301",
-     "opciones": {
-      "Talle": "L"
-     },
+     "opciones": {},
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -22766,7 +22760,7 @@
      "precio_anterior": 145000.0,
      "disponible": true,
      "preorden": false,
-     "stock": 14,
+     "stock": 12,
      "url": "https://sh-aka.com.ar/productos/samot-pant-tear-resistant-9tdzn/?variant=1590127429"
     },
     {
@@ -29253,7 +29247,9 @@
    "variantes": [
     {
      "sku": "747",
-     "opciones": {},
+     "opciones": {
+      "Talle": "S"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -29263,7 +29259,9 @@
     },
     {
      "sku": "748",
-     "opciones": {},
+     "opciones": {
+      "Talle": "M"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": false,
@@ -29273,7 +29271,9 @@
     },
     {
      "sku": "749",
-     "opciones": {},
+     "opciones": {
+      "Talle": "L"
+     },
      "precio": 15000.0,
      "precio_anterior": 30000.0,
      "disponible": true,

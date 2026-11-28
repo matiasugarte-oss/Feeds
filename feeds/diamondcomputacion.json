@@ -1,7 +1,7 @@
 {
  "tienda": "Diamond Computacion",
  "url": "https://www.diamondcomputacion.com.ar",
- "generado": "2026-11-28T11:08:50+00:00",
+ "generado": "2026-11-28T12:09:56+00:00",
  "total": 1382,
  "productos": [
   {
@@ -29094,7 +29094,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/procesador-amd-ryzen-9-9950x3d-am5-16n-y-32h-57ghz/p?skuId=2602"
     }
    ]
@@ -37778,7 +37778,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/placa-de-red-tp-link-de-usb-20-a-rj45-ue200/p?skuId=2189"
     }
    ]
@@ -38495,7 +38495,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 99999,
      "url": "https://www.diamondcomputacion.com.ar/fuente-formula-v-850w-apmm-850gm-80-gold-fm/p?skuId=2168"
     }
    ]
@@ -48370,7 +48370,7 @@
     "Garantía": "5 años (limitada)",
     "IVA": "21"
    },
-   "precio_desde": 12800.0,
+   "precio_desde": 13900.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -48385,7 +48385,7 @@
       "Capacidad": "32GB",
       "stockensucursal": "0"
      },
-     "precio": 12800.0,
+     "precio": 13900.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -54486,7 +54486,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/soporte-notebook-base-plegable/p?skuId=1072"
     }
    ]
@@ -56038,7 +56038,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/cartucho-alternativo-epson-t062-t063/p?skuId=862"
     }
    ]
@@ -56609,7 +56609,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/cartucho-alternativo-hp-662-xl/p?skuId=821"
     },
     {
@@ -57155,7 +57155,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/tinta-alternativa-hp-gt51-gt52/p?skuId=783"
     },
     {
@@ -58716,7 +58716,7 @@
       "Capacidad": "32GB Negro",
       "stockensucursal": "0"
      },
-     "precio": 12300.0,
+     "precio": 11300.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -59584,7 +59584,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/adaptador-hdmi-a-microhdmi/p?skuId=578"
     }
    ]
