@@ -1,7 +1,7 @@
 {
  "tienda": "Milgenialuruguay",
  "url": "https://milgenialuruguay.com",
- "generado": "2026-11-28T00:09:37+00:00",
+ "generado": "2026-11-28T01:38:21+00:00",
  "total": 1604,
  "productos": [
   {
@@ -60502,7 +60502,7 @@
    "caracteristicas": {},
    "precio_desde": 690.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/lan_1_1_11zon_c7470aa7-2e02-474b-a11c-be3d2c4a555f.webp?v=1747835907",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/lan_2_2_11zon_631c8e16-b858-4821-98ef-c5ffe408e47a.webp?v=1747835907",
@@ -60516,7 +60516,7 @@
      },
      "precio": 690.0,
      "precio_anterior": 990.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/pilot-de-lluvia-impermeable-3-en-1-con-capucha?variant=47358945952058"

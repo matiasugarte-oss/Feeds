@@ -1,7 +1,7 @@
 {
  "tienda": "Diamond Computacion",
  "url": "https://www.diamondcomputacion.com.ar",
- "generado": "2026-11-28T00:10:09+00:00",
+ "generado": "2026-11-28T01:38:47+00:00",
  "total": 1385,
  "productos": [
   {
@@ -591,6 +591,52 @@
    ]
   },
   {
+   "titulo": "Notebook Gfast N-154 Intel Celeron N4020 4GB 120GB SSD 14\"",
+   "url": "https://www.diamondcomputacion.com.ar/notebook-gfast-n-154-intel-celeron-n4020-4gb-120gb-ssd-14/p",
+   "marca": "Gfast",
+   "categorias": [
+    "Notebooks",
+    "Intel"
+   ],
+   "descripcion": "La Notebook Gfast N-154 incorpora procesador Intel Celeron N4020, 4GB de memoria RAM y SSD de 120GB. Es una alternativa accesible para navegación, estudio, ofimática y tareas cotidianas, con Windows 11 y pantalla de 14 pulgadas.",
+   "caracteristicas": {
+    "Tamaño": "14 pulgadas",
+    "IVA": "10.5%",
+    "stockensucursal": "0",
+    "Capacidad SSD": "120GB",
+    "Capacidad": "4GB",
+    "Tipo": "DDR4",
+    "Marca Procesador": "Intel",
+    "Modelo": "Celeron N4020",
+    "Integrados": "Sí",
+    "HDMI": "1",
+    "USB Tipo A": "2",
+    "Tarjeta SD": "1",
+    "Jack 3.5mm": "1",
+    "Wifi": "Sí",
+    "Bluetooth": "No",
+    "Cámara Web": "Sí"
+   },
+   "precio_desde": 509800.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/168643/756058670855_1.jpg?v=639199151430470000"
+   ],
+   "variantes": [
+    {
+     "sku": "756058670855",
+     "opciones": {},
+     "precio": 509800.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 10,
+     "url": "https://www.diamondcomputacion.com.ar/notebook-gfast-n-154-intel-celeron-n4020-4gb-120gb-ssd-14/p?skuId=3149"
+    }
+   ]
+  },
+  {
    "titulo": "Lector de código de barras y QR USB Netmak NM-LC207",
    "url": "https://www.diamondcomputacion.com.ar/lector-de-c-digo-de-barras-y-qr-usb-netmak-nm-lc207/p",
    "marca": "Netmak",
@@ -1061,54 +1107,6 @@
    ]
   },
   {
-   "titulo": "Teclado Logitech K120 USB",
-   "url": "https://www.diamondcomputacion.com.ar/teclado-logitech-k120/p",
-   "marca": "Logitech",
-   "categorias": [
-    "Perifericos",
-    "Teclados"
-   ],
-   "descripcion": "El Teclado Logitech K120 USB está pensado para escritura, estudio, trabajo o gaming, según el formato y las funciones de esta versión. Su sistema de teclas acompaña el uso diario con una respuesta cómoda para documentos, navegación y tareas de oficina. Este teclado, de aspecto atractivo y robusto, es de simple funcionamiento: Basta con conectarlo al puerto USB de la computadora, portátil o netbook, y ya se puede empezar a usar El diseño de Logitech mantiene una presentación coherente con la línea y facilita integrarlo a distintos tipos de setups.",
-   "caracteristicas": {
-    "IVA": "10.5%",
-    "Inalámbrico": "No",
-    "Color del teclado": "Negro",
-    "Color de la retroiluminación": "No",
-    "Tipo de conector": "USB",
-    "Peso": "550 g",
-    "Dimensiones": "155 x 450 x 23.5 mm",
-    "Largo del Cable": "1.5 m",
-    "Tipo de teclado": "Membrana",
-    "Idioma": "Español",
-    "Tamaño": "100%",
-    "Reposa muñecas": "No",
-    "Resistente a salpicaduras": "No",
-    "Antighosting": "No"
-   },
-   "precio_desde": 16200.0,
-   "moneda": "ARS",
-   "disponible": true,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/158765/97855088741_1.jpg?v=638165642071600000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/158766/97855088741_2.jpg?v=639172952742400000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/158767/97855088741_3.jpg?v=639172952742400000"
-   ],
-   "variantes": [
-    {
-     "sku": "97855088741",
-     "opciones": {
-      "stockensucursal": "0"
-     },
-     "precio": 16200.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 1,
-     "url": "https://www.diamondcomputacion.com.ar/teclado-logitech-k120/p?skuId=730"
-    }
-   ]
-  },
-  {
    "titulo": "Pendrive ADATA UV240",
    "url": "https://www.diamondcomputacion.com.ar/pendrive-adata-uv240/p",
    "marca": "Adata",
@@ -1386,53 +1384,147 @@
    ]
   },
   {
-   "titulo": "Impresora multifunción Epson EcoTank L3350 WiFi",
-   "url": "https://www.diamondcomputacion.com.ar/impresora-multifunci-n-epson-ecotank-l3350-wifi/p",
-   "marca": "Epson",
+   "titulo": "Filamento Elegoo PLA+ Rápido 1.75mm 1kg",
+   "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p",
+   "marca": "Elegoo",
    "categorias": [
-    "Impresoras",
-    "Sistema continuo"
+    "Insumos Impresión 3D",
+    "Filamentos"
    ],
-   "descripcion": "El Impresora multifunción Epson EcoTank L3350 WiFi es un producto impresora orientada a hogar, oficina y estudio, con funciones acordes al modelo y sistema de tinta de fácil reposición.",
+   "descripcion": "El filamento Elegoo PLA+ Rápido pertenece a la línea Rapid PLA Plus, desarrollada para impresión 3D a alta velocidad. Es una familia distinta del PLA+ estándar.\n\nLa presentación contiene 1 kg de filamento de 1.75 mm de diámetro. Utilizá un perfil para Rapid PLA+ y ajustá las condiciones de impresión según el equipo y la pieza.",
    "caracteristicas": {
-    "Tecnología": "Inyección de tinta / MicroPiezo / 4 colores (CMYK)",
-    "Resolución": "5760 × 1440 dpi",
-    "Velocidad ISO": "11,0 ISO ppm (negro), 6,0 ISO ppm (color)",
-    "stockensucursal": "0",
-    "IVA": "21%",
-    "Sistemas": "Windows ® 11 (64 bits) o posterior, Windows ® 10 (32/64 bits), Windows ® 8.1 (32/64 bits), Windows ® 7 (32/64 bits), Mac ® OS X ® 10.9.5 o posterior, macOS ® 11 o posterior, ChromeOS™",
-    "Dimensiones": "-Impresión: 36.068 × 56.388 × 20.574 / 361 × 564 × 206 mm -Almacenamiento: 36.068 × 31.75 × 16.256 / 361 × 317 × 162 mm",
-    "Peso": "Peso: 9 lb / 4,1 kg",
-    "Tamaño maximo": "21.59 × 27.94 (A4/Carta)",
-    "Tipo": "Cama plana / sensor CIS color",
-    "Resolución Óptica": "1200 × 2400 dpi",
-    "Profundidad bit de color": "Entrada: 48 bits color / Salida: 24 bits color (RGB tota",
-    "Superficie de Digitalización": "21.59 × 29.718",
-    "Tamaños": "Papel común (Carta, 21.59 × 35.56, A4), Papel fotográfico (10.16 × 15.24, 12.7 × 17.78, 20.32 × 25.4, Carta, A4)",
-    "Tamaño Máximo": "21.59 × 35.56",
-    "Tipos": "Papel común, papel blanco brillante, papel fotográfico brillante, papel fotográfico premium brillante, papel fotográfico premium semibrillante, papel fotográfico ultra premium brillante, papel de presentación mate, papel de presentación premium mate, papel de presentación premium mate doble faz, sobres",
-    "Capacidad": "Alimentación trasera: 100 hojas de papel común, 20 hojas de papel fotográfico, 10 sobres",
-    "Software Incluido": "Controlador de impresora Epson, Epson Scan 2, Epson ScanSmart®, Epson Photo+",
-    "Voltaje Nominal": "CA 100 V – 240 V universal (automático)",
-    "Frecuencia Nominal": "50 Hz – 60 Hz",
-    "Consumo de Energía": "Aprox. 12 W ISO 24712 (impresión independiente)"
+    "Material": "PLA+",
+    "Diámetro (mm)": "1.75",
+    "Peso neto (kg)": "1",
+    "Temperatura de extrusión recomendada": "200 - 230 °C (recomendado 220 °C)",
+    "Temperatura de cama recomendada": "40 - 60 °C",
+    "IVA": "21%"
    },
-   "precio_desde": 596900.0,
+   "precio_desde": 26000.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/169245/198390011611_1.jpg?v=639256176370030000"
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/169216/6976021764266_1.png?v=639251804966100000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/169158/6976021764280_1.jpg?v=639247491851330000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/170008/sku3579foto01.png?v=639306074958830000"
    ],
    "variantes": [
     {
-     "sku": "198390011611",
-     "opciones": {},
-     "precio": 596900.0,
+     "sku": "6976021764266",
+     "opciones": {
+      "Color": "Blanco",
+      "stockensucursal": "0"
+     },
+     "precio": 26000.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p?skuId=3314"
+    },
+    {
+     "sku": "6976021764280",
+     "opciones": {
+      "Color": "Negro",
+      "stockensucursal": "1"
+     },
+     "precio": 26000.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p?skuId=3323"
+    },
+    {
+     "sku": "502030121",
+     "opciones": {
+      "Color": "Amarillo",
+      "stockensucursal": "0"
+     },
+     "precio": 26000.0,
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
      "stock": 10,
-     "url": "https://www.diamondcomputacion.com.ar/impresora-multifunci-n-epson-ecotank-l3350-wifi/p?skuId=3206"
+     "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p?skuId=3579"
+    },
+    {
+     "sku": "502030117",
+     "opciones": {
+      "Color": "Azul",
+      "stockensucursal": "0"
+     },
+     "precio": 26000.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 10,
+     "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p?skuId=3580"
+    },
+    {
+     "sku": "502030116",
+     "opciones": {
+      "Color": "Gris",
+      "stockensucursal": "0"
+     },
+     "precio": 26000.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 10,
+     "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p?skuId=3581"
+    },
+    {
+     "sku": "502030120",
+     "opciones": {
+      "Color": "Naranja",
+      "stockensucursal": "0"
+     },
+     "precio": 26000.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 10,
+     "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p?skuId=3582"
+    },
+    {
+     "sku": "502030165",
+     "opciones": {
+      "Color": "Plata",
+      "stockensucursal": "0"
+     },
+     "precio": 26000.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 10,
+     "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p?skuId=3583"
+    },
+    {
+     "sku": "502030119",
+     "opciones": {
+      "Color": "Rojo",
+      "stockensucursal": "0"
+     },
+     "precio": 26000.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 10,
+     "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p?skuId=3584"
+    },
+    {
+     "sku": "502030118",
+     "opciones": {
+      "Color": "Verde",
+      "stockensucursal": "0"
+     },
+     "precio": 26000.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 10,
+     "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p?skuId=3585"
     }
    ]
   },
@@ -2591,40 +2683,6 @@
    ]
   },
   {
-   "titulo": "Cable SATA",
-   "url": "https://www.diamondcomputacion.com.ar/cable-de-datos-sata/p",
-   "marca": "Genérico",
-   "categorias": [
-    "Conectividad",
-    "Cables"
-   ],
-   "descripcion": "El Cable Sata permite transmitir señal, datos o energía entre dispositivos compatibles mediante conexiones del tipo indicado. Este cable resulta útil para conectar computadoras, monitores, televisores, periféricos, cargadores o equipos de red según la interfaz del modelo. Su construcción está pensada para instalaciones domésticas, oficinas y puestos de trabajo donde se necesita una conexión directa, ordenada y estable. Una alternativa funcional para completar una instalación y aprovechar las características específicas de este modelo en el uso cotidiano.",
-   "caracteristicas": {
-    "IVA": "21%"
-   },
-   "precio_desde": 1500.0,
-   "moneda": "ARS",
-   "disponible": true,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/158917/3124_1.jpg?v=638170954470830000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/158918/3124_2.jpg?v=638170954583700000"
-   ],
-   "variantes": [
-    {
-     "sku": "3124",
-     "opciones": {
-      "stockensucursal": "0"
-     },
-     "precio": 1500.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 99999,
-     "url": "https://www.diamondcomputacion.com.ar/cable-de-datos-sata/p?skuId=763"
-    }
-   ]
-  },
-  {
    "titulo": "Placa de red TP-Link TL-WN722N USB WiFi",
    "url": "https://www.diamondcomputacion.com.ar/placa-de-red-wifi-usb-tplink-tlwn722n/p",
    "marca": "TP Link",
@@ -2881,45 +2939,6 @@
    ]
   },
   {
-   "titulo": "Mouse Vertical Netmak NM-ERGO Inalámbrico",
-   "url": "https://www.diamondcomputacion.com.ar/mouse-vertical-netmak-nm-ergo-inalambrico/p",
-   "marca": "Netmak",
-   "categorias": [
-    "Perifericos",
-    "Mouse"
-   ],
-   "descripcion": "El Netmak NM-ERGO es un mouse vertical inalámbrico para uso en computadora. La comunicación con el equipo se realiza mediante un receptor USB de 2.4 GHz.\n\nCuenta con batería recargable por USB-C, apagado automático para ahorro de energía e iluminación LED azul en su parte inferior.",
-   "caracteristicas": {
-    "Tipo de mouse": "Oficina",
-    "Inalámbrico": "Sí",
-    "Iluminación": "LED azul",
-    "Resolución": "Hasta 1600 DPI",
-    "IVA": "10.5%",
-    "Forma": "Vertical ergonómica",
-    "Cantidad de botones": "6"
-   },
-   "precio_desde": 17300.0,
-   "moneda": "ARS",
-   "disponible": true,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/169582/3012578_1.jpg?v=639277641675600000"
-   ],
-   "variantes": [
-    {
-     "sku": "3012578",
-     "opciones": {
-      "stockensucursal": "0"
-     },
-     "precio": 17300.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 10,
-     "url": "https://www.diamondcomputacion.com.ar/mouse-vertical-netmak-nm-ergo-inalambrico/p?skuId=3425"
-    }
-   ]
-  },
-  {
    "titulo": "Cinta GTC ERC-18",
    "url": "https://www.diamondcomputacion.com.ar/cinta-gtc-erc-18/p",
    "marca": "GTC",
@@ -2948,151 +2967,6 @@
      "preorden": false,
      "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/cinta-gtc-erc-18/p?skuId=3412"
-    }
-   ]
-  },
-  {
-   "titulo": "Filamento Elegoo PLA+ Rápido 1.75mm 1kg",
-   "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p",
-   "marca": "Elegoo",
-   "categorias": [
-    "Insumos Impresión 3D",
-    "Filamentos"
-   ],
-   "descripcion": "El filamento Elegoo PLA+ Rápido pertenece a la línea Rapid PLA Plus, desarrollada para impresión 3D a alta velocidad. Es una familia distinta del PLA+ estándar.\n\nLa presentación contiene 1 kg de filamento de 1.75 mm de diámetro. Utilizá un perfil para Rapid PLA+ y ajustá las condiciones de impresión según el equipo y la pieza.",
-   "caracteristicas": {
-    "Material": "PLA+",
-    "Diámetro (mm)": "1.75",
-    "Peso neto (kg)": "1",
-    "Temperatura de extrusión recomendada": "200 - 230 °C (recomendado 220 °C)",
-    "Temperatura de cama recomendada": "40 - 60 °C",
-    "IVA": "21%"
-   },
-   "precio_desde": 26000.0,
-   "moneda": "ARS",
-   "disponible": true,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/169216/6976021764266_1.png?v=639251804966100000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/169158/6976021764280_1.jpg?v=639247491851330000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/170008/sku3579foto01.png?v=639306074958830000"
-   ],
-   "variantes": [
-    {
-     "sku": "6976021764266",
-     "opciones": {
-      "Color": "Blanco",
-      "stockensucursal": "0"
-     },
-     "precio": 26000.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 1,
-     "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p?skuId=3314"
-    },
-    {
-     "sku": "6976021764280",
-     "opciones": {
-      "Color": "Negro",
-      "stockensucursal": "1"
-     },
-     "precio": 26000.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 1,
-     "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p?skuId=3323"
-    },
-    {
-     "sku": "502030121",
-     "opciones": {
-      "Color": "Amarillo",
-      "stockensucursal": "0"
-     },
-     "precio": 26000.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 10,
-     "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p?skuId=3579"
-    },
-    {
-     "sku": "502030117",
-     "opciones": {
-      "Color": "Azul",
-      "stockensucursal": "0"
-     },
-     "precio": 26000.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 10,
-     "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p?skuId=3580"
-    },
-    {
-     "sku": "502030116",
-     "opciones": {
-      "Color": "Gris",
-      "stockensucursal": "0"
-     },
-     "precio": 26000.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 10,
-     "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p?skuId=3581"
-    },
-    {
-     "sku": "502030120",
-     "opciones": {
-      "Color": "Naranja",
-      "stockensucursal": "0"
-     },
-     "precio": 26000.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 10,
-     "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p?skuId=3582"
-    },
-    {
-     "sku": "502030165",
-     "opciones": {
-      "Color": "Plata",
-      "stockensucursal": "0"
-     },
-     "precio": 26000.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 10,
-     "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p?skuId=3583"
-    },
-    {
-     "sku": "502030119",
-     "opciones": {
-      "Color": "Rojo",
-      "stockensucursal": "0"
-     },
-     "precio": 26000.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 10,
-     "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p?skuId=3584"
-    },
-    {
-     "sku": "502030118",
-     "opciones": {
-      "Color": "Verde",
-      "stockensucursal": "0"
-     },
-     "precio": 26000.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 10,
-     "url": "https://www.diamondcomputacion.com.ar/filamento-elegoo-pla-plus-rapido-1-75mm-1kg/p?skuId=3585"
     }
    ]
   },
@@ -4292,6 +4166,102 @@
      "preorden": false,
      "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/ssd-hiksemi-wave-m-2-nvme/p?skuId=1133"
+    }
+   ]
+  },
+  {
+   "titulo": "Memoria RAM DDR4 3200MHz Hiksemi Hiker",
+   "url": "https://www.diamondcomputacion.com.ar/memoria-ram-ddr4-3200mhz-hiksemi-hiker/p",
+   "marca": "Hiksemi",
+   "categorias": [
+    "Componentes de PC",
+    "Memorias Ram",
+    "PC"
+   ],
+   "descripcion": "La Memoria RAM 16GB DDR4 3200MHZ Hiksemi Hiker permite ampliar o reemplazar la memoria de una PC de escritorio compatible. RAM 16GB DDR4 3200MHZ HIKSEMI HIKER. Memoria RAM de alto rendimiento, perfecta para gaming, edición y tareas exigentes. Este producto mantiene las características identificadas en el nombre exacto del modelo. Resulta adecuado para usuarios que necesitan incorporar, reemplazar o ampliar un componente sin sumar funciones que no estén confirmadas. Antes de instalarlo o utilizarlo, conviene verificar medidas, conexiones, alimentación y compatibilidad con el resto del equipo.",
+   "caracteristicas": {
+    "Marca": "Hiksemi",
+    "Modelo": "Hiker",
+    "IVA": "10.5",
+    "Tipo": "DDR4",
+    "Velocidad": "3200MHZ",
+    "RGB": "No"
+   },
+   "precio_desde": 154300.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/163926/ram3_1000.jpg?v=638911189276930000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/163927/ram2_1000.jpg?v=638911189277100000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/163928/ram4_1000.jpg?v=638911189277230000"
+   ],
+   "variantes": [
+    {
+     "sku": "6974202727215",
+     "opciones": {
+      "Capacidad": "8GB",
+      "stockensucursal": "0"
+     },
+     "precio": 154300.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 10,
+     "url": "https://www.diamondcomputacion.com.ar/memoria-ram-ddr4-3200mhz-hiksemi-hiker/p?skuId=1377"
+    },
+    {
+     "sku": "2049120491",
+     "opciones": {
+      "Capacidad": "16GB",
+      "stockensucursal": "0"
+     },
+     "precio": 281500.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 10,
+     "url": "https://www.diamondcomputacion.com.ar/memoria-ram-ddr4-3200mhz-hiksemi-hiker/p?skuId=1424"
+    }
+   ]
+  },
+  {
+   "titulo": "Teclado Redragon Mitra K551 Mecánico RGB",
+   "url": "https://www.diamondcomputacion.com.ar/teclado-redragon-mitra-k551-rgb/p",
+   "marca": "Redragon",
+   "categorias": [
+    "Perifericos",
+    "Teclados"
+   ],
+   "descripcion": "El Teclado Mecánico Redragon Mitra K551 RGB está pensado para escritura, estudio, trabajo o gaming, según el formato y las funciones de esta versión. Su sistema mecánico ofrece una pulsación definida y una respuesta directa al escribir o jugar. La iluminación RGB o Rainbow aporta visibilidad y una estética gaming acorde al modelo. La propuesta combina funcionalidad, comodidad y una presentación adecuada para el uso cotidiano. Su formato permite incorporarlo con facilidad a escritorios domésticos, oficinas y espacios de entretenimiento.",
+   "caracteristicas": {
+    "Tipo de switch": "Red",
+    "IVA": "10.5%",
+    "Inalámbrico": "No",
+    "Color del teclado": "Negro",
+    "Color de la retroiluminación": "RGB",
+    "Tipo de teclado": "Mecánico",
+    "Idioma": "Español",
+    "Tamaño": "100%",
+    "Reposa muñecas": "No"
+   },
+   "precio_desde": 73000.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/161500/202004_1.png?v=638700509901770000"
+   ],
+   "variantes": [
+    {
+     "sku": "202004",
+     "opciones": {
+      "stockensucursal": "0"
+     },
+     "precio": 73000.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://www.diamondcomputacion.com.ar/teclado-redragon-mitra-k551-rgb/p?skuId=1348"
     }
    ]
   },
@@ -9040,7 +9010,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 1,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/notebook-lenovo-thinkbook-16-intel-core-5-210h-8gb-512gb/p?skuId=3515"
     }
    ]
@@ -9291,7 +9261,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/auricular-t-dagger-sona-t-rgh304w-white/p?skuId=3507"
     }
    ]
@@ -11829,6 +11799,45 @@
    ]
   },
   {
+   "titulo": "Mouse Vertical Netmak NM-ERGO Inalámbrico",
+   "url": "https://www.diamondcomputacion.com.ar/mouse-vertical-netmak-nm-ergo-inalambrico/p",
+   "marca": "Netmak",
+   "categorias": [
+    "Perifericos",
+    "Mouse"
+   ],
+   "descripcion": "El Netmak NM-ERGO es un mouse vertical inalámbrico para uso en computadora. La comunicación con el equipo se realiza mediante un receptor USB de 2.4 GHz.\n\nCuenta con batería recargable por USB-C, apagado automático para ahorro de energía e iluminación LED azul en su parte inferior.",
+   "caracteristicas": {
+    "Tipo de mouse": "Oficina",
+    "Inalámbrico": "Sí",
+    "Iluminación": "LED azul",
+    "Resolución": "Hasta 1600 DPI",
+    "IVA": "10.5%",
+    "Forma": "Vertical ergonómica",
+    "Cantidad de botones": "6"
+   },
+   "precio_desde": 17300.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/169582/3012578_1.jpg?v=639277641675600000"
+   ],
+   "variantes": [
+    {
+     "sku": "3012578",
+     "opciones": {
+      "stockensucursal": "0"
+     },
+     "precio": 17300.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 10,
+     "url": "https://www.diamondcomputacion.com.ar/mouse-vertical-netmak-nm-ergo-inalambrico/p?skuId=3425"
+    }
+   ]
+  },
+  {
    "titulo": "Tinta GTC 1 litro",
    "url": "https://www.diamondcomputacion.com.ar/tinta-gtc-1-litro/p",
    "marca": "GTC",
@@ -13907,7 +13916,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/impresora-canon-pixma-g3110-multifuncion-sistema-continuo/p?skuId=3351"
     }
    ]
@@ -17597,6 +17606,57 @@
    ]
   },
   {
+   "titulo": "Impresora multifunción Epson EcoTank L3350 WiFi",
+   "url": "https://www.diamondcomputacion.com.ar/impresora-multifunci-n-epson-ecotank-l3350-wifi/p",
+   "marca": "Epson",
+   "categorias": [
+    "Impresoras",
+    "Sistema continuo"
+   ],
+   "descripcion": "El Impresora multifunción Epson EcoTank L3350 WiFi es un producto impresora orientada a hogar, oficina y estudio, con funciones acordes al modelo y sistema de tinta de fácil reposición.",
+   "caracteristicas": {
+    "Tecnología": "Inyección de tinta / MicroPiezo / 4 colores (CMYK)",
+    "Resolución": "5760 × 1440 dpi",
+    "Velocidad ISO": "11,0 ISO ppm (negro), 6,0 ISO ppm (color)",
+    "stockensucursal": "0",
+    "IVA": "21%",
+    "Sistemas": "Windows ® 11 (64 bits) o posterior, Windows ® 10 (32/64 bits), Windows ® 8.1 (32/64 bits), Windows ® 7 (32/64 bits), Mac ® OS X ® 10.9.5 o posterior, macOS ® 11 o posterior, ChromeOS™",
+    "Dimensiones": "-Impresión: 36.068 × 56.388 × 20.574 / 361 × 564 × 206 mm -Almacenamiento: 36.068 × 31.75 × 16.256 / 361 × 317 × 162 mm",
+    "Peso": "Peso: 9 lb / 4,1 kg",
+    "Tamaño maximo": "21.59 × 27.94 (A4/Carta)",
+    "Tipo": "Cama plana / sensor CIS color",
+    "Resolución Óptica": "1200 × 2400 dpi",
+    "Profundidad bit de color": "Entrada: 48 bits color / Salida: 24 bits color (RGB tota",
+    "Superficie de Digitalización": "21.59 × 29.718",
+    "Tamaños": "Papel común (Carta, 21.59 × 35.56, A4), Papel fotográfico (10.16 × 15.24, 12.7 × 17.78, 20.32 × 25.4, Carta, A4)",
+    "Tamaño Máximo": "21.59 × 35.56",
+    "Tipos": "Papel común, papel blanco brillante, papel fotográfico brillante, papel fotográfico premium brillante, papel fotográfico premium semibrillante, papel fotográfico ultra premium brillante, papel de presentación mate, papel de presentación premium mate, papel de presentación premium mate doble faz, sobres",
+    "Capacidad": "Alimentación trasera: 100 hojas de papel común, 20 hojas de papel fotográfico, 10 sobres",
+    "Software Incluido": "Controlador de impresora Epson, Epson Scan 2, Epson ScanSmart®, Epson Photo+",
+    "Voltaje Nominal": "CA 100 V – 240 V universal (automático)",
+    "Frecuencia Nominal": "50 Hz – 60 Hz",
+    "Consumo de Energía": "Aprox. 12 W ISO 24712 (impresión independiente)"
+   },
+   "precio_desde": 596900.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/169245/198390011611_1.jpg?v=639256176370030000"
+   ],
+   "variantes": [
+    {
+     "sku": "198390011611",
+     "opciones": {},
+     "precio": 596900.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 10,
+     "url": "https://www.diamondcomputacion.com.ar/impresora-multifunci-n-epson-ecotank-l3350-wifi/p?skuId=3206"
+    }
+   ]
+  },
+  {
    "titulo": "Lector de código de barras y QR USB Netmak NM-LC308",
    "url": "https://www.diamondcomputacion.com.ar/lector-de-c-digo-de-barras-y-qr-usb-netmak-nm-lc308/p",
    "marca": "Netmak",
@@ -18634,52 +18694,6 @@
      "preorden": false,
      "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/notebook-gfast-ryzen-8gb-240gb-ssd-15-6/p?skuId=3156"
-    }
-   ]
-  },
-  {
-   "titulo": "Notebook Gfast N-154 Intel Celeron N4020 4GB 120GB SSD 14\"",
-   "url": "https://www.diamondcomputacion.com.ar/notebook-gfast-n-154-intel-celeron-n4020-4gb-120gb-ssd-14/p",
-   "marca": "Gfast",
-   "categorias": [
-    "Notebooks",
-    "Intel"
-   ],
-   "descripcion": "La Notebook Gfast N-154 incorpora procesador Intel Celeron N4020, 4GB de memoria RAM y SSD de 120GB. Es una alternativa accesible para navegación, estudio, ofimática y tareas cotidianas, con Windows 11 y pantalla de 14 pulgadas.",
-   "caracteristicas": {
-    "Tamaño": "14 pulgadas",
-    "IVA": "10.5%",
-    "stockensucursal": "0",
-    "Capacidad SSD": "120GB",
-    "Capacidad": "4GB",
-    "Tipo": "DDR4",
-    "Marca Procesador": "Intel",
-    "Modelo": "Celeron N4020",
-    "Integrados": "Sí",
-    "HDMI": "1",
-    "USB Tipo A": "2",
-    "Tarjeta SD": "1",
-    "Jack 3.5mm": "1",
-    "Wifi": "Sí",
-    "Bluetooth": "No",
-    "Cámara Web": "Sí"
-   },
-   "precio_desde": 509800.0,
-   "moneda": "ARS",
-   "disponible": true,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/168643/756058670855_1.jpg?v=639199151430470000"
-   ],
-   "variantes": [
-    {
-     "sku": "756058670855",
-     "opciones": {},
-     "precio": 509800.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 10,
-     "url": "https://www.diamondcomputacion.com.ar/notebook-gfast-n-154-intel-celeron-n4020-4gb-120gb-ssd-14/p?skuId=3149"
     }
    ]
   },
@@ -20345,7 +20359,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/hub-usb-c-netmak-nm-hubc-4-puertos-usb-2-0/p?skuId=3069"
     }
    ]
@@ -22936,7 +22950,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/auricular-jbl-quantum-250/p?skuId=2932"
     },
     {
@@ -39263,7 +39277,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/webcam-genius-qcam-6000-1080p-360º/p?skuId=2129"
     }
    ]
@@ -49882,61 +49896,6 @@
    ]
   },
   {
-   "titulo": "Memoria RAM DDR4 3200MHz Hiksemi Hiker",
-   "url": "https://www.diamondcomputacion.com.ar/memoria-ram-ddr4-3200mhz-hiksemi-hiker/p",
-   "marca": "Hiksemi",
-   "categorias": [
-    "Componentes de PC",
-    "Memorias Ram",
-    "PC"
-   ],
-   "descripcion": "La Memoria RAM 16GB DDR4 3200MHZ Hiksemi Hiker permite ampliar o reemplazar la memoria de una PC de escritorio compatible. RAM 16GB DDR4 3200MHZ HIKSEMI HIKER. Memoria RAM de alto rendimiento, perfecta para gaming, edición y tareas exigentes. Este producto mantiene las características identificadas en el nombre exacto del modelo. Resulta adecuado para usuarios que necesitan incorporar, reemplazar o ampliar un componente sin sumar funciones que no estén confirmadas. Antes de instalarlo o utilizarlo, conviene verificar medidas, conexiones, alimentación y compatibilidad con el resto del equipo.",
-   "caracteristicas": {
-    "Marca": "Hiksemi",
-    "Modelo": "Hiker",
-    "IVA": "10.5",
-    "Tipo": "DDR4",
-    "Velocidad": "3200MHZ",
-    "RGB": "No"
-   },
-   "precio_desde": 154300.0,
-   "moneda": "ARS",
-   "disponible": true,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/163926/ram3_1000.jpg?v=638911189276930000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/163927/ram2_1000.jpg?v=638911189277100000",
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/163928/ram4_1000.jpg?v=638911189277230000"
-   ],
-   "variantes": [
-    {
-     "sku": "6974202727215",
-     "opciones": {
-      "Capacidad": "8GB",
-      "stockensucursal": "0"
-     },
-     "precio": 154300.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 10,
-     "url": "https://www.diamondcomputacion.com.ar/memoria-ram-ddr4-3200mhz-hiksemi-hiker/p?skuId=1377"
-    },
-    {
-     "sku": "2049120491",
-     "opciones": {
-      "Capacidad": "16GB",
-      "stockensucursal": "0"
-     },
-     "precio": 281500.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 10,
-     "url": "https://www.diamondcomputacion.com.ar/memoria-ram-ddr4-3200mhz-hiksemi-hiker/p?skuId=1424"
-    }
-   ]
-  },
-  {
    "titulo": "Memoria RAM 16GB DDR4 3600MHz Kingston Fury Beast",
    "url": "https://www.diamondcomputacion.com.ar/ram-16gb-ddr4-3600mhz-kingston-fury-beast/p",
    "marca": "Kingston",
@@ -50928,47 +50887,6 @@
      "preorden": false,
      "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/auricular-redragon-h260-hylas-rgb/p?skuId=1175"
-    }
-   ]
-  },
-  {
-   "titulo": "Teclado Redragon Mitra K551 Mecánico RGB",
-   "url": "https://www.diamondcomputacion.com.ar/teclado-redragon-mitra-k551-rgb/p",
-   "marca": "Redragon",
-   "categorias": [
-    "Perifericos",
-    "Teclados"
-   ],
-   "descripcion": "El Teclado Mecánico Redragon Mitra K551 RGB está pensado para escritura, estudio, trabajo o gaming, según el formato y las funciones de esta versión. Su sistema mecánico ofrece una pulsación definida y una respuesta directa al escribir o jugar. La iluminación RGB o Rainbow aporta visibilidad y una estética gaming acorde al modelo. La propuesta combina funcionalidad, comodidad y una presentación adecuada para el uso cotidiano. Su formato permite incorporarlo con facilidad a escritorios domésticos, oficinas y espacios de entretenimiento.",
-   "caracteristicas": {
-    "Tipo de switch": "Red",
-    "IVA": "10.5%",
-    "Inalámbrico": "No",
-    "Color del teclado": "Negro",
-    "Color de la retroiluminación": "RGB",
-    "Tipo de teclado": "Mecánico",
-    "Idioma": "Español",
-    "Tamaño": "100%",
-    "Reposa muñecas": "No"
-   },
-   "precio_desde": 73000.0,
-   "moneda": "ARS",
-   "disponible": true,
-   "imagenes": [
-    "https://diamondsystemar.vteximg.com.br/arquivos/ids/161500/202004_1.png?v=638700509901770000"
-   ],
-   "variantes": [
-    {
-     "sku": "202004",
-     "opciones": {
-      "stockensucursal": "0"
-     },
-     "precio": 73000.0,
-     "precio_anterior": null,
-     "disponible": true,
-     "preorden": false,
-     "stock": 1,
-     "url": "https://www.diamondcomputacion.com.ar/teclado-redragon-mitra-k551-rgb/p?skuId=1348"
     }
    ]
   },
@@ -54659,7 +54577,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/soporte-notebook-base-plegable/p?skuId=1072"
     }
    ]
@@ -57538,6 +57456,40 @@
    ]
   },
   {
+   "titulo": "Cable SATA",
+   "url": "https://www.diamondcomputacion.com.ar/cable-de-datos-sata/p",
+   "marca": "Genérico",
+   "categorias": [
+    "Conectividad",
+    "Cables"
+   ],
+   "descripcion": "El Cable Sata permite transmitir señal, datos o energía entre dispositivos compatibles mediante conexiones del tipo indicado. Este cable resulta útil para conectar computadoras, monitores, televisores, periféricos, cargadores o equipos de red según la interfaz del modelo. Su construcción está pensada para instalaciones domésticas, oficinas y puestos de trabajo donde se necesita una conexión directa, ordenada y estable. Una alternativa funcional para completar una instalación y aprovechar las características específicas de este modelo en el uso cotidiano.",
+   "caracteristicas": {
+    "IVA": "21%"
+   },
+   "precio_desde": 1500.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/158917/3124_1.jpg?v=638170954470830000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/158918/3124_2.jpg?v=638170954583700000"
+   ],
+   "variantes": [
+    {
+     "sku": "3124",
+     "opciones": {
+      "stockensucursal": "0"
+     },
+     "precio": 1500.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 99999,
+     "url": "https://www.diamondcomputacion.com.ar/cable-de-datos-sata/p?skuId=763"
+    }
+   ]
+  },
+  {
    "titulo": "Cable Alimentación 220V",
    "url": "https://www.diamondcomputacion.com.ar/cable-de-alimentacion-220v/p",
    "marca": "Genérico",
@@ -57720,6 +57672,54 @@
      "preorden": false,
      "stock": 1,
      "url": "https://www.diamondcomputacion.com.ar/teclado-y-mouse-genius-km200/p?skuId=731"
+    }
+   ]
+  },
+  {
+   "titulo": "Teclado Logitech K120 USB",
+   "url": "https://www.diamondcomputacion.com.ar/teclado-logitech-k120/p",
+   "marca": "Logitech",
+   "categorias": [
+    "Perifericos",
+    "Teclados"
+   ],
+   "descripcion": "El Teclado Logitech K120 USB está pensado para escritura, estudio, trabajo o gaming, según el formato y las funciones de esta versión. Su sistema de teclas acompaña el uso diario con una respuesta cómoda para documentos, navegación y tareas de oficina. Este teclado, de aspecto atractivo y robusto, es de simple funcionamiento: Basta con conectarlo al puerto USB de la computadora, portátil o netbook, y ya se puede empezar a usar El diseño de Logitech mantiene una presentación coherente con la línea y facilita integrarlo a distintos tipos de setups.",
+   "caracteristicas": {
+    "IVA": "10.5%",
+    "Inalámbrico": "No",
+    "Color del teclado": "Negro",
+    "Color de la retroiluminación": "No",
+    "Tipo de conector": "USB",
+    "Peso": "550 g",
+    "Dimensiones": "155 x 450 x 23.5 mm",
+    "Largo del Cable": "1.5 m",
+    "Tipo de teclado": "Membrana",
+    "Idioma": "Español",
+    "Tamaño": "100%",
+    "Reposa muñecas": "No",
+    "Resistente a salpicaduras": "No",
+    "Antighosting": "No"
+   },
+   "precio_desde": 16200.0,
+   "moneda": "ARS",
+   "disponible": true,
+   "imagenes": [
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/158765/97855088741_1.jpg?v=638165642071600000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/158766/97855088741_2.jpg?v=639172952742400000",
+    "https://diamondsystemar.vteximg.com.br/arquivos/ids/158767/97855088741_3.jpg?v=639172952742400000"
+   ],
+   "variantes": [
+    {
+     "sku": "97855088741",
+     "opciones": {
+      "stockensucursal": "0"
+     },
+     "precio": 16200.0,
+     "precio_anterior": null,
+     "disponible": true,
+     "preorden": false,
+     "stock": 1,
+     "url": "https://www.diamondcomputacion.com.ar/teclado-logitech-k120/p?skuId=730"
     }
    ]
   },
@@ -59107,7 +59107,7 @@
     "Cantidad de botones": "3",
     "Peso": "85 g"
    },
-   "precio_desde": 6100.0,
+   "precio_desde": 5700.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -59161,7 +59161,7 @@
       "Color": "Negro",
       "stockensucursal": "0"
      },
-     "precio": 6100.0,
+     "precio": 5700.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -59720,7 +59720,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/adaptador-hdmi-a-microhdmi/p?skuId=578"
     }
    ]
