@@ -1,7 +1,7 @@
 {
  "tienda": "Diamond Computacion",
  "url": "https://www.diamondcomputacion.com.ar",
- "generado": "2026-11-28T01:38:47+00:00",
+ "generado": "2026-11-28T03:15:23+00:00",
  "total": 1385,
  "productos": [
   {
@@ -2473,7 +2473,7 @@
       "Capacidad": "2TB",
       "stockensucursal": "0"
      },
-     "precio": 629900.0,
+     "precio": 670500.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -9261,7 +9261,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/auricular-t-dagger-sona-t-rgh304w-white/p?skuId=3507"
     }
    ]
@@ -9351,7 +9351,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/impresora-epson-ecotank-l3352-wifi-multifuncion/p?skuId=3504"
     }
    ]
@@ -14845,7 +14845,7 @@
       "Color": "Amarillo",
       "stockensucursal": "0"
      },
-     "precio": 25900.0,
+     "precio": 27600.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -29185,7 +29185,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 100,
+     "stock": 10,
      "url": "https://www.diamondcomputacion.com.ar/procesador-amd-ryzen-9-9950x3d-am5-16n-y-32h-57ghz/p?skuId=2602"
     }
    ]
@@ -31029,7 +31029,7 @@
     "Forma": "Estándar",
     "Cantidad de botones": "6"
    },
-   "precio_desde": 28800.0,
+   "precio_desde": 31200.0,
    "moneda": "ARS",
    "disponible": true,
    "imagenes": [
@@ -31044,7 +31044,7 @@
       "Color": "Negro",
       "stockensucursal": "0"
      },
-     "precio": 28800.0,
+     "precio": 31200.0,
      "precio_anterior": null,
      "disponible": false,
      "preorden": false,
@@ -39277,7 +39277,7 @@
      "precio_anterior": null,
      "disponible": true,
      "preorden": false,
-     "stock": 10,
+     "stock": 100,
      "url": "https://www.diamondcomputacion.com.ar/webcam-genius-qcam-6000-1080p-360º/p?skuId=2129"
     }
    ]

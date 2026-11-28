@@ -1,7 +1,7 @@
 {
  "tienda": "Milgenialuruguay",
  "url": "https://milgenialuruguay.com",
- "generado": "2026-11-28T01:38:21+00:00",
+ "generado": "2026-11-28T03:14:52+00:00",
  "total": 1604,
  "productos": [
   {
@@ -2280,7 +2280,7 @@
      },
      "precio": 990.0,
      "precio_anterior": 1190.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/canilleras-de-futbol-largas?variant=67951835644218"
@@ -14680,7 +14680,7 @@
    },
    "precio_desde": 890.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/vl-1.jpg?v=1731095104",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/antes-despu-s-1x1-1780666458786.jpg?v=1780666555",
@@ -14694,7 +14694,7 @@
      },
      "precio": 890.0,
      "precio_anterior": 990.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/pelicula-adhesiva-de-privacidad-para-ventana?variant=48111382331706"
@@ -18792,7 +18792,7 @@
      },
      "precio": 120.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/pistola-de-agua-de-fuegos-artificiales-tipo-pull?variant=51979156816186"
@@ -30192,7 +30192,7 @@
    "caracteristicas": {},
    "precio_desde": 1690.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/1_40e50ec6-c6b2-4118-b91b-3ed21b69b242.png?v=1789567794",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/2_82fa7b67-2a0b-46de-930c-825247480e8a.jpg?v=1789567794",
@@ -30204,7 +30204,7 @@
      "opciones": {},
      "precio": 1690.0,
      "precio_anterior": 1990.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/estante-organizador-3-niveles-con-canasto-para-ropa?variant=51667215778106"
@@ -41911,7 +41911,7 @@
    },
    "precio_desde": 1290.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/0_56ba9c53-4ef7-4f9b-8c1d-106da0e10e8b.jpg?v=1789391569",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/1_219a1980-c8d3-4de6-b076-53cadd3b7197.jpg?v=1789391569",
@@ -41937,7 +41937,7 @@
      },
      "precio": 1290.0,
      "precio_anterior": 1490.0,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/lampara-circular-magnetica-360-grados-negra?variant=51371906728250"
@@ -67531,7 +67531,7 @@
    "caracteristicas": {},
    "precio_desde": 790.0,
    "moneda": "UYU",
-   "disponible": true,
+   "disponible": false,
    "imagenes": [
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/imgg1c.webp?v=1731082243",
     "https://cdn.shopify.com/s/files/1/0758/3698/1562/files/img3_a3c9c3a5-0cdf-4c63-afb2-8c17a38d6799.webp?v=1731082246",
@@ -67543,7 +67543,7 @@
      "opciones": {},
      "precio": 790.0,
      "precio_anterior": null,
-     "disponible": true,
+     "disponible": false,
      "preorden": false,
      "stock": null,
      "url": "https://milgenialuruguay.com/products/organizador-sofa?variant=45049835618618"
